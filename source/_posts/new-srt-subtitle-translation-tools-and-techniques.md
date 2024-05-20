@@ -1,7 +1,7 @@
 ---
 title: New SRT Subtitle Translation Tools and Techniques
-date: 2024-04-19T06:01:36.279Z
-updated: 2024-04-20T06:01:36.279Z
+date: 2024-05-19T02:27:17.541Z
+updated: 2024-05-20T02:27:17.541Z
 tags: 
   - ai translate video
   - ai generate video
@@ -1832,3 +1832,4 @@ As users navigate the rich array of video translation options on PC, the transfo
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Poco Phone without Any Data Loss</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-hot-40-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Hot 40 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
 </ul></div>
+

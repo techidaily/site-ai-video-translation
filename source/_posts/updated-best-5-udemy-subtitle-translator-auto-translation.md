@@ -1,7 +1,7 @@
 ---
 title: Updated Best 5 Udemy Subtitle Translator (Auto Translation)
-date: 2024-04-19T06:01:06.093Z
-updated: 2024-04-20T06:01:06.093Z
+date: 2024-05-19T02:27:15.864Z
+updated: 2024-05-20T02:27:15.864Z
 tags: 
   - ai translate video
   - ai generate video
@@ -1525,3 +1525,4 @@ Virbo is an AI video generator that provides high-quality videos in specific lan
 <li><a href="https://howto.techidaily.com/why-your-oppo-a79-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo A79 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo Y02T | Dr.fone</u></a></li>
 </ul></div>
+

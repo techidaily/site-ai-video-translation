@@ -1,7 +1,7 @@
 ---
 title: Maximize Yandex Translate in Video Translation and Beyond
-date: 2024-04-19T06:00:48.000Z
-updated: 2024-04-20T06:00:48.000Z
+date: 2024-05-19T02:27:14.993Z
+updated: 2024-05-20T02:27:14.993Z
 tags: 
   - ai translate video
   - ai generate video
@@ -1415,3 +1415,4 @@ With Virbo, language barriers are taken care of. The app opens a lot of doors to
 <li><a href="https://howto.techidaily.com/why-does-my-oneplus-ace-2-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My OnePlus Ace 2 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-realme-gt-5-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Realme GT 5 Pro</u></a></li>
 </ul></div>
+

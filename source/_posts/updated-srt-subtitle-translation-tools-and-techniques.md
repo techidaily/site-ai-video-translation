@@ -1,7 +1,7 @@
 ---
 title: Updated SRT Subtitle Translation Tools and Techniques
-date: 2024-04-19T06:01:36.416Z
-updated: 2024-04-20T06:01:36.416Z
+date: 2024-05-19T02:27:17.549Z
+updated: 2024-05-20T02:27:17.549Z
 tags: 
   - ai translate video
   - ai generate video
@@ -1641,3 +1641,4 @@ Also, Wondershare Virbo has a Video Translator tool that allows you to translate
 <li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-huawei-p60-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Huawei P60 Phones with/without a PC</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 11 Pro | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: In 2024, SRT Subtitle Translation Tools and Techniques
-date: 2024-04-19T06:01:35.868Z
-updated: 2024-04-20T06:01:35.868Z
+date: 2024-05-19T02:27:17.463Z
+updated: 2024-05-20T02:27:17.463Z
 tags: 
   - ai translate video
   - ai generate video
@@ -2012,3 +2012,4 @@ Wondershare Virbo introduces its Video Translate feature, an innovative tool des
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-tecno-phantom-v-fold-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Tecno Phantom V Fold Wont Charge | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-samsung-galaxy-m34-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Samsung Galaxy M34 Devices</u></a></li>
 </ul></div>
+

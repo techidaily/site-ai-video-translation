@@ -1,7 +1,7 @@
 ---
 title: Maximizing Yandex Translate in Video Translation and Beyond
-date: 2024-04-19T06:00:48.137Z
-updated: 2024-04-20T06:00:48.137Z
+date: 2024-05-19T02:27:15.001Z
+updated: 2024-05-20T02:27:15.001Z
 tags: 
   - ai translate video
   - ai generate video
@@ -1515,3 +1515,4 @@ Virbo helps you connect with more people, breaking down language barriers and ga
 <li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-honor-x50-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Honor X50 Screen | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/top-5-samsung-galaxy-s23plus-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Samsung Galaxy S23+ Bypass FRP Tools for PC That Actually Work</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: New SRT Subtitle Translation Tools and Techniques for 2024
-date: 2024-04-19T06:02:46.062Z
-updated: 2024-04-20T06:02:46.062Z
+date: 2024-05-19T02:27:21.565Z
+updated: 2024-05-20T02:27:21.565Z
 tags: 
   - ai translate video
   - ai generate video
@@ -1703,3 +1703,4 @@ To translate video words, you need to use a video-to-text translation tool. In t
 <li><a href="https://ios-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Planning to Use a Pokemon Go Joystick on Apple iPhone 12 Pro? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-21-pro-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from 21 Pro</u></a></li>
 </ul></div>
+
