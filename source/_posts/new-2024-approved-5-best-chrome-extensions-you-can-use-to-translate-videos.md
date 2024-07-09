@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved 5 Best Chrome Extensions You Can Use to Translate Videos
-date: 2024-05-19T02:27:18.669Z
-updated: 2024-05-20T02:27:18.669Z
+date: 2024-07-08T02:42:05.100Z
+updated: 2024-07-09T02:42:05.100Z
 tags: 
   - ai translate video
   - ai generate video
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New 2024 Approved 5 Best Chrome Extensions You Can Use to Translate Videos
 excerpt: This Article Describes New 2024 Approved 5 Best Chrome Extensions You Can Use to Translate Videos
 keywords: best chrome video translator,elevate your content with the best free video translator apps,5 best chrome extensions you can use to translate videos,the best ai translator to translate videos online,chrome video translators top 5 video translation chrome extensions,how to use capcut translate to transform video content,the best translator to translate videos online
-thumbnail: https://www.lifewire.com/thmb/HNtneePKuJeaZXX7qZjEwvmSz6M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flora_and_Son-f6517d3de531487e89f5e0e99192d13f.jpg
+thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0ecbd12c41105ddecee78795.jpg
 ---
 
 ## 5 Best Chrome Extensions You Can Use to Translate Videos
@@ -34,7 +34,7 @@ The feature of **Chrome video translator** proves helpful in breaking language b
 
 Google Chrome extensions are software programs added to the Chrome web browser. They enhance the functionality of the browser with a personalized experience for users. Using extensions normally automates repetitive tasks and boosts productivity. You can find the best **Chrome video translator**to make quick video translations:
 
-### 1\. [iTour Video Translation](https://chrome.google.com/webstore/detail/itour-video-translation/eibnkkenjjeaadmjkngfincfnapgpeao/related)
+### 1\. iTour Video Translation
 
 This Chrome extension can translate the audio from your selected video. It can translate online meetings from Zoom, Google Meet, Canva, and Microsoft Teams. International students use it to detect spoken lectures and turn them into text. To get subtitles played on your computers, you have to set the sound source to a microphone.
 
@@ -51,7 +51,7 @@ This Chrome extension can translate the audio from your selected video. It can t
 | **Total Users** | 40,000+ |
 | **Size**        | 2.36 MB |
 
-### 2\. [Auto Translate for YouTube](https://chrome.google.com/webstore/detail/auto-translate-for-youtub/codommceejgdnbmfednpkhkfnlbepckf)
+### 2\. Auto Translate for YouTube
 
 To activate automatic subtitles, you can use this YouTube subtitle translator Chrome. Some videos on YouTube do not offer subtitles. This extension can not only provide subtitles but also translate them into your desired language. With just one click, users can get automated subtitles of any chosen YouTube video.
 
@@ -68,7 +68,7 @@ To activate automatic subtitles, you can use this YouTube subtitle translator Ch
 | **Total Users** | 70,000+ |
 | **Size**        | 327KB   |
 
-### 3\. [Video CC Translator](https://chrome.google.com/webstore/detail/video-cc-translator/fhbpmacbgklobobcieiaoibpjhdnmcfn/related)
+### 3\. Video CC Translator
 
 Translate closed captions provided by video platforms such as Udemy and YouTube with Video CC Translator. It gives you an option to enable captions of the video. Furthermore, users can choose the font weight and text alignment from several options. It allows you to define the subtitles' font size and opacity with the sliders available.
 
@@ -85,7 +85,7 @@ Translate closed captions provided by video platforms such as Udemy and YouTube 
 | **Total Users** | 10,000+ |
 | **Size**        | 295KB   |
 
-### 4\. [Ultimate Video Translator](https://chrome.google.com/webstore/detail/ultimate-video-translator/bboamecjefgpaemgfpcjeediamdnkklc)
+### 4\. Ultimate Video Translator
 
 Social communication with global listeners gets easier with this **Chrome video translator**. This extension offers YouTube video subtitles and captions. In this regard, you have to choose a language and manually give a prompt to start the process. It lets you share the translated video on Twitter and other streaming platforms.
 
@@ -102,7 +102,7 @@ Social communication with global listeners gets easier with this **Chrome video 
 | **Total Users** | 90,000+ |
 | **Size**        | 328KB   |
 
-### 5\. [Video Translator - Translate Video Online](https://chrome.google.com/webstore/detail/video-translator-translat/ofhkcffhkdhjpnpplihikdpkcpailpnc)
+### 5\. Video Translator - Translate Video Online
 
 Are you looking for an extension to translate videos quickly online? This extension offers AI-powered video translation technology to translate with 99% accuracy. Business owners, content creators, and marketers get benefits from this Chrome translate extension. It is also useful for making instructional and educational videos for international viewers.
 
@@ -780,12 +780,12 @@ Below are some alternatives you can use if Google Translate is unavailable. Thes
 
 ### 1\. Virbo
 
-![Wondershare Virbo ](https://images.wondershare.com/virbo/article/google-translate-a-video-04.jpg)
+![Wondershare Virbo](https://images.wondershare.com/virbo/article/google-translate-a-video-04.jpg)
 
 [Translate Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 
-We previously mentioned [Virbo](https://virbo.wondershare.com/app/video-translate)for burning subtitles on your Video. But you can also use it to translate a video, edit subtitles, create instant dubs/voiceovers, make AI avatar videos and do so much more. It is a great option if you want a host of features to streamline your content creation process besides mere subtitle translation. Virbo is available on all major platforms, such as Online Browsers, PC/Laptop, Android, and iOS devices.
+We previously mentioned [Virbo](https://virbo.wondershare.com/app/video-translate) for burning subtitles on your Video. But you can also use it to translate a video, edit subtitles, create instant dubs/voiceovers, make AI avatar videos and do so much more. It is a great option if you want a host of features to streamline your content creation process besides mere subtitle translation. Virbo is available on all major platforms, such as Online Browsers, PC/Laptop, Android, and iOS devices.
 
 ### 2\. Microsoft Translator
 
@@ -797,7 +797,7 @@ We previously mentioned [Virbo](https://virbo.wondershare.com/app/video-translat
 
 ![SubtitleBee Mainpage](https://images.wondershare.com/virbo/article/google-translate-a-video-06.jpg)
 
-[SubtitleBee](https://subtitlebee.com/)is also a great service to quickly translate and add subtitles to online videos. With a reported accuracy rate of 95%, this service is among some of the most accurate in the market. Moreover, it allows you to customize subtitles, edit and add cool font styles, colors, background details and orientation to create your unique projects. Another great feature is that with SubtitleBee you can add subtitles anywhere on screen. Even on top, if you so want. It also has a supertitles feature as a bonus, which enables you to add head titles on videos.
+[SubtitleBee](https://subtitlebee.com/) is also a great service to quickly translate and add subtitles to online videos. With a reported accuracy rate of 95%, this service is among some of the most accurate in the market. Moreover, it allows you to customize subtitles, edit and add cool font styles, colors, background details and orientation to create your unique projects. Another great feature is that with SubtitleBee you can add subtitles anywhere on screen. Even on top, if you so want. It also has a supertitles feature as a bonus, which enables you to add head titles on videos.
 
 ## Part 4: FAQs about Google Translate Video Audio
 
@@ -857,12 +857,12 @@ Below are some alternatives you can use if Google Translate is unavailable. Thes
 
 ### 1\. Virbo
 
-![Wondershare Virbo ](https://images.wondershare.com/virbo/article/google-translate-a-video-04.jpg)
+![Wondershare Virbo](https://images.wondershare.com/virbo/article/google-translate-a-video-04.jpg)
 
 [Translate Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 
-We previously mentioned [Virbo](https://virbo.wondershare.com/app/video-translate)for burning subtitles on your Video. But you can also use it to translate a video, edit subtitles, create instant dubs/voiceovers, make AI avatar videos and do so much more. It is a great option if you want a host of features to streamline your content creation process besides mere subtitle translation. Virbo is available on all major platforms, such as Online Browsers, PC/Laptop, Android, and iOS devices.
+We previously mentioned [Virbo](https://virbo.wondershare.com/app/video-translate) for burning subtitles on your Video. But you can also use it to translate a video, edit subtitles, create instant dubs/voiceovers, make AI avatar videos and do so much more. It is a great option if you want a host of features to streamline your content creation process besides mere subtitle translation. Virbo is available on all major platforms, such as Online Browsers, PC/Laptop, Android, and iOS devices.
 
 ### 2\. Microsoft Translator
 
@@ -874,7 +874,7 @@ We previously mentioned [Virbo](https://virbo.wondershare.com/app/video-translat
 
 ![SubtitleBee Mainpage](https://images.wondershare.com/virbo/article/google-translate-a-video-06.jpg)
 
-[SubtitleBee](https://subtitlebee.com/)is also a great service to quickly translate and add subtitles to online videos. With a reported accuracy rate of 95%, this service is among some of the most accurate in the market. Moreover, it allows you to customize subtitles, edit and add cool font styles, colors, background details and orientation to create your unique projects. Another great feature is that with SubtitleBee you can add subtitles anywhere on screen. Even on top, if you so want. It also has a supertitles feature as a bonus, which enables you to add head titles on videos.
+[SubtitleBee](https://subtitlebee.com/) is also a great service to quickly translate and add subtitles to online videos. With a reported accuracy rate of 95%, this service is among some of the most accurate in the market. Moreover, it allows you to customize subtitles, edit and add cool font styles, colors, background details and orientation to create your unique projects. Another great feature is that with SubtitleBee you can add subtitles anywhere on screen. Even on top, if you so want. It also has a supertitles feature as a bonus, which enables you to add head titles on videos.
 
 ## Part 4: FAQs about Google Translate Video Audio
 
@@ -910,7 +910,7 @@ Welcome to our comprehensive guide on **video translator download**, your gatew
 
 Now that we've explored the crucial factors to consider when venturing into video translation let's embark on a practical journey — downloading a video translator. Follow these step-by-step instructions to integrate this powerful tool into your content creation toolkit seamlessly. Additionally, we'll recommend two reputable video translator apps to guide you through the installation process.
 
-#### A Versatile Video Translator Tool: [Virbo](https://virbo.wondershare.com/)
+#### A Versatile Video Translator Tool: Virbo
 
 As a multilingual tool, Virbo takes real-time translation to the next level. Accessible online and through dedicated applications, Virbo boasts advanced features that enhance communication dynamics. Its capabilities extend to video language translation, making it a valuable addition to the subtitle translation toolkit.
 
@@ -929,7 +929,7 @@ As a multilingual tool, Virbo takes real-time translation to the next level. Acc
 
 **Step 4:** Click the "Translate" button, triggering the initiation of the translation process.
 
-#### Translating English to Hindi Made Easy: [Descript](https://www.descript.com/)
+#### Translating English to Hindi Made Easy: Descript
 
 Descript is a revolutionary platform that redefines the landscape of audio and video editing. Pioneering the concept of text-based editing, it allows users to edit multimedia content as easily as editing a document. With its intuitive interface, users can manipulate audio and video files by simply editing the transcribed text, seamlessly making changes to the corresponding media.
 
@@ -1079,7 +1079,7 @@ Once you import the video file, choose the original and translated language for 
 
 ### 2\. SubtitleBee
 
-![ Subtitlebee AI subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-02.jpg)
+![Subtitlebee AI subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-02.jpg)
 
 [SubtitleBee](https://subtitlebee.com) is another great subtitle translator. It has a very friendly interface, allowing quick text edits and subtitle customization. SubtitleBee also lets you choose between different fonts, change styles and colors according to your preferences. It’s auto-subtitling tool is particularly handy for YouTube videos, as you can just enter the video link and leave the rest to SubtitleBee.
 
@@ -1094,7 +1094,7 @@ Once you import the video file, choose the original and translated language for 
 
 ### 3\. Bing Microsoft Translator
 
-![ Bing translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-03.jpg)
+![Bing translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-03.jpg)
 
 Microsoft’s [Bing Translate](https://bing.com/translator) is a very interesting choice. You can use it absolutely free of cost to translate texts, subtitles or entire webpage into a different language. It can translate into all the major languages of the world. But the only problem is that you would have to provide text to translate as it cannot generate subtitles from a video.
 
@@ -1109,7 +1109,7 @@ Microsoft’s [Bing Translate](https://bing.com/translator) is a very interestin
 
 ### 4\. Flixier
 
-![ Flixier AI subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-04.jpg)
+![Flixier AI subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-04.jpg)
 
 Flixier is a powerful video editing platform. It offers a range of options to streamline your content creation workflow, including team collaboration, auto subtitle creation, [AI subtitle translation](https://flixier.com/tools/subtitle-translator), and customization among others. With Flixier, you can automatically create, edit and translate subtitles in over 30 languages as per your needs. Oh, and it supports all major subtitle formats like SRT, VTT SCC, etc.
 
@@ -1124,7 +1124,7 @@ Flixier is a powerful video editing platform. It offers a range of options to st
 
 ### 5\. VEED
 
-![ Veed AI subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-05.jpg)
+![Veed AI subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-05.jpg)
 
 [VEED](https://www.veed.io/tools/subtitle-translator) is a very popular **AI subtitle translator**. With an accuracy rate of 95%, VEED empowers you to tailor content for global audiences with ease. It’s fast, it’s accurate, and it supports on-the-go functionality. What’s more, you can directly add the translated text to your video or download them as subtitles for offline editing. Like other AI translators on this list, VEED is incredibly simple and easy to use – even for non-techies.
 
@@ -1139,7 +1139,7 @@ Flixier is a powerful video editing platform. It offers a range of options to st
 
 ### 6\. Simplified
 
-![ simplified translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-06.jpg)
+![simplified translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-06.jpg)
 
 A relatively new tool, [Simplified](https://simplified.com/subtitle-translator/) expands your global reach by easily creating and translating subtitles. It’s incredibly easy to use, offering individual as well as collaborative features to get the job done. Beyond subtitles, Simplified offers a range of other useful tools for content creators. These include, AI Writer, Video Animator, Text-to-Speech, Voiceovers, and Video Editor, etc.
 
@@ -1154,7 +1154,7 @@ A relatively new tool, [Simplified](https://simplified.com/subtitle-translator/)
 
 ### 7\. Nova
 
-![ Nova subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-07.jpg)
+![Nova subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-07.jpg)
 
 [Nova](https://wearenova.ai/nova-tools/automatic-subtitles/translate-subtitles/) **AI subtitle translator** is another great option for audio and video content. Once the text has been generated, it’s easily accessible in the subtitle panel, giving you options to edit and meet your needs. Moreover, you can also personalize how you interact with Nova.ai by creating distinct phrases and creating your own unique style.
 
@@ -1169,7 +1169,7 @@ A relatively new tool, [Simplified](https://simplified.com/subtitle-translator/)
 
 ### 8\. Media.io
 
-![ Media IO subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-08.jpg)
+![Media IO subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-08.jpg)
 
 [Media.io](https://www.media.io/subtitle-translator.html) is one of the oldest AI subtitle translators and still remains one of the best. The best thing about Media.io is that you don’t need to download software on your PC/device. Simply upload your video on Media.io’s online platform, translate your subtitles and you’re done. You can also preview different alterations before finalizing or downloading your content.
 
@@ -1184,7 +1184,7 @@ A relatively new tool, [Simplified](https://simplified.com/subtitle-translator/)
 
 ### 9\. Subly
 
-![ Subtly AI subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-09.jpg)
+![Subtly AI subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-09.jpg)
 
 This is the first time [Subly](https://www.getsubly.com/features/subtitle-translator) has made it to our top 10 list, and not without a reason. Subly has added some fantastic new features along with support for translating subtitles into 73 different languages. This **AI subtitle translator** now also allows quick adjustments like font, color, appearance and size, etc. Subly also has a subtitles app with which you can easily turn audio into videos by adding photos and logos.
 
@@ -1199,7 +1199,7 @@ This is the first time [Subly](https://www.getsubly.com/features/subtitle-transl
 
 ### 10\. Smartling
 
-![ smartling translation service](https://images.wondershare.com/virbo/article/ai-subtitle-translator-10.jpg)
+![smartling translation service](https://images.wondershare.com/virbo/article/ai-subtitle-translator-10.jpg)
 
 [Smartling](https://www.smartling.com/) is a cloud-based translation solution for businesses. It provides content localization and translation services in over 150 languages. What’s unique about Smartling is that it uses a combination of AI and human translators to give you the most accurate translation possible. Smartling is known for its Translation Management System that can integrate with various CMSs and other tools for a hassle-free translation solution.
 
@@ -1338,7 +1338,7 @@ Once you import the video file, choose the original and translated language for 
 
 ### 2\. SubtitleBee
 
-![ Subtitlebee AI subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-02.jpg)
+![Subtitlebee AI subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-02.jpg)
 
 [SubtitleBee](https://subtitlebee.com) is another great subtitle translator. It has a very friendly interface, allowing quick text edits and subtitle customization. SubtitleBee also lets you choose between different fonts, change styles and colors according to your preferences. It’s auto-subtitling tool is particularly handy for YouTube videos, as you can just enter the video link and leave the rest to SubtitleBee.
 
@@ -1353,7 +1353,7 @@ Once you import the video file, choose the original and translated language for 
 
 ### 3\. Bing Microsoft Translator
 
-![ Bing translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-03.jpg)
+![Bing translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-03.jpg)
 
 Microsoft’s [Bing Translate](https://bing.com/translator) is a very interesting choice. You can use it absolutely free of cost to translate texts, subtitles or entire webpage into a different language. It can translate into all the major languages of the world. But the only problem is that you would have to provide text to translate as it cannot generate subtitles from a video.
 
@@ -1368,7 +1368,7 @@ Microsoft’s [Bing Translate](https://bing.com/translator) is a very interestin
 
 ### 4\. Flixier
 
-![ Flixier AI subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-04.jpg)
+![Flixier AI subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-04.jpg)
 
 Flixier is a powerful video editing platform. It offers a range of options to streamline your content creation workflow, including team collaboration, auto subtitle creation, [AI subtitle translation](https://flixier.com/tools/subtitle-translator), and customization among others. With Flixier, you can automatically create, edit and translate subtitles in over 30 languages as per your needs. Oh, and it supports all major subtitle formats like SRT, VTT SCC, etc.
 
@@ -1383,7 +1383,7 @@ Flixier is a powerful video editing platform. It offers a range of options to st
 
 ### 5\. VEED
 
-![ Veed AI subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-05.jpg)
+![Veed AI subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-05.jpg)
 
 [VEED](https://www.veed.io/tools/subtitle-translator) is a very popular **AI subtitle translator**. With an accuracy rate of 95%, VEED empowers you to tailor content for global audiences with ease. It’s fast, it’s accurate, and it supports on-the-go functionality. What’s more, you can directly add the translated text to your video or download them as subtitles for offline editing. Like other AI translators on this list, VEED is incredibly simple and easy to use – even for non-techies.
 
@@ -1398,7 +1398,7 @@ Flixier is a powerful video editing platform. It offers a range of options to st
 
 ### 6\. Simplified
 
-![ simplified translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-06.jpg)
+![simplified translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-06.jpg)
 
 A relatively new tool, [Simplified](https://simplified.com/subtitle-translator/) expands your global reach by easily creating and translating subtitles. It’s incredibly easy to use, offering individual as well as collaborative features to get the job done. Beyond subtitles, Simplified offers a range of other useful tools for content creators. These include, AI Writer, Video Animator, Text-to-Speech, Voiceovers, and Video Editor, etc.
 
@@ -1413,7 +1413,7 @@ A relatively new tool, [Simplified](https://simplified.com/subtitle-translator/)
 
 ### 7\. Nova
 
-![ Nova subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-07.jpg)
+![Nova subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-07.jpg)
 
 [Nova](https://wearenova.ai/nova-tools/automatic-subtitles/translate-subtitles/) **AI subtitle translator** is another great option for audio and video content. Once the text has been generated, it’s easily accessible in the subtitle panel, giving you options to edit and meet your needs. Moreover, you can also personalize how you interact with Nova.ai by creating distinct phrases and creating your own unique style.
 
@@ -1428,7 +1428,7 @@ A relatively new tool, [Simplified](https://simplified.com/subtitle-translator/)
 
 ### 8\. Media.io
 
-![ Media IO subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-08.jpg)
+![Media IO subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-08.jpg)
 
 [Media.io](https://www.media.io/subtitle-translator.html) is one of the oldest AI subtitle translators and still remains one of the best. The best thing about Media.io is that you don’t need to download software on your PC/device. Simply upload your video on Media.io’s online platform, translate your subtitles and you’re done. You can also preview different alterations before finalizing or downloading your content.
 
@@ -1443,7 +1443,7 @@ A relatively new tool, [Simplified](https://simplified.com/subtitle-translator/)
 
 ### 9\. Subly
 
-![ Subtly AI subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-09.jpg)
+![Subtly AI subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-09.jpg)
 
 This is the first time [Subly](https://www.getsubly.com/features/subtitle-translator) has made it to our top 10 list, and not without a reason. Subly has added some fantastic new features along with support for translating subtitles into 73 different languages. This **AI subtitle translator** now also allows quick adjustments like font, color, appearance and size, etc. Subly also has a subtitles app with which you can easily turn audio into videos by adding photos and logos.
 
@@ -1458,7 +1458,7 @@ This is the first time [Subly](https://www.getsubly.com/features/subtitle-transl
 
 ### 10\. Smartling
 
-![ smartling translation service](https://images.wondershare.com/virbo/article/ai-subtitle-translator-10.jpg)
+![smartling translation service](https://images.wondershare.com/virbo/article/ai-subtitle-translator-10.jpg)
 
 [Smartling](https://www.smartling.com/) is a cloud-based translation solution for businesses. It provides content localization and translation services in over 150 languages. What’s unique about Smartling is that it uses a combination of AI and human translators to give you the most accurate translation possible. Smartling is known for its Translation Management System that can integrate with various CMSs and other tools for a hassle-free translation solution.
 
