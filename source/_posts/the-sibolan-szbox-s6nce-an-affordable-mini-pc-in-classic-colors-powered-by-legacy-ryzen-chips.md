@@ -1,7 +1,7 @@
 ---
 title: "The Sibolan SZBox S6nce: An Affordable Mini PC in Classic Colors, Powered by Legacy Ryzen Chips"
-date: 2024-08-14T11:07:06.208Z
-updated: 2024-08-15T11:07:06.208Z
+date: 2024-09-03T23:28:37.042Z
+updated: 2024-09-04T23:28:37.042Z
 tags:
   - desktop
 categories:
@@ -145,5 +145,8 @@ __Ayaneo Retro Mini PC AM01 Specification__
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

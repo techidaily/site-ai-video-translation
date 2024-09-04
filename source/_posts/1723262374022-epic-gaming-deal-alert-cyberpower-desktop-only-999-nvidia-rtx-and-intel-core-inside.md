@@ -1,7 +1,7 @@
 ---
 title: Epic Gaming Deal Alert - CyberPower Desktop, Only $999. Nvidia RTX & Intel Core Inside
-date: 2024-08-14T11:07:00.859Z
-updated: 2024-08-15T11:07:00.859Z
+date: 2024-09-03T23:28:37.116Z
+updated: 2024-09-04T23:28:37.116Z
 tags:
   - desktop
 categories:
@@ -99,5 +99,8 @@ This is a deal for those who require a prebuilt gaming PC over building their ow
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
