@@ -1,7 +1,7 @@
 ---
 title: "The Surprising Success of Microsoft's Aquatic Data Centers: Project Natick Shows Fewer Failures Than Terrestrial Servers"
-date: 2024-09-09T00:21:16.530Z
-updated: 2024-09-10T00:21:16.530Z
+date: 2024-09-09T22:43:43.030Z
+updated: 2024-09-14T17:22:26.366Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/41ff678b4dcc101622fd3ddb2b8cccf21c75e6fdbac012d53d8a0b29b1503958.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Introducing the AM01 by Ayaneo: The Perfect Blend of Classic Appeal and Modern Power – Available Now in Stores
 
 Ayaneo is officially selling its retro mini PC, the AM01, outside of its crowdfunding campaign via its[website](https://ayaneo.com/goods/8451695378677?) . The AM01 mini PC is reminiscent of the Macintosh Classic and is available in multiple configurations. The AM01 is much smaller than the Macintosh Classic, but it's packed with features and can be purchased with a memory configuration of between 8 and 32GB and primary SSD storage options of up to 1TB.
@@ -52,12 +46,6 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 ![Ayaneo AM01 Mini PC](https://cdn.mos.cms.futurecdn.net/WGEpGR8Pts2g8USJ2KBFfh-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Ayaneo)
 
  The pricing is fairly attractive, with the highest-spec options retailing at $449 including shipping, though customs charges may vary depending on country. Also, you may not receive full warranty support, depending on country. There are, of course, other mini PCs to consider — the main selling point of the AM01 is its Macintosh-themed design. If you're just looking for a mini PC,[Asus' NUCs](https://www.tomshardware.com/desktops/mini-pcs/asus-reveals-pricing-for-its-new-nucs-nuc-14-pro-starts-at-dollar394-and-nuc-14-pro-at-dollar869) are a local option.
@@ -66,12 +54,6 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -80,14 +62,11 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -98,75 +77,23 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-beyond-vidcon-the-most-important-youtube-events/"><u>[New] 2024 Approved  Beyond VidCon - The Most Important YouTube Events</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-experts-take-on-vivacut-full-video-editing-review-24/"><u>[New] 2024 Approved  Expert's Take on VivaCut  Full Video Editing Review '24</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-melody-meets-momentum-harmonizing-sound-with-imagery/"><u>[New] 2024 Approved  Melody Meets Momentum  Harmonizing Sound with Imagery</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-ultimate-ranking-top-10-video-conferencing-apps-on-mobile-devices/"><u>[New] 2024 Approved  The Ultimate Ranking  Top 10 Video Conferencing Apps on Mobile Devices</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-essential-screen-recording-tools-a-comprehensive-educators-guide/"><u>[New] In 2024, Essential Screen Recording Tools  A Comprehensive Educator's Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-learn-to-initiate-harmonious-group-conversations-on-skype-for-both-pc-and-mac-users/"><u>[New] Learn to Initiate Harmonious Group Conversations on Skype for Both PC & Mac Users</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-soloists-path-to-trending-podcasts/"><u>[New] The Soloist's Path to Trending Podcasts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-6-fiscal-picks-in-the-4k-projector-market/"><u>[New] Top 6 Fiscal Picks in the 4K Projector Market</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-transforming-single-frames-into-motion-narratives/"><u>[New] Transforming Single Frames Into Motion Narratives</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-top-15-free-audio-resources-for-youtube-clips-makers/"><u>[Updated] In 2024, Top 15 FREE Audio Resources for YouTube Clips Makers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-screen-saver-games-the-top-9-independent-titles-for-android-no-wi-fi/"><u>[Updated] Screen-Saver Games  The Top 9 Independent Titles for Android (No Wi-Fi)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-smoothly-transition-sounds-with-audition/"><u>2024 Approved  How to Smoothly Transition Sounds with Audition</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-navigational-aids-for-increased-proximity-in-roblox-games/"><u>2024 Approved  Navigational Aids for Increased Proximity in Roblox Games</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-quick-guide-to-mp3-from-instagram-videos/"><u>2024 Approved  Quick Guide to MP3 From Instagram Videos</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-9-best-french-video-translators-online-and-download-options/"><u>2024 Approved 9 Best French Video Translators Online and Download Options</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>2024 Approved Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/8-best-multi-subtitles-translators-you-shouldnt-miss/"><u>8 Best Multi-Subtitles Translators You Shouldnt Miss</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/advanced-typography-animation-suites/"><u>Advanced Typography Animation Suites</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/best-10-free-video-translators-to-mitigate-translation-risks-for-2024/"><u>Best 10 Free Video Translators to Mitigate Translation Risks for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/best-video-translator-app-for-pc-cannot-miss/"><u>Best Video Translator App for PC Cannot Miss</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breatenticating-healthy-windows-and-dotnet-status-max-156/"><u>Breatenticating Healthy Windows & DotNet Status (Max 156)</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/elevate-your-content-with-the-best-free-video-translator-apps/"><u>Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
-<li><a href="https://android-location.techidaily.com/elevate-your-home-network-with-confidence-an-expert-review-of-the-superior-linksys-wrt3200acm-and-its-place-atop-open-source-routers/"><u>Elevate Your Home Network with Confidence: An Expert Review of the Superior Linksys WRT3200ACM and Its Place Atop Open Source Routers</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-list-of-top-11-no-cost-words-games-androidios/"><u>Essential List of Top 11 No-Cost Words Games (Android/iOS)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/furbo-excellence-top-rated-dog-camera-revealed-for-every-canine-companion/"><u>Furbo Excellence: Top-Rated Dog Camera Revealed for Every Canine Companion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guidelines-for-perfecting-your-gpt-interactions/"><u>Guidelines for Perfecting Your GPT Interactions</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-video-from-japanese-to-english-online-in-2024/"><u>How To Translate Video From Japanese to English Online, In 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-x50iplus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor X50i+ to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps/"><u>In 2024, Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-from-novice-to-pro-screen-record-mastery-on-hp/"><u>In 2024, From Novice to Pro  Screen Record Mastery on HP</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-honor-v-purse-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Honor V Purse Devices</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-in-this-article-we-will-review-gopro-quik-for-desktop-and-recommend-alternatives-to-gopro-quik-pc/"><u>In 2024, In This Article, We Will Review Gopro Quik for Desktop and Recommend Alternatives to Gopro Quik Pc</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-prime-interactive-camera-spotlights/"><u>In 2024, Prime Interactive Camera Spotlights</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-smooth-and-simple-guide-to-iphone-screensaving-process/"><u>In 2024, Smooth & Simple Guide to Iphone Screensaving Process</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-social-media-sensation-making-your-vids-pop/"><u>In 2024, Social Media Sensation  Making Your Vids Pop</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-top-7-video-language-converter-online-free/"><u>In 2024, Top 7 Video Language Converter Online Free</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-top-8-multi-subtitles-translators-you-can-use/"><u>In 2024, Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-x-transcription-software-pc/"><u>In 2024, X-Transcription Software PC</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/maximizing-yandex-translate-in-video-translation-and-beyond-for-2024/"><u>Maximizing Yandex Translate in Video Translation and Beyond for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-snapchat-from-pc-heres-how-you-can-do-it-successfully/"><u>Navigating Snapchat From PC? Here's How You Can Do It Successfully</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-best-10-chinese-video-to-english-translator/"><u>New 2024 Approved Best 10 Chinese Video to English Translator</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-best-10-chinese-video-to-english-translators/"><u>New 2024 Approved Best 10 Chinese Video to English Translators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations/"><u>New 2024 Approved Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-7-best-real-time-video-translation-apps/"><u>New 7 Best Real Time Video Translation Apps</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-best-video-language-changers-to-make-your-videos-accessible-for-2024/"><u>New Best Video Language Changers to Make Your Videos Accessible for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-auto-translate-youtube-videos-into-different-languages/"><u>New How To Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-tiktok-videos-all-you-want-to-know/"><u>New How to Translate TikTok Videos? All You Want to Know</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation/"><u>New In 2024, An Exhaustive List of Lip Sync Apps for Vibrant Video Creation</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-best-toolbox-to-translate-youtube-videos-to-english-subtitles/"><u>New In 2024, Best Toolbox to Translate YouTube Videos to English Subtitles</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-translate-any-hindi-video-into-english-with-ai/"><u>New In 2024, Translate Any Hindi Video Into English With AI</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-proaudios-choice-the-five-pioneering-ducking-plugins-to-elevate-your-mixes-2023-rundown-for-2024/"><u>New ProAudios Choice The Five Pioneering Ducking Plugins to Elevate Your Mixes (2023 Rundown) for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>New Translate Audio/Video Content From Spanish to English and Vice Versa</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/reaching-a-wider-audience-using-video-translation-in-tamil-for-2024/"><u>Reaching a Wider Audience Using Video Translation in Tamil for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/revealing-translation-methods-netflix-subtitle-software-comprehensive-guide-for-2024/"><u>Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/top-ranked-4k-screen-recorders-summarized-for-2024/"><u>Top-Ranked 4K Screen Recorders Summarized for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/translate-instagram-videos-easily-a-step-by-step-guide/"><u>Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/unmatched-fun-awaits-in-our-top-12-pc-clicker-games-list-for-2024/"><u>Unmatched Fun Awaits in Our Top 12 PC Clicker Games List for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-chrome-video-translators-top-5-video-translation-chrome-extensions/"><u>Updated 2024 Approved Chrome Video Translators Top 5 Video Translation Chrome Extensions</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-create-lip-sync-tiktok-videos-without-installing-any-app/"><u>Updated 2024 Approved Create Lip Sync TikTok Videos Without Installing Any App</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>Updated 2024 Approved Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-how-to-make-lip-sync-video-without-installing-any-app/"><u>Updated 2024 Approved How to Make Lip Sync Video Without Installing Any App</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-complete-guide-to-transforming-aiff-files-into-mp3-format/"><u>Updated 2024 Approved The Complete Guide to Transforming AIFF Files Into MP3 Format</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>Updated 2024 Approved Translate Audio/Video Content From Spanish to English and Vice Versa</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-mastering-lip-sync-explore-top-apps-for-dynamic-videos/"><u>Updated Mastering Lip Sync Explore Top Apps for Dynamic Videos</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>Updated Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled-for-2024/"><u>Updated The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-top-7-video-language-converter-online-free/"><u>Updated Top 7 Video Language Converter Online Free</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide-for-2024/"><u>Updated Translate Videos Like a Pro with Subtitle Cat Your Essential Guide for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-unlocking-global-audiences-top-video-language-converters-for-2024/"><u>Updated Unlocking Global Audiences Top Video Language Converters for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-from-good-to-great-elevating-your-ads-facebook-impact/"><u>[New] 2024 Approved From Good to Great Elevating Your Ads' Facebook Impact</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-harmonize-your-listens-the-complete-path-to-youtube-playlist-making-webmobile/"><u>[New] 2024 Approved Harmonize Your Listens The Complete Path to YouTube Playlist Making (Web/Mobile)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-nifty-editing-edits-discover-the-top-5-online-strategies-for-cutting-and-condensing-videos/"><u>[New] In 2024, Nifty Editing Edits Discover the Top 5 Online Strategies for Cutting & Condensing Videos</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/a-brief-review-of-capcut-translate-with-alternative/"><u>A Brief Review of CapCut Translate With Alternative</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/complete-picture-a-close-look-at-the-google-podcasts-app/"><u>Complete Picture A Close Look at the Google Podcasts App</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/fraps-to-video-an-evaluation-review-for-2024/"><u>Fraps to Video An Evaluation Review for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-xiaomi-13t-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Xiaomi 13T</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-best-10-chinese-video-to-english-translators-for-2024/"><u>New Best 10 Chinese Video to English Translators for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-best-9-french-video-translators-online-and-download-options-for-2024/"><u>New Best 9 French Video Translators Online and Download Options for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-how-to-easily-use-korean-to-english-video-translators/"><u>New In 2024, How To Easily Use Korean to English Video Translators</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/top-10-solutions-for-movie-subtitle-translation-making-things-perfect/"><u>Top 10 Solutions for Movie Subtitle Translation Making Things Perfect</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

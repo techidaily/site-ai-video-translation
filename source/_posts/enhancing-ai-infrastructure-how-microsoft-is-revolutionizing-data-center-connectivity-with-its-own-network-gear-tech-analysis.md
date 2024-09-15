@@ -1,7 +1,7 @@
 ---
 title: "Enhancing AI Infrastructure: How Microsoft Is Revolutionizing Data Center Connectivity with Its Own Network Gear - Tech Analysis"
-date: 2024-09-09T00:21:16.383Z
-updated: 2024-09-10T00:21:16.383Z
+date: 2024-09-13T20:24:49.627Z
+updated: 2024-09-14T23:28:48.012Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/18e0761348cb4d28e3480c4ed08a893497db31dc39159b03c85adcc25dd9aaa4.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unleash Your Strength on Silicon and Circuits at the 2024 International Servers-Out Challenge
 
 The 2024 World Server Throwing Championship (WSTC) organizers are[calling for entrants](https://www.cloudfest.com/world-server-throwing-championship#server-reg) . Scheduled for March 19, the bare metal vs. raw power event is set to become a must-watch experience of the annual CloudFest conference.
@@ -31,24 +25,12 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 ![Server throwing athletes](https://cdn.mos.cms.futurecdn.net/wtmZvaBCUd7W2J88EkoF6b-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: CloudFest)
 
  If we had to place a bet on the winner’s nationality, it would probably be Dutch, as the country where the sport seems to have become established. We discovered that some of the WTSC partners have already promoted server throwing in Dutch events. The winner of a Dutch national championship event[in 2022](https://dutchcloudcommunity.nl/agenda/summer-bbq-dutch-cloud-community-2022/) managed to fling a 10kg+ (22 pounds +) server 12.23 meters (over 40 feet).
 
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -59,14 +41,11 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
  The CloudFest 2024 event occurs at Europa-park in Rust,[Germany](https://www.tomshardware.com/pc-components/gpus/intel-submits-schematics-for-1nm-chip-fabs-in-germany-two-new-fabs-open-in-2027) , from March 18 to 24\. It is described as a must-attend event for anyone who works in[the cloud](https://www.tomshardware.com/reviews/cloud-computing-security,2829-2.html) , with a packed schedule featuring keynotes, panel discussions, masterclasses, networking events, and more. Only paying attendees can sign up for the chance to show off their server-throwing prowess. Tickets start at 499 euros.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -77,64 +56,21 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-financial-forecast-shooting-a-music-video-for-2024/"><u>[New] Financial Forecast  Shooting a Music Video for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-much-do-you-earn-when-a-million-watch-youtube-in-2024/"><u>[New] How Much Do You Earn When a Million Watch Youtube, In 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-snappy-zoom-calls-for-improved-engagement-for-2024/"><u>[New] Snappy Zoom Calls for Improved Engagement for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-disclosing-the-top-10-hidden-story-enthusiasts/"><u>[Updated] 2024 Approved  Disclosing the Top 10 Hidden Story Enthusiasts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-chaos-to-clarity-picshot-transforms-photo-collages/"><u>2024 Approved  From Chaos to Clarity - Picshot Transforms Photo Collages</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-a-complete-guide-to-translate-video-with-google/"><u>2024 Approved A Complete Guide To Translate Video With Google</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-best-10-free-video-translators-to-mitigate-translation-risks/"><u>2024 Approved Best 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>2024 Approved How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>2024 Approved The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-realme-c55-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/5-best-apps-for-voice-translation-from-english-to-bangla-for-2024/"><u>5 Best Apps for Voice Translation From English to Bangla for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/audio-first-video-second-comparing-podcast-vs-youtube-for-2024/"><u>Audio First, Video Second? Comparing Podcast vs YouTube for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/best-video-language-changers-to-make-your-videos-accessible-for-2024/"><u>Best Video Language Changers to Make Your Videos Accessible for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/create-lip-sync-tiktok-videos-without-installing-any-app/"><u>Create Lip Sync TikTok Videos Without Installing Any App</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo X Flip? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-6-plus-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 6 Plus Storage Not Loading/Showing | Stellar</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-a-comprehensive-guide-for-free-video-translator-downloading/"><u>In 2024, A Comprehensive Guide for Free Video Translator Downloading</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-convenient-steps-to-validate-age-in-tiktok-profiles/"><u>In 2024, Convenient Steps to Validate Age in TikTok Profiles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hook-listeners-first-introductory-podcast-lines/"><u>In 2024, Hook Listeners First  Introductory Podcast Lines</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-perfect-presentation-with-personalized-typography-in-ae-projects/"><u>In 2024, Perfect Presentation with Personalized Typography in AE Projects</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-recording-facebook-video-calls-4-methods/"><u>In 2024, Recording Facebook Video Calls [4 Methods]</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-apple-iphone-15-pro-max-for-parents-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Telegram Spy Tools On Apple iPhone 15 Pro Max for Parents | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-xiaomi-redmi-12-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi Redmi 12 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/kernel-issue-overcome-monitor-recovered/"><u>Kernel Issue Overcome: Monitor Recovered</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation/"><u>New 2024 Approved An Exhaustive List of Lip Sync Apps for Vibrant Video Creation</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-best-5-udemy-subtitle-translator-auto-translation/"><u>New 2024 Approved Best 5 Udemy Subtitle Translator (Auto Translation)</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-how-to-convert-video-voice-to-text-online-for-free/"><u>New 2024 Approved How To Convert Video Voice to Text Online for Free?</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-translate-video-from-english-to-arabic-with-ease/"><u>New 2024 Approved Translate Video From English to Arabic with Ease</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-best-10-free-video-translators-to-mitigate-translation-risks-for-2024/"><u>New Best 10 Free Video Translators to Mitigate Translation Risks for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-complete-guide-of-top-video-language-translators-for-2024/"><u>New Complete Guide of Top Video Language Translators for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-how-to-translate-youtube-videos-without-cc/"><u>New In 2024, How to Translate YouTube Videos Without CC</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-reaching-a-wider-audience-using-video-translation-in-tamil/"><u>New In 2024, Reaching a Wider Audience Using Video Translation in Tamil</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>New Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-top-10-solutions-for-movie-subtitle-translation-making-things-perfect-for-2024/"><u>New Top 10 Solutions for Movie Subtitle Translation Making Things Perfect for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-top-7-online-auto-subtitle-translators-for-content-creators/"><u>New Top 7 Online Auto Subtitle Translators for Content Creators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-translate-live-video-making-it-possible-with-the-best-tool-for-2024/"><u>New Translate Live Video Making It Possible With The Best Tool for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-translate-videos-with-subtitle-cat-your-essential-guide/"><u>New Translate Videos with Subtitle Cat Your Essential Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamping-your-system-an-in-depth-guide-to-msi-driver-update/"><u>Revamping Your System: An In-Depth Guide to MSI Driver Update</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-f15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/top-10-hindi-video-translators-with-step-by-step-guidance-for-2024/"><u>Top 10 Hindi Video Translators with Step-by-Step Guidance for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-5-best-apps-for-voice-translation-from-english-to-bangla/"><u>Updated 2024 Approved 5 Best Apps for Voice Translation From English to Bangla</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-complete-guide-of-top-video-language-translators/"><u>Updated 2024 Approved Complete Guide of Top Video Language Translators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-how-to-translate-youtube-videos-to-english-subtitles/"><u>Updated 2024 Approved How to Translate YouTube Videos to English Subtitles</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-a-brief-review-of-capcut-translate-with-alternative/"><u>Updated A Brief Review of CapCut Translate With Alternative</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-auto-translate-youtube-videos-into-different-languages/"><u>Updated Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-get-filmora-without-spending-a-dime-100-legal-methods/"><u>Updated Get Filmora Without Spending a Dime 100 Legal Methods</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-tiktok-videos-top-5-auto-translate-tools-for-2024/"><u>Updated How to Translate TikTok Videos Top 5 Auto Translate Tools for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-tiktok-videos-all-you-want-to-know/"><u>Updated How to Translate TikTok Videos? All You Want to Know</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-best-video-language-changers-to-make-your-videos-accessible/"><u>Updated In 2024, Best Video Language Changers to Make Your Videos Accessible</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-best-video-translator-app-for-pc-you-cannot-miss/"><u>Updated In 2024, Best Video Translator App for PC You Cannot Miss</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-how-to-translate-youtube-videos-to-english-subtitles/"><u>Updated In 2024, How to Translate YouTube Videos to English Subtitles</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-kya-aap-video-call-kar-sakty-ho-translate-any-hindi-video-into-english/"><u>Updated In 2024, Kya Aap Video Call Kar Sakty Ho Translate Any Hindi Video Into English</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-maximizing-yandex-translate-in-video-translation-and-beyond/"><u>Updated In 2024, Maximizing Yandex Translate in Video Translation and Beyond</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-top-7-video-language-converter-online-free/"><u>Updated In 2024, Top 7 Video Language Converter Online Free</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-translate-video-from-english-to-arabic-with-ease/"><u>Updated In 2024, Translate Video From English to Arabic with Ease</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-translate-videos-and-subtitles-with-veedio-for-2024/"><u>Updated Translate Videos and Subtitles with Veed.io for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-translate-videos-with-subtitle-cat-your-essential-guide-for-2024/"><u>Updated Translate Videos with Subtitle Cat Your Essential Guide for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/finding-your-lost-footage-no-vids-on-a6400/"><u>Finding Your Lost Footage No Vids On A6400</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/freshly-released-update-for-hp-laserjet-m506-printer-drivers/"><u>Freshly Released Update for HP LaserJet M506 Printer Drivers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-samsung-galaxy-f34-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Samsung Galaxy F34 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-poco-m6-pro-4g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Poco M6 Pro 4G Screen | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-ultimate-path-for-influencers-in-advertising-and-sponsorships/"><u>In 2024, The Ultimate Path for Influencers in Advertising & Sponsorships</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-top-7-video-language-converter-online-free/"><u>New Top 7 Video Language Converter Online Free</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-convert-video-voice-to-text-online-for-free-for-2024/"><u>Updated How To Convert Video Voice to Text Online for Free for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-best-video-translator-app-for-pc-cannot-miss/"><u>Updated In 2024, Best Video Translator App for PC Cannot Miss</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/voice-translation-english-to-bangla-online-and-offline-apps/"><u>Voice Translation English to Bangla Online and Offline Apps</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
