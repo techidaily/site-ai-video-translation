@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Correcting Minecraft's Crossbow Glitches
-date: 2024-09-11T01:54:47.318Z
-updated: 2024-09-14T22:50:29.773Z
+date: 2024-09-15T00:36:36.285Z
+updated: 2024-09-20T00:51:38.566Z
 tags:
   - win11
   - win10
@@ -50,13 +50,6 @@ The known problematic software are:
 ### Fix 2: Don’t use free VPNs
 
  Mojang has blocked most VPN users from logging into Minecraft as these free VPNs are often used by malicious users to hack into accounts. This can cause login/loading issues. Some VPNs such as[Express VPN](https://tools.techidaily.com/drivereasy/download/) and[NordVPN](https://tools.techidaily.com/drivereasy/download/) (get an[80% off coupon](https://tools.techidaily.com/drivereasy/download/) ) get Minecraft unblocked, giving you access to all of the latest features no matter where you live.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -108,20 +101,28 @@ There are mainly two ways to update your device drivers:
 1. Right-click the**Start** menu (the Windows logo) and select**Windows PowerShell (Admin).**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/admin.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you are on Windows 11, it will be**Terminal (Amin)** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
 2. Type or paste**Get-AppxPackage \*photos\* | Remove-AppxPackage** and press**Enter** . This will uninstall the Windows Photo app from your machine.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Restart your PC to see if Minecraft can load normally.
 
 If this method doesn’t work for you, then try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Run Minecraft Launcher in compatibility mode
 
@@ -136,10 +137,10 @@ If this method doesn’t work for you, then try the next fix, below.
  Now you can launch your Minecraft again to see if this issue has been resolved by now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean reinstall
@@ -151,10 +152,16 @@ If this method doesn’t work for you, then try the next fix, below.
 2. Right-click Minecraft, and select**Uninstall** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Once complete, type**%appdata%** in the Windows Search bar, and select the**%appdata%** folder.  
@@ -186,20 +193,20 @@ If this method doesn’t work for you, then try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-syncing-voice-with-images-online/"><u>[Updated] Syncing Voice with Images Online</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-step-by-step-guide-how-to-translate-tiktok-videos/"><u>2024 Approved Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/best-tool-to-translate-youtube-video-to-arabic-for-2024/"><u>Best Tool to Translate YouTube Video to Arabic for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/clearing-storage-on-your-pc-a-step-by-step-guide-for-windows-11/"><u>Clearing Storage on Your PC: A Step-by-Step Guide for Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-the-error-when-mscorwksdll-cant-be-found-easy-tips-and-tricks/"><u>Fix the Error When MSCORWKS.DLL Can’t Be Found: Easy Tips & Tricks</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-make-lip-sync-video-without-installing-any-app/"><u>How to Make Lip Sync Video Without Installing Any App</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-realme-narzo-60-pro-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Realme Narzo 60 Pro 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Infinix Note 30i? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-everything-you-want-to-know-about-kapwing-video-translation/"><u>New Everything You Want To Know About Kapwing Video Translation</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-video-from-japanese-to-english-online-for-2024/"><u>New How To Translate Video From Japanese to English Online for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-linux-on-windows-top-wsl-2-tips-and-tricks/"><u>Optimize Linux on Windows: Top WSL 2 Tips and Tricks</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-picks-for-economical-virtual-reality-experiences/"><u>Top Picks for Economical Virtual Reality Experiences</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-choosing-the-right-travel-friendly-laptop-chargers/"><u>Ultimate Guide to Choosing the Right Travel-Friendly Laptop Chargers</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-how-to-translate-video-from-japanese-to-english-online/"><u>Updated 2024 Approved How To Translate Video From Japanese to English Online?</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-best-5-udemy-subtitle-translator-auto-translation/"><u>Updated Best 5 Udemy Subtitle Translator (Auto Translation)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-personalized-content-sharing-on-vimeo-basic-plus-and-pro-explained/"><u>[Updated] 2024 Approved Personalized Content Sharing on Vimeo Basic, Plus & Pro Explained</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-captivating-books-in-video-form/"><u>2024 Approved Captivating Books in Video Form</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-from-hidden-to-highlighted-your-2-ways-to-see-yts-past-videos/"><u>2024 Approved From Hidden to Highlighted Your 2 Ways to See YT's Past Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-mirthful-modifications-ranked-smartphone-and-pc-photo-apps/"><u>2024 Approved Mirthful Modifications Ranked Smartphone & PC Photo Apps</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/best-video-translator-app-for-pc-you-cannot-miss/"><u>Best Video Translator App for PC You Cannot Miss</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-14-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 14</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-augmenting-film-quality-integrating-letterboxing-in-digital-spaces/"><u>In 2024, Augmenting Film Quality Integrating Letterboxing in Digital Spaces</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-top-10-free-video-translators-to-mitigate-translation-risks/"><u>New 2024 Approved Top 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-professional-grade-hd-video-editing-software-top-5-recommendations/"><u>New In 2024, Professional-Grade HD Video Editing Software Top 5 Recommendations</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-voice-translation-english-to-bangla-online-and-offline-apps/"><u>New Voice Translation English to Bangla Online and Offline Apps</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/step-by-step-guide-capturing-songs-from-videos-using-shazam-on-any-device/"><u>Step-by-Step Guide: Capturing Songs From Videos Using Shazam on Any Device</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-maximize-yandex-translate-in-video-translation-and-beyond/"><u>Updated 2024 Approved Maximize Yandex Translate in Video Translation and Beyond</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-must-have-apps-for-real-time-video-translation/"><u>Updated 2024 Approved Must-Have Apps for Real-Time Video Translation</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-top-10-ai-subtitle-translators-for-content-creators/"><u>Updated 2024 Approved Top 10 AI Subtitle Translators for Content Creators</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-step-by-step-guide-how-to-translate-twitter-video-easily/"><u>Updated Step-by-Step Guide How to Translate Twitter Video Easily</u></a></li>
 </ul></div>
 

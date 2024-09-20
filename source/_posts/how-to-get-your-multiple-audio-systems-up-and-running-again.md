@@ -1,7 +1,7 @@
 ---
 title: How to Get Your Multiple Audio Systems Up and Running Again
-date: 2024-09-12T20:20:10.660Z
-updated: 2024-09-14T18:11:25.029Z
+date: 2024-09-15T16:24:18.501Z
+updated: 2024-09-19T16:10:37.324Z
 tags:
   - win11
   - win10
@@ -70,31 +70,26 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-1-1.jpg)
 3. Select**Microphone** on the left pane. Then, click the**Change** button and**toggle on** Microphone access for this device.  
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Scroll down and make sure the switch is**on** under Allow apps to access your microphone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/privacy-settings-1.jpg)
 4. Scroll to the Allow desktop apps to access your microphone section and **toggle on**  the button below.  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-1.jpg)
 
  Test your Oculus Rift S mic with a game or program. Still no luck? Check out the next method then.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Check the sound settings
@@ -106,14 +101,22 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 2. Select**Small icons** next to View by, and then click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-2.jpg)
 3. On the**Recording** tab, make sure your Oculus Rift S Microphone is**enabled** . Then right-click it and select**Set as Default Device** . If you don’t see your microphone listed, tick**Show Disabled Devices** first.  
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/rift-settings-1.jpg)
 4. Click your Oculus Rift S microphone and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/rift-settings-2.jpg)
@@ -130,21 +133,14 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager.jpg)
 2. Double-click**Universal Serial Bus controllers** . Then right-click**USB Root Hub** from the list and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-2.jpg)
 3. Navigate to the**Power Management** tab and**untick the box** next to Allow the computer to turn off this device to save power. Then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-3.jpg)
@@ -182,16 +178,16 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-how-to-translate-youtube-videos-without-cc/"><u>2024 Approved How to Translate YouTube Videos Without CC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-realme-gt-neo-5-se-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Realme GT Neo 5 SE to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/best-10-chinese-video-to-english-translator-for-2024/"><u>Best 10 Chinese Video to English Translator for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/counteract-bot-visitors-for-real-audience-growth/"><u>Counteract Bot Visitors for Real Audience Growth</u></a></li>
-<li><a href="https://win-able.techidaily.com/experts-reveal-ultimate-tips-to-prevent-your-sword-and-faery-epic-continuation-from-breaking-down-on-pc/"><u>Experts Reveal Ultimate Tips to Prevent Your Sword & Faery Epic Continuation From Breaking Down on PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g-5g-2023-phone-without-pin-by-drfone-android/"><u>How to Unlock Motorola Moto G 5G (2023) Phone without PIN</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/secrets-unlocked-mastering-the-art-of-facebook-vr-posting-for-2024/"><u>Secrets Unlocked Mastering the Art of Facebook VR Posting for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-best-netgear-routers-of-2024/"><u>The Best Netgear Routers of 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/ultimate-pixel-perfection-tool/"><u>Ultimate Pixel Perfection Tool</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-a-complete-guide-of-top-7-video-language-translators/"><u>Updated 2024 Approved A Complete Guide of Top 7 Video Language Translators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-maximize-yandex-translate-in-video-translation-and-beyond-for-2024/"><u>Updated Maximize Yandex Translate in Video Translation and Beyond for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-expert-recommended-steadicams-for-professional-dslr-work/"><u>[New] In 2024, Expert-Recommended Steadicams for Professional DSLR Work</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-innovations-of-sony-bdp-s6700-a-closer-look/"><u>2024 Approved Innovations of Sony BDP-S6700 A Closer Look</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/asus-makes-history-with-the-first-ever-rog-nuc-combines-cutting-edge-core-ultra-9-and-stunning-rtx-4070-graphics-at-an-unbeatable-starting-price-of-1629/"><u>Asus Makes History with the First-Ever ROG NUC - Combines Cutting-Edge Core Ultra 9 and Stunning RTX 4070 Graphics at an Unbeatable Starting Price of $1,629</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/best-privacy-friendly-android-keyboard-apps-enjoy-them-for-free/"><u>Best Privacy-Friendly Android Keyboard Apps - Enjoy Them for Free!</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/1723262343108-discover-the-power-of-nuc-like-amd-ryzen-mini-pc-with-a-stunning-4k-touchscreen-impressive-ryzen-9-6900hx-cpu-and-ultra-fast-storage/"><u>Discover the Power of NUC-Like AMD Ryzen Mini PC with a Stunning 4K Touchscreen, Impressive Ryzen 9 6900HX CPU, and Ultra Fast Storage</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-your-touch-sensitivity-experience-on-a-windows-laptop/"><u>Elevating Your Touch Sensitivity Experience on a Windows Laptop</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-use-obs-chroma-key-withwithout-green-screen/"><u>How to Use OBS Chroma Key With/Without Green Screen</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/reviewing-the-lenovo-ideapad-130s-delving-into-its-limited-battery-life-and-unexpectedly-usable-design/"><u>Reviewing the Lenovo IdeaPad 130S: Delving Into Its Limited Battery Life and Unexpectedly Usable Design</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simplified-installation-of-amd-ryzen-5-2600-graphics-drivers-download-and-setup-tutorial/"><u>Simplified Installation of AMD Ryzen 5 2600 Graphics Drivers - Download & Setup Tutorial</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/tsmc-unveils-groundbreaking-128-tbps-on-package-optical-transmission-revolutionizing-ai-with-advanced-silicon-photonics/"><u>TSMC Unveils Groundbreaking 12.8 Tbps On-Package Optical Transmission - Revolutionizing AI with Advanced Silicon Photonics</u></a></li>
 </ul></div>
 

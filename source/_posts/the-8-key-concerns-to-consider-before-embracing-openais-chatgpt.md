@@ -1,7 +1,7 @@
 ---
 title: The 8 Key Concerns to Consider Before Embracing OpenAI's ChatGPT
-date: 2024-09-09T22:29:31.160Z
-updated: 2024-09-14T16:54:38.496Z
+date: 2024-09-17T23:36:42.862Z
+updated: 2024-09-19T23:13:12.387Z
 tags:
   - chatgpt
   - open-ai
@@ -63,19 +63,6 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 
  To grab the reader’s attention, write captions yourself. See what format suits your brand. Some users like writing long-form captions that tell stories, while others prefer a minimalistic approach. We suggest trying out different styles.
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Selling Diet and Fitness Programs
 
 [ChatGPT carries several health-focused functions](https://www.makeuseof.com/can-chatgpt-provide-reliable-health-information/) . Users can generate recipe ideas, study workout routines, and ask general wellness questions. Although helpful, shady fitness gurus also abuse this feature. They ask ChatGPT to spit out a bunch of workout routines, compile them into PDFs, and then sell them to their followers.
@@ -83,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
  To make matters worse, many encourage fellow influencers to do the same. ChatGPT can’t replace licensed experts. Its limited datasets occasionally produce inaccurate, unreliable results. Carelessly distributing them as proven, effective advice is dangerous and irresponsible.
 
  You can share your personal preferences. But don’t sell e-books of workout regimens, diets, and supplement recommendations unless you have the necessary certifications.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Coding Websites
 
@@ -92,18 +86,18 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 
  If you need to launch a website but don’t have any experience, use[no-code site builders](https://www.makeuseof.com/best-code-free-website-creators/) . They use drag-and-drop editors. Instead of manually typing source code, you can drag around page elements.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Email Marketing
 
  Fake gurus claim that ChatGPT handles all their copywriting needs. Precise, detailed prompts supposedly make custom sales emails that match your tone and branding. The below image shows a sample AI-generated sales email.
 
 ![Sales Email for Cars on Gmail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gmail-email-sales.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While ChatGPT can quickly write multiple sales emails, don’t expect positive results. Generic, sales-y templates yield low conversion rates.[Radicati](https://www.radicati.com/wp/wp-content/uploads/2015/02/Email-Statistics-Report-2015-2019-Executive-Summary.pdf) reports that consumers send and receive 120+ emails daily—they’ll automatically ignore low-effort promotions. Some might even flag your account as spam.
 
@@ -114,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 ![Searching for ChatGPT Prompts on Github](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/github-chatgpt-prompts.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The way you phrase your prompts affects ChatGPT’s responses. Straightforward questions trigger basic answers, but clever phrasing and precise instructions maximize language models.
@@ -125,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
  Let’s say you want to learn about AI. The below photo shows what ChatGPT says if you ask the question outright.
 
 ![ChatGPT Explains the Meaning of AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-ai-explanation.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Meanwhile, the below image demonstrates how additional instructions change ChatGPT’s output.
 
@@ -141,18 +128,31 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 
 ![Requesting ChatGPT to Bypass Restrictions and Make Predictions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt_as_dan_prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Although ChatGPT supposedly can’t make predictions, the DAN prompt allowed it to bypass restrictions and state unverified claims, as you can see below.
 
 ![ChatGPT Making Predictions About Unsure Instances](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt_making_predictions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Since most people are new to AI chatbots, few can craft precise instructions. Users need skilled prompt engineers. They’ll pay for working, up-to-date prompts, which you can sell on[GitHub](https://github.com/) repositories, Reddit threads, and social media sites.
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Explore Responsible Ways to Make Money With AI
 
@@ -175,13 +175,14 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-affordable-4k-cameras-guide-(1k-top-picks/"><u>[New] Affordable 4K Cameras Guide (<$1K) - Top Picks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-aural-elements-in-online-visuals/"><u>[New] Aural Elements in Online Visuals</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-realme-12-proplus-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Realme 12 Pro+ 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>New In 2024, Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-infinix-hot-40-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Infinix Hot 40 Location | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-top-10-free-video-translators-to-mitigate-translation-risks/"><u>Updated 2024 Approved Top 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-maximize-yandex-translate-in-video-translation-and-beyond/"><u>Updated Maximize Yandex Translate in Video Translation and Beyond</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/your-first-youtubian-venture-building-a-brand-bringing-in-bucks-for-2024/"><u>Your First Youtubian Venture Building a Brand, Bringing in Bucks for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-facebook-visuals-adding-text-boxes-and-dark-bar-overlays/"><u>[Updated] Mastering Facebook Visuals Adding Text Boxes & Dark Bar Overlays</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-effortlessly-share-window-movie-creations-with-vimeo/"><u>2024 Approved Effortlessly Share Window Movie Creations with Vimeo</u></a></li>
+<li><a href="https://program-issues.techidaily.com/advanced-tips-for-fixing-sluggish-rust-software-stay-ahead-of-the-curve/"><u>Advanced Tips for Fixing Sluggish Rust Software: Stay Ahead of the Curve</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cannot-initialize-graphical-display/"><u>Cannot Initialize Graphical Display</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-fix-fallout-3-stalling-issues-on-windows-10-a-step-by-step-guide/"><u>How to Fix Fallout 3 Stalling Issues on Windows 10 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-seamlessly-correct-javascript-errors-in-discord-applications/"><u>How to Seamlessly Correct JavaScript Errors in Discord Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-workflow-discover-8-key-benefits-of-implementing-chatgpt-vision/"><u>Revolutionize Your Workflow: Discover 8 Key Benefits of Implementing ChatGPT Vision</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-samsung-galaxy-s23-fe-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/thrifty-smartwatch-or-shortcomings-exposed-a-comprehensive-review-of-the-mobvoi-ticwatch-e2/"><u>Thrifty Smartwatch or Shortcomings Exposed? A Comprehensive Review of the Mobvoi TicWatch E2</u></a></li>
 </ul></div>
 

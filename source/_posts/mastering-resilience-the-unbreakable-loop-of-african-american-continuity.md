@@ -1,7 +1,7 @@
 ---
 title: "Mastering Resilience: The Unbreakable Loop of African American Continuity"
-date: 2024-09-12T00:48:28.293Z
-updated: 2024-09-14T21:05:10.861Z
+date: 2024-09-18T06:19:36.278Z
+updated: 2024-09-20T03:08:42.543Z
 tags:
   - win11
   - win10
@@ -163,13 +163,6 @@ This will open your game’s installation folder.
   
 ![disable fullscreen optimizations Yakuza: Like a Dragon](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-fullscreen-optimization-browse-local-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Open**runtime > media** folder. Right-click on**YakuzaLikeADragon.exe** and select**Properties** .  
   
 ![disable fullscreen optimization Yakuza Like a Dragon crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/11/YakuzaLikeADragon-select-Properties.jpg)
@@ -177,6 +170,13 @@ This will open your game’s installation folder.
  3) Select**Compatibility** . Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
   
 ![run YakuzaLikeADragon as an administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/run-the-game-as-an-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you’ve done these, try to launch your game to check if it works.
 
@@ -191,10 +191,10 @@ This will open your game’s installation folder.
  You can disable overlays on [Steam](https://tools.techidaily.com/drivereasy/download/) , [Geforce Experience](https://tools.techidaily.com/drivereasy/download/) , and [Discord](https://tools.techidaily.com/drivereasy/download/) by following the instructions below:
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Disable Steam overlay
@@ -204,13 +204,6 @@ This will open your game’s installation folder.
  2) Right-click on your game and select **Properties** .  
   
 ![disable overlay Yakuza Like a Dragon](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-overlay.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Select **GENERAL**  and uncheck the box **Enable the Steam Overlay while in-game** .  
   
@@ -229,10 +222,10 @@ This will open your game’s installation folder.
 ![disable overlay Geforce Experience Yakuza: Like a Dragon crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-overlay-GEFORCE-Experinece-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After you’ve applied the changes, remember to quit the app.
@@ -251,13 +244,6 @@ After applying the changes, quit Discord.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 7: Make your game run in high priority
 
  There are certain games particularly affected by low FPS and stuttering issues when players enable fullscreen optimizations. So if your game constantly crashes, turning off this feature may actually improve your gaming experience.
@@ -273,6 +259,13 @@ After applying the changes, quit Discord.
  4) Under the**Apps** section, navigate to**YakuzaLikeADragon** . Right-click it and select**Go to details** .  
   
 ![set priority to high to fix Yakuza Like a Dragon crashing](https://images.drivereasy.com/wp-content/uploads/2020/11/set-priority-to-high.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5)Under the**Details** tab, your game’s exe file will be highlighted. Right-click**YakuzaLikeADragon.exe** and select**Set priority > High** .  
   
@@ -291,6 +284,13 @@ Now you should be able to continue to play your game without crashes.
  The integrated graphics chipset is built into the processor and makes sure that your computer can use a display even without a dedicated GPU. However, more demanding tasks such as gaming require a stronger GPU, which in most cases is the dedicated one.
 
  The biggest benefit of a dedicated GPU is performance. Not only does a dedicated graphics card have sophisticated RAM for the task of processing video, but also has dedicated RAM for the task, which is typically faster and better optimized for the task than your general system RAM.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Find out if your computer has more than one GPU
 
@@ -398,17 +398,17 @@ Now you should be able to continue to play your game without crashes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-produce-personalized-internet-chuckles/"><u>[New] Produce Personalized Internet Chuckles</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-uncovering-top-tiktok-backdrops-quickly/"><u>[New] Uncovering Top TikTok Backdrops Quickly</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-youtube-to-facebook-sharing-pathways/"><u>[Updated] Navigating YouTube to Facebook Sharing Pathways</u></a></li>
-<li><a href="https://fox-http.techidaily.com/drone-sweet-spots-for-peak-gopro-video-performance/"><u>Drone Sweet Spots for Peak GoPro Video Performance</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725290169199-dvdwinx-dvd-ripper/"><u>DVDコピーソフトWinX DVD Ripperが必要!? 無料ダウンロードで見事に解決いたします。</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-game-crashes-effective-ways-to-keep-elex-ii-running-smoothly-on-your-pc/"><u>Eliminate Game Crashes: Effective Ways to Keep Elex II Running Smoothly on Your PC</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock Apple iPhone 6s Plus 3 Ways To Unlock</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-comprehensive-guide-for-free-video-translator-downloading/"><u>In 2024, Comprehensive Guide for Free Video Translator Downloading</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-must-have-apps-for-real-time-video-translation-for-2024/"><u>New Must-Have Apps for Real-Time Video Translation for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-all-about-kapwing-video-translation/"><u>Updated All About Kapwing Video Translation</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-translate-instagram-videos-easily-a-step-by-step-guide/"><u>Updated In 2024, Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-audiotrack-collection-pc-noises/"><u>[New] 2024 Approved Audiotrack Collection PC Noises</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/advanced-computer-solutions-decoded-by-experts-at-toms-hardware/"><u>Advanced Computer Solutions Decoded by Experts at Tom's Hardware</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/discover-enhanced-interconnectivity-with-pci-sigs-new-copperlink-cabling-designed-for-superior-compatibility-in-pcie-generations-5-and-6-leading-to-future-g117/"><u>Discover Enhanced Interconnectivity with PCI-SIG's New CopperLink Cabling: Designed for Superior Compatibility in PCIe Generations 5 and 6, Leading to Future Gen7 Developments</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/elevate-your-ai-projects-gigabytes-exclusive-software-suite-for-local-training-supports-powerful-motherboards-and-graphics-cards/"><u>Elevate Your AI Projects – Gigabyte's Exclusive Software Suite for Local Training Supports Powerful Motherboards & Graphics Cards</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-calendar-on-iphone-14-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover lost Calendar on iPhone 14 Pro Max | Stellar</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-how-to-take-long-exposure-shots-with-iphone/"><u>In 2024, How to Take Long Exposure Shots with iPhone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-videography-6-tips-for-making-macro-video/"><u>In 2024, Videography 6 Tips for Making Macro Video</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/mastery-in-gadgets-discover-what-tom-knows-about-cutting-edge-hardware/"><u>Mastery in Gadgets: Discover What Tom Knows About Cutting-Edge Hardware</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-date-insertion-into-photo-editing-for-2024/"><u>Seamless Date Insertion Into Photo Editing for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/speedy-assembly-for-stunning-google-image-mosaics-for-2024/"><u>Speedy Assembly for Stunning Google Image Mosaics for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/tech-review-mastery-discover-the-best-components-through-toms-computer-chronicles/"><u>Tech Review Mastery - Discover the Best Components Through Tom's Computer Chronicles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ultimate-free-switch-console-simulations/"><u>Ultimate Free Switch Console Simulations</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Fixing Issues When Your Discord Voice Chat Freezes"
-date: 2024-09-10T01:02:47.332Z
-updated: 2024-09-15T00:37:31.234Z
+date: 2024-09-14T19:48:10.620Z
+updated: 2024-09-20T03:42:56.470Z
 tags:
   - win11
   - win10
@@ -56,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Install the latest Fortnite patch
 
  The developers of Fortnite release regular game patches to fix bugs. It’s possible that a recent patch has stopped your chat from working, and that a new patch is required to fix it.
@@ -75,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap911.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3.**Turn on** the toggle next to **Auto update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap912.png)
@@ -86,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap898.png)
 
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Make sure your microphone is on for Fortnite
 
@@ -102,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Check your audio settings
@@ -133,32 +140,32 @@ iii. Exit Fortnite.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4\. Click the **Recording** tab, select the microphone you’re using and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5\. While still in the**Recording** tab, try**speaking into your microphone** to test if it works properly. If it is, you should see some green in the bar on the right:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6\. Click **OK** .
 
@@ -173,13 +180,6 @@ iii. Exit Fortnite.
  1\. Open the **Epic Games Launcher** . On the left panel, click**Library** . On the right, click**the gear button** on the lower-right corner of Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap940.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2\. Click**Uninstall** to uninstall Fortnite.
 
@@ -214,19 +214,19 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-expert-guide-to-instagram-data-decoding-and-actionable-strategies/"><u>[New] 2024 Approved Expert Guide to Instagram Data Decoding and Actionable Strategies</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-find-peace-and-power-the-10-greatest-yoga-channels-online/"><u>[New] 2024 Approved Find Peace & Power The 10 Greatest Yoga Channels Online</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-youtube-unearthing-the-obscured-videotapes/"><u>[New] 2024 Approved YouTube Unearthing the Obscured Videotapes</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-end-screen-creation-made-simple-free-templates-and-guides/"><u>[New] End Screen Creation Made Simple - Free Templates & Guides</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-celestial-composition-the-art-of-nighttime-photography-mastery/"><u>[New] In 2024, Celestial Composition The Art of Nighttime Photography Mastery</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-exploring-the-world-of-visual-identity-in-discord-profiles/"><u>[Updated] Exploring the World of Visual Identity in Discord Profiles</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-validity-of-windows-11-temp-files/"><u>Ensuring Validity of Windows 11 Temp Files</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-tecno-spark-10c-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Tecno Spark 10C? Fixed | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-video-from-japanese-to-english-online-in-2024/"><u>New How To Translate Video From Japanese to English Online, In 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-easy-ways-to-translate-tiktok-videos/"><u>New In 2024, Easy Ways to Translate TikTok Videos</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-how-to-make-lip-sync-video-without-installing-any-app/"><u>New In 2024, How to Make Lip Sync Video Without Installing Any App</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-top-7-online-auto-subtitle-translators-for-content-creators-for-2024/"><u>New Top 7 Online Auto Subtitle Translators for Content Creators for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-9-best-french-video-translators-online-and-download-options-for-2024/"><u>Updated 9 Best French Video Translators Online and Download Options for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-guide-to-launching-your-own-product-critique-network/"><u>[Updated] A Step-by-Step Guide to Launching Your Own Product Critique Network</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/beginners-handbook-to-pokemon-go-step-by-step-tips-and-tricks-for-mastering-the-augmented-reality-adventure/"><u>Beginner's Handbook to Pokémon GO: Step-by-Step Tips & Tricks for Mastering the Augmented Reality Adventure</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/chocolate-becomes-chocolates/"><u>Chocolate Becomes Chocolates</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/1723013940509-get-lost-in-thrilling-motorcycle-chaos-with-days-gone-now-drops-on-steam-and-epic-games-store/"><u>Get Lost in Thrilling Motorcycle Chaos with Days Gone – Now Drops on Steam and Epic Games Store!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/1723262425932-mega-savings-event-experience-the-best-of-gaming-with-the-aurora-r16-pc-and-stunning-alienware-oled-display-slash-price-by-a-whopping-700/"><u>Mega Savings Event: Experience the Best of Gaming with the Aurora R16 PC & Stunning Alienware OLED Display – Slash Price by a Whopping $700</u></a></li>
+<li><a href="https://games-able.techidaily.com/oldschoolportal-mini-game-console-of-yesteryear/"><u>OldSchoolPortal Mini: Game Console of Yesteryear</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/solving-the-starfield-high-cpu-consumption-problem-top-strategies-of-2024/"><u>Solving the Starfield High CPU Consumption Problem: Top Strategies of 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/step-by-step-solutions-for-correcting-minecrafts-crossbow-glitches/"><u>Step-by-Step Solutions for Correcting Minecraft's Crossbow Glitches</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-new-era-of-content-creation-and-profitability-for-2024/"><u>The New Era of Content Creation and Profitability for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/the-surprising-success-of-microsofts-aquatic-data-centers-project-natick-shows-fewer-failures-than-terrestrial-servers/"><u>The Surprising Success of Microsoft's Aquatic Data Centers: Project Natick Shows Fewer Failures Than Terrestrial Servers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-dvd-ripper-premium-edition-ultimate-speed-and-protection-for-copying-drm-secured-dvds-on-windows-10/"><u>WinX DVD Ripper Premium Edition - Ultimate Speed & Protection for Copying DRM-Secured DVDs on Windows 10</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-success-starts-here-best-tutorials-for-starters-for-2024/"><u>YouTube Success Starts Here Best Tutorials for Starters for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mp4-mp3-movavi/"><u>오독 자산 MP4, MP3 애드론 변환 - Movavi의 비용 없는 도구</u></a></li>
 </ul></div>
 

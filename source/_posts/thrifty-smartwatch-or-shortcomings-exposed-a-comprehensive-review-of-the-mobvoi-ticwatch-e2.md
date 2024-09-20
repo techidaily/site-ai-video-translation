@@ -1,7 +1,7 @@
 ---
 title: Thrifty Smartwatch or Shortcomings Exposed? A Comprehensive Review of the Mobvoi TicWatch E2
-date: 2024-09-10T20:20:36.253Z
-updated: 2024-09-14T23:06:04.094Z
+date: 2024-09-15T06:26:21.977Z
+updated: 2024-09-20T05:16:49.103Z
 categories:
   - BestProducts
 description: This Article Describes Thrifty Smartwatch or Shortcomings Exposed? A Comprehensive Review of the Mobvoi TicWatch E2
@@ -85,13 +85,6 @@ Lifewire / Andy Zahn
 
  For such a thin laptop, there’s a surprising amount of ports included with the Book 13\. You get 4[Thunderbolt ports](https://www.lifewire.com/what-is-thunderbolt-832713) , a USB type-A port,[HDMI port](https://www.lifewire.com/hdmi-facts-high-definition-multimedia-interface-1847337) , a microSD slot, and a 3.5mm headphone/microphone combo port. Such a versatile array of inputs is not to be taken for granted these days, and is a big point in the Book 13’s favor.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Setup Process: Very straightforward
 
  There’s not a lot to say about setting up the Razer Book 13\. It’s just a standard install of Windows 10 Home with no surprises along the way so you can be up and running in just a few minutes.
@@ -102,21 +95,7 @@ Lifewire / Andy Zahn
 
 ![Razer Book 13](https://www.lifewire.com/thmb/C308jEtLYxnwMp68uF5Sd-2hjyA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Razer_Book13_02-4da7b450ac1c4b879f1b0bebfa9815b5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Andy Zahn
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Performance: Lean and mean
 
@@ -142,6 +121,13 @@ Lifewire / Andy Zahn
 
  With[Wi-Fi 6](https://www.lifewire.com/wi-fi-6-802-11-ax-4797345) , the Book 13 had no trouble taking full advantage of my home network. It provides a fast and reliable connection, and Bluetooth 5.0 is available as well.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery: Juice for the day
 
  Razer claims a battery life of up to 10 hours or even a bit more, and I found this to be accurate. The Book 13 should get you through a day at the office without needing to recharge, depending upon use, of course.
@@ -151,10 +137,10 @@ Lifewire / Andy Zahn
 Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Audio: Big sound for a small laptop
@@ -167,16 +153,16 @@ Lifewire / Andy Zahn
 
  It’s particularly good in the mids and highs, but as you’d expect, loses something in the bass range. However, it’s more than adequate for listening to music, gaming, or watching movies.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Camera: Competent webcam
 
  The webcam on the Book 13 is about average for a laptop. It captures 720p video and is perfectly acceptable, though not exceptional in any way. Video quality looks decent, even in relatively challenging situations.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Price: The cost of quality
 
@@ -185,6 +171,13 @@ Lifewire / Andy Zahn
  Between its solid design, attractive aesthetics, and nice little touches that tie the whole package together, this is one awesome little ultrabook.
 
  This is a premium, ultra-portable device designed more for professional work, and its ability to game is basically a nice bonus. Considering the competition from Dell and Apple, it’s not unreasonably priced.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Razer Book 13 vs. Dell XPS 13 7390 2-in-1
 
@@ -197,6 +190,13 @@ Lifewire / Andy Zahn
  **A laptop with great looks, compact design, and remarkable power.**
 
  There’s a lot to love about the Razer Book 13, and not a lot of negative things to say about it. It’s not a graphical powerhouse, but the fact that it’s able to game at all is remarkable. Between its solid design, attractive aesthetics, and nice little touches that tie the whole package together, this is one awesome little ultrabook.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -236,18 +236,18 @@ Lifewire / Andy Zahn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-the-insiders-guide-to-professional-grade-editing-in-windows-10/"><u>[Updated] The Insider's Guide to Professional-Grade Editing in Windows 10</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-from-play-to-pixels-compreehensive-ps4-recording-with-obs-studio/"><u>2024 Approved From Play to Pixels Compreehensive PS4 Recording with OBS Studio</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-precision-cutting-on-iphone-best-practices-and-apps/"><u>2024 Approved Precision Cutting on iPhone Best Practices and Apps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/drive-dynamics-compiling-the-top-10-windows-and-mac-srt-mods/"><u>Drive Dynamics Compiling the Top 10 Windows & Mac SRT Mods</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-itel-p55-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Itel P55? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-best-9-french-video-translators-online-and-download-options/"><u>In 2024, Best 9 French Video Translators Online and Download Options</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-finding-people-with-our-list-of-8-leading-search-engines/"><u>Master the Art of Finding People with Our List of 8 Leading Search Engines</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-top-10-free-video-translators-to-mitigate-translation-risks-for-2024/"><u>New Top 10 Free Video Translators to Mitigate Translation Risks for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/solving-the-data-recovery-loop-on-your-iphone-effective-strategies/"><u>Solving the 'Data Recovery' Loop on Your iPhone: Effective Strategies</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ozy-cinematic-approach-to-cold-season-videography/"><u>The Cozy Cinematic Approach to Cold Season Videography</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-videos-in-tamil-for-a-wider-reach-for-2024/"><u>Updated How To Translate Videos in Tamil for a Wider Reach for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-convert-video-voice-to-text-online-for-free-fast-and-easy-ways/"><u>Updated In 2024, Convert Video Voice to Text Online for Free Fast and Easy Ways</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-vdx-quickcapture-evaluation-complete-reviews/"><u>[New] 2024 Approved VDX QuickCapture Evaluation Complete Reviews</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-innovative-techniques-to-enhance-your-obs-broadcasts-android/"><u>[New] In 2024, Innovative Techniques to Enhance Your OBS Broadcasts (Android)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unique-voice-customization-for-chrome-os-5-top-cloud-audio-editors-reviewed-for-2024/"><u>[New] Unique Voice Customization for Chrome OS 5 Top Cloud Audio Editors Reviewed for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harmonize-with-inshots-music-load-functionality/"><u>[Updated] Harmonize with InShot's Music Load Functionality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-for-social-media-savvy-content-sharers/"><u>[Updated] In 2024, Guide for Social Media Savvy Content Sharers</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/1629-asus-rog-nuc-a-competitive-entry-level-sku-packed-with-core-ultra-7-155h-and-rtx-4060/"><u>$1,629 Asus ROG NUC - A Competitive Entry-Level SKU Packed With Core Ultra 7 155H & RTX 4060</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/1723262374022-epic-gaming-deal-alert-cyberpower-desktop-only-999-nvidia-rtx-and-intel-core-inside/"><u>Epic Gaming Deal Alert - CyberPower Desktop, Only $999. Nvidia RTX & Intel Core Inside</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/experience-a-blend-of-vintage-and-cutting-edge-ayaneos-amd-am01-classic-inspired-desktop-goes-on-sale-now/"><u>Experience a Blend of Vintage and Cutting Edge: Ayaneo's AMD AM01 Classic Inspired Desktop Goes On Sale Now</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/intels-cutting-edge-leap-in-high-speed-connectivity-introducing-the-optical-interconnect-for-gpus-and-cpus-with-4tbps-bandwidth-capabilities/"><u>Intel's Cutting-Edge Leap in High-Speed Connectivity: Introducing the Optical Interconnect for GPUs and CPUs with 4TBPS Bandwidth Capabilities</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-fuzzy-images-and-optimizing-visuals-a-guide-to-crystal-clear-graphics-in-call-of-duty-warzone-pc/"><u>Resolving Fuzzy Images & Optimizing Visuals: A Guide to Crystal-Clear Graphics in Call of Duty: Warzone - PC</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/revolutionary-msi-mini-pc-equipped-with-intel-raptor-lake-processor-and-unparalleled-four-ethernet-ports-for-ultra-performance/"><u>Revolutionary MSI Mini-PC Equipped with Intel Raptor Lake Processor and Unparalleled Four Ethernet Ports for Ultra Performance</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/unveiling-the-latest-in-electronics-with-toms-hardware-analysis/"><u>Unveiling the Latest in Electronics with Tom’s Hardware Analysis</u></a></li>
 </ul></div>
 

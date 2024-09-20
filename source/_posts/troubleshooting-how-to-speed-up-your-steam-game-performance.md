@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Speed Up Your Steam Game Performance"
-date: 2024-09-08T23:41:47.521Z
-updated: 2024-09-14T16:18:32.786Z
+date: 2024-09-13T18:07:41.947Z
+updated: 2024-09-19T17:44:27.953Z
 tags:
   - win11
   - win10
@@ -89,13 +89,6 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Disable hardware encoding
 
  Hardware encoding is that it reduces the load on your CPU by using a purpose-built piece of hardware. It’s enabled by default to give you the maximum performance. But there is a possibility that it hinders your Remote Play from functioning properly. So you and your friends should disable it from the Steam client. To do this, follow the instructions below:
@@ -109,10 +102,16 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 ![disable hardware encoding Steam Steam Remote Play not working](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam-Remote-Play.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Uncheck the option**Enable hardware decoding** and then click**OK** .
@@ -132,10 +131,10 @@ Now try reconnecting your device to check if the issue persists.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-IPv6-select-open-network-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the**Change your network settings** section, click**Change adapter options** .  
@@ -146,16 +145,16 @@ Now try reconnecting your device to check if the issue persists.
   
 ![disable IPv6 right-click on the active network adapter](https://images.drivereasy.com/wp-content/uploads/2020/10/right-click-on-active-network-adapter-and-select-Properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) In the**Properties** window, scroll down until you see**Internet Protocol Version 6 (TCP /IPv6)** . Uncheck the **Internet Protocol Version 6 (TCP/IPv6)** checkbox and click on **OK** to save the changes.
 
 ![uncheck the checkbox Internet Protocol Version 6](https://images.drivereasy.com/wp-content/uploads/2020/10/uncheck-the-checkbox-Internet-Protocol-Version-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Now restart your computer for the settings to take effect.
 
@@ -182,6 +181,13 @@ To set a static IP address, you can:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/set-a-static-ip-address-to-fix-Steam-Remote-Play-not-working-issue.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Select the**Use the following IP address** option. Then type in the**IP address** ,**Subnet mask,** and**Default Gateway** corresponding to your network setup.
 
 ![set a static ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/set-a-static-ip-address-2.jpg)
@@ -198,18 +204,18 @@ To check them, you can:
 
 ![how to check your ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/check-my-ip-address.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Copy and paste the following command line and press**Enter** .  
 
 **ipconfig /renew**  
 
 ![how to check my ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/check-my-ip-address-how-to.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Now you can see your**IPv4 Address, Subnet Mask and Default Gateway** .  
 
@@ -238,16 +244,21 @@ To check them, you can:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-precision-and-quality-in-screen-recording-discovering-showmores-benefits-for-2024/"><u>[New] Precision and Quality in Screen Recording - Discovering ShowMore's Benefits for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-innovative-approaches-to-gameplay-and-webcam-captures/"><u>2024 Approved Innovative Approaches to Gameplay and Webcam Captures</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-repair-cctv-camera-video-footage/"><u>How to Repair CCTV Camera Video Footage</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-razr-40-ultra-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Razr 40 Ultra</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-youtube-videos-to-english-subtitles-for-2024/"><u>New How to Translate YouTube Videos to English Subtitles for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-5-best-chrome-extensions-you-can-use-to-translate-videos/"><u>New In 2024, 5 Best Chrome Extensions You Can Use to Translate Videos</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-step-by-step-guide-how-to-translate-twitter-video-easily-for-2024/"><u>New Step-by-Step Guide How to Translate Twitter Video Easily for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/real-time-streaming-with-manycam-ultimate-livestream-and-virtual-camera-solution/"><u>Real-Time Streaming with ManyCam: Ultimate Livestream and Virtual Camera Solution</u></a></li>
-<li><a href="https://techidaily.com/top-ways-to-unlock-iphone-xs-max-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Top ways to unlock iPhone XS Max screen lock</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-the-basics-of-effortless-nft-manufacturing/"><u>Unveiling the Basics of Effortless NFT Manufacturing</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-youtube-videos-without-cc/"><u>Updated How to Translate YouTube Videos Without CC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-seamless-guide-to-saving-gifs-on-iphonesandroids/"><u>[New] In 2024, The Seamless Guide to Saving GIFs on iPhones/Androids</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-background-elimination-in-graphic-designs/"><u>[Updated] The Art of Background Elimination in Graphic Designs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-inshot-transition-methods-explained/"><u>2024 Approved Advanced Inshot Transition Methods Explained</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/beat-batch-downloads-and-review-rhythmical-sounds/"><u>Beat Batch Downloads & Review Rhythmical Sounds</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-muse-techniques-for-building-fantastical-universes/"><u>ChatGPT as Your Muse: Techniques for Building Fantastical Universes</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/chinas-technological-triumph-the-unveiling-of-a-powerful-loongson-cpu-mini-pc-for-under-387/"><u>China's Technological Triumph: The Unveiling of a Powerful Loongson CPU Mini PC for Under $387</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/comprehensive-review-of-anthropics-smart-photo-editor-a-leading-edge-software-solution/"><u>Comprehensive Review of Anthropics Smart Photo Editor: A Leading-Edge Software Solution</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/enhancing-ai-infrastructure-how-microsoft-is-revolutionizing-data-center-connectivity-with-its-own-network-gear-tech-analysis/"><u>Enhancing AI Infrastructure: How Microsoft Is Revolutionizing Data Center Connectivity with Its Own Network Gear - Tech Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-intel-uhd-graphics-software-on-windows-11-installation-guide-and-update-tips/"><u>Get the Newest Intel UHD Graphics Software on Windows 11 - Installation Guide & Update Tips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/holistic-mobility-inspection-study/"><u>Holistic Mobility Inspection Study</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-into-the-future-samsungs-new-k850-ultrablade-unveiled/"><u>In 2024, Step Into the Future - Samsung's New K850 UltraBlade Unveiled</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-window-capture-suite-pro-xp/"><u>In 2024, Window Capture Suite Pro XP</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/navigate-the-tech-maze-with-confidence-discover-what-toms-hardware-has-to-offer/"><u>Navigate the Tech Maze with Confidence – Discover What Tom's Hardware Has to Offer</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/navigating-the-world-of-hardware-with-toms-analysis/"><u>Navigating the World of Hardware with Tom's Analysis</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/the-tech-virtuoso-tom-decoding-todays-hardware-innovations/"><u>The Tech Virtuoso, Tom: Decoding Today’s Hardware Innovations</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/unleashing-creativity-and-power-comprehensive-corsair-one-pro-gaming-pc-review/"><u>Unleashing Creativity & Power: Comprehensive Corsair One Pro Gaming PC Review</u></a></li>
 </ul></div>
 

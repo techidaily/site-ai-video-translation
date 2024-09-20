@@ -1,7 +1,7 @@
 ---
 title: How to Fix Fallout 3 Stalling Issues on Windows 10 - A Step-by-Step Guide
-date: 2024-09-12T20:25:44.217Z
-updated: 2024-09-14T17:39:56.401Z
+date: 2024-09-13T04:44:31.445Z
+updated: 2024-09-19T17:21:05.302Z
 tags:
   - win11
   - win10
@@ -70,13 +70,6 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Right-click on Fallout 3.exe and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
 5. Open the dropdown menu and choose **Windows XP (Service Pack 3)** .
@@ -85,10 +78,16 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 7. Click**Apply** \>**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Run Fallout 3 to check whether the game is running properly.
@@ -96,10 +95,10 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 4: Update your graphics card drivers
@@ -130,6 +129,14 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
@@ -164,16 +171,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blog-min.techidaily.com/2024dvdtverand/"><u>【2024】テレビ番組ダウンロードからDVDへ：プロのようにTVer録画&コピー方法</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-endorsed-srs-conversions-for-macwin-users-for-2024/"><u>Expert-Endorsed SRS Conversions for Mac/Win Users for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-reigning-supreme-top-techniques-for-innovative-youtube-end-screens/"><u>In 2024, Reigning Supreme Top Techniques for Innovative YouTube End Screens</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/maximize-your-social-media-presence-with-cross-platform-strategies-fb-li-xing-plus-youtube/"><u>Maximize Your Social Media Presence with Cross-Platform Strategies (FB, LI, Xing + YouTube)</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>New 2024 Approved Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-honor-x9a-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Honor X9a</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-latest-developments-new-twitter-scams-uncovered-introduction-of-metas-verification-feature-and-insights-into-chatgpt-4/"><u>Understanding the Latest Developments: New Twitter Scams Uncovered, Introduction of Meta's Verification Feature & Insights Into ChatGPT-4</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-best-tool-to-translate-youtube-video-to-arabic-for-2024/"><u>Updated Best Tool to Translate YouTube Video to Arabic for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-create-lip-sync-tiktok-videos-without-installing-any-app/"><u>Updated In 2024, Create Lip Sync TikTok Videos Without Installing Any App</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-how-to-translate-youtube-videos-without-cc/"><u>Updated In 2024, How to Translate YouTube Videos Without CC</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-translate-live-videos-with-the-best-video-translator/"><u>Updated Translate Live Videos With The Best Video Translator</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-choice-for-live-tv-access-with-regional-networks-2024-edition/"><u>[New] Ultimate Choice for Live TV Access with Regional Networks, 2024 Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-subscribe-like-a-pro-true-or-false/"><u>[Updated] Subscribe Like a Pro True or False?</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/fifa-championship-review-leading-the-charge-in-digital-athleticism/"><u>FIFA ⚽️ Championship Review: Leading the Charge in Digital Athleticism</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-the-most-out-of-facebook-unlock-productivity-secrets-with-5-key-moves/"><u>Get the Most Out of Facebook: Unlock Productivity Secrets With 5 Key Moves</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-add-music-in-premiere-pro-for-2024/"><u>How To Add Music In Premiere Pro for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-calculating-video-data-use-in-a-full-day-watch/"><u>In 2024, Calculating Video Data Use in a Full-Day Watch</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-essential-cameras-for-upcoming-4khd-music-video-shootouts/"><u>In 2024, Essential Cameras for Upcoming 4K/HD Music Video Shootouts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-kraken-mic-problems-solved-a-step-by-step-guide/"><u>Razer Kraken Mic Problems Solved: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/samsung-galaxy-tab-s7-review-a-mid-tier-tablet-for-android-fans/"><u>Samsung Galaxy Tab S7 Review: A Mid-Tier Tablet for Android Fans</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/toms-digital-discovery-zone-deciphering-the-world-of-computer-components/"><u>Tom's Digital Discovery Zone - Deciphering the World of Computer Components</u></a></li>
 </ul></div>
 

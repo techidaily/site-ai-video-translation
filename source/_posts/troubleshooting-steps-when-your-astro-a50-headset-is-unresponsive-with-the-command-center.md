@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps When Your Astro A50 Headset Is Unresponsive with the Command Center
-date: 2024-09-09T02:33:49.717Z
-updated: 2024-09-14T19:18:20.736Z
+date: 2024-09-14T23:49:11.598Z
+updated: 2024-09-20T04:12:00.553Z
 tags:
   - win11
   - win10
@@ -90,16 +90,10 @@ To tell whether you have an SSD or an HDD, please view the Task Manager:
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
@@ -114,6 +108,19 @@ To do so, first visit the website of your GPU manufacturer:
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -124,7 +131,23 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -132,13 +155,6 @@ To do so, first visit the website of your GPU manufacturer:
  Launch RoboCop: Rogue City again and see if the latest graphics driver helps to stop the crashing. If this fix doesn’t work for you, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Verify game files
 
@@ -149,13 +165,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
@@ -174,13 +183,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Repair damaged system files
 
 **Repairing corrupted or damaged system files** could also help fix crashing problems with games like RoboCop: Rogue City. This is because the integrity of Windows system files is essential for the overall system’s proper operation and stability, while errors in critical system files can cause crashes, freezes, and problems that affect gaming performance.
@@ -194,10 +196,10 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -227,17 +229,18 @@ To do so, first visit the website of your GPU manufacturer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-perfect-sound-devices-for-podcasters/"><u>[New] 2024 Approved Perfect Sound Devices for Podcasters</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/avoiding-constant-printer-service-disruptions-on-win7win10/"><u>Avoiding Constant Printer Service Disruptions on Win7/Win10</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/complete-guide-of-top-video-language-translators-for-2024/"><u>Complete Guide of Top Video Language Translators for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/easycapture-prox-diagnosis-for-2024/"><u>EasyCapture ProX Diagnosis for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-our-picked-top-10-best-tools-similar-to-chatgpt/"><u>Explore Our Picked Top 1^0 Best Tools Similar to ChatGPT</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/exploring-high-definition-cinema-the-basics-of-4k-blu-ray-and-ultra-hd-films/"><u>Exploring High Definition Cinema: The Basics of 4K Blu-Ray & Ultra HD Films</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-15-plus-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 15 Plus to iPad? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-g22-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia G22 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation-for-2024/"><u>New An Exhaustive List of Lip Sync Apps for Vibrant Video Creation for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-comprehensive-guide-for-free-video-translator-downloading-for-2024/"><u>Updated Comprehensive Guide for Free Video Translator Downloading for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-convert-video-voice-to-text-online-for-free-in-2024/"><u>Updated How To Convert Video Voice to Text Online for Free, In 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-easy-ways-to-translate-tiktok-videos/"><u>Updated In 2024, Easy Ways to Translate TikTok Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/5-online-audio-haven-sites-for-video-content-makers/"><u>[New] 15 Online Audio Haven Sites for Video Content Makers</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-tiktok-triumphs-in-twitter-land-toptiktoks-revealed/"><u>[New] In 2024, TikTok Triumphs in Twitter Land #TopTikToks Revealed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-deciphering-the-code-to-your-liked-videos-on-facebook/"><u>[Updated] Deciphering the Code to Your Liked Videos on Facebook</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-bite-sized-biographical-look/"><u>2024 Approved Bite-Sized Biographical Look</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/best-10-hindi-video-translators-with-step-by-step-guidance-for-2024/"><u>Best 10 Hindi Video Translators with Step-by-Step Guidance for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/halted-dx12-error-in-new-halo-infinites-release/"><u>Halted: DX12 Error in New Halo Infinite's Release</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-hot-30i-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Infinix Hot 30i Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-share-the-screen-with-zoom/"><u>How to Share the Screen with Zoom</u></a></li>
+<li><a href="https://howto.techidaily.com/infinix-smart-7-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Smart 7 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/maximize-yandex-translate-in-video-translation-and-beyond/"><u>Maximize Yandex Translate in Video Translation and Beyond</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-how-to-convert-video-voice-to-text-online-for-free/"><u>New 2024 Approved How To Convert Video Voice to Text Online for Free?</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/translate-video-from-english-to-arabic-with-ease-for-2024/"><u>Translate Video From English to Arabic with Ease for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio-for-2024/"><u>Updated A Comprehensive Guide to Video and Subtitle Translation with Veed.io for 2024</u></a></li>
 </ul></div>
 

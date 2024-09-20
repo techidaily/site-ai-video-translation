@@ -1,7 +1,7 @@
 ---
 title: "Quick Solution: How to Stop Mordhau From Unexpectedly Crashing"
-date: 2024-09-13T20:49:56.888Z
-updated: 2024-09-14T22:43:23.153Z
+date: 2024-09-13T20:44:27.536Z
+updated: 2024-09-19T20:56:31.726Z
 tags:
   - win11
   - win10
@@ -77,6 +77,19 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![This image has an empty alt attribute; its file name is image-342.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-342.png)
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
@@ -88,13 +101,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 **4)** Restart Oxygen Not Included from Steam.
 
 Hope the game runs smoothly now. If it’s not, check the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4:**Run the game in compatibility mode**
 
@@ -108,20 +114,27 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-278.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Right-click**OxygenNotIncluded.exe** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-282.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-280.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)**  Click the list box below to select**Windows 8** , then click**OK** .
 
@@ -156,13 +169,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
  If you’re given a password to unlock the appropriate branch, type the password in the box next to**CHECK CODE** , click**CHECK CODE** and your branch will now be in the dropdown menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-288.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Click the**Local Files tab,** then click**VERIFY INTEGRITY OF GAME FILES** . ( Your game will be updated to the new branch, then.)
 
@@ -227,13 +233,6 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 8:**Check for Windows updates**
 
  Windows Updates can also address bugs related to both hardware and software. So make sure you’ve installed all the new Windows Updates to keep Oxygen Not Included from crashing. Here is how to do it:
@@ -241,6 +240,13 @@ OR
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type**windows update** and select **Windows Update settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-575.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
@@ -258,22 +264,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-494.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
@@ -308,18 +308,15 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-unmatched-action-footage-top-7-best-camcorders/"><u>[New] In 2024, Unmatched Action Footage Top 7 Best Camcorders</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-exploring-visual-storytelling-creating-time-lapse-videos-on-ipad/"><u>[Updated] In 2024, Exploring Visual Storytelling Creating Time-Lapse Videos on iPad</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellence-in-endless-data-archiving-services/"><u>2024 Approved Excellence in Endless Data Archiving Services</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discovering-duckduckgos-privacy-advantages-an-in-depth-analysis/"><u>Discovering DuckDuckGo's Privacy Advantages: An In-Depth Analysis</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enjoy-apples-on-amazon-firestick-how-to-link-up-for-ultimate-entertainment/"><u>Enjoy Apples on Amazon Firestick: How To Link Up for Ultimate Entertainment</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-honor-x50-frp-by-drfone-android/"><u>How Can We Bypass Honor X50 FRP?</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations/"><u>In 2024, Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-setup-for-your-zebra-gk420d-driver-free-download-available/"><u>Quick Setup for Your Zebra GK420d Driver: Free Download Available</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>Updated 2024 Approved Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-translate-live-videos-with-the-best-video-translator/"><u>Updated 2024 Approved Translate Live Videos With The Best Video Translator</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps/"><u>Updated In 2024, Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>Updated In 2024, How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-step-by-step-guide-how-to-translate-twitter-video-easily/"><u>Updated In 2024, Step-by-Step Guide How to Translate Twitter Video Easily</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-saving-the-essence-a-guide-for-virtual-meeting-records/"><u>[New] 2024 Approved Saving the Essence A Guide for Virtual Meeting Records</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-cutting-edge-tips-streamline-your-ps4-gameplay-footage-collection-for-2024/"><u>[New] Cutting-Edge Tips Streamline Your PS4 Gameplay Footage Collection for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-simplifying-the-art-of-advertising-through-structured-content/"><u>[New] Simplifying the Art of Advertising Through Structured Content</u></a></li>
+<li><a href="https://win11.techidaily.com/gaining-admin-access-in-command-prompt/"><u>Gaining Admin Access in Command Prompt</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-speedy-sketching-techniques-for-fortnite-tiles/"><u>In 2024, Speedy Sketching Techniques for Fortnite Tiles</u></a></li>
+<li><a href="https://driver-error.techidaily.com/iphone-se-unresponsive-to-windows-xp-professional-fixed/"><u>IPhone SE Unresponsive to Windows XP Professional [Fixed]</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/lego-star-wars-the-skywalker-saga-fixing-the-pc-game-crash/"><u>Lego Star Wars: The Skywalker Saga - Fixing the PC Game Crash</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/mastering-resilience-the-unbreakable-loop-of-african-american-continuity/"><u>Mastering Resilience: The Unbreakable Loop of African American Continuity</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-assessment-of-mophies-portable-ac-charger-justifying-the-premium-with-superior-convenience/"><u>The Ultimate Assessment of Mophie's Portable AC Charger: Justifying the Premium with Superior Convenience</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/troubleshooting-logitech-g-pro-x-mic-solutions-for-non-functional-audio/"><u>Troubleshooting Logitech G Pro X Mic: Solutions for Non-Functional Audio</u></a></li>
 </ul></div>
 
