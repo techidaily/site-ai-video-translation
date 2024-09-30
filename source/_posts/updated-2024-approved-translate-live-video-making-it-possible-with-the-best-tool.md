@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Translate Live Video Making It Possible With The Best Tool
-date: 2024-09-24T16:28:18.647Z
-updated: 2024-09-26T04:03:06.770Z
+date: 2024-09-28T21:14:37.162Z
+updated: 2024-09-30T21:02:06.775Z
 tags: 
   - ai translate video
   - ai generate video
@@ -34,13 +34,6 @@ Some videos might contain confidential data like interviews and personal informa
 ### 3\. Cultural Sensitivity
 
 Every culture has its own predefined boundaries and traditions for good. Translators should look for what is acceptable in a culture or what is offensive. By keeping that in view, they should translate in an appropriate language. In this regard, you can avoid slang language or jargon as per cultural norms. It is essential to avoid cultural violations in translation that might cause legal issues.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Quality and Objectivity
 
@@ -113,11 +106,25 @@ If you want to automatically **translate live video**, then Media.io can prove t
 
 ![media io translate live video](https://images.wondershare.com/virbo/article/translate-live-video-with-best-tool-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Key Features
 
 - It allows you to insert the text within 1500 characters and choose a language for translation. Then, you can select one voice from the given options and translate the text into speech.
 - Media.io provides options to adjust the speed and pitch of the translated audio.
 - Apart from video translation, you can get auto subtitles for your projects. Also, it allows you to upload your subtitle file and make manual translations.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Kapwing
 
@@ -148,13 +155,6 @@ If you are looking for an effortless translation, consider using Notta. It will 
 It is basically a podcast editor that can translate live video in over 30 languages. streamlabs enables you to share videos directly on streaming platforms like YouTube. With its text-based editing, you can search for a particular portion of the video files. Apart from translating videos, you can translate captions and generate auto-subtitles.
 
 ![streamlabs translate live video](https://images.wondershare.com/virbo/article/translate-live-video-with-best-tool-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -227,13 +227,6 @@ Online translating tools prove less stable if you require better translation e
 If you also want to make a video in another language from scratch, use Virbo. This tool also provides a variety of voice tones and avatars to get video in any language or tone. Users can generate a script and paste it to convert it into speech with a selected Avatar presenter. Despite that, there are talking photos to put fun and life into your content.
 
 ![virbo translate video feature](https://images.wondershare.com/virbo/article/2024/03/translate-live-video-with-best-tool-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Generate Voice Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
@@ -380,6 +373,13 @@ VEED.io is an online tool for recording and editing professional videos on one p
 
 ![veed io ai translate](https://images.wondershare.com/virbo/article/video-creation-with-ai-into-reality-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Key Features:**
 
 * Upload subtitle files with VTT, TXT, and SRT formats to get subtitles added to the video.
@@ -403,13 +403,6 @@ This AI-powered tool offers voice-overs, transcriptions, and caption-generating 
 Edit, trim, and enhance videos with this AI tool with cutting-edge technology. AI translate subtitle is one of its features in terms of AI video creation and editing. You can paste a YouTube video link or upload a file from Google Drive and Google Photos. After getting subtitles, users can translate them into different languages or edit them.
 
 ![kapwingai ai translate](https://images.wondershare.com/virbo/article/video-creation-with-ai-into-reality-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Key Features:**
 
@@ -571,6 +564,13 @@ Edit, trim, and enhance videos with this AI tool with cutting-edge technology. A
 2. Resize the video canvas for direct sharing on social media platforms.
 3. You can browse misspelled words and manually correct them.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. HeyGen
 
 HeyGen is originally an AI video creator but also offers a video translation feature. To translate a video, you have to upload an MP4 video with a 500 MB file size. The file size uploading limit depends on the credits and plan you are using. It requires uploading videos of 30 seconds minimum and 5 minutes maximum.
@@ -602,6 +602,13 @@ To sum up, AI has reduced the manual efforts in the video production and editing
 In search of the best translation tool, you can rely on Wondershare Virbo. This AI tool has all the essential features to create an AI avatar video and translation. That's why digital creators and other professionals prefer this AI tool.
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Maximize Yandex Translate in Video Translation and Beyond
 
@@ -858,6 +865,13 @@ Here are the different use cases of Virbo for all your content creation needs:
 
 ![wondershare virbo banner](https://images.wondershare.com/virbo/images2023/feature-video-translation/translator-img2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * **Language learning enhancement**. Use Virbo to translate Korean dramas or films with English subtitles. It aids in language immersion, pronunciation practice, and cultural understanding.
 * **Content creation and localization**. Translate Korean YouTube videos or vlogs into English. It enables creators to expand their audience reach. You can also adapt your content for global viewership.
 * **Academic research and study**. Translate Korean documentaries or educational videos into English to supplement academic research. Analyze cultural themes and enrich coursework with diverse perspectives.
@@ -976,19 +990,6 @@ Taking advantage of AI cloning tech, Virbo can mimic voices. It has a remarkable
 Here are the different use cases of Virbo for all your content creation needs:
 
 ![wondershare virbo banner](https://images.wondershare.com/virbo/images2023/feature-video-translation/translator-img2.png)
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * **Language learning enhancement**. Use Virbo to translate Korean dramas or films with English subtitles. It aids in language immersion, pronunciation practice, and cultural understanding.
 * **Content creation and localization**. Translate Korean YouTube videos or vlogs into English. It enables creators to expand their audience reach. You can also adapt your content for global viewership.
@@ -1111,13 +1112,6 @@ Step 4 **Translate your video**
 Once the translation finishes, hit the orange Translate this video button. Virbo will translate your audio and present the file for downloading.
 
 [Translate Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3. Guidelines for Creating Accurate Spanish Translation
 
@@ -1257,19 +1251,6 @@ Once your video finishes uploading, you will see the option to select Source and
 
 ![step guidance virbo arabic translator - step 3](https://images.wondershare.com/virbo/article/translate-video-to-arabic-04.png)
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Click on **Generate Video** to begin the video translation process. It will take some time so be patient.
 
 When the translation finishes, preview it. If everything is fine, click on **Download Video** to save your video offline. Easy peasy!
@@ -1379,6 +1360,13 @@ However, for complex language translations, even the greatest AI would suffer. T
 
 ![Using Virbo](https://images.wondershare.com/virbo/article/best-10-chinese-video-to-english-translators-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Speechify](https://speechify.com/translator) is hailed as one of the best translators, as it supports over 80+ languages and can translate videos in a matter of minutes. The tool is used by many news networks and media companies like the Wall Street Journal, Forbes, CBS, and more.
 
 What Speechify excels in is saving you a bunch of money since you don’t need to hire a translator. You can instantly make your videos reach a global audience. But aside from the translation tool, Speechify also contains many other AI tools that anyone can use to make complex tasks easier.
@@ -1421,13 +1409,6 @@ Here are some of its key features:
 ### 4\. Auris AI
 
 ![AurisAI](https://images.wondershare.com/virbo/article/best-10-chinese-video-to-english-translators-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Auris AI](https://aurisai.io/translate-video/) is one of the best tools for video in Chinese translation. It supports all Asian languages and translates videos instantly with its advanced AI. With Auris, your business can reach a wider audience so you can gain more subscribers, reach more people, and make global connections.
 
@@ -1502,6 +1483,13 @@ You can also polish your final transcript and change anything that might look li
 * Free trial comes with a lot of benefits
 * Fast and effective speech-to-text algorithm
 * Affordable price
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -1743,21 +1731,22 @@ It comes with other features like AI avatars, voice cloning, and transcription, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-streaming-success-optimizing-your-logitech-cam-for-2024/"><u>[New] Streaming Success Optimizing Your Logitech Cam for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-protecting-privacy-top-10-webcam-covers/"><u>[Updated] 2024 Approved Protecting Privacy Top 10 Webcam Covers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-paint-jocular-visuals-with-giphy-in-mind/"><u>[Updated] In 2024, Paint Jocular Visuals with Giphy in Mind</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/a-closer-look-at-nhl-2019s-compelling-internet-game-dynamics/"><u>A Closer Look at NHL 2019'S Compelling Internet Game Dynamics</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/comprehensive-guide-for-free-video-translator-downloading-for-2024/"><u>Comprehensive Guide for Free Video Translator Downloading for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Huawei P60? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-your-windows-ecosystem-wsl-and-win-11/"><u>Enhancing Your Windows Ecosystem: WSL & Win 11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/first-mover-disadvantage-godfall-on-ps5-fails-spectacularly-with-its-boring-plot-and-chaotic-gameplay/"><u>First-Mover Disadvantage? Godfall on PS5 Fails Spectacularly with Its Boring Plot and Chaotic Gameplay</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>In 2024, How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-guide-downloading-and-setting-up-your-hp-wireless-driver-on-windows/"><u>Ultimate Guide: Downloading & Setting Up Your HP Wireless Driver on Windows</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-netflix-subtitle-translation-methods-comprehensive-guide/"><u>Updated 2024 Approved Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation/"><u>Updated An Exhaustive List of Lip Sync Apps for Vibrant Video Creation</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-9-best-french-video-translators-online-and-download-options/"><u>Updated In 2024, 9 Best French Video Translators Online and Download Options</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-translate-video-from-english-to-arabic-with-ease-for-2024/"><u>Updated Translate Video From English to Arabic with Ease for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-translate-video-from-japanese-to-english-online-for-free-for-2024/"><u>Updated Translate Video From Japanese to English Online for Free for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-elevate-your-farming-game-to-immortal-status-with-these-7-14-mods/"><u>[Updated] 2024 Approved Elevate Your Farming Game to Immortal Status with These #7-14 Mods</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-the-art-of-inverted-lookups-on-instagram-posts/"><u>[Updated] In 2024, Mastering the Art of Inverted Lookups on Instagram Posts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-muzik-pathway-tamil-music-to-your-phones-chime/"><u>[Updated] In 2024, Muzik Pathway Tamil Music to Your Phone's Chime</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-ultimate-checklist-for-installing-vrecorder/"><u>[Updated] In 2024, Ultimate Checklist for Installing VRecorder</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-crafting-cinematic-tales-in-documentary-scripts/"><u>2024 Approved Crafting Cinematic Tales in Documentary Scripts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-create-a-youtube-auto-subscribe-link/"><u>2024 Approved How to Create a YouTube Auto-Subscribe Link</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/all-about-kapwing-video-translation/"><u>All About Kapwing Video Translation</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-corruption-errors-fixing-file-issues-code-0x80070570-on-windows-11/"><u>Disabling Corruption Errors - Fixing File Issues Code 0X80070570 on Windows 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/discover-the-ultimate-selection-of-12-free-anime-plug-ins-for-enhanced-viewing-on-kodi-versions-20-and-19/"><u>Discover the Ultimate Selection of 12 FREE Anime Plug-Ins for Enhanced Viewing on Kodi Versions 20 and 19</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x80072f8f-on-windows-11-and-10-comprehensive-troubleshooting-guide/"><u>Error 0X80072F8F on Windows 11 & 10: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-convert-video-voice-to-text-online-for-free/"><u>How To Convert Video Voice to Text Online for Free?</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-maximize-yandex-translate-in-video-translation-and-beyond/"><u>In 2024, Maximize Yandex Translate in Video Translation and Beyond</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-how-to-convert-video-voice-to-text-online-for-free-in-2024/"><u>New How To Convert Video Voice to Text Online for Free, In 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>New How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-how-to-convert-video-voice-to-text-online-for-free/"><u>New In 2024, How To Convert Video Voice to Text Online for Free?</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/top-10-ai-subtitle-translators-for-content-creators/"><u>Top 10 AI Subtitle Translators for Content Creators</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>Updated Translate Audio/Video Content From Spanish to English and Vice Versa</u></a></li>
 </ul></div>
 

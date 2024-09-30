@@ -1,7 +1,7 @@
 ---
 title: New Top 10 Free Video Translators to Mitigate Translation Risks for 2024
-date: 2024-09-18T19:45:57.563Z
-updated: 2024-09-26T02:51:38.345Z
+date: 2024-09-27T18:26:56.710Z
+updated: 2024-09-30T21:32:51.791Z
 tags: 
   - ai translate video
   - ai generate video
@@ -147,6 +147,13 @@ The video translation tool is faster and comes with the highest accuracy. It als
 
 ![Maestra](https://images.wondershare.com/virbo/article/best-10-free-video-translators-to-mitigate-translation-risks-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Maestra](https://maestra.ai/tools/video-translator) is another popular AI video translator software that puts ease of use at its forefront. It specializes in making things easy for you every step of the way. It does not require any credit card or even an account to work.
 
 With Maestra, you can get your videos translated easily and effectively. That is one of the reasons why HP, ZHealth, and many other big brands use it. In just three steps, you can translate your videos from one language to another for free, with minimal effort required.
@@ -221,6 +228,13 @@ So, what are these risks, and how do we mitigate these risks? Let’s find out.
 
 Nowadays, companies are looking less and less to hire translators and leaning more towards AI. But it isn’t because of the fact that AI is more accurate. It’s because AI just takes a fraction of the time a real human has. So, what are the potential risks of translating videos? Let’s find out.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Accuracy
 
 One of the biggest issues with using free video translators is the accuracy. Video translation software uses machine translation and machine learning, which can sometimes produce unpredictable and inaccurate results. Moreover, misleading translations can mess up a translated video and can potentially cause problems in the long run. This can be especially problematic for videos that contain important information, such as news broadcasts or educational content.
@@ -293,13 +307,6 @@ Looking at all these features, it’s no wonder that brands like Facebook, P&G, 
 
 One of the key features of HappyScribe is that it supports various video and audio formats that are perfect for all devices. HappyScribe also makes it easier for you to translate videos since it makes the whole process easier for you.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Features
 
 * A good client portfolio
@@ -328,13 +335,6 @@ So, if you’re looking to translate any language in the world into English and 
 
 The translation tool is so famous that it is being used by companies like TikTok, Nvidia, and Mobile Legends. So, if you are looking for a translator that claims to have 100% accuracy, CapCut might be the perfect tool for you.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Features
 
 * 100% video translation accuracy
@@ -359,16 +359,16 @@ The video translation tool is faster and comes with the highest accuracy. It als
 
 ![Maestra](https://images.wondershare.com/virbo/article/best-10-free-video-translators-to-mitigate-translation-risks-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Maestra](https://maestra.ai/tools/video-translator) is another popular AI video translator software that puts ease of use at its forefront. It specializes in making things easy for you every step of the way. It does not require any credit card or even an account to work.
 
 With Maestra, you can get your videos translated easily and effectively. That is one of the reasons why HP, ZHealth, and many other big brands use it. In just three steps, you can translate your videos from one language to another for free, with minimal effort required.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Features
 
@@ -611,6 +611,13 @@ It also supports formats like SRT, VTT, CSV, and more, so no matter which format
 
 ![Weet](https://images.wondershare.com/virbo/article/top-9-choices-for-video-auto-translate-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Weet](https://weet.co/tools/translate-video-subtitles) allows you to automatically translate videos into more than 30 languages. By using their cutting-edge AI online subtitle translator, you can reach a global audience and show them the content they need.
 
 Simply upload your video on the platform and let Weet’s AI do the rest. The subtitle generator prioritizes precise timing and synchronization. With the accessibility tools, it is even better for people with disabilities to look at the automatically generated subtitles as it makes their experience seamless.
@@ -693,6 +700,13 @@ This tool will help you to boost your creativity in creating videos and transfor
 2. It offers to export Full HD formats such as MP4 or WebM.
 3. Convert your written text to speech in multiple languages. Virbo supports 120+ languages to transform your text into engaging audio.
 4. It provides a royalty-free stock of music that users can use in their videos without any hassle.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2.1: How to Use Wondershare Virbo Video Translator Online
 
@@ -847,13 +861,6 @@ TYPITO is also an **online video language changer** that automatically translate
 
 ![Typito video language changer](https://images.wondershare.com/virbo/article/online-video-language-changer-5.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you want to create YouTube videos and add translation inside the video, you can also try TYPITO. It helps to burn the subtitles files into your video. Adjust the font, size, color, layout, and position of the subtitles before downloading the file. If you are creating an educational video, then you can use styled themes to make your subtitles more attractive.
 
 **Key Features of TYPITO:**
@@ -972,6 +979,13 @@ There are certain input requirements to the videos you can upload and translate.
 Step 4: Select the original language and the target language to translate to.
 
 ![select original and target languages](https://images.wondershare.com/virbo/guide/app/video-translate-app-7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **ADVANCED FEATURES**
 
@@ -1099,19 +1113,6 @@ For this example, we are selecting Hindi.
 As you can see in the screenshot below, subtitles are now auto-translated into Hindi.
 
 ![youtube auto translate - step 6](https://images.wondershare.com/virbo/article/auto-translate-for-youtube-05.jpg)
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 That’s all. We hope now you know how **auto translate for YouTube** works. With this feature, you can **translate YouTube video to English,** or any other language according to your needs. It’s easy and super helpful for watching content in any language.
 
@@ -1517,16 +1518,10 @@ In the fast-paced world of digital content creation, the ability to communicate 
 ![virbo video language translator](https://images.wondershare.com/virbo/article/video-language-translator-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
@@ -1623,13 +1618,6 @@ Venturing into the realm of voice translation, SayHi captures attention with its
 
 ![sayhi video language translator](https://images.wondershare.com/virbo/article/video-language-translator-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Features
 
 1. It allows users to engage in live conversations and create dynamic multilingual content effortlessly.
@@ -1669,6 +1657,13 @@ In the realm of online **video language translator**, Veed stands out as a compr
 
 * It relies on a stable internet connection.
 * It may not provide the depth of advanced editing tools.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. Amara
 
@@ -1814,19 +1809,6 @@ Ease of Use
 A user-friendly interface is crucial, especially in dynamic situations. Look for clear buttons and intuitive navigation. Don't let a complex app add stress – choose one that's simple.
 
 ![ui and ux user experience illustration](https://images.wondershare.com/virbo/article/2024/03/voice-translation-english-to-bangla-07.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Price
 
@@ -2344,24 +2326,22 @@ So, these are the top subtitle translators available today. These tools simplify
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-discover-reliable-free-mobile-communication-tools-with-advanced-security-features/"><u>[New] Discover Reliable Free Mobile Communication Tools with Advanced Security Features</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/5-best-apps-for-voice-translation-from-english-to-bangla-for-2024/"><u>5 Best Apps for Voice Translation From English to Bangla for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/avoid-irritants-certain-products-such-as-douches-powders-or-scented-feminine-hygiene-products-can-irritate-the-urethra-and-increase-your-risk-of-a-uti-opt-f393/"><u>Avoid Irritants: Certain Products, Such as Douches, Powders, or Scented Feminine Hygiene Products, Can Irritate the Urethra and Increase Your Risk of a UTI. Opt for Unscented Personal Care Items Instead</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/building-a-professional-online-network-hub-for-2024/"><u>Building a Professional Online Network Hub for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-windows-11-8-or-7-devices-connected-broadcom-bluetooth-drivers-download/"><u>Get Your Windows 11, 8, or 7 Devices Connected: Broadcom Bluetooth Drivers Download</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>How Can I Use a Fake GPS Without Mock Location On Apple iPhone 11? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-samsung-galaxy-m14-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Samsung Galaxy M14 5G FRP Without Computer</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-redmi-12-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Redmi 12 5G</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation/"><u>New 2024 Approved An Exhaustive List of Lip Sync Apps for Vibrant Video Creation</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-best-5-udemy-subtitle-translator-auto-translation/"><u>New 2024 Approved Best 5 Udemy Subtitle Translator (Auto Translation)</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-how-to-convert-video-voice-to-text-online-for-free/"><u>New 2024 Approved How To Convert Video Voice to Text Online for Free?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/step-by-step-guide-to-optimizing-fb-in-stream-advertising-for-2024/"><u>Step-by-Step Guide to Optimizing FB In-Stream Advertising for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ssential-youtube-beauty-guides-you-cant-miss/"><u>The Essential YouTube Beauty Guides You Can't Miss</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-complete-guide-of-top-video-language-translators/"><u>Updated 2024 Approved Complete Guide of Top Video Language Translators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-a-brief-review-of-capcut-translate-with-alternative/"><u>Updated A Brief Review of CapCut Translate With Alternative</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio-for-2024/"><u>Updated A Comprehensive Guide to Video and Subtitle Translation with Veed.io for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-tiktok-videos-all-you-want-to-know/"><u>Updated How to Translate TikTok Videos? All You Want to Know</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-how-to-translate-youtube-videos-to-english-subtitles/"><u>Updated In 2024, How to Translate YouTube Videos to English Subtitles</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-simple-techniques-for-downloading-youtube-content/"><u>[New] 2024 Approved Simple Techniques for Downloading YouTube Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-art-of-multi-platform-broadcasting-in-the-digital-age/"><u>[New] The Art of Multi-Platform Broadcasting in the Digital Age</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-amplify-your-content-speedy-instagram-fame/"><u>[Updated] 2024 Approved Amplify Your Content Speedy Instagram Fame</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-optimal-video-chat-on-windows-1-8/"><u>[Updated] In 2024, Optimal Video Chat on Windows #1-8</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-alternative-video-editors-for-laptops/"><u>2024 Approved Alternative Video Editors for Laptops</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-stabilize-iphone-videos-3-ways-for-2024/"><u>How to Stabilize iPhone Videos? [3-Ways] for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-all-about-kapwing-video-translation/"><u>In 2024, All About Kapwing Video Translation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-haul-video-production-and-editing-techniques/"><u>In 2024, The Art of Haul Video Production and Editing Techniques</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-the-best-ai-translator-to-translate-videos-online/"><u>New 2024 Approved The Best AI Translator to Translate Videos Online</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-best-toolbox-to-translate-youtube-videos-to-english-subtitles/"><u>New Best Toolbox to Translate YouTube Videos to English Subtitles</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-kya-aap-video-call-kar-sakty-ho-translate-any-hindi-video-into-english/"><u>New In 2024, Kya Aap Video Call Kar Sakty Ho Translate Any Hindi Video Into English</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/tender-translations-french-cinemas-romance/"><u>Tender Translations: French Cinema's Romance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-12-methods-for-effortless-dat-to-mp4-conversion-a-comprehensive-guide-by-movavi/"><u>Top 12 Methods for Effortless DAT to MP4 Conversion: A Comprehensive Guide by Movavi</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/top-9-choices-for-video-auto-translate-for-2024/"><u>Top 9 Choices for Video Auto Translate for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled-for-2024/"><u>Updated Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-step-by-step-guide-how-to-translate-twitter-video-easily/"><u>Updated Step-by-Step Guide How to Translate Twitter Video Easily</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>Updated The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
 </ul></div>
 

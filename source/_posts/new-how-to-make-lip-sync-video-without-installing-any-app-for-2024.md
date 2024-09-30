@@ -1,7 +1,7 @@
 ---
 title: New How to Make Lip Sync Video Without Installing Any App for 2024
-date: 2024-09-21T17:46:12.772Z
-updated: 2024-09-26T06:53:39.338Z
+date: 2024-09-25T18:55:08.140Z
+updated: 2024-09-30T16:12:28.164Z
 tags: 
   - ai translate video
   - ai generate video
@@ -335,6 +335,13 @@ How to lipsync TikTok videos to any language with Wondershare Virbo - Video Tran
 
 ![Wondershare Virbo Interface](https://images.wondershare.com/virbo/article/2024/03/tiktok-lip-sync-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * **Step 4.** Upload the video.
 
 Once inside the Video Translator interface, upload the video file you wish to translate. Select the original video language and the preferred target language from the available options. Additionally, enable the Lip Sync feature to ensure that the translated audio aligns perfectly with the lip movements in the video.
@@ -344,6 +351,13 @@ Once inside the Video Translator interface, upload the video file you wish to tr
 * **Step 5.** Click "Translate this video" to start translating the video.
 
 Virbo’s Video Translator will use its advanced algorithms to translate the audio and synchronize it with the video seamlessly. Depending on the length and complexity of the video, the translation process may take some time.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -424,13 +438,6 @@ In this guide, we will demonstrate how Virbo's user-friendly interface and advan
 
 ![translate video online button](https://images.wondershare.com/virbo/article/2024/03/netflix-subtitle-translation-guide-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Select the **Upload Video** icon and choose the video from your local files by clicking **Open**. Allow some time for the video to upload.
 
 ![upload video from local file](https://images.wondershare.com/virbo/article/2024/03/netflix-subtitle-translation-guide-06.jpg)
@@ -457,6 +464,13 @@ In this guide, we will demonstrate how Virbo's user-friendly interface and advan
 
 ![translate video butto](https://images.wondershare.com/virbo/article/2024/03/netflix-subtitle-translation-guide-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 10:** To access the translated video for download, simply click on the **Download video** button below.
 
 ![download video button](https://images.wondershare.com/virbo/article/2024/03/netflix-subtitle-translation-guide-12.jpg)
@@ -464,13 +478,6 @@ In this guide, we will demonstrate how Virbo's user-friendly interface and advan
 ## Part 3: What Are The Methods and Tips for Effective Netflix Subtitle Translation?
 
 ![method and tips netflix subtitle translation](https://images.wondershare.com/virbo/article/2024/03/netflix-subtitle-translation-guide-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Netflix, a renowned entertainment platform, offers a wide range of shows and movies to audiences worldwide. Subtitles play a crucial role in ensuring that viewers from different language backgrounds can enjoy the content. In this section, we will discuss various methods and techniques aimed at enhancing the quality of subtitle translation on Netflix.
 
@@ -486,16 +493,16 @@ Cultural references and idiomatic expressions are integral parts of language and
 
 Languages have their own unique nuances and subtleness that may not have direct equivalents in other languages. Translators must navigate these differences skillfully to preserve the richness and depth of the original dialogue. This involves understanding linguistic nuances such as wordplay, sarcasm, metaphor, and finding appropriate equivalents in the target language.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### ● **Utilizing Translation Tools and Technology**
 
 Translation software and tools can significantly streamline the subtitle translation process, improving efficiency and consistency. However, these tools are not reliable and require human oversight. Translators leverage technology to enhance their workflow while also relying on their linguistic expertise and cultural awareness to produce high-quality translations.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### ● **Collaboration and Peer Review**
 
@@ -566,6 +573,13 @@ In the vibrant landscape of digital content, the ability to transcend linguistic
 ### 1\. Content Accuracy
 
 In the intricate dance of video translation, accuracy takes center stage. When selecting a video translation tool, it's imperative to prioritize those that not only promise but guarantee precise content translation. The soul of your message lies in its accuracy, and choosing a tool that preserves the essence and nuances of the original message establishes a deep and meaningful connection with your viewers through every frame of the translated content.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Language Support
 
@@ -795,6 +809,13 @@ Easily convert text into professional spokesperson videos in over 120+ voices & 
 
 ![article-product-download](https://images.wondershare.com/virbo/images2023/article-product-download.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Kapwing
 
 ![Kapwing](https://images.wondershare.com/virbo/article/best-10-hindi-video-translators-with-step-by-step-guidance-6.jpg)
@@ -811,16 +832,16 @@ Being an all-in-one translation tool, Kapwing can translate any audio file and e
 
 With Kapwing, you can not only do Hindi video translation but it goes beyond that. With over 70+ languages, there’s a lot of flexibility in terms of which languages you can edit.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Flixier
 
 ![Flixier](https://images.wondershare.com/virbo/article/best-10-hindi-video-translators-with-step-by-step-guidance-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Flixier](https://flixier.com/tools/translate-your-video-online) is one of the easiest software to use if you want a fast video language translator. While it doesn’t have a lot of language options, with 30 well-built languages, you can still get your content transformed into another language.
 
@@ -855,13 +876,6 @@ Rask AI is specifically made to translate language in video content. This way, n
 ### 5\. Typito
 
 ![Typito](https://images.wondershare.com/virbo/article/best-10-hindi-video-translators-with-step-by-step-guidance-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Typito](https://typito.com/video-translator) offers one of the best **Hindi video-to-English translations**, but that’s not all. More than 500,000+ marketers, news agencies, business owners, and influencers are already using Typito to grow their audience to the next level.
 
@@ -1081,13 +1095,6 @@ The biggest benefit of using Filmora by far is the fact that it is more than jus
 
 ![Streamr](https://images.wondershare.com/virbo/article/best-10-hindi-video-translators-with-step-by-step-guidance-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Streamr](https://vidtoon.com/streamr/) is a great tool to automatically convert your audio or video to text and beyond. However, it is a tool that is more focused on subtitles and gives you control over the text side of things.
 
 So, if you ever want a video or audio to be converted into Hindi or English, then Streamr might be the best tool for you. It gives you so much control over the subtitle side of things that you would be amazed.
@@ -1164,6 +1171,13 @@ One of the best ways to convert Hindi text to English is by using a tool like St
 
 To translate video words, you need to use a video-to-text translation tool. In the description above, we have mentioned many tools that can help you achieve the same. If you want to **translate Hindi video to English** or simply the words, you should aim for a tool that is specifically going to specialize in translating words.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## A Brief Review of CapCut Translate [With Alternative]
 
 Accurate and efficient video translations are essential for reaching global audiences. They bridge linguistic barriers. Translations open doors to diverse viewership and amplify your content’s impact. The article delves into two leading tools for enhancing translations:**CapCut Translate** and Wondershare Virbo.
@@ -1207,13 +1221,6 @@ The app can be used in educational settings. It can be useful for students with 
 * **International conferences**
 
 CapCut helps seamless communication at international conferences or events. It provides real-time translation with a few clicks. The app ensures that participants can engage in the proceedings and discussions.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How To Use Auto Translation With CapCut
 
@@ -1374,13 +1381,6 @@ Choosing the right tool to translate videos in real-time can be tricky, so it’
 <table><tbody><tr><td><strong>Real Time Video Translation App</strong></td><td><strong>Best for (Use Case)</strong></td><td><strong>Platform Compatibility</strong></td><td><strong>User Ratings</strong></td></tr><tr><td>Wondershare Virbo</td><td>Advertising, social media, and businesses</td><td>Windows, iOS, Android, and web browser</td><td><a href="https://www.g2.com/products/wondershare-virbo/reviews?qs=pros-and-cons">4.8</a> out of 5</td></tr><tr><td>GlotDojo</td><td>Watching on Netflix and YouTube</td><td>Browser extension, iOS, and Android</td><td>N/A</td></tr><tr><td>InterSub</td><td>Learning new languages</td><td>Browser extension in Chrome, MS Edge, and Firefox</td><td><a href="https://www.producthunt.com/products/intersub/reviews" target="_blank" rel="nofollow noopener">5</a> out of 5</td></tr><tr><td>SyncWords</td><td>Watching live-stream videos</td><td>Cloud-based</td><td><a href="https://www.trustpilot.com/review/syncwords.com" target="_blank" rel="nofollow noopener">4.7</a> out of 5</td></tr><tr><td>Wordly</td><td>Remote meetings</td><td>Most event platforms and service providers</td><td><a href="https://www.g2.com/products/wordly-ai-powered-interpretation/reviews" target="_blank" rel="nofollow noopener">4.4</a> out of 5</td></tr><tr><td>Interprefy</td><td>Live broadcasts and watching on YouTube</td><td>iOS, Android, cloud-based</td><td><a href="https://www.trustpilot.com/review/interprefy.com" target="_blank" rel="nofollow noopener">4.6</a> out of 5</td></tr><tr><td>EventMobi</td><td>Virtual events</td><td>Web browser, iOS, and Android</td><td><a href="https://www.g2.com/products/eventmobi/reviews" target="_blank" rel="nofollow noopener">4.6</a> out of 5</td></tr></tbody></table>
 
 ![checklist illustration](https://images.wondershare.com/virbo/article/2024/03/real-time-video-translation-02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Top 7 Live and Real Time Video Translation Apps
 
@@ -1556,20 +1556,18 @@ For seamless real-time translation, check out Virbo. It’s a great option to he
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-angled-artistry-a-guide-for-social-media-users-to-spin-their-photos-on-the-fly-for-2024/"><u>[New] Angled Artistry A Guide for Social Media Users to Spin Their Photos on the Fly for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-premier-presentation-planner-prodigy/"><u>[Updated] In 2024, Premier Presentation Planner Prodigy</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-tecno-pova-5-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Tecno Pova 5 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/comprehensive-hardware-guides-by-tom-find-your-perfect-match/"><u>Comprehensive Hardware Guides by Tom - Find Your Perfect Match</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/elevate-your-mini-pc-experience-with-asus-nuc-14-boasting-core-i9-and-rtx-graphics-for-enthusiasts/"><u>Elevate Your Mini-PC Experience with Asus NUC #14, Boasting Core I9 & RTX Graphics for Enthusiasts</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-iphone-se-2022-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From iPhone SE (2022)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-workspace-high-flying-space/"><u>In 2024, Leading Workspace High-Flying Space</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Tecno Pop 8? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/introducing-the-all-in-one-tech-marvel-full-amd-ryzen-pc-and-convenient-foldable-keyboard-including-trackpad-simply-requires-a-monitor-for-completion/"><u>Introducing The All-In-One Tech Marvel: Full AMD Ryzen PC and Convenient Foldable Keyboard Including Trackpad, Simply Requires a Monitor for Completion</u></a></li>
-<li><a href="https://windows11.techidaily.com/missing-astra-pilot-in-windows-11-heres-what-you-need/"><u>Missing Astra Pilot in Windows 11? Here's What You Need</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/squadrons-the-next-chapter-of-star-wars-gaming-in-depth-combat-experience-breakdown-and-critique/"><u>Squadrons: The Next Chapter of Star Wars Gaming - In-Depth Combat Experience Breakdown & Critique</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/strategic-maneuvering-lenovo-deploys-loongson-cpus-to-bolster-cloud-servers-and-counteract-us-sanctions/"><u>Strategic Maneuvering: Lenovo Deploys Loongson CPUs to Bolster Cloud Servers and Counteract U.S. Sanctions</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/the-sibolan-szbox-s6nce-an-affordable-mini-pc-in-classic-colors-powered-by-legacy-ryzen-chips/"><u>The Sibolan SZBox S6nce: An Affordable Mini PC in Classic Colors, Powered by Legacy Ryzen Chips</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/top-reviews-for-your-next-adventure-delving-into-minecraft-campfire-tales-bundle/"><u>Top Reviews for Your Next Adventure - Delving Into Minecraft Campfire Tales Bundle</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-resolve-silent-mic-issues-with-steelseries-arctis-5-guide/"><u>Troubleshoot and Resolve Silent Mic Issues with SteelSeries Arctis 5 [GUIDE]</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-capturing-the-journey-a-camera-buyers-guide/"><u>[New] Capturing the Journey A Camera Buyer's Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easy-methods-for-converting-between-mpeg-and-webm-video-files-in-windows-environments/"><u>Easy Methods for Converting Between MPEG and WebM Video Files in Windows Environments</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008994181-explore-yokohama-like-never-before-with-like-a-dragon-on-your-pc/"><u>Explore Yokohama Like Never Before with 'Like a Dragon' On Your PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/free-visuals-galore-top-10-sites-to-explore/"><u>Free Visuals Galore – Top 10 Sites to Explore</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-fix-fallout-3-stalling-issues-on-windows-10-a-step-by-step-guide/"><u>How to Fix Fallout 3 Stalling Issues on Windows 10 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-seamlessly-correct-javascript-errors-in-discord-applications/"><u>How to Seamlessly Correct JavaScript Errors in Discord Applications</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/lego-star-wars-the-skywalker-saga-fixing-the-pc-game-crash/"><u>Lego Star Wars: The Skywalker Saga - Fixing the PC Game Crash</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/mastering-resilience-the-unbreakable-loop-of-african-american-continuity/"><u>Mastering Resilience: The Unbreakable Loop of African American Continuity</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-straightforward-speech-modification-software-overview-principles-and-comparable-alternatives/"><u>New 2024 Approved Straightforward Speech Modification Software Overview, Principles, & Comparable Alternatives</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/oming-obscured-views-during-youtube-playback-for-2024/"><u>Overcoming Obscured Views During YouTube Playback for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/thrifty-smartwatch-or-shortcomings-exposed-a-comprehensive-review-of-the-mobvoi-ticwatch-e2/"><u>Thrifty Smartwatch or Shortcomings Exposed? A Comprehensive Review of the Mobvoi TicWatch E2</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlock-a-world-of-savings-navigate-the-community-classifieds-on-oodle-for-free/"><u>Unlock a World of Savings - Navigate the Community Classifieds on Oodle for Free!</u></a></li>
 </ul></div>
 
