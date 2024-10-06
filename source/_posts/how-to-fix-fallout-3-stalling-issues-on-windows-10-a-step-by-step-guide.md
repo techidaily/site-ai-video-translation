@@ -1,7 +1,7 @@
 ---
 title: How to Fix Fallout 3 Stalling Issues on Windows 10 - A Step-by-Step Guide
-date: 2024-09-29T23:20:56.082Z
-updated: 2024-09-30T16:04:30.965Z
+date: 2024-09-29T23:25:51.298Z
+updated: 2024-10-05T23:13:11.533Z
 tags:
   - win11
   - win10
@@ -53,43 +53,37 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 2. In the**LOCAL FILES** tab, click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Open**Fallout\_default** . Search “Busethread” in the notepad.  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/default.jpg)
 4. Change the**bUseThreadedAI=0** into**bUseThreadedAI=1** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1.jpg)
 5. Add**iNumHWThreads=2** beneath it, then Save the change.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/folder.gif)
 6. Relaunch the game and check whether it solves the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Change**compatibility** and run Fallout 3 as administrator
@@ -102,21 +96,20 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 3. Right-click on Fallout 3.exe and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Open the dropdown menu and choose **Windows XP (Service Pack 3)** .
 6. Tick **Run this program as an administrator** .  
@@ -156,9 +149,23 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -190,18 +197,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-facetune-exploration-the-ultimate-photo-editing-journey/"><u>[New] In 2024, Facetune Exploration The Ultimate Photo Editing Journey</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unbelievable-examination-and-replacement-ideas/"><u>[New] Unbelievable Examination & Replacement Ideas</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-audiophiles-recommend-top-5-headset-choices-for-2024/"><u>[Updated] Audiophiles Recommend Top 5 Headset Choices for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-flapping-flamenco-finch/"><u>2024 Approved Flapping Flamenco Finch</u></a></li>
-<li><a href="https://extra-information.techidaily.com/drone-powerhouses-for-industrial-lifting-excellence/"><u>Drone Powerhouses for Industrial Lifting Excellence</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-screen-mastery-on-youtube-ideas-unleashed-in-2024/"><u>Green Screen Mastery on YouTube - Ideas Unleashed, In 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-xiaomi-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Xiaomi ?</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-srt-subtitle-translation-tools-and-techniques/"><u>New 2024 Approved SRT Subtitle Translation Tools and Techniques</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-make-lip-sync-video-without-installing-any-app-for-2024/"><u>New How to Make Lip Sync Video Without Installing Any App for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-voice-translation-english-to-bangla-online-and-offline-apps/"><u>New In 2024, Voice Translation English to Bangla Online and Offline Apps</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-top-9-choices-for-video-auto-translate/"><u>New Top 9 Choices for Video Auto Translate</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-translate-live-videos-with-the-best-video-translator-for-2024/"><u>New Translate Live Videos With The Best Video Translator for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-notes-visually-a-guide-to-obsidian-canvas/"><u>Transform Your Notes Visually: A Guide to Obsidian Canvas</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-detailed-analysis-of-youtubes-versus-dailymentions-for-2024/"><u>[Updated] Detailed Analysis of YouTubes Versus DailyMentions for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>2024 Approved How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-g310-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Nokia G310 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-itel-s23plus-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Itel S23+</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-journey-through-joint-video-viewing-the-youtube-way/"><u>In 2024, Journey Through Joint Video Viewing The Youtube Way</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-poco-c50-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Poco C50 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-translate-video-from-english-to-arabic-with-ease/"><u>New 2024 Approved Translate Video From English to Arabic with Ease</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-how-to-translate-youtube-videos-without-cc/"><u>New In 2024, How to Translate YouTube Videos Without CC</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-top-7-online-auto-subtitle-translators-for-content-creators/"><u>New Top 7 Online Auto Subtitle Translators for Content Creators</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-translate-videos-with-subtitle-cat-your-essential-guide/"><u>New Translate Videos with Subtitle Cat Your Essential Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/quickdvd-magic-experience-unmatched-speed-in-converting-videos-using-wonderfox-software/"><u>QuickDVD Magic: Experience Unmatched Speed in Converting Videos Using WonderFox Software</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unleashing-the-power-of-playback-turning-youtube-content-into-engaging-gifs-pcmobile-for-2024/"><u>Unleashing the Power of Playback Turning YouTube Content Into Engaging GIFs (PC/Mobile) for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-top-tech-picks-a-journey-through-toms-hardware-world/"><u>Unveiling Top Tech Picks: A Journey Through Tom's Hardware World</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-auto-translate-youtube-videos-into-different-languages/"><u>Updated Auto Translate YouTube Videos Into Different Languages</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-translate-videos-and-subtitles-with-veedio-for-2024/"><u>Updated Translate Videos and Subtitles with Veed.io for 2024</u></a></li>
 </ul></div>
 

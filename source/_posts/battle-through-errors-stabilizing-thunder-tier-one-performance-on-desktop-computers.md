@@ -1,7 +1,7 @@
 ---
 title: "Battle Through Errors: Stabilizing Thunder Tier One Performance on Desktop Computers"
-date: 2024-09-28T18:55:04.961Z
-updated: 2024-09-30T20:29:58.043Z
+date: 2024-10-02T20:38:39.998Z
+updated: 2024-10-05T22:05:49.402Z
 tags:
   - win11
   - win10
@@ -43,13 +43,6 @@ To change the power mode:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 3. Then run Avatar: Frontiers of Pandora to see if the frame rate is higher, and if the stuttering issue is improved. If the problem remains still, please move on to the next fix.
 
@@ -68,28 +61,7 @@ To make sure that you have the latest available updates installed:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then try your Avatar: Frontiers of Pandora again to see if it still stutters and its FPS still drops. If the problem remains, please move on to the next fix.
 
@@ -100,6 +72,13 @@ To make sure that you have the latest available updates installed:
  An outdated or incorrect display card driver could also be the culprit to the low FPS and stuttering problem in Avatar: Frontiers of Pandora, so if the above methods don’t help to improve the FPS or the stuttering situation, it’s likely that you have a corrupted or outdated graphics driver. So you should update your drivers to see if it helps.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -124,13 +103,6 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
@@ -141,10 +113,10 @@ To do so, first visit the website of your GPU manufacturer:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Add Avatar to the exception list in Windows Security
@@ -158,10 +130,25 @@ To do so:
 2. Select **Virus & threat protection** from the left side pane, then select **Manage settings** under Virus & threat protection settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-26.png)
 3. Scroll down a bit to select **Add or remove exclusions** under the**Exclusions** section.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-27.png)
 4. Click **Add an exclusion** , then select **File** , and browse to the folder where you save the Avatar: Frontiers of Pandora execution file.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-29.png)
 5. There, you’ve successfully added**Avatar: Frontiers of Pandora** to the Windows Security exclusion list.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart Avatar: Frontiers of Pandora and see if its FPS still drops and stutters. If so, please move on.
 
@@ -195,14 +182,21 @@ To verify the game’s files on Ubisoft Connect:
 2. Select**Properties** , then**Verify files** under Local files.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-30.png)
 3. If prompted, select**Repair** . Ubisoft Connect will then download and restore any missing or corrupted files.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-32.png)
 4. Then launch Avatar: Frontiers of Pandora again to see if the problems are sorted.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this still doesn’t help, please move on.
@@ -220,6 +214,13 @@ If this still doesn’t help, please move on.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-27.png)
 3. Go to `**Computer\HKEY_CURRENT_USER\System\GameConfigStore**` , then double-click the**GameDVR\_Enabled** entry on the right-side panel.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-48.png)
 4. Change the value to**0** , then click**OK** to save.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-49.png)
@@ -227,6 +228,13 @@ If this still doesn’t help, please move on.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-50.png)
 6. Change the value to**0** and click**OK** to save.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-51.png)
 7. Restart your computer for the changes to take effect.
@@ -246,13 +254,6 @@ To do so:
 2. Select each resource-hogging application and click **End Task** to close them one by one.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then run Avatar: Frontiers of Pandora again and see if the low FPS and stuttering issues are fixed. If the problem still remains, please move on to the next fix below.
 
@@ -277,22 +278,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-androids-finest-screen-capture-software-top-5-for-2024/"><u>[New] Android's Finest Screen Capture Software, Top 5 for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/auto-translate-youtube-videos-into-different-languages/"><u>Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cr2-image-to-jpg-a-step-by-step-windows-tutorial/"><u>Cr2 Image to JPG: A Step-by-Step Windows Tutorial</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-nvidia-geforce-rtx-2080-super-graphics-card-driver-software-compatible-with-windows-10-and-11/"><u>Get the Latest NVIDIA GeForce RTX 2080 Super Graphics Card Driver Software – Compatible with Windows 10 and 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-troubleshoot-and-correct-audiovideo-codec-not-supported-problems/"><u>How to Troubleshoot and Correct 'Audio/Video Codec Not Supported' Problems</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-camstudios-screen-recorder-a-deep-dive-into-its-latest-features/"><u>In 2024, CamStudio's Screen Recorder A Deep Dive Into Its Latest Features</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-unleashing-true-potential-in-speech-interpretation-through-google/"><u>In 2024, Unleashing True Potential in Speech Interpretation Through Google</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-video-from-japanese-to-english-online-in-2024/"><u>New How To Translate Video From Japanese to English Online, In 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-easy-ways-to-translate-tiktok-videos/"><u>New In 2024, Easy Ways to Translate TikTok Videos</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-how-to-make-lip-sync-video-without-installing-any-app/"><u>New In 2024, How to Make Lip Sync Video Without Installing Any App</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-top-7-online-auto-subtitle-translators-for-content-creators-for-2024/"><u>New Top 7 Online Auto Subtitle Translators for Content Creators for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1723017415102-revolutionize-your-energy-needs-with-zmi-powerpack-2pectation-1638/"><u>Revolutionize Your Energy Needs with ZMI PowerPack 2Pectation: 1,638,</u></a></li>
-<li><a href="https://video-capture.techidaily.com/streamlined-approaches-to-documenting-whatsapp-discussions-for-2024/"><u>Streamlined Approaches to Documenting WhatsApp Discussions for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-9-best-french-video-translators-online-and-download-options-for-2024/"><u>Updated 9 Best French Video Translators Online and Download Options for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-best-10-chinese-video-to-english-translators/"><u>Updated In 2024, Best 10 Chinese Video to English Translators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-reaching-a-wider-audience-using-video-translation-in-tamil/"><u>Updated In 2024, Reaching a Wider Audience Using Video Translation in Tamil</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-seize-visual-riches-from-four-premium-youtube-portals/"><u>[Updated] Seize Visual Riches From Four Premium YouTube Portals</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-a-complete-guide-to-translate-video-with-google/"><u>2024 Approved A Complete Guide To Translate Video With Google</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatbot-interaction-patterns-for-realistic-discussions/"><u>Chatbot Interaction Patterns for Realistic Discussions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ibuypower-custom-gaming-pc-review/"><u>IBuypower Custom Gaming PC Review</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-a-comprehensive-guide-for-free-video-translator-downloading/"><u>In 2024, A Comprehensive Guide for Free Video Translator Downloading</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-achieve-pristine-sound-in-recordings-free-tutorial-paid-tools/"><u>In 2024, Achieve Pristine Sound in Recordings (Free Tutorial, Paid Tools)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-game-on-in-reality-the-ultimate-vr-headset-comparison/"><u>In 2024, Game On in Reality The Ultimate VR Headset Comparison</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-best-10-free-video-translators-to-mitigate-translation-risks-for-2024/"><u>New Best 10 Free Video Translators to Mitigate Translation Risks for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-complete-guide-of-top-video-language-translators-for-2024/"><u>New Complete Guide of Top Video Language Translators for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-thunderous-echoes-the-soundscape-of-immense-entities-for-2024/"><u>New Thunderous Echoes The Soundscape of Immense Entities for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-top-10-solutions-for-movie-subtitle-translation-making-things-perfect-for-2024/"><u>New Top 10 Solutions for Movie Subtitle Translation Making Things Perfect for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-non-starting-display-on-windows-11-pc/"><u>Overcoming Non-Starting Display on Windows 11 PC</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/realtime-idevice-screen-record-latest-methods-for-2024/"><u>Realtime iDevice Screen Record - Latest Methods for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unleashing-authentic-interactions-how-apple-enables-avatar-animation-in-the-vision-pro-experience-zdnet/"><u>Unleashing Authentic Interactions: How Apple Enables Avatar Animation in the Vision Pro Experience | ZDNet</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-5-best-apps-for-voice-translation-from-english-to-bangla/"><u>Updated 2024 Approved 5 Best Apps for Voice Translation From English to Bangla</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-tiktok-videos-top-5-auto-translate-tools-for-2024/"><u>Updated How to Translate TikTok Videos Top 5 Auto Translate Tools for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-best-video-language-changers-to-make-your-videos-accessible/"><u>Updated In 2024, Best Video Language Changers to Make Your Videos Accessible</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-best-video-translator-app-for-pc-you-cannot-miss/"><u>Updated In 2024, Best Video Translator App for PC You Cannot Miss</u></a></li>
 </ul></div>
 

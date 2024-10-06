@@ -1,7 +1,7 @@
 ---
 title: How to Get Your Multiple Audio Systems Up and Running Again
-date: 2024-09-26T19:22:34.698Z
-updated: 2024-09-30T19:54:20.822Z
+date: 2024-10-05T04:05:05.401Z
+updated: 2024-10-05T18:45:52.384Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 
  If you go through the steps above but the problem persists, move on to the more complicated fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Update your device drivers
 
  The Oculus Rift S mic not working issue is likely to be driver-related. To keep your VR headset running in tip-top condition, you should update your device drivers on a regular basis.
@@ -53,8 +60,22 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged_Rift S driver_ and_USB adapter driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-driver-de-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -74,14 +95,14 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/privacy-settings-1.jpg)
 4. Scroll to the Allow desktop apps to access your microphone section and **toggle on**  the button below.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-1.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-1.jpg)
 
  Test your Oculus Rift S mic with a game or program. Still no luck? Check out the next method then.
 
@@ -93,27 +114,14 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-1.jpg)
 2. Select**Small icons** next to View by, and then click**Sound** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-2.jpg)
 3. On the**Recording** tab, make sure your Oculus Rift S Microphone is**enabled** . Then right-click it and select**Set as Default Device** . If you don’t see your microphone listed, tick**Show Disabled Devices** first.  
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/rift-settings-1.jpg)
@@ -123,13 +131,26 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 5. Navigate to the**Levels** tab. Make sure**the microphone is not muted** and**turn up the volume to the max** . Then click**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Are you able to use the Oculus Rift S mic now? If not, there is the last fix to try.
 
@@ -147,33 +168,12 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-3.jpg)
 4. If you have more than one USB root hubs, repeat the steps above to disable the power management for them all.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Go back to the Device Manager window, double-click**Oculus VR Devices** to expand the category.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-4.jpg)
 6. Righ-click**Rift Sensor** and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-5.jpg)
 7. Select the**Power Management** tab and **untick Allow the computer to turn off this device to save power** . Then, click**OK** to apply the changes.  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-6.jpg)
 8. Repeat the steps to disable the power-saving option of all the Rift sensors.
@@ -203,21 +203,22 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-professional-touch-applying-filters-to-pcmobile-videos/"><u>[New] Professional Touch Applying Filters to PC/Mobile Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-digital-dimension-state-of-the-art-vr-for-2024/"><u>[Updated] The Digital Dimension State-of-the-Art VR for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-essential-video-and-photography-makers-who-mix-sounds/"><u>2024 Approved Essential Video & Photography Makers Who Mix Sounds</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/3-ways-to-track-apple-iphone-8-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>3 Ways to Track Apple iPhone 8 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-download-microsoft-bluetooth-driver-compatible-with-windows-11-and-10/"><u>Free Download: Microsoft Bluetooth Driver Compatible with Windows 11 & 10</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-k11-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo K11 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations/"><u>In 2024, Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/julys-must-watch-a-collection-of-top-free-movies-available-on-youtube/"><u>July's Must-Watch: A Collection of Top Free Movies Available on YouTube</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>New In 2024, Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-tecno-phantom-v-flip-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Tecno Phantom V Flip to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transform-your-images-with-text-a-windowsmacos-expertise-guide/"><u>Transform Your Images with Text A Windows/MacOS Expertise Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-top-10-free-video-translators-to-mitigate-translation-risks/"><u>Updated 2024 Approved Top 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-translate-live-videos-with-the-best-video-translator/"><u>Updated 2024 Approved Translate Live Videos With The Best Video Translator</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>Updated In 2024, How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-step-by-step-guide-how-to-translate-twitter-video-easily/"><u>Updated In 2024, Step-by-Step Guide How to Translate Twitter Video Easily</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-maximize-yandex-translate-in-video-translation-and-beyond/"><u>Updated Maximize Yandex Translate in Video Translation and Beyond</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-alter-macs-screen-capture-store-path-for-2024/"><u>[New] Alter Mac's Screen Capture Store Path for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/5-best-apps-for-voice-translation-from-english-to-bangla-for-2024/"><u>5 Best Apps for Voice Translation From English to Bangla for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/dealing-with-fifa-22-crashes-solutions-for-your-gaming-computer/"><u>Dealing with FIFA 22 Crashes - Solutions for Your Gaming Computer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/digital-recorder-hits-the-ultimate-list-for-2024/"><u>Digital Recorder Hits The Ultimate List for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Use Life360 on Windows PC For Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leverage-chatgpt-to-create-stellar-resumes-proven-strategies-and-techniques/"><u>Leverage ChatGPT to Create Stellar Résumés: Proven Strategies and Techniques</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation/"><u>New 2024 Approved An Exhaustive List of Lip Sync Apps for Vibrant Video Creation</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-best-5-udemy-subtitle-translator-auto-translation/"><u>New 2024 Approved Best 5 Udemy Subtitle Translator (Auto Translation)</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>New Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-oneplus-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your OnePlus Phone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-a-brief-review-of-capcut-translate-with-alternative/"><u>Updated A Brief Review of CapCut Translate With Alternative</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-tiktok-videos-all-you-want-to-know/"><u>Updated How to Translate TikTok Videos? All You Want to Know</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-how-to-translate-youtube-videos-to-english-subtitles/"><u>Updated In 2024, How to Translate YouTube Videos to English Subtitles</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-kya-aap-video-call-kar-sakty-ho-translate-any-hindi-video-into-english/"><u>Updated In 2024, Kya Aap Video Call Kar Sakty Ho Translate Any Hindi Video Into English</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrading-legacy-uefi-features/"><u>Upgrading Legacy UEFI Features</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/what-are-the-romance-languages/"><u>What Are The Romance Languages?</u></a></li>
 </ul></div>
 
