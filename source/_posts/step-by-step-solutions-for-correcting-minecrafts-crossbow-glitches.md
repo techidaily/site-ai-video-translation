@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Correcting Minecraft's Crossbow Glitches
-date: 2024-10-09T18:38:09.108Z
-updated: 2024-10-11T16:27:29.069Z
+date: 2024-10-12T22:20:53.275Z
+updated: 2024-10-17T20:19:34.992Z
 tags:
   - win11
   - win10
@@ -47,13 +47,6 @@ The known problematic software are:
 
  You can view[the full list](https://minecrafthopper.net/help/known-incompatible-software/) of known incompatible software here.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Don’t use free VPNs
 
  Mojang has blocked most VPN users from logging into Minecraft as these free VPNs are often used by malicious users to hack into accounts. This can cause login/loading issues. Some VPNs such as[Express VPN](https://tools.techidaily.com/drivereasy/download/) and[NordVPN](https://tools.techidaily.com/drivereasy/download/) (get an[80% off coupon](https://tools.techidaily.com/drivereasy/download/) ) get Minecraft unblocked, giving you access to all of the latest features no matter where you live.
@@ -83,6 +76,13 @@ There are mainly two ways to update your device drivers:
 
  Once the driver is updated, you’d better restart your computer and try launching your Minecraft again to check if it can load normally. If unfortunately not, you can try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Remove the adware
 
  Many players find removing the adware helped them get past the forever-loading Majong screen. You can use the free utility AdwCleaner to remove useless adware:
@@ -108,28 +108,21 @@ There are mainly two ways to update your device drivers:
 1. Right-click the**Start** menu (the Windows logo) and select**Windows PowerShell (Admin).**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/admin.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you are on Windows 11, it will be**Terminal (Amin)** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
 2. Type or paste**Get-AppxPackage \*photos\* | Remove-AppxPackage** and press**Enter** . This will uninstall the Windows Photo app from your machine.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Restart your PC to see if Minecraft can load normally.
 
 If this method doesn’t work for you, then try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Run Minecraft Launcher in compatibility mode
 
@@ -142,19 +135,19 @@ If this method doesn’t work for you, then try the next fix, below.
 4. Click**Apply** \>**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you can launch your Minecraft again to see if this issue has been resolved by now.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean reinstall
@@ -164,6 +157,13 @@ If this method doesn’t work for you, then try the next fix, below.
 1. On your keyboard, press the Windows key and R at the same time to open the Run box. Type**appwiz.cpl** and press**Enter** .  
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 2. Right-click Minecraft, and select**Uninstall** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. Once complete, type**%appdata%** in the Windows Search bar, and select the**%appdata%** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/appdata.jpg)
@@ -195,18 +195,22 @@ If this method doesn’t work for you, then try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/2024-approved-optimal-webp-to-jpg-transformation-guide/"><u>2024 Approved Optimal WebP-to-JPG Transformation Guide</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/a-comprehensive-tutorial-for-switching-languages-on-amazons-kindle-ereader-device/"><u>A Comprehensive Tutorial for Switching Languages on Amazon's Kindle eReader Device</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-vivo-y200-phone-by-drfone-android/"><u>How to Reset a Locked Vivo Y200 Phone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/o-stabilize-your-camera-without-buying-a-tripod/"><u>How to Stabilize Your Camera without Buying a Tripod?</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/illuminate-your-world-top-iphone-lights-techniques/"><u>Illuminate Your World Top iPhone Lights Techniques</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-the-ultimate-guide-to-exceptional-live-streamers/"><u>In 2024, The Ultimate Guide to Exceptional Live Streamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-the-genuine-nature-of-am08-pro-in-acemagic-evident/"><u>Is The Genuine Nature of AM08 Pro in AceMagic Evident?</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>New How To Translate Videos in Tamil for a Wider Reach</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations-for-2024/"><u>New Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-convert-video-voice-to-text-online-for-free-in-2024/"><u>Updated How To Convert Video Voice to Text Online for Free, In 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-netflix-subtitle-translation-methods-comprehensive-guide/"><u>Updated In 2024, Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-the-best-translator-to-translate-videos-online-for-2024/"><u>Updated The Best Translator to Translate Videos Online for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-embrace-the-future-of-tv-engage-with-fb-live-via-roku/"><u>[Updated] Embrace the Future of TV Engage with FB Live via Roku</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-streamlining-your-digital-workspace-mastering-zoom-sessions/"><u>[Updated] In 2024, Streamlining Your Digital Workspace Mastering Zoom Sessions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-summit-of-virtual-reality-resolution/"><u>2024 Approved Summit of Virtual Reality Resolution</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/bsod-repair-guide-win11-troubleshooting-tips/"><u>BSOD Repair Guide: Win11 Troubleshooting Tips</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cosmic-conversations-diving-deep-into-star-wars-languages/"><u>Cosmic Conversations: Diving Deep Into Star Wars Languages</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-a-complete-guide-to-translate-video-with-google/"><u>In 2024, A Complete Guide To Translate Video With Google</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-c55-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Realme C55 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-a-brief-review-of-capcut-translate-with-alternative-for-2024/"><u>New A Brief Review of CapCut Translate With Alternative for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-best-tool-to-translate-youtube-video-to-arabic/"><u>New Best Tool to Translate YouTube Video to Arabic</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-best-10-chinese-video-to-english-translator/"><u>New In 2024, Best 10 Chinese Video to English Translator</u></a></li>
+<li><a href="https://extra-support.techidaily.com/speech-to-text-technology-absolutely-gratuitous-for-2024/"><u>Speech-to-Text Technology, Absolutely Gratuitous for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/step-by-step-guide-how-to-translate-twitter-video-easily/"><u>Step-by-Step Guide How to Translate Twitter Video Easily</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-humor-the-kapwing-meme-builder-way-for-2024/"><u>Unleashing Humor The Kapwing Meme Builder Way for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-copy-and-paste-on-edge-within-windows-11s-app-guard/"><u>Unlock Copy & Paste on Edge Within Windows 11'S App Guard</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-a-complete-guide-to-translate-video-with-google/"><u>Updated 2024 Approved A Complete Guide To Translate Video With Google</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-how-to-translate-tiktok-videos-top-5-auto-translate-tools/"><u>Updated 2024 Approved How to Translate TikTok Videos Top 5 Auto Translate Tools</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-elevate-your-content-with-the-best-free-video-translator-apps-for-2024/"><u>Updated Elevate Your Content with the Best Free Video Translator Apps for 2024</u></a></li>
 </ul></div>
 

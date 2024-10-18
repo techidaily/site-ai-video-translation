@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Logitech G Pro X Mic: Solutions for Non-Functional Audio"
-date: 2024-10-10T21:34:15.413Z
-updated: 2024-10-12T00:26:38.177Z
+date: 2024-10-14T23:11:35.783Z
+updated: 2024-10-17T22:06:09.573Z
 tags:
   - win11
   - win10
@@ -37,34 +37,28 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
 1. On your desktop,   **right-click**  **the speaker icon**  at the bottom-right corner, and then select **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 2. Click the **Recording**  tab, s  elect the microphone you’re using and click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 3. While still in the **Recording** tab, try **speaking into your microphone**  to test if it works properly. If it is, you should see some green in the bar on the right:  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 4. Click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  See if your Logitech G633 mic works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 2: Allow access to your headset microphone (for Windows 10 users)**
 
@@ -73,14 +67,15 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
 1. On your keyboard, press the**Windows logo key + I** at the same time to open Windows Settings. Then click**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000087.png)
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
 
  Check if your Logitech G633 mic works. If not, try the next fix below to update your audio driver.
 
@@ -104,6 +99,13 @@ There are two ways to update your sound card driver: **manually**  and **automat
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000027-4.png)
 3. Click **Update**  next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee  ).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)
 
@@ -138,22 +140,18 @@ There are two ways to update your sound card driver: **manually**  and **automat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-elite-cameras-for-face-recording-facing-screen-included/"><u>[New] In 2024, Elite Cameras for Face Recording Facing Screen Included</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ords-in-motion-a-guide-to-lively-animation-methods/"><u>[New] Words in Motion A Guide to Lively Animation Methods</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-youtubes-buzzing-titles-roundup-1-8/"><u>[New] YouTube's Buzzing Titles Roundup #1-#8</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-fast-film-techniques-taking-screens-on-a-dell/"><u>2024 Approved Fast Film Techniques Taking Screens on a Dell</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-translate-any-hindi-video-into-english-with-ai/"><u>2024 Approved Translate Any Hindi Video Into English With AI</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/harmonize-your-favorites-creating-custom-youtube-playlists-for-2024/"><u>Harmonize Your Favorites Creating Custom YouTube Playlists for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-a56s-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo A56s 5G FRP Bypass</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-navigating-screencastifys-screen-capture-feature/"><u>In 2024, Navigating Screencastify's Screen Capture Feature</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-best-toolbox-to-translate-youtube-videos-to-english-subtitles/"><u>New 2024 Approved Best Toolbox to Translate YouTube Videos to English Subtitles</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-all-about-kapwing-video-translation-for-2024/"><u>New All About Kapwing Video Translation for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-everything-you-want-to-know-about-kapwing-video-translation-for-2024/"><u>New Everything You Want To Know About Kapwing Video Translation for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-best-video-translator-app-for-pc-you-cannot-miss/"><u>New In 2024, Best Video Translator App for PC You Cannot Miss</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/step-by-step-guide-how-to-translate-tiktok-videos-for-2024/"><u>Step-by-Step Guide How to Translate TikTok Videos for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-secrets-function-and-processes-behind-effective-bass-control/"><u>Unveiling the Secrets: Function and Processes Behind Effective Bass Control</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-side-by-side-video-editing-apps-for-ios-and-android-devices/"><u>Updated Best Side-by-Side Video Editing Apps for iOS and Android Devices</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-netflix-subtitle-translation-methods-comprehensive-guide-for-2024/"><u>Updated Netflix Subtitle Translation Methods Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-srt-subtitle-translation-tools-and-techniques/"><u>Updated SRT Subtitle Translation Tools and Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-high-speed-replicas-best-racing-games/"><u>[New] 2024 Approved High-Speed Replicas Best Racing Games</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-discover-the-top-10-igtv-editing-app-wonders/"><u>[New] Discover the Top 10 IGTV Editing App Wonders</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-enhance-your-windows-photos-with-personalized-soundtracks-and-filter-choices/"><u>[New] Enhance Your Windows Photos with Personalized Soundtracks and Filter Choices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-elevate-your-package-prelude/"><u>[New] In 2024, Elevate Your Package Prelude</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-ps3-simulators-for-windows-users-top-5/"><u>[Updated] 2024 Approved Essential PS3 Simulators for Windows Users (Top 5)</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/a-complete-guide-to-translate-video-with-google/"><u>A Complete Guide To Translate Video With Google</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-content-strategy-effective-tips-for-utilizing-chatgpt-in-projects/"><u>Elevating Content Strategy: Effective Tips for Utilizing ChatGPT in Projects</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fast-track-to-typing-smoothly-windows-cuffins-drivers-and-keyboards-in-sync/"><u>Fast Track to Typing Smoothly: Windows Cuffins, Drivers and Keyboards in Sync</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-prevent-your-game-of-frostpunk-from-unexpectedly-crashing/"><u>How to Prevent Your Game of Frostpunk From Unexpectedly Crashing</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-best-toolbox-to-translate-youtube-videos-to-english-subtitles/"><u>In 2024, Best Toolbox to Translate YouTube Videos to English Subtitles</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>In 2024, The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>New In 2024, The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+<li><a href="https://fox-access.techidaily.com/vocal-volumes-the-most-emotional-songs-for-engagement/"><u>Vocal Volumes The Most Emotional Songs for Engagement</u></a></li>
 </ul></div>
 
