@@ -1,7 +1,7 @@
 ---
 title: "TSMC's Revolutionary 12.8 Tbps On-Package Optical Link: Next-Generation Silicon Photonics Communication for AI"
-date: 2024-10-15T19:24:42.936Z
-updated: 2024-10-17T19:00:50.782Z
+date: 2024-10-19T16:17:14.215Z
+updated: 2024-10-23T18:03:02.572Z
 tags:
   - desktop
 categories:
@@ -37,10 +37,10 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,17 +66,20 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-ultimate-how-to-for-advanced-snapchat-image-tweaks/"><u>[Updated] 2024 Approved The Ultimate How-To for Advanced Snapchat Image Tweaks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-crafting-impeccable-videos-for-instagram-enthusiasts-for-2024/"><u>[Updated] Crafting Impeccable Videos for Instagram Enthusiasts for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-chaos-unleashed-to-organized-oasis-edit-your-hefty-tiktoks/"><u>[Updated] From Chaos Unleashed to Organized Oasis Edit Your Hefty TikToks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-copyright-on-youtube-and-cc/"><u>[Updated] Navigating Copyright on YouTube & CC</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-nostalgic-narratives-capturing-moments-with-xiphone/"><u>[Updated] Nostalgic Narratives Capturing Moments with XiPhone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-scribing-success-engaging-examples-for-podcasts/"><u>[Updated] Scribing Success Engaging Examples for Podcasts</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-must-have-apps-for-real-time-video-translation/"><u>2024 Approved Must-Have Apps for Real-Time Video Translation</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/best-5-udemy-subtitle-translator-auto-translation-for-2024/"><u>Best 5 Udemy Subtitle Translator (Auto Translation) for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/fast-and-reliable-download-your-favorite-youtube-content-for-2024/"><u>Free, Fast and Reliable Download Your Favorite YouTube Content for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-realme-v30t-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme V30T in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-step-by-step-guide-how-to-translate-tiktok-videos/"><u>Updated 2024 Approved Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-avoid-posting-mistakes-on-twitter-by-knowing-the-aspect-ratio/"><u>[New] In 2024, Avoid Posting Mistakes on Twitter by Knowing the Aspect Ratio</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-no-distractions-just-high-quality-webcam-recording/"><u>[New] In 2024, No Distractions, Just High-Quality Webcam Recording</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-insta-photo-watermarks-a-step-by-step-guide-for-2024/"><u>[New] Mastering Insta Photo Watermarks A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-how-to-craft-standout-videos-mastery-of-youtube-thumbnail-dimensions-for-2024/"><u>[Updated] How to Craft Standout Videos Mastery of YouTube Thumbnail Dimensions for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-unlock-viewer-interest-with-these-5-effective-tiktok-captions/"><u>[Updated] In 2024, Unlock Viewer Interest with These 5 Effective TikTok Captions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-5-exceptional-pc-emulators-for-playing-ps1-games/"><u>In 2024, 5 Exceptional PC Emulators for Playing PS1 Games</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-how-to-use-capcut-translate-to-transform-video-content/"><u>In 2024, How To Use CapCut Translate to Transform Video Content</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-honor-magic-vs-2-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Honor Magic Vs 2 FRP</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-voice-translation-english-to-bangla-online-and-offline-apps/"><u>In 2024, Voice Translation English to Bangla Online and Offline Apps</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-top-10-hindi-video-translators-with-step-by-step-guidance/"><u>New 2024 Approved Top 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
+<li><a href="https://review-topics.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-itel-a05s-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/the-ultimate-list-of-top-7-knowledge-management-systems-for-effective-collaboration-in-2eoo/"><u>The Ultimate List of Top 7 Knowledge Management Systems for Effective Collaboration in 2Eoo</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-best-tool-to-translate-youtube-video-to-arabic/"><u>Updated 2024 Approved Best Tool to Translate YouTube Video to Arabic</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-convert-video-voice-to-text-online-for-free/"><u>Updated How To Convert Video Voice to Text Online for Free?</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-top-7-online-auto-subtitle-translators-for-content-creators/"><u>Updated In 2024, Top 7 Online Auto Subtitle Translators for Content Creators</u></a></li>
 </ul></div>
 

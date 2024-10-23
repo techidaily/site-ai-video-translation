@@ -1,7 +1,7 @@
 ---
 title: "Lego Star Wars: The Skywalker Saga - Fixing the PC Game Crash"
-date: 2024-10-13T19:33:50.728Z
-updated: 2024-10-17T19:01:50.327Z
+date: 2024-10-21T18:20:17.038Z
+updated: 2024-10-23T19:03:32.816Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ Game crashing issues can be frustrating, especially when you’re immersed in an
 6. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check your system specs
 
  Before delving into troubleshooting, it’s crucial to ensure that your system meets the minimum requirements to run the game smoothly. Inadequate hardware specifications can cause crashes and performance issues.
@@ -50,27 +57,20 @@ Game crashing issues can be frustrating, especially when you’re immersed in an
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_11-51-18-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_11-48-40.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_11-48-52.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your system falls short of the game’s requirements, consider upgrading your hardware or adjusting the game settings to lower graphics options.
 
@@ -92,6 +92,19 @@ _WoT Blitz_ doesn’t have full access to game files and folders on your compute
 
  You can hopefully run the game without crashing now. If the problem still exists, then go ahead with the fix below.
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3:**End unnecessary programs**
 
  If you’re running multiple programs on your PC, chances are that the programs use up too much memory and cause it to overload. By closing unnecessary programs, you can free up system memory and CPU usage, potentially resolving the game crashing issue. Here is how to do it:
@@ -105,22 +118,29 @@ _WoT Blitz_ doesn’t have full access to game files and folders on your compute
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-03-21.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-03-25-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-03-36-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Relaunch_WoT Blitz_ to see if this has resolved your issue. If your issue persists, try **[Fix 4](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -174,13 +194,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-12-36.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -190,13 +203,6 @@ OR
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5:**Set your PC’s power plan to High performance**
 
@@ -209,13 +215,6 @@ OR
 **2)** Type **powercfg.cpl** into the box and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-16-35.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Select the **High performance** option.
 
@@ -235,13 +234,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-15-32.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-15-36.jpg)
@@ -251,10 +243,10 @@ OR
 If the problem persists, check the fix 7, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7:**Reinstall your game**
@@ -269,6 +261,19 @@ If the problem persists, check the fix 7, below.
 **1)** On your keyboard, press the **Windows logo key** and type **control panel** . Then, hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-25-26.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Under **View by** , select **Category** . Then, click **Uninstall a program** .
 
@@ -295,6 +300,13 @@ You should be able to play the game now.
 **3)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-29-05.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click**Reset** .
 
@@ -325,18 +337,17 @@ You should be able to play the game now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-how-to-create-a-puzzle-feed-on-instagram-to-catch-attention/"><u>[New] 2024 Approved How to Create a Puzzle Feed on Instagram to Catch Attention</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-audience-attracting-innovations-in-fb-video-ad-design-for-2024/"><u>[New] Audience-Attracting Innovations in FB Video Ad Design for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-audiovisual-harmony-incorporating-audio-into-powerpoint-presentations/"><u>[New] Audiovisual Harmony Incorporating Audio Into PowerPoint Presentations</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-upgrade-your-experience-10-high-performance-drives/"><u>[New] Upgrade Your Experience #10 High-Performance Drives</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/comprehensive-guide-for-free-video-translator-downloading-for-2024/"><u>Comprehensive Guide for Free Video Translator Downloading for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhanced-eyes-complimentary-mobile-picture-upgrade/"><u>Enhanced Eyes Complimentary Mobile Picture Upgrade</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-correcting-the-mso-dll-file-missing-issue/"><u>Step-by-Step Guide: Correcting the MSO DLL File Missing Issue</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-12-transformadores-de-video-gratuitos-4k-mas-eficientes-para-macpc-perfecta-sincronizacion-y-calidad/"><u>Top 12 Transformadores De Vídeo Gratuitos 4K Más Eficientes Para Mac/PC - Perfecta Sincronización Y Calidad</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-tips-and-tricks-mastering-the-4th-generation-apple-watch-a-comprehensive-guide/"><u>Top Tips & Tricks: Mastering the 4Th Generation Apple Watch - A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-netflix-subtitle-translation-methods-comprehensive-guide/"><u>Updated 2024 Approved Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation/"><u>Updated An Exhaustive List of Lip Sync Apps for Vibrant Video Creation</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-9-best-french-video-translators-online-and-download-options/"><u>Updated In 2024, 9 Best French Video Translators Online and Download Options</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-translate-video-from-english-to-arabic-with-ease-for-2024/"><u>Updated Translate Video From English to Arabic with Ease for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-dialing-up-deliverables-a-comprehensive-guide-to-gainful-vlogging/"><u>[Updated] 2024 Approved Dialing Up Deliverables A Comprehensive Guide to Gainful Vlogging</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-key-view-figures-for-earning-living-on-youtube/"><u>[Updated] Key View Figures for Earning Living on YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-the-marketplace-30-advanced-fb-techniques-explored-for-2024/"><u>[Updated] Mastering the Marketplace 30 Advanced FB Techniques Explored for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-meme-march-unstoppable-videos-hit-the-tweetsphere/"><u>[Updated] Meme March Unstoppable Videos Hit the Tweetsphere</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa-in-2024/"><u>How to Translate Audio/Video Content From Spanish to English and Vice Versa, In 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oppo-reno-8t-by-drfone-android/"><u>In 2024, How to Bypass FRP from Oppo Reno 8T?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-is-active-the-premier-choice-for-tech-enthusiasts/"><u>In 2024, Is Active the Premier Choice for Tech Enthusiasts?</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>Updated 2024 Approved The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-top-7-online-auto-subtitle-translators-for-content-creators/"><u>Updated Top 7 Online Auto Subtitle Translators for Content Creators</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-top-8-multi-subtitles-translators-you-can-use/"><u>Updated Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>Updated Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-samsung-galaxy-a25-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Samsung Galaxy A25 5G? Here is How | Dr.fone</u></a></li>
 </ul></div>
 
