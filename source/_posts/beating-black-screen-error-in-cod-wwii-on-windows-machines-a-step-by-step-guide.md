@@ -1,7 +1,7 @@
 ---
 title: "Beating Black Screen Error in COD: WWII on Windows Machines – A Step-by-Step Guide"
-date: 2024-10-17T18:33:18.079Z
-updated: 2024-10-23T16:30:18.818Z
+date: 2024-10-23T20:27:30.081Z
+updated: 2024-10-29T00:54:34.686Z
 tags:
   - win11
   - win10
@@ -60,16 +60,10 @@ Here are Grounded’s minimum specs:
 ---
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 – Temporarily disable your anti-virus programs
@@ -114,6 +108,13 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -123,13 +124,6 @@ If the problem persists, move towards the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4 – Switch to DirectX 11 in the game setting
 
  Many players reported that Grounded crashes in the DirectX 12 mode. In this case, you can force the game to run on DirectX 11 and see if the problem is solved.
@@ -137,13 +131,6 @@ If the problem persists, move towards the next fix.
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box. Then, type**dxdiag** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-0.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Check your**DirectX version** . If it’s DirectX 12, continue to step 3, or if you have DirectX 11, you can jump to **[fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -155,13 +142,6 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Locate**Grounded** on the game list, right click it and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-2.jpg)
@@ -171,10 +151,10 @@ If the problem persists, move towards the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **6)** Type**\-dxlevel 110** in the field and click**OK** .
@@ -182,16 +162,10 @@ If the problem persists, move towards the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-4-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **7)** Click**Close** .
@@ -202,6 +176,19 @@ If the problem persists, move towards the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5 – Verify the integrity of game files
 
  Game data that is missing or corrupted also results in the Grounded crashing issue. You can let Steam check and repair the game files and cache, and this takes a few steps.
@@ -209,6 +196,13 @@ If the problem persists, move towards the next fix.
 **1)** Launch Steam, and click the**Library** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Right click**Grounded** on the game list, and click**Properties** .
 
@@ -222,6 +216,13 @@ If the problem persists, move towards the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6 – Play single-player in the offline mode
 
  Playing with friends is absolutely one of the most charming parts of Grounded. However, if you constantly run into crashing at the loading screen and couldn’t even complete a whole game, you could try playing single player in the offline mode.
@@ -234,27 +235,20 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/stem4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click**Steam** and click**Go offline** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Click**Restart in offline mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/steam2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Launch Steam. Then, play the game in single-player and see how it works.
 
@@ -283,21 +277,20 @@ Launch Steam. Then, play the game in single-player and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-capturing-your-iphoneipad-display-now/"><u>[New] Capturing Your iPhone/iPad Display Now</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-blueprint-of-youtubes-innovative-shorts-economy-model/"><u>[New] The Blueprint of YouTube's Innovative Shorts Economy Model</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-how-to-use-zoom-breakout-rooms/"><u>[Updated] In 2024, How to Use Zoom Breakout Rooms</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-rated-webcam-recorder-applications-demystified/"><u>[Updated] In 2024, Top-Rated WebCam Recorder Applications Demystified</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-redefining-youtube-milestones-post-vidcon-spectacles/"><u>2024 Approved Redefining YouTube Milestones Post-VidCon Spectacles</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expertly-choose-your-go-to-iphone-gps-apps-the-ultimate-top-5-list/"><u>Expertly Choose Your Go-To iPhone GPS Apps: The Ultimate Top 5 List</u></a></li>
-<li><a href="https://win-forum.techidaily.com/free-online-converter-change-dng-images-to-jpeg-format-with-movavi/"><u>Free Online Converter: Change DNG Images to JPEG Format with Movavi</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>New 2024 Approved Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-elevate-your-content-with-the-best-free-video-translator-apps-for-2024/"><u>New Elevate Your Content with the Best Free Video Translator Apps for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-top-10-hindi-video-translators-with-step-by-step-guidance/"><u>New Top 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamlining-team-interactions-mastering-the-incorporation-of-chatgpt-for-remote-conferences/"><u>Streamlining Team Interactions: Mastering the Incorporation of ChatGPT for Remote Conferences</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>Updated 2024 Approved Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-5-best-chrome-extensions-you-can-use-to-translate-videos/"><u>Updated In 2024, 5 Best Chrome Extensions You Can Use to Translate Videos</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-top-10-ai-subtitle-translators-for-content-creators/"><u>Updated In 2024, Top 10 AI Subtitle Translators for Content Creators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-translate-video-from-english-to-arabic-with-ease/"><u>Updated Translate Video From English to Arabic with Ease</u></a></li>
-<li><a href="https://win-web.techidaily.com/wie-man-windows-eine-datei-erfolgreich-migriert-und-klont/"><u>Wie Man Windows Eine Datei Erfolgreich Migriert Und Klont.</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-elevate-your-iphone-shoots-essential-8-tips-for-professional-results/"><u>[New] Elevate Your iPhone Shoots Essential 8 Tips for Professional Results</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-guesting-without-glitches-live-tiktok-conversations/"><u>[New] In 2024, Guesting Without Glitches Live TikTok Conversations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-elite-screen-recording-the-top-5-android-capturing-apps-for-2024/"><u>[Updated] Elite Screen Recording The Top 5 Android Capturing Apps for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-enlightenment-echoes-best-ed-tutorials-yt/"><u>[Updated] In 2024, Enlightenment Echoes Best Ed Tutorials YT</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-professional-gopro-filming-made-simple-a-comprehensive-guide/"><u>[Updated] Professional GoPro Filming Made Simple A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-shopback-up-specialists-judgment/"><u>[Updated] ShopBack Up Specialists' Judgment</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/elevate-your-content-with-the-best-free-video-translator-apps/"><u>Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
+<li><a href="https://facebook.techidaily.com/erosion-of-trust-in-technology-titans-especially-facebook/"><u>Erosion of Trust in Technology Titans, Especially Facebook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-download-igtv-videos-on-windows-pcmac-5-ways-for-2024/"><u>How to Download IGTV Videos on Windows PC/Mac? [5 Ways] for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps/"><u>In 2024, Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-top-7-video-language-converter-online-free/"><u>In 2024, Top 7 Video Language Converter Online Free</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/maximizing-yandex-translate-in-video-translation-and-beyond-for-2024/"><u>Maximizing Yandex Translate in Video Translation and Beyond for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/revealing-translation-methods-netflix-subtitle-software-comprehensive-guide-for-2024/"><u>Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-productivity-install-microsoft-copilot-on-your-mac-today/"><u>Unlocking Productivity: Install Microsoft Copilot on Your Mac Today!</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-top-7-video-language-converter-online-free/"><u>Updated Top 7 Video Language Converter Online Free</u></a></li>
 </ul></div>
 

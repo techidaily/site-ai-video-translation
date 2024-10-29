@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Translate Live Videos With The Best Video Translator
-date: 2024-10-19T16:24:55.395Z
-updated: 2024-10-23T16:23:12.666Z
+date: 2024-10-28T03:59:22.834Z
+updated: 2024-10-29T05:49:17.613Z
 tags: 
   - ai translate video
   - ai generate video
@@ -172,6 +172,13 @@ Translate your videos right in your browser online with Flixier. This live video
 * You can manually adjust the subtitle display timings. In this regard, you will get a preview subtitle In and Out timings.
 * After translating subtitles, users can directly export them on media platforms. Among such platforms are YouTube, Facebook, TikTok, and Vimeo.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. VEED.io
 
 VEED.io is an easy way to create videos, add subtitles, and translate them to grow the audience. It’s a **live video language translator** supporting over 125 languages. Unlock global audience with translation of videos into the viewer's native languages. With a few clicks, translate into French, German, Arabic, Russian, and many others. You can consider it the best Google Translator alternative with 98.5% accuracy.
@@ -189,13 +196,6 @@ VEED.io is an easy way to create videos, add subtitles, and translate them to gr
 If you are still confused about how to translate a live video, use this online tool. Translate.Video is an all-in-all platform to generate captions, translate subtitles, and dub videos. Also, you can record videos and get AI voiceovers and transcripts. Drop your file and get a seamless experience of video translation. Users can access its premium version for unlimited subtitles in more than 75 languages.
 
 ![translatevideo translate live video](https://images.wondershare.com/virbo/article/translate-live-video-with-best-tool-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -325,6 +325,13 @@ It is basically a podcast editor that can translate live video in over 30 langua
 * It can auto-translate videos and generate subtitle files. Using this feature, you will get subtitle files in SRT, VTT, and TXT formats.
 * You can pick a gender for voice translation from two available options.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Maestra
 
 Another good option for video translation is Maestra. This live video language translator offers a speech-to-text feature for translation in 80 languages. Drag and drop your video files from Dropbox, Instagram, and Google Drive. It’s an industry-leading software that will translate with 90% accuracy. Maestra can instantly translate your video and generate subtitles to edit as per your needs.
@@ -374,10 +381,10 @@ If you are still confused about how to translate a live video, use this online t
 * It offers video translation of up to 300 minutes video using its premium plan. In such cases, you can upload unlimited file sizes for processing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4\. What Are the Characteristics of a Good Translated Video?
@@ -389,6 +396,13 @@ A well-translated video sounds like the original and preserves the content integ
 * **Subtitle and Dubbing Quality:** No matter what format you are using, the translation must maintain quality. Well-translated video contains well-timed and easy-to-read subtitles. They are properly formatted in the video, while dubbing matches the lip movements.
 * **Contextual Understanding:** The first thing you should consider in a video is that it conveys a proper message. The translated video must reflect a deeper understanding of source materials. Also, ensure that the character’s expression, cultural references, and jokes are improved.
 * **Technical Quality:** Quality matters a lot, whether it's video quality or translation quality. A good, translated video contains sound quality, resolution, pitch, and speed. Overall, it must preserve all the production values of the video.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus Tip. Wondershare Virbo: A Great Video Translator for PC Users
 
@@ -512,6 +526,13 @@ But what if you want to automate the whole process? Well, Vibro also has an AI s
 ### 1\. Veed.io
 
 ![Veed.io](https://images.wondershare.com/virbo/article/best-10-hindi-video-translators-with-step-by-step-guidance-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 While there are a lot of Hindi-to-English translation tools on the market, you won’t find something like [Veed](https://www.veed.io/tools/video-translator). The reason is simple: it translates videos in 125+ languages with over 98.5% accuracy. Some of the biggest brands like Facebook, VISA, P&G, and Pinterest have also used Veed for their brand, which means Veed has an extremely good qualification for video translation.
 
@@ -786,13 +807,6 @@ All in all, when it comes to translating videos from French to English, Translat
 
 ![Synthesia](https://images.wondershare.com/virbo/article/9-best-french-video-translators-online-and-download-options-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Synthesia](https://www.synthesia.io/features/video-translator) offers video content in over 70+ languages in just a few clicks. Not only can you generate a video from 70+ languages, but Synthesia’s strong point is automatically translating audio from video.
 
 For example, you can take the audio in the original language, and the software will create a voiceover in the target language in seconds. There are many other features included in Synthesia, too.
@@ -833,6 +847,13 @@ With just three simple steps, Veed IO allows you to translate videos from one la
 2. **Accuracy:** In AI video translations, 98.5% accuracy is no joke. Veed is one of the few translators to achieve this accuracy.
 3. **Big Portfolio:** With some of the biggest brands using Veed, it has the credibility to become your next tool.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. WeAreNova
 
 ![WeAreNova](https://images.wondershare.com/virbo/article/9-best-french-video-translators-online-and-download-options-10.jpg)
@@ -872,6 +893,13 @@ The software also has instant subtitles that are also editable. So, even after y
 1. **Automatic AI Voiceovers:** AI voice overs in 100+ languages for easy dubbing and effective audience targeting.
 2. **Instant Subtitles:** The software also has instant subtitles that could work on any video.
 3. **Accurate Transcription:** Maestro even has an accurate transcription option where transcribing takes less than half of the duration of the video file.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Final Verdict
 
@@ -961,23 +989,9 @@ All in all, when it comes to translating videos from French to English, Translat
 2. **Language Support**: Supports over 75+ languages with 1-click.
 3. **Good Reputation:** Great reviews on Capterra, GetApp, and Software Advice
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Synthesia
 
 ![Synthesia](https://images.wondershare.com/virbo/article/9-best-french-video-translators-online-and-download-options-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Synthesia](https://www.synthesia.io/features/video-translator) offers video content in over 70+ languages in just a few clicks. Not only can you generate a video from 70+ languages, but Synthesia’s strong point is automatically translating audio from video.
 
@@ -1107,13 +1121,6 @@ To translate video captions, you can follow the steps:
 
 If you want to translate the video's audio, you must use third-party software. There are several applications and online tools that specialize in translating video, such as Wondershare Virbo – Video Translator tool. Using this tool, you can translate Instagram videos and enjoy them hassle-free.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3\. How to Translate Instagram Video to English with an AI Video Translator
 
 If you want to **translate Instagram videos to English**or other languages, consider using Wondershare Virbo. Virbo provides an AI Translation tool that surpasses Instagram's built-in features. The tool helps users translate their Instagram videos into different languages.
@@ -1131,13 +1138,6 @@ Follow this step-by-step guide on how to translate Instagram videos using [Virbo
 * **Step 2.** Create an account or log in
 
 ![translate-instagram-video-4.jpeg](https://images.wondershare.com/virbo/article/2024/03/translate-instagram-video-4.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * **Step 3.** Open Video Translate
 
@@ -1459,6 +1459,13 @@ Virbo will translate the video subtitles to the desired language within a few se
 
 Translating the subtitles of your video is advantageous in many ways. It makes your videos more accessible and useful to your audience. A tool like **Subtitle Cat**helps to make the translation faster and easier. However, for more accurate results and use across different types of videos, we recommend using WonderShare Virbo. The video translation software comes with AI-powered features that make subtitle translation more efficient and effective.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Ever-Changing Era of AI Video Translation: A Reality to Be Fulfilled
 
 The landscape of video creation is continuously evolving with the advancement of AI. It has reduced the manual efforts of video production with automated processes. Content creators translate their videos for a powerful impact on the audience. In this regard, they prefer **AI translate video** tools to translate large volumes of videos.
@@ -1480,19 +1487,6 @@ This feature of Virbo offers AI to translate video into selected voices along wi
 After uploading a video, you must pick the original language of the video. Then, you should choose a language for voiceover or translation. Also, users can select the accent or tone of the translated voices from the given options.
 
 ![virbo video translator feature](https://images.wondershare.com/virbo/article/video-creation-with-ai-into-reality-7.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Other Notable Features of Wondershare Virbo
 
@@ -1650,21 +1644,24 @@ In search of the best translation tool, you can rely on Wondershare Virbo. This 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-mastering-twitter-videos-a-beginners-tutorial/"><u>[Updated] 2024 Approved Mastering Twitter Videos A Beginner's Tutorial</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-become-a-visionary-creator-optimal-camera-lens-selection-for-2024/"><u>[Updated] Become a Visionary Creator Optimal Camera Lens Selection for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-tap-into-the-latest-gaming-and-app-splash-of-win11/"><u>[Updated] In 2024, Tap Into the Latest Gaming and App Splash of Win11</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-netflixs-secret-ally-your-mac-for-recording-entertainment-for-2024/"><u>[Updated] Netflix's Secret Ally Your Mac for Recording Entertainment for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/boost-game-performance-with-smart-disk-management-in-steam/"><u>Boost Game Performance with Smart Disk Management in Steam</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/building-your-screencasting-skills-from-the-ground-up/"><u>Building Your Screencasting Skills From the Ground Up</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-easily-use-korean-to-english-video-translators/"><u>How To Easily Use Korean to English Video Translators</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-ideal-places-to-step-into-new-realities/"><u>In 2024, Ideal Places to Step Into New Realities</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-languages-top-online-learning-methods/"><u>Mastering Languages: Top Online Learning Methods</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation/"><u>New An Exhaustive List of Lip Sync Apps for Vibrant Video Creation</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-a-brief-review-of-capcut-translate-with-alternative/"><u>New In 2024, A Brief Review of CapCut Translate With Alternative</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>New In 2024, Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-translate-video-from-english-to-arabic-with-ease/"><u>New Translate Video From English to Arabic with Ease</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-must-have-apps-for-real-time-video-translation/"><u>Updated Must-Have Apps for Real-Time Video Translation</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations/"><u>Updated Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations</u></a></li>
-<li><a href="https://blog-min.techidaily.com/upload-the-winxvideo-ai-mobile-app-enhance-your-phone-experience-on-iphones-and-androids/"><u>Upload the WinxVideo AI Mobile App – Enhance Your Phone Experience on iPhones & Androids</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-smart-eco-friendly-screen-tech-compilation/"><u>[New] 2024 Approved Smart, Eco-Friendly Screen Tech Compilation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/avigating-youtube-shorts-thumbnail-losses/"><u>[New] Navigating YouTube Shorts Thumbnail Losses</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-no-video-paths-in-modern-education-systems/"><u>[New] No-Video Paths in Modern Education Systems</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-shortcuts-to-success-how-to-skip-edgenuity-online-lessons-gracefully/"><u>[Updated] In 2024, Shortcuts to Success How to Skip Edgenuity Online Lessons Gracefully</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-personalize-your-pixelated-world-the-ultimate-guide-to-discovering-creator-types-via-6-tests/"><u>2024 Approved Personalize Your Pixelated World The Ultimate Guide to Discovering Creator Types via 6 Tests</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/5-best-apps-for-voice-translation-from-english-to-bangla-for-2024/"><u>5 Best Apps for Voice Translation From English to Bangla for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/explore-the-ultimate-list-of-cost-free-anime-vod-services-ranking-the-top-19-in-2-curosly/"><u>Explore the Ultimate List of Cost-Free Anime VOD Services - Ranking the TOP 19 in 2 Curosly!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-pros-choice-review-the-ultimate-4k-dslr-rigs/"><u>In 2024, Pro's Choice Review The Ultimate 4K DSLR Rigs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-budget-friendly-gopro-adds/"><u>In 2024, Ultimate Budget-Friendly GoPro Adds</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation/"><u>New 2024 Approved An Exhaustive List of Lip Sync Apps for Vibrant Video Creation</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-best-5-udemy-subtitle-translator-auto-translation/"><u>New 2024 Approved Best 5 Udemy Subtitle Translator (Auto Translation)</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>New Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-11-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 11</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-a-brief-review-of-capcut-translate-with-alternative/"><u>Updated A Brief Review of CapCut Translate With Alternative</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-tiktok-videos-top-5-auto-translate-tools-for-2024/"><u>Updated How to Translate TikTok Videos Top 5 Auto Translate Tools for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-tiktok-videos-all-you-want-to-know/"><u>Updated How to Translate TikTok Videos? All You Want to Know</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-how-to-translate-youtube-videos-to-english-subtitles/"><u>Updated In 2024, How to Translate YouTube Videos to English Subtitles</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-kya-aap-video-call-kar-sakty-ho-translate-any-hindi-video-into-english/"><u>Updated In 2024, Kya Aap Video Call Kar Sakty Ho Translate Any Hindi Video Into English</u></a></li>
 </ul></div>
 

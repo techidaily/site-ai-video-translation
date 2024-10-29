@@ -1,7 +1,7 @@
 ---
 title: "Mastering Resilience: The Unbreakable Loop of African American Continuity"
-date: 2024-10-20T17:51:55.906Z
-updated: 2024-10-23T16:34:43.158Z
+date: 2024-10-23T04:05:47.158Z
+updated: 2024-10-28T23:10:17.097Z
 tags:
   - win11
   - win10
@@ -45,13 +45,6 @@ To do so, you can:
 
 ![allow  an app through controlled folder access fix Yakuza: Like a Dragon crashing on PC ](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-security-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select **Virus & threat protection**  from the left pane. Scroll down and under the **Ransomware protection**  section, click **Manage ransomware protection** .
 
 ![allow  an app through controlled folder access fix Yakuza: Like a Dragon crashing on PC ](https://images.drivereasy.com/wp-content/uploads/2020/09/manage-ransomware-protection-1200x684.png)
@@ -64,6 +57,13 @@ To do so, you can:
  4) Click **Add an allowed app** **\> Browse all apps** .
 
 ![allow  an app through controlled folder access fix Yakuza: Like a Dragon crashing on PC ](https://images.drivereasy.com/wp-content/uploads/2020/09/allow-an-app-through-controlled-folder-access-2-1-1200x684.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then go to your game’s installation folder:**C:SteamLibrarysteamappscommonYakuza Like a Dragon untimemedia** . Now add your game **YakuzaLikeADragon.exe** through controlled folder access.
 
@@ -88,6 +88,13 @@ To do so, you can:
 After you’ve done these, launch your game to check if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Update the graphics card driver
 
@@ -156,23 +163,9 @@ This will open your game’s installation folder.
 
 ![run Steam as an administrator to fix Yakuza: Like a Dragon crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-right-click-from-the-desktop-and-select-open-file-location.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Scroll down and find the **Steam application** . (It should be highlighted.) Right-click on it and select **Properties** .
 
 ![run Steam as an administrator to fix Yakuza: Like a Dragon crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-select-Properties-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Select the tab **Compatibility**  and check the box next to **Run this program as an administrator** . Then click **Apply > OK** .
 
@@ -211,6 +204,13 @@ This will open your game’s installation folder.
  2) Right-click on your game and select **Properties** .  
   
 ![disable overlay Yakuza Like a Dragon](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Select **GENERAL**  and uncheck the box **Enable the Steam Overlay while in-game** .  
   
@@ -257,10 +257,10 @@ After applying the changes, quit Discord.
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/10/open-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Under the**Apps** section, navigate to**YakuzaLikeADragon** . Right-click it and select**Go to details** .  
@@ -280,10 +280,10 @@ Now you should be able to continue to play your game without crashes.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 8: Run your game on a dedicated graphics card
@@ -302,9 +302,23 @@ Now you should be able to continue to play your game without crashes.
 
 ![open Device Manager](https://images.drivereasy.com/wp-content/uploads/2020/09/open-device-manager.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Double-click**Display adapters** to expand the list. And you can see if your computer has more than one GPU.
 
 ![find out how many GPU your computer has](https://images.drivereasy.com/wp-content/uploads/2020/11/double-click-Display-adapters-to-expand-the-list.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Run the game on a dedicated graphics card
 
@@ -330,10 +344,10 @@ Now you should be able to continue to play your game without crashes.
 ![run Yakuza: Like a Dragon on Nvidia graphics card](https://images.drivereasy.com/wp-content/uploads/2020/11/add-YakuzaLikeADragon.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your game isn’t on the list, then click**Browse** and go to the game’s installation folder (C:SteamLibrarysteamappscommonYakuza Like a Dragon untimemedia). Then select the game’s exe file and click**Open** .  
@@ -343,13 +357,6 @@ Now you should be able to continue to play your game without crashes.
  4) In the**Select the preferred graphics processor for this program** section, click on the down arrow and select**High-performance NVIDIA processor** . Then click**Apply** .  
   
 ![run Yakuza: Like a Dragon on a dedicated graphics card NVIDIA](https://images.drivereasy.com/wp-content/uploads/2020/11/select-High-performance-NVIDIA-processor-for-YakuzaLikeADragon-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then you can follow the same steps to add the game’s**startup.exe** to the list and select**High-performance NVIDIA processor** for it.
 
@@ -380,13 +387,6 @@ Now you should be able to continue to play your game without crashes.
  2) Type **msconfig** and then press **Enter** .
 
 ![open System Configuration](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click on the **Services** tab. Check the box **Hide all Microsoft services** and click **Disable all > Apply > OK** .
 
@@ -419,22 +419,21 @@ Now you should be able to continue to play your game without crashes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-superb-video-connections-adventures/"><u>[New] 2024 Approved Superb Video Connections Adventures</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-advanced-5-internet-viewing-units/"><u>[New] Advanced 5 Internet Viewing Units</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-cutting-edge-techniques-to-elevate-your-screen-recordings-in-adobe-captive/"><u>[New] Cutting-Edge Techniques to Elevate Your Screen Recordings in Adobe Captive</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-iphotovidsyncer-seamless-imageplusvideo-playback/"><u>[Updated] 2024 Approved IPhotoVidSyncer Seamless Image+Video Playback</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-building-a-cohesive-setup-synergizing-obs-with-zoom-services/"><u>[Updated] Building a Cohesive Setup Synergizing OBS with Zoom Services</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-crafting-the-quintessential-thumbnails-for-live-video-success/"><u>[Updated] Crafting the Quintessential Thumbnails for Live Video Success</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-switch-strike-force-your-top-10-game-lineup/"><u>[Updated] Switch Strike Force Your Top 10 Game Lineup</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-se-2020-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone SE (2020) Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-complete-guide-of-top-video-language-translators/"><u>New 2024 Approved Complete Guide of Top Video Language Translators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-how-to-translate-instagram-videos-for-global-engagement/"><u>New 2024 Approved How to Translate Instagram Videos for Global Engagement</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-best-video-translator-app-for-pc-you-cannot-miss/"><u>New Best Video Translator App for PC You Cannot Miss</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/rethink-periscope-6-innovative-video-apps-for-iphones-and-android/"><u>Rethink Periscope 6 Innovative Video Apps for iPhones & Android</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-best-toolbox-to-translate-youtube-videos-to-english-subtitles/"><u>Updated 2024 Approved Best Toolbox to Translate YouTube Videos to English Subtitles</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>Updated 2024 Approved How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-translate-live-video-making-it-possible-with-the-best-tool/"><u>Updated 2024 Approved Translate Live Video Making It Possible With The Best Tool</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-best-10-chinese-video-to-english-translator-for-2024/"><u>Updated Best 10 Chinese Video to English Translator for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-top-10-ai-subtitle-translators-for-content-creators/"><u>Updated Top 10 AI Subtitle Translators for Content Creators</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-high-altitude-escapades-the-husqvarna-h501s-review-explored/"><u>[Updated] High Altitude Escapades - The Husqvarna H501S Review Explored</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-iphone-camera-mastery-x8-series-essential-tools/"><u>[Updated] In 2024, IPhone Camera Mastery X/8 Series Essential Tools</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-9-best-french-video-translators-online-and-download-options/"><u>2024 Approved 9 Best French Video Translators Online and Download Options</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pro-video-editing-tools-on-your-phone/"><u>2024 Approved Pro Video Editing Tools on Your Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-f25-pro-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo F25 Pro 5G</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-boosting-views-a-guide-for-tiktok-unboxing-gurus/"><u>In 2024, Boosting Views A Guide for TikTok Unboxing Gurus</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/los-mejores-programas-de-edicion-de-video-4k-simplificados-eleccion-expertos-para-su-proyecto-en-2e4/"><u>Los Mejores Programas De Edición De Vídeo 4K Simplificados: Elección Expertos Para Su Proyecto en 2E4</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-best-10-chinese-video-to-english-translators/"><u>New 2024 Approved Best 10 Chinese Video to English Translators</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations/"><u>New 2024 Approved Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-translate-any-hindi-video-into-english-with-ai/"><u>New In 2024, Translate Any Hindi Video Into English With AI</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unbeatable-free-mp4-video-editors-top-10-list/"><u>New In 2024, Unbeatable Free MP4 Video Editors Top 10 List</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/reaching-a-wider-audience-using-video-translation-in-tamil-for-2024/"><u>Reaching a Wider Audience Using Video Translation in Tamil for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/thrilling-timeline-how-to-systematically-savor-every-classic-and-new-release-of-the-james-bond-saga/"><u>Thrilling Timeline: How to Systematically Savor Every Classic and New Release of the James Bond Saga</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trouble-getting-frontiers-of-pandora-running-this-article-has-the-answers-you-need/"><u>Trouble Getting 'Frontiers of Pandora' Running? This Article Has the Answers You Need.</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-mastering-lip-sync-explore-top-apps-for-dynamic-videos/"><u>Updated Mastering Lip Sync Explore Top Apps for Dynamic Videos</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-unlocking-global-audiences-top-video-language-converters-for-2024/"><u>Updated Unlocking Global Audiences Top Video Language Converters for 2024</u></a></li>
 </ul></div>
 

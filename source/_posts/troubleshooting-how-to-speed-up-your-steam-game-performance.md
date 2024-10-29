@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Speed Up Your Steam Game Performance"
-date: 2024-10-18T16:12:54.855Z
-updated: 2024-10-23T17:41:57.453Z
+date: 2024-10-25T11:13:09.952Z
+updated: 2024-10-29T10:57:11.549Z
 tags:
   - win11
   - win10
@@ -44,13 +44,6 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Update your Steam client and games
 
  Before using the Remote Play feature, make sure your Steam client is updated. It can be a prerequisite to use the feature smoothly. Although most of the time, it will automatically download an update if there’s one available, you can always update it manually by selecting the**Steam** tab and click**Check for Steam Client Updates** .  
@@ -61,25 +54,11 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Update your device drivers
 
  A number of bugs can be fixed by performing a dirver update. If Remote Play isn’t working for you or you are getting poor performance, graphical glitches or black screens, make sure you have the latest drivers installed. driver updates can **give you a speed boost, fix problems, and sometimes even provide you with completely new features** , all for free.
 
  There are two ways you can update your drivers:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1 – Manually update your drivers
 
@@ -99,23 +78,16 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ![update video card drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/10/update-drivers-scan-now.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-video-card-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -136,20 +108,27 @@ The Steam Remote Play is a feature that allows you to stream your games from you
   
 ![disable hardware encoding Steam Steam Remote Play not working](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam-Remote-Play.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Uncheck the option**Enable hardware decoding** and then click**OK** .
 
 ![disable hardware decoding Steam Remote Play not working](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam-Remote-Play-not-working.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now try reconnecting your device to check if the issue persists.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Disable IPv6
 
@@ -158,13 +137,6 @@ Now try reconnecting your device to check if the issue persists.
  1) On the bottom right hand side of your screen, right-click on the network![network icon](https://images.drivereasy.com/wp-content/uploads/2020/10/network-icon.png) or Wi-Fi![wifi icon](https://images.drivereasy.com/wp-content/uploads/2020/10/wifi-icon.png) icon. Then select**Open Network & Internet settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-IPv6-select-open-network-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In the**Change your network settings** section, click**Change adapter options** .  
   
@@ -178,9 +150,29 @@ Now try reconnecting your device to check if the issue persists.
 
 ![uncheck the checkbox Internet Protocol Version 6](https://images.drivereasy.com/wp-content/uploads/2020/10/uncheck-the-checkbox-Internet-Protocol-Version-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Now restart your computer for the settings to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Use a static IP address
 
@@ -189,6 +181,13 @@ Now try reconnecting your device to check if the issue persists.
 To set a static IP address, you can:
 
  1) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **R**  at the same time to invoke the Run box.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Type**ncpa.cpl** and press**Enter** .
 
@@ -199,6 +198,19 @@ To set a static IP address, you can:
 
 ![set a static ip address to fix Steam Remote Play not working issue](https://images.drivereasy.com/wp-content/uploads/2020/10/right-click-on-active-network-adapter-and-select-Properties.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) In the**Properties** window for the adapter, select**Internet Protocol Version 4 (TCP/IPv4)** and then click the**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/set-a-static-ip-address-to-fix-Steam-Remote-Play-not-working-issue.jpg)
@@ -206,6 +218,13 @@ To set a static IP address, you can:
  5) Select the**Use the following IP address** option. Then type in the**IP address** ,**Subnet mask,** and**Default Gateway** corresponding to your network setup.
 
 ![set a static ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/set-a-static-ip-address-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To check them, you can:
 
@@ -228,13 +247,6 @@ To check them, you can:
 * Now you can see your**IPv4 Address, Subnet Mask and Default Gateway** .  
 
 ![my own ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/my-own-ip-address.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After you’ve set a static IP address, try connecting to your devices to check if it works.
 
@@ -259,22 +271,19 @@ To check them, you can:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-perfect-for-broadcasters-top-360-cameras-listed/"><u>[New] 2024 Approved Perfect for Broadcasters Top 360° Cameras Listed</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-close-look-at-t-series-revenue-from-online-channels/"><u>[New] In 2024, A Close Look at T-Series Revenue From Online Channels</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-access-an-array-of-personalized-ending-sounds-for-videos/"><u>[Updated] Access an Array of Personalized Ending Sounds for Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-creating-accessibility-your-guide-to-an-intuitive-youtube-signup-for-2024/"><u>[Updated] Creating Accessibility Your Guide to an Intuitive YouTube Signup for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/comprehensive-guide-for-free-video-translator-downloading/"><u>Comprehensive Guide for Free Video Translator Downloading</u></a></li>
-<li><a href="https://fox-search.techidaily.com/copia-de-seguridad-y-transferencia-facil-metodos-para-clonar-el-sistema-operativo-windows-7-entre-computadoras/"><u>Copia De Seguridad Y Transferencia Fácil: Métodos Para Clonar El Sistema Operativo Windows 7 Entre Computadoras</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723003319695-effortless-ways-to-stop-your-deathloop-from-freezing-and-crashing-on-your-pc-detailed-steps-inside/"><u>Effortless Ways to Stop Your Deathloop From Freezing & Crashing on Your PC – Detailed Steps Inside</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/kya-aap-video-call-kar-sakty-ho-translate-any-hindi-video-into-english/"><u>Kya Aap Video Call Kar Sakty Ho Translate Any Hindi Video Into English</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/logitech-g-pro-x-microphone-not-working-solved/"><u>Logitech G Pro X Microphone Not Working [Solved]</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-7-best-real-time-video-translation-apps/"><u>New 2024 Approved 7 Best Real Time Video Translation Apps</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-srt-subtitle-translation-tools-and-techniques-for-2024/"><u>New SRT Subtitle Translation Tools and Techniques for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-the-best-ai-translator-to-translate-videos-online-for-2024/"><u>New The Best AI Translator to Translate Videos Online for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/top-8-multi-subtitles-translators-you-can-use/"><u>Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>Updated 2024 Approved A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-all-about-kapwing-video-translation/"><u>Updated 2024 Approved All About Kapwing Video Translation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-success-with-freefire-hashtag-tips/"><u>[New] 2024 Approved Harnessing Success with FreeFire Hashtag Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-seamless-integration-of-nvidia-screener-techniques/"><u>[New] 2024 Approved Seamless Integration of NVIDIA Screener Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-top-10-video-text-upgrades-for-professionals/"><u>[New] In 2024, Top 10 Video Text Upgrades for Professionals</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-copyright-free-game-audio-repositories/"><u>In 2024, Copyright-Free Game Audio Repositories</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-oppo-a59-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Oppo A59 5G Lock Screen Password</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-5-best-apps-for-voice-translation-from-english-to-bangla/"><u>New 2024 Approved 5 Best Apps for Voice Translation From English to Bangla</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-how-to-translate-youtube-videos-to-english-subtitles/"><u>New 2024 Approved How to Translate YouTube Videos to English Subtitles</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-netflix-subtitle-translation-methods-comprehensive-guide-for-2024/"><u>New Netflix Subtitle Translation Methods Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/review-and-insight-into-movavi-editor-plus-now-available-for-2024/"><u>Review & Insight Into Movavi Editor Plus, Now Available for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tweet-no-more-emojis-linuss-leaks-trojan-breakdown-and-chatgpt-woes/"><u>Tweet No More Emojis, Linus's Leaks, Trojan Breakdown, & ChatGPT Woes.</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-top-7-online-auto-subtitle-translators-for-content-creators/"><u>Updated 2024 Approved Top 7 Online Auto Subtitle Translators for Content Creators</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-the-best-ai-translator-to-translate-videos-online/"><u>Updated In 2024, The Best AI Translator to Translate Videos Online</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-top-9-choices-for-video-auto-translate/"><u>Updated Top 9 Choices for Video Auto Translate</u></a></li>
 </ul></div>
 

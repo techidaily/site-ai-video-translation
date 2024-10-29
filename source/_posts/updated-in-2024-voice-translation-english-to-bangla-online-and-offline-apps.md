@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Voice Translation English to Bangla Online and Offline Apps
-date: 2024-10-17T18:51:51.803Z
-updated: 2024-10-23T18:19:13.809Z
+date: 2024-10-24T06:10:33.733Z
+updated: 2024-10-28T17:40:22.872Z
 tags: 
   - ai translate video
   - ai generate video
@@ -482,6 +482,19 @@ What’s more? Well, Rask is also free to try, so even if you don’t want to bu
 1. **Auto translate tool:**  All you need to do is add your video or other files that need to be translated, and within a couple of minutes, you will get an auto-translated version of your video.
 2. **Efficient and accurate:** Manual translation can be a lengthy process, and that’s what Rask aims to save. The automated transcription service uses advanced AI to bring you the best and most efficient results, which will make a day-and-night difference.
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. ElevenLabs
 
 ![Always Show Translations](https://images.wondershare.com/virbo/article/tiktok-translation-essentials-top-5-auto-translate-tools-7.jpg)
@@ -537,6 +550,13 @@ You can also make your TikTok videos more informative with the help of other AI 
 ![Always Show Translations](https://images.wondershare.com/virbo/article/tiktok-translation-essentials-top-5-auto-translate-tools-13.jpg)
 
 [Create Tiktok Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -597,13 +617,6 @@ If you are a TikTok content creator or just someone who reposts content, then us
 1. **Accurate and efficient results:** Its 98.5% accuracy is quite impressive. VEED IO is also known for its efficiency, meaning that in just three steps, you can get your auto-translated subtitles for TikTok.
 2. **Online video editor:** VEED provides an online video editor where you can edit the video as you please. Whether it’s the font of these subtitles or background music, you have options to do anything you want.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Rask.ai
 
 ![Always Show Translations](https://images.wondershare.com/virbo/article/tiktok-translation-essentials-top-5-auto-translate-tools-6.jpg)
@@ -622,10 +635,10 @@ What’s more? Well, Rask is also free to try, so even if you don’t want to bu
 ![Always Show Translations](https://images.wondershare.com/virbo/article/tiktok-translation-essentials-top-5-auto-translate-tools-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you want to start dubbing your TikTok videos from one language to another, then ElevenLabs has the perfect AI dubbing tool. It replaces the original audio of your videos with an AI dubbed version, and it works like a champ. Moreover, what ElevenLabs does perfectly is that it preserves the unique characteristics of the original speakers’ voices.
@@ -670,13 +683,6 @@ You can also make your TikTok videos more informative with the help of other AI 
 
 ![Always Show Translations](https://images.wondershare.com/virbo/article/tiktok-translation-essentials-top-5-auto-translate-tools-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Now, write the script that you want to have a TikTok information video based on and paste it into the dialogue box. Select “**Apply**”
 
 ![Always Show Translations](https://images.wondershare.com/virbo/article/tiktok-translation-essentials-top-5-auto-translate-tools-12.jpg)
@@ -685,7 +691,21 @@ You can also make your TikTok videos more informative with the help of other AI 
 
 ![Always Show Translations](https://images.wondershare.com/virbo/article/tiktok-translation-essentials-top-5-auto-translate-tools-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Create Tiktok Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -730,6 +750,13 @@ Korean-to-English video translators are important in breaking down language barr
 ![woman wearing traditional korean dress](https://images.wondershare.com/virbo/article/2024/03/korean-to-english-video-translator-02.jpg)
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How Korean To English Video Translators Work
 
@@ -791,13 +818,6 @@ Virbo streamlines the translation process by auto-generating scripts based on au
 
 Taking advantage of AI cloning tech, Virbo can mimic voices. It has a remarkable accuracy, which is a plus. You can generate custom voiceovers or dubbing in your preferred language. It creates personalized translations that connect with your audience.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Virbo Use Cases
 
 Here are the different use cases of Virbo for all your content creation needs:
@@ -842,6 +862,13 @@ With Wondershare Virbo, **translating Korean videos to English** has never been 
 A **Korean-to-English video translator** is essential for enjoying Korean media content. Virbo’s AI-powered video translation feature offers effortless translation and enhances viewing experiences. The app ensures accurate subtitles and synchronized dubbing.
 
 With Virbo, language barriers are taken care of. The app opens a lot of doors to the world of Korean entertainment. The ability to translate Korean to English videos allows you to immerse in their stories and culture. Explore the possibilities today and discover the full potential of Virbo.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## An Exhaustive List of Lip Sync Apps for Vibrant Video Creation
 
@@ -935,19 +962,6 @@ Vidnoz AI offers premium features. Check out the table below for more informatio
 [Wondershare Virbo](https://virbo.wondershare.com/) utilizes advanced AI technology to create highly realistic and personalized AI Avatar video content featuring diverse nationalities and languages. With over 150 lifelike AI avatars speaking in 120+ languages, it offers engaging spokespersons for various use cases like marketing, sales, training, and tutorials. Additionally, it provides a wide range of templates for different purposes, eliminating the need for costly and time-consuming camera crews or actors. With its integrated lip-sync feature, Virbo ensures seamless synchronization between audio and avatar movements, enhancing the viewing experience.
 
 ![lip-sync-app-for-video-creation-04.jpg](https://images.wondershare.com/virbo/article/2024/03/lip-sync-app-for-video-creation-04.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
@@ -1065,13 +1079,6 @@ Rask AI offers premium features. Check out the table provided below for more inf
 | **Basic**     | **Pro**        | **Business**   | **Enterprise** |
 | ------------- | -------------- | -------------- | -------------- |
 | $60 per month | $140 per month | $560 per month | Custom Pricing |
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Powtoon
 
@@ -1266,13 +1273,6 @@ Rask AI offers premium features. Check out the table provided below for more inf
 [Powtoon](https://www.powtoon.com/) is a top platform for making visual content. It lets anyone create professional videos and presentations quickly. With lots of templates, scenes, and characters to choose from, you can make high-quality videos without needing a big team. Plus, you can easily add your own pictures and videos to make your content more engaging. In addition, Powtoon also lets you sync your audio with video seamlessly, making your videos even better.
 
 ![lip sync app powtoon](https://images.wondershare.com/virbo/article/2024/03/lip-sync-app-for-video-creation-08.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -1525,6 +1525,13 @@ Step 3 **Change settings and set your target language**
 
 ![virbo step guidance Spanish translation – step 3 & 4](https://images.wondershare.com/virbo/article/audio-video-translate-spanish-to-english-vice-versa-06.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Note: if you are translating from English to Spanish, Spanish will be your **Translated Language**.
 
 Step 4 **Translate your video**
@@ -1602,13 +1609,6 @@ This feature of Virbo offers AI to translate video into selected voices along wi
 After uploading a video, you must pick the original language of the video. Then, you should choose a language for voiceover or translation. Also, users can select the accent or tone of the translated voices from the given options.
 
 ![virbo video translator feature](https://images.wondershare.com/virbo/article/video-creation-with-ai-into-reality-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Other Notable Features of Wondershare Virbo
 
@@ -1894,24 +1894,19 @@ Virbo is an AI video generator that provides high-quality videos in specific lan
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-drone-for-sale-best-drones-to-buy/"><u>[Updated] Drone for Sale - Best Drones to Buy</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-frugal-flight-assemblies-budget-friendly-drones-ranking/"><u>[Updated] In 2024, Frugal Flight Assemblies Budget-Friendly Drones Ranking</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/fy-views-and-engagement-through-google-analytics-expertise-for-2024/"><u>Amplify Views & Engagement Through Google Analytics Expertise for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/chinas-technological-triumph-the-unveiling-of-a-powerful-loongson-cpu-mini-pc-for-under-387/"><u>China's Technological Triumph: The Unveiling of a Powerful Loongson CPU Mini PC for Under $387</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/comprehensive-review-of-anthropics-smart-photo-editor-a-leading-edge-software-solution/"><u>Comprehensive Review of Anthropics Smart Photo Editor: A Leading-Edge Software Solution</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/easy-steps-to-setting-up-a-professional-discord-stream/"><u>Easy Steps to Setting Up a Professional Discord Stream</u></a></li>
-<li><a href="https://article-posts.techidaily.com/elevate-your-chat-game-whatsapps-best-kept-secrets-for-2024/"><u>Elevate Your Chat Game WhatsApp's Best-Kept Secrets for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/enhancing-ai-infrastructure-how-microsoft-is-revolutionizing-data-center-connectivity-with-its-own-network-gear-tech-analysis/"><u>Enhancing AI Infrastructure: How Microsoft Is Revolutionizing Data Center Connectivity with Its Own Network Gear - Tech Analysis</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Realme Narzo 60 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Infinix Smart 7 HD? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-professional-window-capturer-version-11/"><u>In 2024, Professional Window Capturer - Version 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-samsung-galaxy-xcover-6-pro-tactical-edition-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Samsung Galaxy XCover 6 Pro Tactical Edition? Fixed | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/navigate-the-tech-maze-with-confidence-discover-what-toms-hardware-has-to-offer/"><u>Navigate the Tech Maze with Confidence – Discover What Tom's Hardware Has to Offer</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/navigating-the-world-of-hardware-with-toms-analysis/"><u>Navigating the World of Hardware with Tom's Analysis</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/reestablishing-iphone-x-trust-restoring-biometric-lock/"><u>Reestablishing iPhone X Trust Restoring Biometric Lock</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/the-tech-virtuoso-tom-decoding-todays-hardware-innovations/"><u>The Tech Virtuoso, Tom: Decoding Today’s Hardware Innovations</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/the-ultimate-guide-to-the-ring-video-doorbell-pro-an-intelligent-and-effective-safety-solution/"><u>The Ultimate Guide to the Ring Video Doorbell Pro: An Intelligent and Effective Safety Solution</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/tsmcs-revolutionary-128-tbps-on-package-optical-link-next-generation-silicon-photonics-communication-for-ai/"><u>TSMC's Revolutionary 12.8 Tbps On-Package Optical Link: Next-Generation Silicon Photonics Communication for AI</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/unleashing-creativity-and-power-comprehensive-corsair-one-pro-gaming-pc-review/"><u>Unleashing Creativity & Power: Comprehensive Corsair One Pro Gaming PC Review</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-building-a-robust-360-video-broadcast-framework-for-fb-for-2024/"><u>[New] Building a Robust 360 Video Broadcast Framework for FB for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-todays-virtual-realty-hardware-exploration/"><u>[Updated] Today’s Virtual Realty Hardware Exploration</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-frugal-filmmaking-top-camera-deals/"><u>2024 Approved Frugal Filmmaking Top Camera Deals</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/ideal-voice-transformation-tools-for-digital-talent/"><u>Ideal Voice Transformation Tools for Digital Talent</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-how-to-translate-tiktok-videos-all-you-want-to-know/"><u>In 2024, How to Translate TikTok Videos? All You Want to Know</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-watch-record-and-edit-football-matches-for-free/"><u>In 2024, How to Watch, Record, and Edit Football Matches for Free</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/masterpiece-makers-exceptional-android-collage-apps/"><u>Masterpiece Makers – Exceptional Android Collage Apps</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>New Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-best-free-video-watermark-software-for-beginners-for-2024/"><u>New The Best Free Video Watermark Software for Beginners for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/remobell-s-review-a-video-doorbell-under-100/"><u>RemoBell S Review: A Video Doorbell Under $100</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-a-non-responsive-system-check-utility/"><u>Troubleshooting Steps for a Non-Responsive System Check Utility</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-a-brief-review-of-capcut-translate-with-alternative/"><u>Updated 2024 Approved A Brief Review of CapCut Translate With Alternative</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-5-best-chrome-extensions-you-can-use-to-translate-videos-for-2024/"><u>Updated 5 Best Chrome Extensions You Can Use to Translate Videos for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-complete-guide-of-top-video-language-translators/"><u>Updated Complete Guide of Top Video Language Translators</u></a></li>
 </ul></div>
 

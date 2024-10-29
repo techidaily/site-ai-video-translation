@@ -1,7 +1,7 @@
 ---
 title: Thrifty Smartwatch or Shortcomings Exposed? A Comprehensive Review of the Mobvoi TicWatch E2
-date: 2024-10-18T19:02:41.040Z
-updated: 2024-10-23T17:14:08.761Z
+date: 2024-10-26T05:14:13.008Z
+updated: 2024-10-29T01:20:33.218Z
 categories:
   - BestProducts
 description: This Article Describes Thrifty Smartwatch or Shortcomings Exposed? A Comprehensive Review of the Mobvoi TicWatch E2
@@ -43,13 +43,6 @@ Lifewire / Andy Zahn
 
 ![Razer Book 13](https://www.lifewire.com/thmb/0i6VvZqT39MNfVUbDSY7z3l8-Tw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Razer_Book13_HeroSquare-80401fcfbef94a1b8444cd0832388aac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Andy Zahn
 
 [View On Amazon](https://www.amazon.com/dp/B08LP734G3/?tag=lifewire-onsite-prod-20&ascsubtag=5176895%7Cnf0e7737a413045878ab8a2384bc1f06617%7CB08LP734G3) [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2F6442337.p) [View On Adorama.com](https://www.adorama.com/rz0903571em2.html)
@@ -76,6 +69,13 @@ Lifewire / Andy Zahn
 
  An[ultrabook](https://www.lifewire.com/best-laptops-to-buy-4043650) is typically a thing of compromises, and if you want a laptop that’s thin and light, power is often sacrificed. However, the Razer Book 13 challenges that stereotype and offers a sleek and attractive alternative to other high-end[ultra-portables](https://www.lifewire.com/best-lightweight-laptops-to-buy-4065134) . I tested it for 40 hours to find if it can live up both to its stunning ultrabook looks and Razer’s prowess in building high-powered gaming laptops.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design: Beauty in minimalism
 
  Razer is known for their flashy gaming-focused laptops, mice, and keyboards that are clearly marketed towards gamers, but they have always also employed a certain degree of restraint over some more exuberant gaming products. With the Book 13, that restraint is pushed even further with only a few tasteful reminders of the laptop’s gaming heritage—the twisted snaky Razer logo on the top, and of course RGB backlighting for the keyboard.
@@ -96,13 +96,6 @@ Lifewire / Andy Zahn
 
  There’s not a lot to say about setting up the Razer Book 13\. It’s just a standard install of Windows 10 Home with no surprises along the way so you can be up and running in just a few minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Display: Positively stunning
 
  The Razer Book 13 configuration we tested comes with an absolutely gorgeous 13.5-inch UHD 60Hz display that is both very color accurate and provides stunning visuals. This is great for both creative tasks that require color accuracy, and for media consumption. The 16:10 aspect ratio is definitely tailored for productivity. The bezel is attractively thin, and the screen is made of Gorilla Glass 6, making it highly scratch resistant.
@@ -110,13 +103,6 @@ Lifewire / Andy Zahn
 ![Razer Book 13](https://www.lifewire.com/thmb/C308jEtLYxnwMp68uF5Sd-2hjyA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Razer_Book13_02-4da7b450ac1c4b879f1b0bebfa9815b5.jpg)
 
 Lifewire / Andy Zahn
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Performance: Lean and mean
 
@@ -139,15 +125,22 @@ Lifewire / Andy Zahn
 Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Connectivity: The latest and greatest
 
  With[Wi-Fi 6](https://www.lifewire.com/wi-fi-6-802-11-ax-4797345) , the Book 13 had no trouble taking full advantage of my home network. It provides a fast and reliable connection, and Bluetooth 5.0 is available as well.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Battery: Juice for the day
 
@@ -157,6 +150,13 @@ Lifewire / Andy Zahn
 
 Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Audio: Big sound for a small laptop
 
  You wouldn’t expect to get good audio out of such a small laptop, but the Book 13 does quite well in this regard. It features THX spatial audio and delivers a remarkably good listening experience. It’s certainly loud enough to deliver sound at max volume without noticeable distortion. 2Cellos cover of “Thunderstruck” is my go-to song for testing speakers and headphones, and I also listened to their new cover of “Livin’ on a Prayer.” The Book 13 rendered them both beautifully.
@@ -164,10 +164,10 @@ Lifewire / Andy Zahn
 ![Razer Book 13](https://www.lifewire.com/thmb/PL2MokPWQ_egcxv3fE0tw_k09Yo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Razer_Book13_04-6eed60095cbe467c9552c651ba4c9d46.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
@@ -178,13 +178,6 @@ Lifewire / Andy Zahn
 
  The webcam on the Book 13 is about average for a laptop. It captures 720p video and is perfectly acceptable, though not exceptional in any way. Video quality looks decent, even in relatively challenging situations.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Price: The cost of quality
 
  The configuration of the Razer Book 13 I tested is definitely pricey at $2,000\. That’s a decent chunk of change, and you could certainly buy a laptop with more graphical power for the money, but the Book 13 isn’t made for high-end gaming.
@@ -194,10 +187,16 @@ Lifewire / Andy Zahn
  This is a premium, ultra-portable device designed more for professional work, and its ability to game is basically a nice bonus. Considering the competition from Dell and Apple, it’s not unreasonably priced.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Razer Book 13 vs. Dell XPS 13 7390 2-in-1
@@ -211,6 +210,13 @@ Lifewire / Andy Zahn
  **A laptop with great looks, compact design, and remarkable power.**
 
  There’s a lot to love about the Razer Book 13, and not a lot of negative things to say about it. It’s not a graphical powerhouse, but the fact that it’s able to game at all is remarkable. Between its solid design, attractive aesthetics, and nice little touches that tie the whole package together, this is one awesome little ultrabook.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -250,14 +256,21 @@ Lifewire / Andy Zahn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-twitch-triumph-or-hitbox-heritage/"><u>[New] In 2024, Twitch Triumph or Hitbox Heritage?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-for-filmmakers-revolutionizing-visual-storytelling/"><u>2024 Approved Youtube for Filmmakers Revolutionizing Visual Storytelling</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/best-tool-to-translate-youtube-video-to-arabic/"><u>Best Tool to Translate YouTube Video to Arabic</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-stutter-and-lag-in-call-of-duty-black-ops-cold-war-for-a-seamless-gaming-experience/"><u>Fixing Stutter and Lag in Call of Duty: Black Ops Cold War for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Plus without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-a-complete-guide-to-translate-video-with-google-for-2024/"><u>New A Complete Guide To Translate Video With Google for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/unveiling-the-best-in-technology-explore-toms-hardware-secrets/"><u>Unveiling the Best in Technology - Explore Tom's Hardware Secrets</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-translate-videos-with-subtitle-cat-your-essential-guide/"><u>Updated 2024 Approved Translate Videos with Subtitle Cat Your Essential Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-best-tool-to-translate-youtube-video-to-arabic/"><u>Updated In 2024, Best Tool to Translate YouTube Video to Arabic</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/0-top-rated-digital-video-cutting-tools/"><u>[New] 10 Top-Rated Digital Video Cutting Tools</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/1728473595690-sd8/"><u>多元化的SD卡故障救援技巧：8个简单方式快速修复</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boosting-digital-marketing-efforts-through-cookiebot/"><u>Boosting Digital Marketing Efforts Through Cookiebot</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/deciphering-the-language-of-youtube-thumbnails-effectiveness/"><u>Deciphering the Language of YouTube Thumbnails Effectiveness</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-convert-video-voice-to-text-online-for-free-in-2024/"><u>How To Convert Video Voice to Text Online for Free, In 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-google-pixel-8-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Google Pixel 8 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-ultimate-guide-to-choosing-a-top-tier-gif-maker/"><u>In 2024, Ultimate Guide to Choosing a Top-Tier GIF Maker</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/innovative-solutions-for-storing-mov-files-in-windows-10-for-2024/"><u>Innovative Solutions for Storing Mov Files in Windows 10 for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-a-comprehensive-guide-for-free-video-translator-downloading/"><u>New 2024 Approved A Comprehensive Guide for Free Video Translator Downloading</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-top-7-video-language-converter-online-free/"><u>New 2024 Approved Top 7 Video Language Converter Online Free</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-create-lip-sync-tiktok-videos-without-installing-any-app/"><u>New Create Lip Sync TikTok Videos Without Installing Any App</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-translate-video-from-japanese-to-english-online-for-free-for-2024/"><u>New Translate Video From Japanese to English Online for Free for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-art-of-recording-facebook-lives-discover-4-key-strategies-for-2024/"><u>The Art of Recording Facebook Lives Discover 4 Key Strategies for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-apps-perfezionare-le-fotografie-dellalbum-digitale-guida-completa/"><u>Top Apps Perfezionare Le Fotografie Dell'Album Digitale: Guida Completa</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-maximizing-yandex-translate-in-video-translation-and-beyond/"><u>Updated 2024 Approved Maximizing Yandex Translate in Video Translation and Beyond</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-unlocking-global-audiences-top-video-language-converters/"><u>Updated Unlocking Global Audiences Top Video Language Converters</u></a></li>
 </ul></div>
 

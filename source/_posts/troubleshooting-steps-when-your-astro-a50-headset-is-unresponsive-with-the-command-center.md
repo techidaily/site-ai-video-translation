@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps When Your Astro A50 Headset Is Unresponsive with the Command Center
-date: 2024-10-16T16:46:17.995Z
-updated: 2024-10-23T17:56:59.549Z
+date: 2024-10-28T14:23:19.259Z
+updated: 2024-10-28T19:22:23.380Z
 tags:
   - win11
   - win10
@@ -60,14 +60,21 @@ And here are the requirements for RoboCop: Rogue City for your reference:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
@@ -89,22 +96,15 @@ To tell whether you have an SSD or an HDD, please view the Task Manager:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-12.png)
 3. To make sure that you have the best gaming experience with RoboCop: Rogue City and are free from the pain of constant freezes and crashes, it’s highly recommended that you install the game on your SSD.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your RoboCop: Rogue City still freezes or crashes when you have it installed on the SSD, please move on to the other fixes below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Update graphics card driver
@@ -114,10 +114,10 @@ To tell whether you have an SSD or an HDD, please view the Task Manager:
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
@@ -143,6 +143,13 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
@@ -154,10 +161,10 @@ To do so, first visit the website of your GPU manufacturer:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Verify game files
@@ -169,19 +176,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
@@ -200,13 +194,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Repair damaged system files
 
 **Repairing corrupted or damaged system files** could also help fix crashing problems with games like RoboCop: Rogue City. This is because the integrity of Windows system files is essential for the overall system’s proper operation and stability, while errors in critical system files can cause crashes, freezes, and problems that affect gaming performance.
@@ -219,6 +206,13 @@ To do so, first visit the website of your GPU manufacturer:
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -247,17 +241,20 @@ To do so, first visit the website of your GPU manufacturer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-facebook-featured-best-10-music-clips-today/"><u>[New] 2024 Approved Facebook Featured Best 10 Music Clips Today</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-routine-for-accessing-and-playing-fb-videos-via-apple-tv-for-2024/"><u>[Updated] The Ultimate Routine for Accessing and Playing FB Videos via Apple TV for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-unlocking-global-audiences-top-video-language-converters/"><u>2024 Approved Unlocking Global Audiences Top Video Language Converters</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/best-video-translator-app-for-pc-you-cannot-miss-for-2024/"><u>Best Video Translator App for PC You Cannot Miss for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-logitech-m525-mouse-drivers-and-installation-files-quick-guide/"><u>Free Logitech M525 Mouse Drivers & Installation Files: Quick Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gear-up-with-chatgpt-a-guide-to-topnotch-interviews/"><u>Gear Up with ChatGPT: A Guide to Topnotch Interviews</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-translate-any-hindi-video-into-english-with-ai/"><u>In 2024, Translate Any Hindi Video Into English With AI</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mirroring-ios-devices-and-macs-to-an-apple-tv-a-step-by-step-guide/"><u>Mirroring iOS Devices and Macs to an Apple TV - A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-easy-steps-to-translate-video-on-twitter-for-2024/"><u>New Easy Steps to Translate Video on Twitter for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-pioneering-the-silent-echo-techniques-and-tools-for-gradual-audio-fading-released-for-2024/"><u>New Pioneering the Silent Echo Techniques and Tools for Gradual Audio Fading Released for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unfolding-the-secrets-of-paper-like-comfort-on-digital-screens-the-2019-kindle-oasis-unveiled/"><u>Unfolding the Secrets of Paper-Like Comfort on Digital Screens - The 2019 Kindle Oasis Unveiled!</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-how-to-easily-use-korean-to-english-video-translators/"><u>Updated 2024 Approved How To Easily Use Korean to English Video Translators</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-unveiling-the-finest-free-online-recorders-top-picks/"><u>[New] 2024 Approved Unveiling the Finest Free Online Recorders – Top Picks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-best-3d-entrance-makers-for-youtube-creators/"><u>[Updated] Best 3D Entrance Makers for YouTube Creators</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-decoding-youtube-income-how-much-does-each-1000-viewer-earn-for-2024/"><u>[Updated] Decoding YouTube Income How Much Does Each 1,000 Viewer Earn for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/8-best-multi-subtitles-translators-you-shouldnt-miss/"><u>8 Best Multi-Subtitles Translators You Shouldnt Miss</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/best-10-free-video-translators-to-mitigate-translation-risks-for-2024/"><u>Best 10 Free Video Translators to Mitigate Translation Risks for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-nokia-c110-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Nokia C110 Phone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-video-from-japanese-to-english-online-in-2024/"><u>How To Translate Video From Japanese to English Online, In 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-100-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor 100? Try These Fixes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-100-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor 100 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-top-8-multi-subtitles-translators-you-can-use/"><u>In 2024, Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/strategic-insights-for-triumph-in-smm/"><u>Strategic Insights for Triumph in SMM</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/translate-instagram-videos-easily-a-step-by-step-guide/"><u>Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-pre-run-settings-essentials/"><u>Unveiling Windows' Pre-Run Settings Essentials</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>Updated 2024 Approved Translate Audio/Video Content From Spanish to English and Vice Versa</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled-for-2024/"><u>Updated The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled for 2024</u></a></li>
 </ul></div>
 
