@@ -1,7 +1,7 @@
 ---
 title: TSMC Unveils Groundbreaking 12.8 Tbps On-Package Optical Transmission - Revolutionizing AI with Advanced Silicon Photonics
-date: 2024-10-22T00:01:46.550Z
-updated: 2024-10-28T16:08:42.722Z
+date: 2024-10-31T20:38:38.838Z
+updated: 2024-11-04T07:43:17.443Z
 tags:
   - desktop
 categories:
@@ -37,10 +37,10 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,24 +66,16 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-deciding-on-a-digital-domain-obs-vs-twitch-studio/"><u>[Updated] 2024 Approved Deciding on a Digital Domain OBS Vs Twitch Studio</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-art-of-reel-production-embedding-soundtracks/"><u>[Updated] The Art of Reel Production Embedding Soundtracks</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-netflix-subtitle-translation-methods-comprehensive-guide/"><u>2024 Approved Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/backup-plan-for-windows-users-when-bitlocker-isnt-an-option/"><u>Backup Plan for Windows Users When BitLocker Isn't an Option</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/color-dynamics-bringing-artistic-vision-to-life/"><u>Color Dynamics Bringing Artistic Vision to Life</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Motorola G54 5G? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/lifelong-education-top-four-reasons-to-learn-languages-at-age-40plus-for-enriched-life-experiences/"><u>Lifelong Education: Top Four Reasons to Learn Languages at Age 40+ for Enriched Life Experiences</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-the-art-of-media-imports-within-windows-10s-realm/"><u>Mastering the Art of Media Imports Within Windows 10'S Realm</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-how-to-auto-translate-youtube-videos-into-different-languages/"><u>New 2024 Approved How To Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-how-to-easily-use-korean-to-english-video-translators/"><u>New 2024 Approved How To Easily Use Korean to English Video Translators</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-truth-about-digital-studios-separating-myths-from-daw-reality/"><u>New 2024 Approved The Truth About Digital Studios Separating Myths From DAW Reality</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-translate-instagram-videos-easily-a-step-by-step-guide/"><u>New In 2024, Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>New Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-palworld-login-error-on-eos-discover-the-essential-6-strategies/"><u>Overcome Palworld Login Error on EOS: Discover the Essential 6 Strategies</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/speeding-up-email-management-top-30-gmail-shortcuts-revealed/"><u>Speeding Up Email Management: Top 30 Gmail Shortcuts Revealed</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations-for-2024/"><u>Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps/"><u>Updated Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-how-to-translate-video-from-japanese-to-english-online/"><u>Updated In 2024, How To Translate Video From Japanese to English Online?</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-step-by-step-guide-how-to-translate-tiktok-videos/"><u>Updated Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-precision-recording-advanced-screenrec-for-laptops/"><u>[New] 2024 Approved Precision Recording Advanced ScreenRec for Laptops</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-automatic-cycling-of-videos-on-iphone-ease-for-2024/"><u>[New] Automatic Cycling of Videos on iPhone Ease for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-xsplit-vs-obs-battle-ideal-tools-for-livestreaming/"><u>2024 Approved XSplit Vs. OBS Battle Ideal Tools for Livestreaming</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/comprehensive-fb-messenger-recordings-explained-for-2024/"><u>Comprehensive FB Messenger Recordings Explained for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978747396-get-the-best-performance-how-to-downloadupgrade-your-amd-vega-drivers-today/"><u>Get the Best Performance - How to Download/Upgrade Your AMD Vega Drivers Today</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-instagram-videos-for-global-engagement/"><u>How to Translate Instagram Videos for Global Engagement</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/mastering-live-video-recovery-on-facebook-2023-edition/"><u>Mastering Live Video Recovery on Facebook, 2023 Edition</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-a-complete-guide-of-top-7-video-language-translators/"><u>New 2024 Approved A Complete Guide of Top 7 Video Language Translators</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-a-complete-guide-of-top-7-video-language-translators/"><u>New A Complete Guide of Top 7 Video Language Translators</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-7-best-real-time-video-translation-apps/"><u>Updated 2024 Approved 7 Best Real Time Video Translation Apps</u></a></li>
 </ul></div>
 
