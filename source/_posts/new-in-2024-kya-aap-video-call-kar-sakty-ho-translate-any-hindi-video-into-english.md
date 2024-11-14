@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Kya Aap Video Call Kar Sakty Ho Translate Any Hindi Video Into English
-date: 2024-10-26T05:19:48.798Z
-updated: 2024-10-29T14:12:30.998Z
+date: 2024-11-08T03:37:01.731Z
+updated: 2024-11-13T03:31:40.663Z
 tags: 
   - ai translate video
   - ai generate video
@@ -131,6 +131,13 @@ Below are some reasons we prefer Virbo over other AI video translation services:
 4. Has a free version that works great with videos smaller than 5 minutes
 5. The free version supports files up to a size of 500MB
 6. Convenient and easy-to-use service
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to translate any Hindi video to English Easily?
 
@@ -267,13 +274,6 @@ Netflix subtitle translation can indeed feel daunting at first, with its complex
 
 ![wondershare virbo video translate](https://images.wondershare.com/virbo/article/2024/03/netflix-subtitle-translation-guide-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 In this guide, we will demonstrate how Virbo's user-friendly interface and advanced features make translating Netflix subtitles a breeze. Follow the instructions outlined below:
@@ -406,6 +406,13 @@ Netflix subtitle translation can indeed feel daunting at first, with its complex
 
 ![wondershare virbo video translate](https://images.wondershare.com/virbo/article/2024/03/netflix-subtitle-translation-guide-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 In this guide, we will demonstrate how Virbo's user-friendly interface and advanced features make translating Netflix subtitles a breeze. Follow the instructions outlined below:
@@ -464,13 +471,6 @@ Netflix, a renowned entertainment platform, offers a wide range of shows and mov
 
 Translating subtitles requires more than just converting words. Translators must grasp the content of each dialogue and scene to accurately convey the intended meaning. They consider factors like character emotions, background information, and narrative flow to ensure the translated subtitles resonate with viewers. Consistency in tone and style across subtitles maintains the immersive experience for the audience to ensure they remain engaged with the content.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### ● **Handling Cultural References and Idiomatic Expressions**
 
 Cultural references and idiomatic expressions are integral parts of language and storytelling. However, they can be challenging to translate accurately, especially when the cultural context differs between languages. Translators need to carefully adapt these elements to ensure they make sense to the target audience while staying true to the original intent of the content.
@@ -486,13 +486,6 @@ Translation software and tools can significantly streamline the subtitle transla
 ### ● **Collaboration and Peer Review**
 
 Collaboration with fellow translators and subject matter experts is invaluable in ensuring the quality of consistency of subtitle translations. Peer review allows translators to receive constructive feedback, identify potential errors or inconsistencies, and refine their translations accordingly. This collaborative approach helps maintain the overall quality of subtitle translations and ensures that the final product meets the highest standards.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### ● **Cultural Sensitivity and Awareness**
 
@@ -511,6 +504,13 @@ Through [Wondershare Virbo’s Video Translate feature](https://virbo.wondershar
 Videos are a vital source of communication with a diverse audience on many platforms. They can engage viewers belonging to education, business, or any other sectors. People translate videos into different languages for the global reach of video content. Translating videos can help to avoid misinterpretations and make content relatable for all.
 
 For this purpose, **Chrome video translator** tools serve many advantages to users. Google Chrome offers several translation extensions to translate videos and assist language learners. Read this article and learn the benefits of using translators in various industries. Besides, you will find some top-notch translate Google Chrome extensions online.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1. Industries Benefit from The Feature of Chrome Video Translation
 
@@ -619,13 +619,6 @@ This feature also allows you to choose a gender, voice tone, style, and accent f
 
  [Translate Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Other Features of Wondershare Virbo
 
 1. **AI Script:** Generate your marketing plan with ChatGPT and Virbo integration. This feature allows you to insert prompts of up to 2,000 characters in the AI Script section. You can select shorten, expand, or happier styles for smart optimization of content. To convert the generated text into speech, you have to choose landscape or portrait mode of video.
@@ -728,6 +721,13 @@ Step 4Download Translated Subtitles
 The Cat subtitle translate is often quick and takes only a few seconds for the tools to generate subtitles in the requested language. Once the translation process is complete, download your new subtitle file for your video. The file contains the subtitles for your video file. However, you will need the .srt file, the video file, and a video player to view it. Add the .srt vile to your video player (VLC, Movie and TV app in Widows, or video player in Mac). This will display the new subtitles when you play the video.
 
 ![subtitle cat step 4](https://images.wondershare.com/virbo/article/streamline-your-video-translation-workflow-with-subtitle-cat-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 3\. Best Alternative with Subtitle Cat: Wondershare Virbo**
 
@@ -1027,6 +1027,19 @@ Yes, Google Translate supports almost 133 languages of the world. If your native
 
 Google Translate supports approximately 133 languages of the world at the moment. But it keeps on adding new language support every once in a while. You can get translations in all popular languages like English, Chinese, Spanish, French, Japanese, Hindi, Italian, Russian, Korean, etc.
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 That’s pretty much all about translating a video using Google Translate. Tools like Google Translate and Wondershare Virbo make our world more connected than ever. They bridge boundaries and bring people together. But, don’t forget, if you are translating any copyrighted content with Google Translate, you may need permission. Translating copyrighted content without permission is still copyright infringement. Use these tools with responsibility. Now, go on, **Google Translate video online**. Good luck!
@@ -1164,6 +1177,13 @@ Translating subtitles was not as easy and fast as it is now with the help of Med
 2. You can change the movie's aspect ratio to adjust to the screen that you are using. It allows you to change the preview in the 16:9, 5:4, 1:1, and 9:16 screen ratio.
 3. It enables you to select a file resolution before exporting the movie. Also, you can change the file name before exporting to your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 9\. Flixier
 
 Choosing Flixier offers you subtitle translation with machine learning algorithms. It makes the process simpler for everyone regardless of any system specification requirements. Flixier can translate subtitles into 30 languages, including French, Hindi, English, and many more. This online tool enables you to translate the files and later save them in any file format.
@@ -1267,19 +1287,6 @@ If you are looking for a movie subtitle translator online for free, try this too
 
 ![movie-subtitle-translation-with-perfection-3.jpg](https://images.wondershare.com/virbo/article/movie-subtitle-translation-with-perfection-3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Key Features
 
 1. There is no need to process multiple files separately. This tool can process up to 20 files or 1 megabyte.
@@ -1298,6 +1305,13 @@ Happy Scribe claims to provide 99% accurate subtitle translation to their users.
 2. Users can find and replace any subtitle words by using the “Find” feature.
 3. It allows you to format the subtitles and adjust their appearance in the video. You can change font size, alignment, background, and position.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. Simplified
 
 To get an all-in-all solution for video subtitles, you can rely on Simplified. This **online movie subtitle translator** can amplify your movie’s global reach. It works with SRT file format or allows you to directly upload the movie for translation. Filmmakers and content creators can perform auto-translation and edit a few words or phrases.
@@ -1309,13 +1323,6 @@ To get an all-in-all solution for video subtitles, you can rely on Simplified. T
 1. Users can upload their video files for subtitle translation. They are allowed to import MP4, MKV, QT, OGG, and M4V file formats.
 2. You can change subtitle styles and choose the subtitle text case. Additionally, highlight that text and select a shadow color of the text.
 3. Adjust the translated subtitle in a movie with the alignment options. Besides, it enables you to flip the text and set its order as desired.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 7\. Maestra
 
@@ -1434,13 +1441,6 @@ Subtitles also help people to understand the content of the video. They are best
 
 Are you looking for an all-in-one software that translates your video or provides a creative look to your video? No worries ![Wondershare Virbo](https://virbo.wondershare.com/ai-video-generator-online.html) is here to assist you. It uses advanced artificial intelligence to **change video languages**, or even generate engaging videos. It is an online tool, but also available for desktop or iOS/Android. You can translate your videos into more than 20+ languages.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![online-video-language-changer](https://images.wondershare.com/virbo/article/online-video-language-changer-1.png)
 
  [Change Video Language Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
@@ -1553,6 +1553,13 @@ Wondershare Virbo comes with certain advanced features such as translated subtit
 
 ![select advanced features in virbo app](https://images.wondershare.com/virbo/guide/app/video-translate-app-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tap **AI Generator for Translated Subtitles** to translate video subtitles as well. If you want to keep the background music intact, tap **Keep Original Background Music** and Virbo will only translate the human voice.
 
 Step 5: Click Translate and when the translation is complete, export the video to a location of your choice.
@@ -1562,13 +1569,6 @@ Step 5: Click Translate and when the translation is complete, export the video t
 ## Part 3. 4 Other Video Language Changers Online
 
 Unlock the best video language changer, Wondershare Virbo, which allows everyone to translate videos into any language. Creators or marketers can use it to enhance accessibility and connect with audiences across the globe. Here are 4 other online video language changers, exploring their features and functionalities in comparison to Wondershare Virbo.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Flixier
 
@@ -1647,17 +1647,18 @@ What is the best video language changer? Virbo stands with advanced AI technolog
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ive-into-9-premium-uncut-full-length-winter-wonderland-flicks-for-2024/"><u>[New] Dive Into 9 Premium, Uncut Full-Length Winter Wonderland Flicks for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719382307115-addressing-wwinplusprint-error-on-your-computer-successfully/"><u>Addressing WWin+Print Error on Your Computer Successfully</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/chinas-technological-triumph-the-unveiling-of-a-powerful-loongson-cpu-mini-pc-for-under-387/"><u>China's Technological Triumph: The Unveiling of a Powerful Loongson CPU Mini PC for Under $387</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-motorola-edge-40-neo-is-unlocked-by-drfone-android/"><u>How To Check if Your Motorola Edge 40 Neo Is Unlocked</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/navigate-the-tech-maze-with-confidence-discover-what-toms-hardware-has-to-offer/"><u>Navigate the Tech Maze with Confidence – Discover What Tom's Hardware Has to Offer</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-convert-webm-to-mp3-best-tools-for-the-job/"><u>New In 2024, Convert WebM to MP3 Best Tools for the Job</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-reality-of-now-vrs-evolution-and-challenges/"><u>The Reality of Now VR's Evolution and Challenges</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/the-ultimate-guide-to-the-ring-video-doorbell-pro-an-intelligent-and-effective-safety-solution/"><u>The Ultimate Guide to the Ring Video Doorbell Pro: An Intelligent and Effective Safety Solution</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/tsmcs-revolutionary-128-tbps-on-package-optical-link-next-generation-silicon-photonics-communication-for-ai/"><u>TSMC's Revolutionary 12.8 Tbps On-Package Optical Link: Next-Generation Silicon Photonics Communication for AI</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/unleash-mobile-data-potential-with-wd-ultrastar-transporters-massive-capacity-368tb-ice-lake-xeon-cpu-and-more/"><u>Unleash Mobile Data Potential with WD Ultrastar Transporter's Massive Capacity - 368TB, Ice Lake Xeon CPU, and More!</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/virtual-venue-video-archivist-for-2024/"><u>Virtual Venue Video Archivist for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-grasping-fcp-obtain-it-at-no-cost-for-2024/"><u>[New] Grasping FCP Obtain It at No Cost for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-persuasive-films-that-hook-and-hold-audiences/"><u>[New] Persuasive Films That Hook and Hold Audiences</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-avoiding-pitfalls-in-submitting-to-apple/"><u>[Updated] Avoiding Pitfalls in Submitting to Apple</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-sharpen-your-shots-canon-offers-freepaid-lut-edits-for-2024/"><u>[Updated] Sharpen Your Shots Canon Offers Free/Paid LUT Edits for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-copy-with-strategic-slug-line-usage/"><u>2024 Approved Transform Your Copy with Strategic Slug Line Usage</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Infinix Zero 5G 2023 Turbo</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/best-10-hindi-video-translators-with-step-by-step-guidance-for-2024/"><u>Best 10 Hindi Video Translators with Step-by-Step Guidance for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/maximize-yandex-translate-in-video-translation-and-beyond/"><u>Maximize Yandex Translate in Video Translation and Beyond</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-defenders-protection-to-use-other-avs/"><u>Overcoming Windows Defender's Protection to Use Other AVs</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-tricks-effective-methods-to-reduce-email-attachments-by-compressing-videos/"><u>Simple Tricks: Effective Methods to Reduce Email Attachments by Compressing Videos</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/translate-video-from-english-to-arabic-with-ease-for-2024/"><u>Translate Video From English to Arabic with Ease for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-reaching-a-wider-audience-using-video-translation-in-tamil/"><u>Updated Reaching a Wider Audience Using Video Translation in Tamil</u></a></li>
 </ul></div>
 

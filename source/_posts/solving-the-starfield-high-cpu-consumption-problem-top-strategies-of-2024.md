@@ -1,7 +1,7 @@
 ---
 title: "Solving the Starfield High CPU Consumption Problem: Top Strategies of 2024"
-date: 2024-10-31T06:47:45.729Z
-updated: 2024-11-04T04:11:58.758Z
+date: 2024-11-10T00:45:06.589Z
+updated: 2024-11-12T20:42:48.884Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 
  Before you perform the troubleshooting steps below, please make sure your gaming rig satisfies the **[minimum requirements](https://www.ea.com/games/battlefield/battlefield-5/buy/pc-system-requirements?setLocale=en-us)**  to play Battlefield 5.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Run Battlefield 5 and Origin as administrator
 
  Running Battlefield 5 and the Origin client as an administrator will ensure they get the necessary permissions to launch properly. Here’s how:
@@ -42,20 +49,26 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 3. Right-click your Origin client and select**Properties** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Navigate to the**Compatibility** tab. Then, check**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
@@ -73,18 +86,18 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-7.jpg)
 5. Select**Notepad** or other similar editing tools.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Press**Ctrl** and**F** on your keyboard to open the search box. Then, type**Dx12Enabled** and press**Enter** .
 7. Once you’ve located Dx12Enabled, change the value from**1** to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-3.jpg)
 
  Is the game working normally now? Or is it still unplayable? If the latter, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -106,29 +119,16 @@ To update your graphics driver, here are two safe ways for you:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-8.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Test the game’s performance after your graphics driver is updated. If Battlefield 5 still fails to open, move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Turn off Origin in-game overlay
@@ -141,20 +141,13 @@ To update your graphics driver, here are two safe ways for you:
 3. Navigate to the**Origin In-Game** tab, and toggle off**Enable Origin In-Game** .  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Relaunch the game to test this method. If it doesn’t help, continue to the next one below.
 
@@ -166,6 +159,13 @@ To update your graphics driver, here are two safe ways for you:
 2. Click**Origin** \>**Applications Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Installs & Saves** tab, and then toggle off**Saves** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-3.jpg)
 4. On your keyboard, press the**Windows logo key** and**E** at the same time to invoke File Explorer. Then, select**Document** from the left pane.
@@ -210,19 +210,19 @@ To update your graphics driver, here are two safe ways for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-your-ultimate-manual-for-opting-into-youtube-premium/"><u>[New] 2024 Approved Your Ultimate Manual for Opting Into YouTube Premium</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-diving-into-instagrams-restriction-for-video-content-for-2024/"><u>[Updated] Diving Into Instagram's Restriction for Video Content for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-explore-sites-where-you-can-procure-youtube-affiliate-partnerships/"><u>[Updated] In 2024, Explore Sites Where You Can Procure Youtube Affiliate Partnerships</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-iphone-photography-shadow-techniques/"><u>[Updated] The Art of iPhone Photography Shadow Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-podcast-name-selection-step-by-step-guide-plus-50plus-top-ideas-list/"><u>2024 Approved Mastering Podcast Name Selection Step-by-Step Guide + 50+ Top Ideas List</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/bang-for-your-buck-how-the-ar-5-shines-in-affordable-augmented-reality-tech/"><u>Bang for Your Buck: How the AR-5 Shines in Affordable Augmented Reality Tech</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-latest-rtx-2080-super-graphics-driver-version-compatible-with-windows-11/"><u>Free Download: Latest RTX 2080 Super Graphics Driver Version Compatible with Windows 11</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-auto-translate-youtube-videos-into-different-languages-for-2024/"><u>How To Auto Translate YouTube Videos Into Different Languages for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-best-9-french-video-translators-online-and-download-options/"><u>In 2024, Best 9 French Video Translators Online and Download Options</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-tecno-spark-10c-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Tecno Spark 10C Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/innovating-intelligence-tomorrows-tools-for-today-writers/"><u>Innovating Intelligence: Tomorrow's Tools for Today' Writers</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-9-best-french-video-translators-online-and-download-options/"><u>Updated 2024 Approved 9 Best French Video Translators Online and Download Options</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-a-complete-guide-of-top-7-video-language-translators/"><u>Updated In 2024, A Complete Guide of Top 7 Video Language Translators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>Updated In 2024, How To Translate Videos in Tamil for a Wider Reach</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-lead-the-likes-the-best-social-app-list-on-androidiphone/"><u>2024 Approved Lead the Likes The Best Social App List on Android/iPhone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-monumental-movies-and-more-a-comprehensive-look-at-the-lg-31mu97-b-model/"><u>2024 Approved Monumental Movies and More A Comprehensive Look at the LG 31MU97-B Model</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/boosting-visual-impact-the-11-best-practices-for-color-workflow/"><u>Boosting Visual Impact The 11 Best Practices for Color Workflow</u></a></li>
+<li><a href="https://games-able.techidaily.com/converting-a-playstation-to-work-with-pcmacos-seamlessly/"><u>Converting a PlayStation to Work with PC/macOS Seamlessly</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-review-of-the-lenovo-thinkpad-x1-titanium-yoga-bridging-tradition-and-innovation-for-avid-thinkpad-enthusiasts/"><u>Expert Review of the Lenovo ThinkPad X1 Titanium Yoga: Bridging Tradition and Innovation for Avid ThinkPad Enthusiasts</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-iphone-12-mini-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For iPhone 12 mini?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-poco-c50-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Poco C50 Device SIM</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-monochrome-to-vivid-mastering-the-sdr-to-hdr-video-transition/"><u>In 2024, From Monochrome to Vivid Mastering the SDR-to-HDR Video Transition</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-a-complete-guide-to-translate-video-with-google/"><u>New A Complete Guide To Translate Video With Google</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-best-video-translator-app-for-pc-cannot-miss-for-2024/"><u>New Best Video Translator App for PC Cannot Miss for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-best-video-translator-app-for-pc-you-cannot-miss-for-2024/"><u>New Best Video Translator App for PC You Cannot Miss for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>New Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210279741-9781788600361-the-foundations-of-mastery/"><u>The Foundations of Mastery | Free Book</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-easy-ways-to-translate-tiktok-videos/"><u>Updated Easy Ways to Translate TikTok Videos</u></a></li>
 </ul></div>
 

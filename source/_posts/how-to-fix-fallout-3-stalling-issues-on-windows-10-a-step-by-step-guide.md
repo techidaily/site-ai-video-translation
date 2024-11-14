@@ -1,7 +1,7 @@
 ---
 title: How to Fix Fallout 3 Stalling Issues on Windows 10 - A Step-by-Step Guide
-date: 2024-10-30T16:10:10.162Z
-updated: 2024-11-03T20:01:28.855Z
+date: 2024-11-06T04:57:21.234Z
+updated: 2024-11-12T16:30:17.008Z
 tags:
   - win11
   - win10
@@ -38,10 +38,10 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 3. Tick the **Windowed** box under Mode.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windowed.jpg)
@@ -51,13 +51,6 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
  Ensure that the resolution of the game matches that of your display monitors.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Edit your configuration file
 
@@ -69,10 +62,10 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 3. Open**Fallout\_default** . Search “Busethread” in the notepad.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/default.jpg)
@@ -81,17 +74,17 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1.jpg)
 5. Add**iNumHWThreads=2** beneath it, then Save the change.  
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/folder.gif)
 6. Relaunch the game and check whether it solves the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Change**compatibility** and run Fallout 3 as administrator
 
@@ -105,10 +98,24 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Open the dropdown menu and choose **Windows XP (Service Pack 3)** .
 6. Tick **Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe1.jpg)
 7. Click**Apply** \>**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 8. Run Fallout 3 to check whether the game is running properly.
 
@@ -147,29 +154,22 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 5:**Reinstall**  Fallout 3
@@ -197,18 +197,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-extracting-images-from-movies-using-windows-10-photos-app/"><u>[New] 2024 Approved Extracting Images From Movies Using Windows 10 Photos App</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-titling-techniques-to-explore/"><u>[New] Innovative Titling Techniques to Explore</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-iphone-night-photography-tips-take-night-photos-with-iphone/"><u>[Updated] In 2024, IPhone Night Photography Tips Take Night Photos with iPhone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-djis-minis-and-air-2-free-fun-luts-for-ultimate-mixes/"><u>2024 Approved DJI's Minis & Air 2 Free, Fun LUTS for Ultimate Mixes</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/complete-guide-of-top-video-language-translators-for-2024/"><u>Complete Guide of Top Video Language Translators for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-word-2007-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a Word 2007 electronically</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-find-n3-flip-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Oppo Find N3 Flip to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-rated-recs-prime-websites-for-grabbing-snapalert-beats/"><u>In 2024, Rated Recs Prime Websites for Grabbing SnapAlert Beats</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-revamp-your-video-exposure-on-youtube-with-these-simple-steps/"><u>In 2024, Revamp Your Video Exposure on YouTube with These Simple Steps</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>New A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-comprehensive-guide-for-free-video-translator-downloading-for-2024/"><u>Updated Comprehensive Guide for Free Video Translator Downloading for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-easy-ways-to-translate-tiktok-videos/"><u>Updated In 2024, Easy Ways to Translate TikTok Videos</u></a></li>
-<li><a href="https://win-blog.techidaily.com/updated-solution-correcting-microsoft-outlooks-connection-problems/"><u>Updated Solution: Correcting Microsoft Outlook's Connection Problems</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-master-the-art-of-canvas-with-these-top-10-secrets/"><u>[Updated] 2024 Approved Master the Art of Canvas with These Top 10 Secrets</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-engineering-eye-catching-podcast-sizzle-reels-for-2024/"><u>[Updated] Engineering Eye-Catching Podcast Sizzle Reels for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/incorporate-no-cost-tunes-to-boost-your-vlogs-for-2024/"><u>Incorporate No-Cost Tunes to Boost Your Vlogs for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-a-complete-guide-of-top-7-video-language-translators/"><u>New In 2024, A Complete Guide of Top 7 Video Language Translators</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-digital-bug-noises-easy-access-to-high-quality-online-audio-libraries/"><u>New In 2024, Digital Bug Noises Easy Access to High-Quality Online Audio Libraries</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-showdown-after-effects-vs-adobe-premiere-pro/"><u>New The Ultimate Showdown After Effects vs Adobe Premiere Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-v29e-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo V29e</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-twitch-chat-mysteries-unraveled-for-beginner-viewers/"><u>Top Twitch Chat Mysteries Unraveled for Beginner Viewers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-apple-watch-series-eb-expected-release-timeline-features-cost-breakdown-and-fresh-announcements/"><u>Unveiling the Apple Watch Series Eb: Expected Release Timeline, Features, Cost Breakdown & Fresh Announcements</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-a-complete-guide-of-top-7-video-language-translators/"><u>Updated A Complete Guide of Top 7 Video Language Translators</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>Updated Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-top-8-multi-subtitles-translators-you-can-use/"><u>Updated In 2024, Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
 </ul></div>
 
