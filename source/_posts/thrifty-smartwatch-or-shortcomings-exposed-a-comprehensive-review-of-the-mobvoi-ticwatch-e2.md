@@ -1,7 +1,7 @@
 ---
 title: Thrifty Smartwatch or Shortcomings Exposed? A Comprehensive Review of the Mobvoi TicWatch E2
-date: 2024-11-06T00:33:46.875Z
-updated: 2024-11-12T17:58:59.066Z
+date: 2024-11-11T01:31:36.929Z
+updated: 2024-11-13T20:00:12.096Z
 categories:
   - BestProducts
 description: This Article Describes Thrifty Smartwatch or Shortcomings Exposed? A Comprehensive Review of the Mobvoi TicWatch E2
@@ -70,10 +70,10 @@ Lifewire / Andy Zahn
  An[ultrabook](https://www.lifewire.com/best-laptops-to-buy-4043650) is typically a thing of compromises, and if you want a laptop that’s thin and light, power is often sacrificed. However, the Razer Book 13 challenges that stereotype and offers a sleek and attractive alternative to other high-end[ultra-portables](https://www.lifewire.com/best-lightweight-laptops-to-buy-4065134) . I tested it for 40 hours to find if it can live up both to its stunning ultrabook looks and Razer’s prowess in building high-powered gaming laptops.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Design: Beauty in minimalism
@@ -96,6 +96,13 @@ Lifewire / Andy Zahn
 
  There’s not a lot to say about setting up the Razer Book 13\. It’s just a standard install of Windows 10 Home with no surprises along the way so you can be up and running in just a few minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Display: Positively stunning
 
  The Razer Book 13 configuration we tested comes with an absolutely gorgeous 13.5-inch UHD 60Hz display that is both very color accurate and provides stunning visuals. This is great for both creative tasks that require color accuracy, and for media consumption. The 16:10 aspect ratio is definitely tailored for productivity. The bezel is attractively thin, and the screen is made of Gorilla Glass 6, making it highly scratch resistant.
@@ -105,10 +112,10 @@ Lifewire / Andy Zahn
 Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance: Lean and mean
@@ -129,14 +136,14 @@ Lifewire / Andy Zahn
 
 ![Razer Book 13](https://www.lifewire.com/thmb/hKfA1c1e0-bRVVhMU22PtI2GewM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Razer_Book13_03-23b08f335541443ebe1e7d7763140eca.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Connectivity: The latest and greatest
 
@@ -148,14 +155,14 @@ Lifewire / Andy Zahn
 
 ![Razer Book 13](https://www.lifewire.com/thmb/6yYQ1e8vR0Ldvs2GP61CrvFy3zg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Razer_Book13_05-1c8a8e1bdd78413fb72cc6307a07ea40.jpg)
 
-Lifewire / Andy Zahn
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Lifewire / Andy Zahn
 
 ## Audio: Big sound for a small laptop
 
@@ -163,26 +170,32 @@ Lifewire / Andy Zahn
 
 ![Razer Book 13](https://www.lifewire.com/thmb/PL2MokPWQ_egcxv3fE0tw_k09Yo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Razer_Book13_04-6eed60095cbe467c9552c651ba4c9d46.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Andy Zahn
 
  It’s particularly good in the mids and highs, but as you’d expect, loses something in the bass range. However, it’s more than adequate for listening to music, gaming, or watching movies.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Camera: Competent webcam
 
  The webcam on the Book 13 is about average for a laptop. It captures 720p video and is perfectly acceptable, though not exceptional in any way. Video quality looks decent, even in relatively challenging situations.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Price: The cost of quality
@@ -210,13 +223,6 @@ Lifewire / Andy Zahn
 * [Microsoft Surface Laptop Go](https://www.lifewire.com/microsoft-surface-laptop-go-review-5088869)
 * [Asus Zephyrus G14](https://www.lifewire.com/asus-zephyrus-g14-review-a-no-compromises-gaming-laptop-5084841)
 * [Razer Blade 15](https://www.lifewire.com/razer-blade-15-review-4845229)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -250,21 +256,22 @@ Lifewire / Andy Zahn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-chroma-spectrum-now-crystal-clear-on-4k-for-2024/"><u>[New] The Ultimate Chroma Spectrum, Now Crystal Clear on 4K for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-fpv-fantasy-a-closer-look-at-the-hubsan-h501x4-for-2024/"><u>[Updated] FPV Fantasy A Closer Look at the Hubsan H501X4 for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-heart-of-filmora-10-engaging-editing-capabilities/"><u>2024 Approved The Heart of Filmora 10 Engaging Editing Capabilities</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/apple-vision-pro-is-it-justifiable-for-your-investment/"><u>Apple Vision Pro: Is It Justifiable for Your Investment?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/designing-acoustic-elements-for-film-teasers-and-previews-for-2024/"><u>Designing Acoustic Elements for Film Teasers and Previews for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-guide-to-fix-disk-read-error-in-windows/"><u>Essential Guide to Fix Disk Read Error in Windows</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-youtube-videos-to-english-subtitles/"><u>How to Translate YouTube Videos to English Subtitles</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-must-have-apps-for-real-time-video-translation/"><u>New Must-Have Apps for Real-Time Video Translation</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-reaching-a-wider-audience-using-video-translation-in-tamil/"><u>New Reaching a Wider Audience Using Video Translation in Tamil</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-site-visibility-how-artificer-intelligence-is-shaping-search-engine-results/"><u>Revolutionizing Site Visibility: How Artificer Intelligence Is Shaping Search Engine Results</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/seamless-integration-using-google-home-remote-features-on-a-computer/"><u>Seamless Integration: Using Google Home Remote Features on a Computer</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/strategies-for-sustainable-income-via-product-based-videos-for-2024/"><u>Strategies for Sustainable Income via Product-Based Videos for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-auto-translate-youtube-videos-into-different-languages/"><u>Updated 2024 Approved Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-best-10-chinese-video-to-english-translator/"><u>Updated 2024 Approved Best 10 Chinese Video to English Translator</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation-for-2024/"><u>Updated An Exhaustive List of Lip Sync Apps for Vibrant Video Creation for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-auto-translate-youtube-videos-into-different-languages/"><u>Updated How To Auto Translate YouTube Videos Into Different Languages</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-job-market-gems-shortlist-for-success/"><u>[New] 2024 Approved Job Market Gems - Shortlist for Success</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-easy-ways-to-translate-tiktok-videos/"><u>2024 Approved Easy Ways to Translate TikTok Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-efficient-techniques-for-secure-and-effective-lecture-capturing-using-imac/"><u>2024 Approved Efficient Techniques for Secure and Effective Lecture Capturing Using iMac</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-evaluation-of-fujitsu-scansnap-ix1600-the-ultimate-desktop-document-scanner/"><u>Expert Evaluation of Fujitsu ScanSnap iX1600 - The Ultimate Desktop Document Scanner</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-revolutionary-raspberry-pi-pico-discovering-its-armplusrisc-v-core-capabilities-for-just-5/"><u>Exploring the Revolutionary Raspberry Pi Pico: Discovering Its ARM+RISC-V Core Capabilities for Just $5</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-best-video-translator-app-for-pc-you-cannot-miss/"><u>In 2024, Best Video Translator App for PC You Cannot Miss</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-vivo-y27-4g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Vivo Y27 4G Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x100-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo X100 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/leading-cloud-storage-vendors-a-comparative-pricing-analysis/"><u>Leading Cloud Storage Vendors A Comparative Pricing Analysis</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-a-complete-guide-to-translate-video-with-google/"><u>New 2024 Approved A Complete Guide To Translate Video With Google</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-9-best-french-video-translators-online-and-download-options/"><u>New In 2024, 9 Best French Video Translators Online and Download Options</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-translate-videos-and-subtitles-with-veedio-for-2024/"><u>New Translate Videos and Subtitles with Veed.io for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/reset-or-refresh-a-beginners-guide-to-reviving-windows-10/"><u>Reset or Refresh - A Beginner's Guide to Reviving Windows 10</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-best-video-translator-app-for-pc-cannot-miss/"><u>Updated Best Video Translator App for PC Cannot Miss</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-netflix-subtitle-translation-methods-comprehensive-guide/"><u>Updated Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-top-10-hindi-video-translators-with-step-by-step-guidance-for-2024/"><u>Updated Top 10 Hindi Video Translators with Step-by-Step Guidance for 2024</u></a></li>
 </ul></div>
 

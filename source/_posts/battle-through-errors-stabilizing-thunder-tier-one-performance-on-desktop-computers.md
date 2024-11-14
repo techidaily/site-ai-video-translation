@@ -1,7 +1,7 @@
 ---
 title: "Battle Through Errors: Stabilizing Thunder Tier One Performance on Desktop Computers"
-date: 2024-11-06T23:26:15.284Z
-updated: 2024-11-13T05:45:50.022Z
+date: 2024-11-09T19:09:25.135Z
+updated: 2024-11-14T03:13:33.470Z
 tags:
   - win11
   - win10
@@ -44,23 +44,16 @@ To change the power mode:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 3. Then run Avatar: Frontiers of Pandora to see if the frame rate is higher, and if the stuttering issue is improved. If the problem remains still, please move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Update Windows
 
@@ -73,14 +66,34 @@ To make sure that you have the latest available updates installed:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
@@ -89,18 +102,18 @@ To make sure that you have the latest available updates installed:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Update graphics card driver
 
  An outdated or incorrect display card driver could also be the culprit to the low FPS and stuttering problem in Avatar: Frontiers of Pandora, so if the above methods don’t help to improve the FPS or the stuttering situation, it’s likely that you have a corrupted or outdated graphics driver. So you should update your drivers to see if it helps.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -125,20 +138,6 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
@@ -161,8 +160,28 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-26.png)
 3. Scroll down a bit to select **Add or remove exclusions** under the**Exclusions** section.  
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-27.png)
 4. Click **Add an exclusion** , then select **File** , and browse to the folder where you save the Avatar: Frontiers of Pandora execution file.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-29.png)
 5. There, you’ve successfully added**Avatar: Frontiers of Pandora** to the Windows Security exclusion list.
@@ -170,13 +189,6 @@ To do so:
  Restart Avatar: Frontiers of Pandora and see if its FPS still drops and stutters. If so, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Verify game files
 
@@ -241,10 +253,10 @@ If this still doesn’t help, please move on.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Close resource-hungry programs
@@ -282,18 +294,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-saving-gifs-from-twitter-ios-and-android-guide/"><u>[New] 2024 Approved Saving GIFs From Twitter IOS & Android Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-ultimate-gopro-studio-steps-for-time-lapse-magic/"><u>[Updated] 2024 Approved Ultimate GoPro Studio Steps for Time Lapse Magic</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-broadcast-battles-tech-titans-tussle-for-top-spot-for-2024/"><u>[Updated] Broadcast Battles Tech Titans Tussle for Top Spot for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-infinix-note-30-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Infinix Note 30 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-14-plus-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/making-the-most-of-your-ppt-on-google-meet-devices-included-for-2024/"><u>Making the Most of Your PPT on Google Meet Devices Included for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide-for-2024/"><u>New Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96489619-9781578596027-real-visitors-voices-from-beyond-and-parallel-dimensions/"><u>Real Visitors, Voices from Beyond, and Parallel Dimensions | Free Book</u></a></li>
-<li><a href="https://techtrends.techidaily.com/reversing-replication-how-to-delete-a-reposted-video-on-tiktok/"><u>Reversing Replication: How to Delete a Reposted Video on TikTok</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/step-by-step-guide-how-to-translate-tiktok-videos/"><u>Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-a-brief-review-of-capcut-translate-with-alternative-for-2024/"><u>Updated A Brief Review of CapCut Translate With Alternative for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>Updated In 2024, Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
-<li><a href="https://fox-within.techidaily.com/when-diluting-or-concentrating-solutions-adjust-amounts-proportionally-to-keep-the-same-concentration/"><u>When Diluting or Concentrating Solutions, Adjust Amounts Proportionally to Keep the Same Concentration.</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-streamlined-qanda-guide-for-attractive-podcasts-for-2024/"><u>[New] Streamlined Q&A Guide for Attractive Podcasts for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-harness-the-power-of-twitch-livestream-tips-and-tricks/"><u>[Updated] Harness the Power of Twitch Livestream Tips & Tricks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-screen-record-facetime-calls-for-2024/"><u>[Updated] How to Screen Record FaceTime Calls for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prime-podcast-picks-for-google-enthusiasts/"><u>[Updated] Prime Podcast Picks for Google Enthusiasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-revolutionizing-the-music-creation-process-through-magix-mentor-x/"><u>[Updated] Revolutionizing the Music Creation Process Through Magix Mentor X</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-best-10-chinese-video-to-english-translator/"><u>2024 Approved Best 10 Chinese Video to English Translator</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-ultimate-guide-to-avi-to-gif-transformation-using-filmora-for-both-oses/"><u>2024 Approved The Ultimate Guide to AVI-to-GIF Transformation Using Filmora for Both OSes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-professional-level-editing-at-zero-price-8-exceptional-software-picks/"><u>In 2024, Professional-Level Editing at Zero Price 8 Exceptional Software Picks</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-the-best-translator-to-translate-videos-online/"><u>In 2024, The Best Translator to Translate Videos Online</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>New 2024 Approved Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-tiktok-videos-top-5-auto-translate-tools-for-2024/"><u>New How to Translate TikTok Videos Top 5 Auto Translate Tools for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-translate-videos-with-subtitle-cat-your-essential-guide/"><u>New In 2024, Translate Videos with Subtitle Cat Your Essential Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>New The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/scented-computing-redefined-by-asus-with-the-introduction-of-their-sweet-smelling-adol-book-laptop/"><u>Scented Computing Redefined by Asus with the Introduction of Their Sweet-Smelling Adol Book Laptop</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/understanding-srt-a-comprehensive-guide-on-definitions-players-and-editors-with-tips-for-adding-subtitles-to-videos/"><u>Understanding SRT: A Comprehensive Guide on Definitions, Players & Editors with Tips for Adding Subtitles to Videos</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-best-video-translator-app-for-pc-you-cannot-miss-for-2024/"><u>Updated Best Video Translator App for PC You Cannot Miss for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcp-voice-over-essentials-a-beginners-guide-to-success/"><u>Updated FCP Voice Over Essentials A Beginners Guide to Success</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-a-brief-review-of-capcut-translate-with-alternative/"><u>Updated In 2024, A Brief Review of CapCut Translate With Alternative</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use-for-2024/"><u>Updated Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quick Solution: How to Stop Mordhau From Unexpectedly Crashing"
-date: 2024-11-08T21:18:46.567Z
-updated: 2024-11-13T09:22:57.136Z
+date: 2024-11-11T22:45:32.924Z
+updated: 2024-11-13T18:14:06.057Z
 tags:
   - win11
   - win10
@@ -58,15 +58,22 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-131.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your computer meets the minimum requirements, read on and check the fix, below.
 
@@ -84,13 +91,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![This image has an empty alt attribute; its file name is image-342.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-342.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
@@ -99,16 +99,16 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Restart Oxygen Not Included from Steam.
 
 Hope the game runs smoothly now. If it’s not, check the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4:**Run the game in compatibility mode**
 
@@ -117,6 +117,13 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 **1)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Paste   **C:\\Program Files (x86)\\Steam\\steamapps\\common\\Oxygen Not Included** in the address bar.
 
@@ -130,13 +137,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-280.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)**  Click the list box below to select**Windows 8** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-279.png)
@@ -147,13 +147,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
  If running your game in compatibility mode didn’t work for you, move on and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5:**Change branches in Oxygen Not Included**
 
  If you’ve updated your game recently, and your game starts crashing now and then, try reverting your game version by changing your branch. Here is how to do it:
@@ -163,13 +156,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 **2)** Click**Library** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-896.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Right-click**Oxygen Not Included** and select**Properties** .
 
@@ -189,15 +175,22 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-289.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)** Relaunch and play Oxygen Not Included.
 
 If the game crashing issue persists, check the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6:**Install** Microsoft Visual C++ 2015 Runtime
@@ -245,6 +238,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -283,6 +283,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
@@ -290,13 +297,6 @@ OR
 **4)**  Highlight the **Oxygen Not Included folder** , and then press the **Del** key on your keyboard to delete the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-277.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)**  Relaunch Steam to download and reinstall Oxygen Not Included. Then, try launching the game again to see if this fixed your problem.
 
@@ -323,18 +323,15 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-exclusive-list-elite-4k-tv-selection/"><u>[New] 2024 Approved Exclusive List Elite 4K TV Selection</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-lg-bp550s-evolution-a-2023-perspective/"><u>[New] In 2024, LG BP550's Evolution - A 2023 Perspective</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-proven-techniques-for-locating-luxe-pexel-pictures/"><u>[New] Proven Techniques for Locating Luxe Pexel Pictures</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-capturing-movement-with-clarity-implementing-motion-blur-on-peoples-photos-with-picsart/"><u>[Updated] 2024 Approved Capturing Movement with Clarity Implementing Motion Blur on People's Photos with Picsart</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-how-to-translate-instagram-videos-for-global-engagement/"><u>2024 Approved How to Translate Instagram Videos for Global Engagement</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/a-complete-guide-of-top-7-video-language-translators/"><u>A Complete Guide of Top 7 Video Language Translators</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/aviation-enthusiasts-pick-blade-e-flite-mcx2-in-focus-the-ultimate-ready-to-fly-rc-helicopter-examination/"><u>Aviation Enthusiasts' Pick: Blade E-Flite mCX^2 in Focus – The Ultimate Ready-To-Fly RC Helicopter Examination</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-youtube-to-high-definition-prime-downloader-choices/"><u>From YouTube to High Definition Prime Downloader Choices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-realme-gt-5-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Realme GT 5 Pro with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/maximize-yandex-translate-in-video-translation-and-beyond-for-2024/"><u>Maximize Yandex Translate in Video Translation and Beyond for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>New 2024 Approved Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-easy-steps-to-translate-video-on-twitter/"><u>Updated Easy Steps to Translate Video on Twitter</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/voice-translation-english-to-bangla-online-and-offline-apps-for-2024/"><u>Voice Translation English to Bangla Online and Offline Apps for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-harmonic-horizons-mac-sound-exploration-guide/"><u>[New] 2024 Approved Harmonic Horizons Mac Sound Exploration Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/a-comprehensive-guide-for-free-video-translator-downloading/"><u>A Comprehensive Guide for Free Video Translator Downloading</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audiences-take-gopro-hero5-footage/"><u>Audience's Take GoPro Hero5 Footage</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-hide-or-show-the-firewall-and-network-protection-area-in-windows-security/"><u>How to Hide or Show the Firewall and Network Protection Area in Windows Security</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>In 2024, Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-fixes-for-no-sound-from-wireless-headphones-via-bluetooth/"><u>The Definitive Fixes for No Sound From Wireless Headphones via Bluetooth</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-step-by-step-guide-how-to-translate-twitter-video-easily/"><u>Updated 2024 Approved Step-by-Step Guide How to Translate Twitter Video Easily</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>Updated In 2024, Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-you-should-think-twice-the-7-pitfalls-of-generative-ai-for-messaging/"><u>Why You Should Think Twice: The 7 Pitfalls of Generative AI for Messaging</u></a></li>
 </ul></div>
 

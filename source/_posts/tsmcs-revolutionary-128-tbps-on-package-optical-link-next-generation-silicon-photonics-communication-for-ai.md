@@ -1,7 +1,7 @@
 ---
 title: "TSMC's Revolutionary 12.8 Tbps On-Package Optical Link: Next-Generation Silicon Photonics Communication for AI"
-date: 2024-11-09T06:13:07.688Z
-updated: 2024-11-12T19:13:39.643Z
+date: 2024-11-11T01:30:35.005Z
+updated: 2024-11-13T22:12:51.950Z
 tags:
   - desktop
 categories:
@@ -37,10 +37,10 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,22 +66,22 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-easy-steps-for-clearing-out-desktop-discords/"><u>[New] 2024 Approved Easy Steps for Clearing Out Desktop Discords</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-comprehensible-guide-to-documenting-live-sports-events-for-2024/"><u>[Updated] Comprehensible Guide to Documenting Live Sports Events for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-easy-ways-to-add-music-to-imovie-from-youtube-for-2024/"><u>[Updated] Easy Ways to Add Music to iMovie From YouTube for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-bringing-bygone-era-filmmaking-to-life-today/"><u>2024 Approved Bringing Bygone Era Filmmaking to Life Today</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/easy-steps-to-translate-video-on-twitter-for-2024/"><u>Easy Steps to Translate Video on Twitter for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-meizu-21-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Meizu 21 Phones with/without a PC</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>In 2024, Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-illuminating-the-future-luminances-influence-on-hdr/"><u>In 2024, Illuminating the Future Luminance’s Influence on HDR</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-how-to-translate-youtube-videos-to-english-subtitles/"><u>New 2024 Approved How to Translate YouTube Videos to English Subtitles</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-maximizing-yandex-translate-in-video-translation-and-beyond/"><u>New In 2024, Maximizing Yandex Translate in Video Translation and Beyond</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-netflix-subtitle-translation-methods-comprehensive-guide-for-2024/"><u>New Netflix Subtitle Translation Methods Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-c51-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from C51</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/rainbow-six-siege-effective-solutions-for-overcoming-game-lag/"><u>Rainbow Six Siege: Effective Solutions for Overcoming Game Lag</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/strategic-use-of-outdoor-light-for-internal-comfort-for-2024/"><u>Strategic Use of Outdoor Light for Internal Comfort for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-top-7-online-auto-subtitle-translators-for-content-creators/"><u>Updated 2024 Approved Top 7 Online Auto Subtitle Translators for Content Creators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-the-best-ai-translator-to-translate-videos-online/"><u>Updated In 2024, The Best AI Translator to Translate Videos Online</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-top-9-choices-for-video-auto-translate/"><u>Updated Top 9 Choices for Video Auto Translate</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-top-6-online-webcam-recorders-2023/"><u>[New] In 2024, Top 6 Online Webcam Recorders 2023</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-media-makers-software-linux-edition-for-2024/"><u>[Updated] Essential Media Makers' Software Linux Edition for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-channel-creation-chronicles-the-ultimate-beauty-blogging-start-up/"><u>[Updated] In 2024, Channel Creation Chronicles The Ultimate Beauty Blogging Start-Up</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-translate-video-from-english-to-arabic-with-ease/"><u>2024 Approved Translate Video From English to Arabic with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5yq55p6c55qe44gq5oml44ow44os44o844kr44o844gu44ot44oh44kq5zyn57iu44og44kv44ol44od44kv77ya44k544ob44ol44ov44o844oj44k344kn44ki44cn/"><u>効果的な手ブレーカーのビデオ圧縮テクニック：スチュワードシェア」</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/complete-guide-of-top-video-language-translators/"><u>Complete Guide of Top Video Language Translators</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/key-considerations-for-selecting-the-ideal-printer-for-your-needs/"><u>Key Considerations for Selecting the Ideal Printer for Your Needs</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-how-to-use-korean-to-english-video-translators-for-creators/"><u>New How To Use Korean to English Video Translators for Creators</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-must-have-apps-for-real-time-video-translation-for-2024/"><u>New Must-Have Apps for Real-Time Video Translation for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-say-goodbye-to-shaky-footage-8-free-online-video-stabilization-solutions-for-2024/"><u>New Say Goodbye to Shaky Footage 8 Free Online Video Stabilization Solutions for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/staying-ahead-of-innovation-details-on-forthcoming-revelations-from-googles-upcoming-event/"><u>Staying Ahead of Innovation: Details on Forthcoming Revelations From Google's Upcoming Event</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-best-spy-watches-for-your-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Top 10 Best Spy Watches For your Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-icefloe-iceberg-thermal-units-unveiling-the-silent-strengths-of-budget-friendly-models-240-and-360/"><u>Top-Rated IceFLOE Iceberg Thermal Units: Unveiling the Silent Strengths of Budget-Friendly Models 240 and 360</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/translate-audiovideo-content-from-spanish-to-english-and-vice-versa-for-2024/"><u>Translate Audio/Video Content From Spanish to English and Vice Versa for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-all-about-kapwing-video-translation/"><u>Updated All About Kapwing Video Translation</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-translate-instagram-videos-easily-a-step-by-step-guide/"><u>Updated In 2024, Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>Updated In 2024, Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
 </ul></div>
 

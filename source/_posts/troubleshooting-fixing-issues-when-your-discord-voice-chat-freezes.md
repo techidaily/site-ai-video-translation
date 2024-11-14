@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Fixing Issues When Your Discord Voice Chat Freezes"
-date: 2024-11-08T18:57:05.024Z
-updated: 2024-11-12T21:03:36.948Z
+date: 2024-11-08T00:08:03.214Z
+updated: 2024-11-13T19:36:11.703Z
 tags:
   - win11
   - win10
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3\. Click **Update** next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Update-all-drivers.jpg)
@@ -75,15 +68,36 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap911.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3.**Turn on** the toggle next to **Auto update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap912.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4\. Restart the Epic Games Launcher.
 
  5\. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap898.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
 
@@ -100,19 +114,20 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap428.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Check your audio settings
 
@@ -124,13 +139,6 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap925.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ii. Click**the speaker icon** to view the audio settings. Then**turn off Voice Chat** and click**Apply** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap431-1024x576.jpg)
@@ -141,26 +149,32 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3\. Click the **Playback** tab, select the speakers/headphones you’re using and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4\. Click the **Recording** tab, select the microphone you’re using and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5\. While still in the**Recording** tab, try**speaking into your microphone** to test if it works properly. If it is, you should see some green in the bar on the right:
@@ -173,13 +187,6 @@ iii. Exit Fortnite.
 
  Join a squad to check ifchat is now working . If not, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Reinstall Fortnite
 
  If none of the above fixes resolves your chat problem, try reinstalling Fortnite. Here is how to do it:
@@ -187,19 +194,6 @@ iii. Exit Fortnite.
  1\. Open the **Epic Games Launcher** . On the left panel, click**Library** . On the right, click**the gear button** on the lower-right corner of Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap940.png)
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2\. Click**Uninstall** to uninstall Fortnite.
 
@@ -234,17 +228,16 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-ace-applications-transforming-videos-for-tweet/"><u>[New] Ace Applications Transforming Videos for Tweet</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-building-confidence-and-trust-with-candidates/"><u>[New] Building Confidence and Trust with Candidates</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-everything-you-want-to-know-about-kapwing-video-translation/"><u>2024 Approved Everything You Want To Know About Kapwing Video Translation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-setup-access-official-canon-mf4500-printer-drivers-and-support-files/"><u>Easy Setup: Access Official Canon MF4500 Printer Drivers & Support Files</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/guia-facil-para-la-instalacion-de-libdvdcss-con-handbrake-adaptarse-a-windows-y-macos-version-11/"><u>Guía Fácil Para La Instalación De Libdvdcss Con HandBrake: Adaptarse a Windows Y macOS Versión 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/hero9-review-a-premium-gopro-but-at-what-cost/"><u>HERO9 Review: A Premium GoPro, But at What Cost?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/leading-8-capture-tools-without-lag-for-2024/"><u>Leading 8 Capture Tools Without Lag for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/mastering-ppt-a-comprehensive-voice-guidance-manual/"><u>Mastering PPT A Comprehensive Voice Guidance Manual</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-auto-translate-youtube-videos-into-different-languages-for-2024/"><u>New Auto Translate YouTube Videos Into Different Languages for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-translate-live-videos-with-the-best-video-translator/"><u>New In 2024, Translate Live Videos With The Best Video Translator</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-top-7-video-language-converter-online-free-for-2024/"><u>New Top 7 Video Language Converter Online Free for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-boost-engagement-with-free-intro-templates/"><u>[New] 2024 Approved Boost Engagement with Free Intro Templates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-apples-next-innovation-affordable-ar-glasses-and-vision-tech-underway-insights-from-zdnet/"><u>1. Apple's Next Innovation: Affordable AR Glasses & Vision Tech Underway - Insights From ZDNet</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>2024 Approved Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-how-to-translate-tiktok-videos-all-you-want-to-know/"><u>2024 Approved How to Translate TikTok Videos? All You Want to Know</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-turn-games-into-memories-no-fuss-nvidia-style/"><u>2024 Approved Turn Games Into Memories - No Fuss, NVIDIA Style</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/easy-steps-to-translate-video-on-twitter/"><u>Easy Steps to Translate Video on Twitter</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-dive-perfecting-the-art-of-green-screen-with-kinemaster-for-2024/"><u>In-Depth Dive Perfecting the Art of Green Screen with Kinemaster for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-how-to-translate-video-from-japanese-to-english-online/"><u>New In 2024, How To Translate Video From Japanese to English Online?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-how-to-fix-concurrent-accidents-in-your-computer-system/"><u>Resolved: How to Fix Concurrent Accidents in Your Computer System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/verifying-chatgpt-availability-a-guide-with-5-proven-techniques/"><u>Verifying ChatGPT Availability: A Guide with 5 Proven Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/winxvideo-ai-optimisez-votre-production-video-avec-traitement-dimages-et-videos-stabilisation-conversion-and-plus/"><u>WinxVideo AI - Optimisez Votre Production Vidéo Avec Traitement D'Images Et Vidéos : Stabilisation, Conversion & Plus</u></a></li>
 </ul></div>
 

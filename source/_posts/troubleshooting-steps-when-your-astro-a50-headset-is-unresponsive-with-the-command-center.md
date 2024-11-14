@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps When Your Astro A50 Headset Is Unresponsive with the Command Center
-date: 2024-11-06T23:49:23.104Z
-updated: 2024-11-13T06:31:42.785Z
+date: 2024-11-13T04:13:31.726Z
+updated: 2024-11-13T20:11:49.637Z
 tags:
   - win11
   - win10
@@ -60,34 +60,35 @@ And here are the requirements for RoboCop: Rogue City for your reference:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then try your RoboCop: Rogue City again to see if it still crashes. If the problem remains, please move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Try to install RoboCop: Rogue City on your SSD
 
@@ -100,27 +101,14 @@ To tell whether you have an SSD or an HDD, please view the Task Manager:
 2. Click the second icon (**Performance** ), then check the **Type** field.  
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-12.png)
 3. To make sure that you have the best gaming experience with RoboCop: Rogue City and are free from the pain of constant freezes and crashes, it’s highly recommended that you install the game on your SSD.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your RoboCop: Rogue City still freezes or crashes when you have it installed on the SSD, please move on to the other fixes below.
 
@@ -175,25 +163,25 @@ To do so, first visit the website of your GPU manufacturer:
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then launch RoboCop: Rogue City again to see if it still crashes. If the problem remains, please move on.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Make sure your computer is not overheating
@@ -217,14 +205,14 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -253,19 +241,17 @@ To do so, first visit the website of your GPU manufacturer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-achieve-impact-innovative-imovie-techniques-for-youtube-startups/"><u>[New] In 2024, Achieve Impact Innovative iMovie Techniques for YouTube Startups</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-secrets-of-successful-ps3-game-recording-tactics/"><u>[New] In 2024, Secrets of Successful PS3 Game Recording Tactics</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-top-5-browser-screen-recorders/"><u>[New] Top 5 Browser Screen Recorders</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-run-a-sports-youtube-chain-on-macos/"><u>[Updated] 2024 Approved How to Run a Sports YouTube Chain on MacOS</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-resolve-google-chrome-video-troubles-fb/"><u>[Updated] In 2024, Resolve Google Chrome Video Troubles (FB)</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-chrome-video-translators-top-5-video-translation-chrome-extensions/"><u>2024 Approved Chrome Video Translators Top 5 Video Translation Chrome Extensions</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-videos-in-tamil-for-a-wider-reach-for-2024/"><u>How To Translate Videos in Tamil for a Wider Reach for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-how-to-translate-youtube-videos-without-cc/"><u>In 2024, How to Translate YouTube Videos Without CC</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-surveying-the-spectrum-of-windows-movie-maker-updates/"><u>In 2024, Surveying the Spectrum of Windows Movie Maker Updates</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-reaching-a-wider-audience-using-video-translation-in-tamil-for-2024/"><u>New Reaching a Wider Audience Using Video Translation in Tamil for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/prime-picks-the-best-in-bike-gaming/"><u>Prime Picks The Best in Bike Gaming</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/top-rated-online-video-editors-compatible-with-chromebook-for-2024/"><u>Top-Rated Online Video Editors Compatible with Chromebook for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-instagram-videos-for-global-engagement-for-2024/"><u>Updated How to Translate Instagram Videos for Global Engagement for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-comprehensive-guide-to-youtube-video-editing-tools/"><u>[New] In 2024, Comprehensive Guide to YouTube Video Editing Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-rapid-capture-visuals-and-voices-together/"><u>[New] In 2024, Rapid Capture Visuals & Voices Together</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-turning-still-shots-into-audio-visual-narratives/"><u>[New] Turning Still Shots Into Audio-Visual Narratives</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-7-best-real-time-video-translation-apps/"><u>2024 Approved 7 Best Real Time Video Translation Apps</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>2024 Approved Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-honor-magic5-ultimate-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-universal-serial-bus-usb-controller-driver-issue/"><u>Fix Universal Serial Bus (USB) Controller Driver Issue</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oneplus-nord-3-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset OnePlus Nord 3 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-a-comprehensive-guide-for-free-video-translator-downloading-for-2024/"><u>New A Comprehensive Guide for Free Video Translator Downloading for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-translate-live-video-making-it-possible-with-the-best-tool-for-2024/"><u>Updated Translate Live Video Making It Possible With The Best Tool for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Lego Star Wars: The Skywalker Saga - Fixing the PC Game Crash"
-date: 2024-11-12T00:40:59.173Z
-updated: 2024-11-13T03:34:50.770Z
+date: 2024-11-11T19:05:56.446Z
+updated: 2024-11-13T22:30:31.540Z
 tags:
   - win11
   - win10
@@ -50,9 +50,23 @@ Game crashing issues can be frustrating, especially when you’re immersed in an
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_11-51-18-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_11-48-40.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
@@ -70,34 +84,13 @@ _WoT Blitz_ doesn’t have full access to game files and folders on your compute
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_11-59-37.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_11-59-45.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Relaunch Steam and_WoT Blitz_ to test your issue.
 
  You can hopefully run the game without crashing now. If the problem still exists, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3:**End unnecessary programs**
 
@@ -113,10 +106,10 @@ _WoT Blitz_ doesn’t have full access to game files and folders on your compute
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-03-21.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
@@ -136,13 +129,6 @@ _WoT Blitz_ doesn’t have full access to game files and folders on your compute
 **1)**  Right-click your taskbar and select **Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-07-19.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
@@ -198,6 +184,13 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5:**Set your PC’s power plan to High performance**
 
  Your computer might slow down automatically to save energy if you set the power plan to Balanced. Although it’s unlikely that the power plan is the core issue, you should rule out the possibility. Here is how to do it:
@@ -210,18 +203,18 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-16-35.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Select the **High performance** option.
 
  This can speed up your computer, but it will cause your computer to generate more heat.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-16-42.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Restart your computer and your game to test your issue.
 
@@ -236,10 +229,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-15-32.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
@@ -263,6 +256,13 @@ If the problem persists, check the fix 7, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-25-26.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Under **View by** , select **Category** . Then, click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-26-57.jpg)
@@ -285,16 +285,16 @@ You should be able to play the game now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-29-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-29-05.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click**Reset** .
 
@@ -325,22 +325,22 @@ You should be able to play the game now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-format-conversion-for-mac-screenshots/"><u>[New] Mastering Format Conversion for Mac Screenshots</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-leveraging-adobes-tools-to-add-music-to-your-videos-for-2024/"><u>[Updated] Leveraging Adobe's Tools to Add Music to Your Videos for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-trending-tactics-select-keywords-that-ignite-social-media-traffic/"><u>[Updated] Trending Tactics Select Keywords That Ignite Social Media Traffic</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-dialogue-dynamics-connecting-with-your-youtube-crowd/"><u>2024 Approved Dialogue Dynamics Connecting With Your YouTube Crowd</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-review-on-hitman-3-the-ideal-termination/"><u>Expert Review on Hitman 3: The Ideal Termination</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-how-to-translate-tiktok-videos-all-you-want-to-know/"><u>In 2024, How to Translate TikTok Videos? All You Want to Know</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-step-by-step-guide-how-to-translate-twitter-video-easily/"><u>In 2024, Step-by-Step Guide How to Translate Twitter Video Easily</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/messengervideo-snapper-directaccess/"><u>MessengerVideo Snapper – DirectAccess</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>New Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-srt-subtitle-translation-tools-and-techniques/"><u>New In 2024, SRT Subtitle Translation Tools and Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/securing-your-visual-content-against-unauthorized-replication-by-ai-powered-design-programs/"><u>Securing Your Visual Content Against Unauthorized Replication by AI-Powered Design Programs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-most-popular-images-journey-to-meme-status/"><u>The Most Popular Images' Journey to Meme Status</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-truth-behind-asmr-video-enthusiasm-for-2024/"><u>The Truth Behind ASMR Video Enthusiasm for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-a-brief-review-of-capcut-translate-with-alternative/"><u>Updated 2024 Approved A Brief Review of CapCut Translate With Alternative</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-5-best-chrome-extensions-you-can-use-to-translate-videos-for-2024/"><u>Updated 5 Best Chrome Extensions You Can Use to Translate Videos for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-complete-guide-of-top-video-language-translators/"><u>Updated Complete Guide of Top Video Language Translators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-best-10-chinese-video-to-english-translator/"><u>Updated In 2024, Best 10 Chinese Video to English Translator</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-live-from-anywhere-reach-anyone-streaming-techniques-for-iphonesipads/"><u>[New] 2024 Approved Live From Anywhere, Reach Anyone Streaming Techniques for iPhones/iPads</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-channel-success-strategy-standard-studio-or-beta-edge/"><u>[Updated] 2024 Approved Channel Success Strategy Standard Studio or Beta Edge</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-crafting-captivating-titles-with-ae-for-2024/"><u>[Updated] Crafting Captivating Titles with AE for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-translate-any-hindi-video-into-english-with-ai/"><u>2024 Approved Translate Any Hindi Video Into English With AI</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-and-easy-hp-officejet-pro-8715-driver-download-for-windows-operating-systems-win10-win11-win8/"><u>Free and Easy: HP Officejet Pro 8715 Driver Download for Windows Operating Systems (Win10, Win11, Win8)</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-best-10-free-video-translators-to-mitigate-translation-risks/"><u>In 2024, Best 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-camstudio-live-streaming-and-screen-capturing-review/"><u>In 2024, CamStudio Live Streaming & Screen Capturing Review</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-elevate-your-content-with-the-best-free-video-translator-apps/"><u>In 2024, Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>In 2024, Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/innovative-approach-to-animal-care-evaluating-petsafes-automatic-feeding-system-for-effective-nutrition-management/"><u>Innovative Approach to Animal Care: Evaluating PetSafe's Automatic Feeding System for Effective Nutrition Management</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-best-toolbox-to-translate-youtube-videos-to-english-subtitles/"><u>New 2024 Approved Best Toolbox to Translate YouTube Videos to English Subtitles</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-8-best-multi-subtitles-translators-you-shouldnt-miss/"><u>New In 2024, 8 Best Multi-Subtitles Translators You Shouldnt Miss</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-6-minecraft-village-house-ideas-for-2024/"><u>Top 6 Minecraft Village House Ideas for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-artificial-intelligence-hallucinations-identification-and-detection/"><u>Understanding Artificial Intelligence Hallucinations: Identification and Detection</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-top-9-choices-for-video-auto-translate/"><u>Updated 2024 Approved Top 9 Choices for Video Auto Translate</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-netflix-subtitle-translation-methods-comprehensive-guide-for-2024/"><u>Updated Netflix Subtitle Translation Methods Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-the-samsung-galaxy-s21-ultra-reigns-supreme-in-androids-elite-lineup-a-thorough-appraisal/"><u>Why the Samsung Galaxy S21 Ultra Reigns Supreme in Android's Elite Lineup: A Thorough Appraisal</u></a></li>
 </ul></div>
 

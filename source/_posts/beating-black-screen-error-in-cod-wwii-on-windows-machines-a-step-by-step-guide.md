@@ -1,7 +1,7 @@
 ---
 title: "Beating Black Screen Error in COD: WWII on Windows Machines – A Step-by-Step Guide"
-date: 2024-11-07T03:17:40.989Z
-updated: 2024-11-12T23:49:05.408Z
+date: 2024-11-08T18:25:43.013Z
+updated: 2024-11-13T17:18:19.412Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ New Grounded patch is live! However, many players reported that Grounded keeps c
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Play single-player in the offline mode](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Make sure your PC meets the minimum specs for Grounded
 
  Game crashes will occur if your machine isn’t powerful enough to play Grounded. So before we move on to more in-depth fixes, it’s necessary to confirm your PC meets the game’s minimum system requirements.
@@ -54,13 +47,6 @@ Here are Grounded’s minimum specs:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Check the information about your**operating system** ,**processor** , and**memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-1.jpg)
@@ -68,13 +54,6 @@ Here are Grounded’s minimum specs:
 **3)** Select the**Display** tab and check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your computer isn’t geared up for the game, then it’s time to upgrade your PC. If you have perfect PC specs but still see the crashing problem, then read on to find out more fixes below.
 
@@ -93,10 +72,10 @@ If the problem persists, move towards the next fix.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
@@ -125,9 +104,29 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
@@ -137,13 +136,6 @@ If the problem persists, move towards the next fix.
  If updating the graphic driver doesn’t help with the Grounded crashing issue, try the next solution.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Switch to DirectX 11 in the game setting
 
@@ -171,22 +163,15 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Type**\-dxlevel 110** in the field and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-4-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **7)** Click**Close** .
@@ -205,9 +190,23 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right click**Grounded** on the game list, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the**Local files** tab, and click**Verify integrity of game files** .
 
@@ -226,10 +225,10 @@ If the problem persists, move towards the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Ensure the**Don’t save account credentials on this computer option** isn’t ticked. Then, click**OK** .
@@ -239,6 +238,13 @@ If the problem persists, move towards the next fix.
 **3)** Click**Steam** and click**Go offline** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click**Restart in offline mode** .
 
@@ -271,21 +277,19 @@ Launch Steam. Then, play the game in single-player and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-transform-every-moment-top-ideas-for-productive-podcast-sessions-for-2024/"><u>[New] Transform Every Moment Top Ideas for Productive Podcast Sessions for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-color-enhancement-made-easy-the-role-of-luts-in-photos/"><u>[Updated] Color Enhancement Made Easy The Role of LUTs in Photos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-explore-and-compare-20plus-best-free-video-editors-for-ios/"><u>[Updated] Explore and Compare 20+ Best Free Video Editors for iOS</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-easy-steps-to-translate-video-on-twitter/"><u>2024 Approved Easy Steps to Translate Video on Twitter</u></a></li>
-<li><a href="https://facebook.techidaily.com/are-online-dislikes-harmful-or-helpful/"><u>Are Online 'Dislikes' Harmful or Helpful?</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/best-video-translator-app-for-pc-cannot-miss-for-2024/"><u>Best Video Translator App for PC Cannot Miss for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/create-lip-sync-tiktok-videos-without-installing-any-app-for-2024/"><u>Create Lip Sync TikTok Videos Without Installing Any App for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-v27-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo V27 Pattern Lock Screen</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-oppo-a38-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-nextgen-video-upscaler-mobiledesktop-edition/"><u>In 2024, NextGen Video Upscaler Mobile/Desktop Edition</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-best-9-french-video-translators-online-and-download-options/"><u>New Best 9 French Video Translators Online and Download Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/smartphone-at-50-unveiling-ransomware-solutions/"><u>Smartphone at $50: Unveiling Ransomware Solutions</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/top-10-solutions-for-movie-subtitle-translation-making-things-perfect-for-2024/"><u>Top 10 Solutions for Movie Subtitle Translation Making Things Perfect for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>Updated In 2024, Translate Audio/Video Content From Spanish to English and Vice Versa</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-translate-any-hindi-video-into-english-with-ai-for-2024/"><u>Updated Translate Any Hindi Video Into English With AI for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-xiaomi-redmi-note-12-pro-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Xiaomi Redmi Note 12 Pro 5G Phone Network-Ready</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-capturing-moments-with-full-screen-movies-on-iphones/"><u>[New] In 2024, Capturing Moments with Full-Screen Movies on iPhones</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-essential-idleness-tranquil-phone-game-recommendations/"><u>[New] In 2024, Essential Idleness Tranquil Phone Game Recommendations</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-building-your-brand-through-effective-fb-reel-strategies/"><u>2024 Approved Building Your Brand Through Effective FB Reel Strategies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-rapid-revision-windows-protocol-uncovered/"><u>2024 Approved Rapid Revision Windows Protocol Uncovered</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hot-sale-secure-your-high-performance-acer-nitro-5-for-just-250-less-zdnet-deals/"><u>Hot Sale: Secure Your High-Performance Acer Nitro 5 for Just $250 Less | ZDNET Deals</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-youtube-videos-to-english-subtitles-for-2024/"><u>How to Translate YouTube Videos to English Subtitles for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-complete-guide-of-top-video-language-translators/"><u>In 2024, Complete Guide of Top Video Language Translators</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-netflix-subtitle-translation-methods-comprehensive-guide/"><u>New 2024 Approved Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/op-20-gags-and-laughter-on-youtube-for-downtime-delight-for-2024/"><u>The Top 20 Gags & Laughter on YouTube for Downtime Delight for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/top-10-hindi-video-translators-with-step-by-step-guidance/"><u>Top 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-itel-p40-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Itel P40 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/ultimate-chuckles-and-pixels-suite-for-2024/"><u>Ultimate Chuckles and Pixels Suite for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-how-to-translate-tiktok-videos-all-you-want-to-know/"><u>Updated 2024 Approved How to Translate TikTok Videos? All You Want to Know</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: TSMC Unveils Groundbreaking 12.8 Tbps On-Package Optical Transmission - Revolutionizing AI with Advanced Silicon Photonics
-date: 2024-11-10T05:39:47.434Z
-updated: 2024-11-13T07:05:00.953Z
+date: 2024-11-09T17:29:45.596Z
+updated: 2024-11-13T18:19:47.297Z
 tags:
   - desktop
 categories:
@@ -37,10 +37,10 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,21 +66,22 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-deciding-between-30fps-and-60fps-whats-best-for-video/"><u>[New] 2024 Approved Deciding Between 30Fps and 60Fps What's Best For Video?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-top-15-instagram-videophoto-downloaders/"><u>[New] 2024 Approved Top 15 Instagram Video/Photo Downloaders</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-recording-your-games-in-hd-ps4-and-obs-studio-guide/"><u>2024 Approved Recording Your Games in HD PS4 & OBS Studio Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/djis-aerial-fleet-standard-aviators-professional-pilots-4k-pros-for-2024/"><u>DJI's Aerial Fleet Standard Aviators, Professional Pilots, 4K Pros for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-how-to-easily-use-korean-to-english-video-translators/"><u>In 2024, How To Easily Use Korean to English Video Translators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-top-7-online-auto-subtitle-translators-for-content-creators/"><u>In 2024, Top 7 Online Auto Subtitle Translators for Content Creators</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/key-online-repositories-for-rich-text-visualization/"><u>Key Online Repositories for Rich Text Visualization</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-top-10-free-video-translators-to-mitigate-translation-risks/"><u>New In 2024, Top 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-fixing-non-responsive-voice-chat-in-call-of-dutys-modern-warfare/"><u>Troubleshooting Steps: Fixing Non-Responsive Voice Chat in Call of Duty's Modern Warfare</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-list-of-sites-to-download-stylish-text-files-for-2024/"><u>Ultimate List of Sites to Download Stylish Text Files for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-top-7-video-language-converter-online-free/"><u>Updated 2024 Approved Top 7 Video Language Converter Online Free</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>Updated Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps-for-2024/"><u>Updated Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-top-10-solutions-for-movie-subtitle-translation-making-things-perfect-for-2024/"><u>Updated Top 10 Solutions for Movie Subtitle Translation Making Things Perfect for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-your-vfx-match-top-8-sites-for-free-high-quality-green-screen-footage/"><u>[Updated] Find Your VFX Match - Top 8 Sites for FREE High Quality Green Screen Footage</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhancing-youtube-viewing-experience-with-right-video-formats/"><u>[Updated] In 2024, Enhancing YouTube Viewing Experience with Right Video Formats</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-perfecting-audio-on-iphone-select-the-best-6-free-software-choices/"><u>[Updated] Perfecting Audio on iPhone Select the Best 6 Free Software Choices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-techniques-for-high-dynamic-range-image-creation-with-lightroom/"><u>2024 Approved Expert Techniques for High Dynamic Range Image Creation with Lightroom</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/complete-guide-of-top-video-language-translators-for-2024/"><u>Complete Guide of Top Video Language Translators for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-mini-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 mini to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-ultimate-guide-to-finding-instagram-filters-for-no-cost/"><u>In 2024, The Ultimate Guide to Finding Instagram Filters for No Cost</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>New A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation-for-2024/"><u>New An Exhaustive List of Lip Sync Apps for Vibrant Video Creation for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-the-best-ai-translator-to-translate-videos-online/"><u>New The Best AI Translator to Translate Videos Online</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-steam-friends-network-inaccessible/"><u>Troubleshooting Guide: Resolving 'Steam Friend's Network Inaccessible'</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-comprehensive-guide-for-free-video-translator-downloading-for-2024/"><u>Updated Comprehensive Guide for Free Video Translator Downloading for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-convert-video-voice-to-text-online-for-free-in-2024/"><u>Updated How To Convert Video Voice to Text Online for Free, In 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-easy-ways-to-translate-tiktok-videos/"><u>Updated In 2024, Easy Ways to Translate TikTok Videos</u></a></li>
 </ul></div>
 

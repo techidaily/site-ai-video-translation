@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Translate Live Video Making It Possible With The Best Tool
-date: 2024-11-07T16:19:58.029Z
-updated: 2024-11-13T00:33:32.748Z
+date: 2024-11-10T21:27:24.110Z
+updated: 2024-11-14T03:26:44.403Z
 tags: 
   - ai translate video
   - ai generate video
@@ -190,18 +190,24 @@ If you are still confused about how to translate a live video, use this online t
 
 ![translatevideo translate live video](https://images.wondershare.com/virbo/article/translate-live-video-with-best-tool-8.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Key Features
 
 - This online tool enables teammate collaboration for users' convenience. Unlimited users can collaborate within the team for project tracking.
 - For subtitle translation, select embedded, SRT, and VTT file formats. Later, you can pick the targeted language and gender for voiceovers.
 - It offers video translation of up to 300 minutes video using its premium plan. In such cases, you can upload unlimited file sizes for processing.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4. What Are the Characteristics of a Good Translated Video?
 
@@ -468,13 +474,6 @@ One of the best ways to tap the untapped markets is by using a tool like Streamr
 
 With Streamr, you can make a fully automated video translation, Video Transcription, Audio Translation, Audio Transcription Software.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Vidscribe
 
 ![Vidscribe](https://images.wondershare.com/virbo/article/best-10-hindi-video-translators-with-step-by-step-guidance-12.jpg)
@@ -506,6 +505,19 @@ VSCAT uses advanced technology like OpenAI’s whisper to help you in the transl
 **2\. Easy-to-use:**
 
 While VSCAT looks like it’s complex, it’s fairly simple to use. All the features are well-laid out, and you can make any settings you want according to your liking. This means that aside from doing the translation, you can also customize the software according to your liking.
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Speechify
 
@@ -829,6 +841,13 @@ To translate Twitter videos using Virbo Video Translator, you can follow these s
 
 ![Log in to Wondershare Virbo Account](https://images.wondershare.com/virbo/article/2024/03/translate-twitter-video-6.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * **Step 3.** Open the Video Translate feature.
 
 ![Wondershare Virbo Interface](https://images.wondershare.com/virbo/article/2024/03/translate-twitter-video-7.jpeg)
@@ -1000,6 +1019,13 @@ Next, you have to select your languages. If you are translating from Hindi to En
 
 ![step guidance - using virbo to translate hindi - step 3 & 4](https://images.wondershare.com/virbo/article/kya-aap-video-call-kar-sakte-ho-in-english-translation-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4 \- Translate your video
 
 Finally, hit the orange “Translate this video” button at the bottom. You can also select some other options like lip sync and subtitles (for direct download).
@@ -1024,13 +1050,6 @@ We have translated some common Hindi phrases into English for your quick referen
 | Kya aap mujhe video call kar sakte ho   | Can you video call me?        |
 | Kya aap abi video call kar dakte ho     | Can you video call right now? |
 | Kya main aapko video call kar sakta hun | Can I video call you?         |
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 03\. Frequently Asked Questions (FAQs)
 
@@ -1106,18 +1125,18 @@ Click the “**Actions...**” button on the text editor and select “**Remove 
 
 ![select file format for transcription](https://images.wondershare.com/virbo/article/2024/03/convert-video-voice-to-text-07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. For E-Learning Online: Convert Video Voice to Text by Happy Scribe
 
 Getting new skills through e-learning is great, but listening to long video lectures can be tiresome. But with AI tools like Happy Scribe, it is easier to study. It has an intuitive interface and lets you convert video voice to text online for free.
 
 ![happy scribe video to text converter](https://images.wondershare.com/virbo/article/2024/03/convert-video-voice-to-text-08.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Happy Scribe’s AI transcribes your video, whether pre-recorded or from YouTube, giving you a text version of the lecture. Now, you can review the important things at your speed and find specific info faster.
 
@@ -1221,13 +1240,6 @@ Issue 5: Inconsistent Transcription Format
 
 **Solution:** Most video-to-text software allows you to format after the converter generates the transcript. You can adjust fonts, add paragraph breaks, and even format speaker identification within the program. Also, you can always export the transcript to a word processor for in-depth formatting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 You learned several ways to convert video voice to text online for free and the best apps for it. These tools make videos easier to understand, whether recorded or uploaded from websites like YouTube.
@@ -1275,6 +1287,13 @@ Click the “**Actions...**” button on the text editor and select “**Remove 
 * **Step 6:** Go to the **Transcript** tab bar from the pop-up window. Choose the desired format (TXT, DOCX, etc.) and customize the export settings.
 
 ![select file format for transcription](https://images.wondershare.com/virbo/article/2024/03/convert-video-voice-to-text-07.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. For E-Learning Online: Convert Video Voice to Text by Happy Scribe
 
@@ -1341,6 +1360,13 @@ Virbo offers free video translation with subtitles, up to 2 minutes per video. H
 * **Step 2:** Upload your video file in MP4 or MOV format. Select the language spoken in your video from the dropdown menu. Then, choose the language you want the subtitles for and translate the text into. Click **Translate this video** to continue.
 
 ![virbo video translator online interface](https://images.wondershare.com/virbo/article/2024/03/convert-video-voice-to-text-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Tips:**
 
@@ -1440,19 +1466,6 @@ Cons
 #### Gglot: Best English to Bengali Voice Translation Online for Meetings
 
 ![gglot translate english to bengali generator](https://images.wondershare.com/virbo/article/2024/03/voice-translation-english-to-bangla-04.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Need to translate English to Bengali voice recordings but worried about various speakers? Gglot's multiple speaker recognition feature makes it possible, saving you hours of work. Unlike many tools, it can transcribe up to 10 speakers at once.
 
@@ -1793,13 +1806,6 @@ A good subtitle translator should understand the context of the content. So, cho
 
 Users should look for a translator that provides different options to customize subtitles. Using such a tool will allow you to personalize the font and color of subtitles.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Supported File Formats
 
 If you want to choose the best AI subtitle translator, consider the file formats it supports. An ideal translator will support various video, audio, and subtitle formats.
@@ -1955,6 +1961,13 @@ A relatively new tool, [Simplified](https://simplified.com/subtitle-translator/)
 ### 9\. Subly
 
 ![Subtly AI subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-09.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This is the first time [Subly](https://www.getsubly.com/features/subtitle-translator) has made it to our top 10 list, and not without a reason. Subly has added some fantastic new features along with support for translating subtitles into 73 different languages. This **AI subtitle translator** now also allows quick adjustments like font, color, appearance and size, etc. Subly also has a subtitles app with which you can easily turn audio into videos by adding photos and logos.
 
@@ -2185,19 +2198,6 @@ A relatively new tool, [Simplified](https://simplified.com/subtitle-translator/)
 
 ![Nova subtitle translator](https://images.wondershare.com/virbo/article/ai-subtitle-translator-07.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Nova](https://wearenova.ai/nova-tools/automatic-subtitles/translate-subtitles/) **AI subtitle translator** is another great option for audio and video content. Once the text has been generated, it’s easily accessible in the subtitle panel, giving you options to edit and meet your needs. Moreover, you can also personalize how you interact with Nova.ai by creating distinct phrases and creating your own unique style.
 
 **Free Trial: Available**
@@ -2316,24 +2316,15 @@ So, these are the top subtitle translators available today. These tools simplify
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-turn-your-youtube-shorts-into-a-stream-of-income/"><u>[New] Turn Your YouTube Shorts Into a Stream of Income</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-capture-master-high-res-screen-record/"><u>[Updated] 2024 Approved Capture Master High-Res Screen Record</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-masterclass-in-conversions-top-software-for-youtube-to-avi/"><u>[Updated] Masterclass in Conversions Top Software for YouTube to AVI</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-how-to-write-podcast-script-plus-10plus-free-examples/"><u>2024 Approved How To Write Podcast Script (Plus 10+ Free Examples)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-nubia-red-magic-8s-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Nubia Red Magic 8S Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/battle-through-errors-stabilizing-thunder-tier-one-performance-on-desktop-computers/"><u>Battle Through Errors: Stabilizing Thunder Tier One Performance on Desktop Computers</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/convertir-webm-a-formatos-de-video-sin-costo-guia-integral-con-movavi/"><u>Convertir Webm a Formatos De Video Sin Costo: Guía Integral Con Movavi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014897607-diagnosing-and-repairing-your-logitech-g633-mic-issues-solved/"><u>Diagnosing and Repairing Your Logitech G633 Mic Issues - Solved</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-fix-fallout-3-stalling-issues-on-windows-10-a-step-by-step-guide/"><u>How to Fix Fallout 3 Stalling Issues on Windows 10 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-get-your-multiple-audio-systems-up-and-running-again/"><u>How to Get Your Multiple Audio Systems Up and Running Again</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-seamlessly-correct-javascript-errors-in-discord-applications/"><u>How to Seamlessly Correct JavaScript Errors in Discord Applications</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-sony-xperia-1-v-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Sony Xperia 1 V</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/lego-star-wars-the-skywalker-saga-fixing-the-pc-game-crash/"><u>Lego Star Wars: The Skywalker Saga - Fixing the PC Game Crash</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/mastering-resilience-the-unbreakable-loop-of-african-american-continuity/"><u>Mastering Resilience: The Unbreakable Loop of African American Continuity</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/thrifty-smartwatch-or-shortcomings-exposed-a-comprehensive-review-of-the-mobvoi-ticwatch-e2/"><u>Thrifty Smartwatch or Shortcomings Exposed? A Comprehensive Review of the Mobvoi TicWatch E2</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/troubleshooting-logitech-g-pro-x-mic-solutions-for-non-functional-audio/"><u>Troubleshooting Logitech G Pro X Mic: Solutions for Non-Functional Audio</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/troubleshooting-how-to-speed-up-your-steam-game-performance/"><u>Troubleshooting: How to Speed Up Your Steam Game Performance</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-quickly-snag-and-store-gifs-from-your-favorite-social-networks/"><u>[New] In 2024, Quickly Snag and Store GIFs From Your Favorite Social Networks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-optimal-tools-to-convert-and-tweet-videos-for-2024/"><u>[New] Optimal Tools to Convert and Tweet Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-a-compreenas-step-by-step-guide-for-bordered-instagram-images/"><u>[Updated] In 2024, A Compreenas Step-by-Step Guide for Bordered Instagram Images</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-list-of-6-instagram-reel-enhancers-for-2024/"><u>[Updated] The Ultimate List of 6 Instagram Reel Enhancers for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-your-youtube-music-from-freezing-while-video-stops-playing-chrome-and-firefox/"><u>How to Prevent Your YouTube Music From Freezing, While Video Stops Playing (Chrome & Firefox)</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-5-best-chrome-extensions-you-can-use-to-translate-videos/"><u>In 2024, 5 Best Chrome Extensions You Can Use to Translate Videos</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>In 2024, How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/masterpieces-of-radio-scripting-artistry/"><u>Masterpieces of Radio Scripting Artistry</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-step-by-step-guide-how-to-translate-tiktok-videos/"><u>New 2024 Approved Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-step-by-step-guide-how-to-translate-tiktok-videos/"><u>New In 2024, Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
 </ul></div>
 
