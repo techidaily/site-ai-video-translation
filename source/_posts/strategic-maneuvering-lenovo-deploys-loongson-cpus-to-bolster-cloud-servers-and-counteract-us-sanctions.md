@@ -1,7 +1,7 @@
 ---
 title: "Strategic Maneuvering: Lenovo Deploys Loongson CPUs to Bolster Cloud Servers and Counteract U.S. Sanctions"
-date: 2024-11-08T17:04:47.374Z
-updated: 2024-11-14T04:00:49.032Z
+date: 2024-11-21T19:11:14.242Z
+updated: 2024-11-23T21:33:25.945Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,10 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -56,28 +60,18 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-begin-recording-webcam-via-vlc-for-2024/"><u>[New] Begin Recording Webcam via VLC for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-advanced-conferencing-tech-for-businesses/"><u>[Updated] 2024 Approved Advanced Conferencing Tech for Businesses</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-8-best-multi-subtitles-translators-you-shouldnt-miss/"><u>2024 Approved 8 Best Multi-Subtitles Translators You Shouldnt Miss</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/convert-your-mov-files-to-aac-format-free-with-movavis-web-app/"><u>Convert Your MOV Files to AAC Format Free with Movavi's Web App</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/deciding-factors-in-finding-the-perfect-tv/"><u>Deciding Factors in Finding the Perfect TV</u></a></li>
-<li><a href="https://win-dash.techidaily.com/fast-solutions-for-the-xbox-one-error-code-0x91d70000-during-dvd-movie-playback/"><u>Fast Solutions for the Xbox One Error Code 0X91D70000 During DVD Movie Playback</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-notes-from-iphone-se-2020-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Notes from iPhone SE (2020)? | Stellar</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-safely-procure-pure-photography-collections/"><u>In 2024, How to Safely Procure Pure Photography Collections</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-chrome-video-translators-top-5-video-translation-chrome-extensions/"><u>New 2024 Approved Chrome Video Translators Top 5 Video Translation Chrome Extensions</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-chrome-video-translators-top-5-video-translation-chrome-extensions-for-2024/"><u>New Chrome Video Translators Top 5 Video Translation Chrome Extensions for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/streamline-your-view-adding-captions-on-windows-media-player-for-2024/"><u>Streamline Your View Adding Captions on Windows Media Player for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-best-video-language-changers-to-make-your-videos-accessible/"><u>Updated 2024 Approved Best Video Language Changers to Make Your Videos Accessible</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-best-video-translator-app-for-pc-you-cannot-miss/"><u>Updated 2024 Approved Best Video Translator App for PC You Cannot Miss</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-discover-the-best-free-music-recording-tools-in-depth-reviews-for-2024/"><u>Updated Discover the Best Free Music Recording Tools In-Depth Reviews for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-use-capcut-translate-to-transform-video-content-for-2024/"><u>Updated How To Use CapCut Translate to Transform Video Content for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-top-10-free-video-translators-to-mitigate-translation-risks/"><u>Updated In 2024, Top 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/aking-the-leap-set-up-a-sports-vlog-on-macos-for-2024/"><u>[New] Making the Leap Set Up a Sports Vlog on macOS for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-best-practices-in-selecting-youtube-video-extractor-apps-for-android/"><u>[Updated] Best Practices in Selecting YouTube Video Extractor Apps for Android</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/all-about-kapwing-video-translation-for-2024/"><u>All About Kapwing Video Translation for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/convert-video-voice-to-text-online-for-free-fast-and-easy-ways-for-2024/"><u>Convert Video Voice to Text Online for Free Fast and Easy Ways for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-5-best-apps-for-voice-translation-from-english-to-bangla/"><u>In 2024, 5 Best Apps for Voice Translation From English to Bangla</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-the-best-ai-translator-to-translate-videos-online/"><u>In 2024, The Best AI Translator to Translate Videos Online</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-info.techidaily.com/locating-lost-sections-in-windows-11-10-8-and-xp-a-step-by-step-guide/"><u>Locating Lost Sections in Windows 11, 10, 8, and XP: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/puredownload-free-youtube-file-acquisition-for-2024/"><u>PureDownload Free YouTube File Acquisition for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-infinix-smart-8-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Infinix Smart 8 Pro Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-best-5-udemy-subtitle-translator-auto-translation/"><u>Updated 2024 Approved Best 5 Udemy Subtitle Translator (Auto Translation)</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-step-by-step-guide-how-to-translate-tiktok-videos/"><u>Updated In 2024, Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhancing AI Infrastructure: How Microsoft Is Revolutionizing Data Center Connectivity with Its Own Network Gear - Tech Analysis"
-date: 2024-11-10T19:13:14.353Z
-updated: 2024-11-14T03:50:07.600Z
+date: 2024-11-17T18:30:15.405Z
+updated: 2024-11-23T20:34:21.315Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,10 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -56,27 +60,18 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-stepwise-strategies-for-measuring-yt-success-metrics-and-revenue/"><u>[Updated] 2024 Approved Stepwise Strategies for Measuring YT Success Metrics and Revenue</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/discover-how-the-lg-ultrauhd-49-tv-model-um7n-stacks-up-in-budget-friendly-4k-viewing-experience/"><u>Discover How the LG UltraUHD 49 TV Model UM7n Stacks Up in Budget-Friendly 4K Viewing Experience</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721480547116-from-freezing-to-battery-woes-tackling-the-iphone-13s-six-major-setbacks-and-fixing-them-up/"><u>From Freezing to Battery Woes - Tackling the iPhone 13'S Six Major Setbacks and Fixing Them Up!</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-how-to-initiate-a-collaborative-skype-group-discussion/"><u>In 2024, How to Initiate a Collaborative Skype Group Discussion</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-redmi-12-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Redmi 12 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Unlock Verizon Apple iPhone 13 Pro</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-live-streaming-services-a-detailed-comparison/"><u>In 2024, Leading Live Streaming Services A Detailed Comparison</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/inviolable-transfere-en-douceur-dun-disque-dur-sans-egal-avec-acronis-trueimage/"><u>Inviolable : Transféré en Douceur D'un Disque Dur Sans Égal Avec Acronis TrueImage</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-srt-subtitle-translation-tools-and-techniques/"><u>New 2024 Approved SRT Subtitle Translation Tools and Techniques</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-make-lip-sync-video-without-installing-any-app-for-2024/"><u>New How to Make Lip Sync Video Without Installing Any App for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-voice-translation-english-to-bangla-online-and-offline-apps/"><u>New In 2024, Voice Translation English to Bangla Online and Offline Apps</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-top-9-choices-for-video-auto-translate/"><u>New Top 9 Choices for Video Auto Translate</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-translate-live-videos-with-the-best-video-translator-for-2024/"><u>New Translate Live Videos With The Best Video Translator for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-online-video-orientation-changer-best-options/"><u>Updated 2024 Approved Free Online Video Orientation Changer Best Options</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-youtube-videos-without-cc/"><u>Updated How to Translate YouTube Videos Without CC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-artists-companion-a-curated-list-of-8-premier-iphone-drawing-tools/"><u>[New] 2024 Approved The Artist's Companion A Curated List of 8 Premier iPhone Drawing Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-pixelshalfed-dissection/"><u>[New] In 2024, PixelsHalfed Dissection</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-premium-5-video-capturing-web-devices-for-2024/"><u>[New] Premium 5 Video Capturing Web Devices for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-share-across-platforms-instagram-meets-facebook/"><u>[Updated] 2024 Approved Share Across Platforms Instagram Meets Facebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-iphone-x-secure-access-restoring-biometric-lock/"><u>[Updated] Mastering iPhone X Secure Access Restoring Biometric Lock</u></a></li>
+<li><a href="https://fox-info.techidaily.com/guide-turn-on-windows-11s-dynamic-hdr-mode/"><u>Guide Turn on Windows 11'S Dynamic HDR Mode</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-unloaded-textures-problems-in-activisions-warzone-title/"><u>How to Resolve Unloaded Textures Problems in Activision's Warzone Title</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-y77t-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo Y77t Device</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/maximize-yandex-translate-in-video-translation-and-beyond/"><u>Maximize Yandex Translate in Video Translation and Beyond</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-top-10-ai-subtitle-translators-for-content-creators/"><u>New Top 10 AI Subtitle Translators for Content Creators</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-artisans-guide-to-backdrop-free-image-perfection-with-photopea-for-2024/"><u>The Artisan's Guide to Backdrop-Free Image Perfection with Photopea for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/translate-video-from-english-to-arabic-with-ease-for-2024/"><u>Translate Video From English to Arabic with Ease for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-reaching-a-wider-audience-using-video-translation-in-tamil/"><u>Updated Reaching a Wider Audience Using Video Translation in Tamil</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

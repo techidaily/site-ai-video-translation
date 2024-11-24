@@ -1,7 +1,7 @@
 ---
 title: "The Surprising Success of Microsoft's Aquatic Data Centers: Project Natick Shows Fewer Failures Than Terrestrial Servers"
-date: 2024-11-07T19:48:20.586Z
-updated: 2024-11-14T03:26:08.756Z
+date: 2024-11-20T16:47:35.437Z
+updated: 2024-11-24T00:04:52.724Z
 tags:
   - desktop
 categories:
@@ -54,6 +54,10 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -77,31 +81,17 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-fiscally-friendly-celestial-saving-service-for-files/"><u>[New] 2024 Approved The Fiscally Friendly Celestial Saving Service for Files</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-expert-strategies-for-engaging-live-audiences-on-facebook/"><u>[New] Expert Strategies for Engaging Live Audiences on Facebook</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-on-your-iphoneipad-the-ultimate-downloading-guide/"><u>[Updated] Youtube on Your iPhone/iPad The Ultimate Downloading Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-how-to-create-gifs-from-youtube-videos/"><u>2024 Approved How to Create GIFs From YouTube Videos</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-maximize-yandex-translate-in-video-translation-and-beyond/"><u>2024 Approved Maximize Yandex Translate in Video Translation and Beyond</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-13c-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-detailed-guide-to-extract-and-save-audio-from-popular-video-sharing-sites-for-2024/"><u>A Detailed Guide to Extract and Save Audio From Popular Video Sharing Sites for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/best-9-french-video-translators-online-and-download-options/"><u>Best 9 French Video Translators Online and Download Options</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/tial-guide-to-creating-popularity-with-youtube-opens/"><u>Essential Guide to Creating Popularity with YouTube Opens</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-x50-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor X50 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-video-from-japanese-to-english-online/"><u>How To Translate Video From Japanese to English Online?</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do I Stop Someone From Tracking My Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-unlocking-global-audiences-top-video-language-converters/"><u>New 2024 Approved Unlocking Global Audiences Top Video Language Converters</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>New In 2024, Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use-for-2024/"><u>New Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations/"><u>New Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations</u></a></li>
-<li><a href="https://article-tips.techidaily.com/skys-limit-for-your-visual-stories-unlimited-free-options-and-premium-choices-for-2024/"><u>Sky's Limit for Your Visual Stories Unlimited Free Options and Premium Choices for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-5-best-chrome-extensions-you-can-use-to-translate-videos/"><u>Updated 5 Best Chrome Extensions You Can Use to Translate Videos</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-make-lip-sync-video-without-installing-any-app/"><u>Updated How to Make Lip Sync Video Without Installing Any App</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-mastering-photos-ios-alignment-and-cloud-syncing-for-2024/"><u>[New] Mastering Photos IOS Alignment and Cloud Syncing for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-quick-tutorial-get-snapchat-running-on-macos/"><u>[Updated] 2024 Approved Quick Tutorial Get Snapchat Running on macOS</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/best-10-chinese-video-to-english-translators/"><u>Best 10 Chinese Video to English Translators</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-boost-your-posts-10-powerful-hashtags-you-cant-ignore/"><u>In 2024, Boost Your Posts 10 Powerful Hashtags You Can't Ignore</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-download-and-alter-sacred-audio-sounds/"><u>In 2024, How to Download and Alter Sacred Audio Sounds</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-infinix-zero-5g-2023-turbo-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Infinix Zero 5G 2023 Turbo Through Google Earth?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-supercharge-your-channel-growth-harness-the-potential-of-collaborative-videos/"><u>In 2024, Supercharge Your Channel Growth Harness the Potential of Collaborative Videos</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-best-10-chinese-video-to-english-translator/"><u>New Best 10 Chinese Video to English Translator</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-how-to-translate-youtube-videos-to-english-subtitles/"><u>New In 2024, How to Translate YouTube Videos to English Subtitles</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-top-7-video-language-converter-online-free/"><u>New In 2024, Top 7 Video Language Converter Online Free</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-lenovo-ideapad-130s-a-compact-laptops-tradeoff-between-power-limitations-and-usability-surprises/"><u>Unveiling the Lenovo IdeaPad 130S: A Compact Laptop's Tradeoff Between Power Limitations and Usability Surprises</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-make-lip-sync-video-without-installing-any-app-for-2024/"><u>Updated How to Make Lip Sync Video Without Installing Any App for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
