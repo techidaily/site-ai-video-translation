@@ -1,7 +1,7 @@
 ---
 title: "The Sibolan SZBox S6nce: An Affordable Mini PC in Classic Colors, Powered by Legacy Ryzen Chips"
-date: 2024-11-18T16:17:13.858Z
-updated: 2024-11-23T23:35:45.677Z
+date: 2024-12-01T01:05:46.688Z
+updated: 2024-12-02T02:24:41.193Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,22 +81,19 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-break-through-bot-barriers-rising-from-the-crowd/"><u>[New] Break Through Bot Barriers Rising From the Crowd</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-elevate-your-cinematography-mastering-transitions-in-kinemaster/"><u>[Updated] Elevate Your Cinematography Mastering Transitions in Kinemaster</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-integrating-obs-for-youtube-and-twitch-streaming-for-2024/"><u>[Updated] Integrating OBS for YouTube & Twitch Streaming for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-best-5-udemy-subtitle-translator-auto-translation/"><u>2024 Approved Best 5 Udemy Subtitle Translator (Auto Translation)</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-best-toolbox-to-translate-youtube-videos-to-english-subtitles/"><u>2024 Approved Best Toolbox to Translate YouTube Videos to English Subtitles</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-migrating-spotify-written-content-for-a-streamlined-youtube-music-experience/"><u>2024 Approved Migrating Spotify' Written Content for a Streamlined YouTube Music Experience</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/everything-you-want-to-know-about-kapwing-video-translation-for-2024/"><u>Everything You Want To Know About Kapwing Video Translation for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/herausragende-dvd-kopieranleitung-fur-windows-10-and-macos-perfekt-funktioniert/"><u>Herausragende DVD-Kopieranleitung Für Windows 10 & macOS – Perfekt Funktioniert</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-world-top-picks-for-powerful-systems/"><u>Inside Tom's Hardware World: Top Picks for Powerful Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-troubles-how-to-fix-ready-or-not-continuously-crashing/"><u>PC Troubles: How to Fix 'Ready or Not' Continuously Crashing</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-must-have-apps-for-real-time-video-translation/"><u>Updated 2024 Approved Must-Have Apps for Real-Time Video Translation</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-complete-guide-of-top-video-language-translators-for-2024/"><u>Updated Complete Guide of Top Video Language Translators for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations/"><u>Updated In 2024, Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-must-have-apps-for-real-time-video-translation-for-2024/"><u>Updated Must-Have Apps for Real-Time Video Translation for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-avoiding-ai-for-windows-key-generation-is-crucial/"><u>Why Avoiding AI for Windows Key Generation Is Crucial</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/asus-makes-history-with-the-first-ever-rog-nuc-combines-cutting-edge-core-ultra-9-and-stunning-rtx-4070-graphics-at-an-unbeatable-starting-price-of-1629/"><u>Asus Makes History with the First-Ever ROG NUC - Combines Cutting-Edge Core Ultra 9 and Stunning RTX 4070 Graphics at an Unbeatable Starting Price of $1,629</u></a></li>
+<li><a href="https://article-files.techidaily.com/best-waterproof-gopro-filters-for-undersea-film-for-2024/"><u>Best Waterproof GoPro Filters for Undersea Film for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/1723262343108-discover-the-power-of-nuc-like-amd-ryzen-mini-pc-with-a-stunning-4k-touchscreen-impressive-ryzen-9-6900hx-cpu-and-ultra-fast-storage/"><u>Discover the Power of NUC-Like AMD Ryzen Mini PC with a Stunning 4K Touchscreen, Impressive Ryzen 9 6900HX CPU, and Ultra Fast Storage</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-huawei-p60-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Huawei P60.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-civi-3-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi Civi 3 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-iphone-14-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing iPhone 14 Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/1723262425932-mega-savings-event-experience-the-best-of-gaming-with-the-aurora-r16-pc-and-stunning-alienware-oled-display-slash-price-by-a-whopping-700/"><u>Mega Savings Event: Experience the Best of Gaming with the Aurora R16 PC & Stunning Alienware OLED Display – Slash Price by a Whopping $700</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/microsoft-project-mpp/"><u>Microsoft Project ファイル修理講座：破損したMPPファイルの元通りに</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-download-videoleap-on-macbook-proair-easy-installation-steps-for-2024/"><u>New Download Videoleap on MacBook Pro/Air Easy Installation Steps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/revolutionize-your-iphone-14-with-ios-18-for-effortless-content-production-as-featured/"><u>Revolutionize Your iPhone 14 with iOS 18 for Effortless Content Production, as Featured</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210339416-9781401966836-sedona-psychic-energy-vortexes/"><u>Sedona, Psychic Energy Vortexes | Free Book</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/step-by-step-solutions-for-correcting-minecrafts-crossbow-glitches/"><u>Step-by-Step Solutions for Correcting Minecraft's Crossbow Glitches</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/the-surprising-success-of-microsofts-aquatic-data-centers-project-natick-shows-fewer-failures-than-terrestrial-servers/"><u>The Surprising Success of Microsoft's Aquatic Data Centers: Project Natick Shows Fewer Failures Than Terrestrial Servers</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/tsmc-unveils-groundbreaking-128-tbps-on-package-optical-transmission-revolutionizing-ai-with-advanced-silicon-photonics/"><u>TSMC Unveils Groundbreaking 12.8 Tbps On-Package Optical Transmission - Revolutionizing AI with Advanced Silicon Photonics</u></a></li>
 </ul></div>
 
