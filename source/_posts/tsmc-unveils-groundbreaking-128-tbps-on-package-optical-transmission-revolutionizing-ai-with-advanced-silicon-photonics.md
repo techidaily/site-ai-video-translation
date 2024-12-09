@@ -1,7 +1,7 @@
 ---
 title: TSMC Unveils Groundbreaking 12.8 Tbps On-Package Optical Transmission - Revolutionizing AI with Advanced Silicon Photonics
-date: 2024-11-28T16:08:45.182Z
-updated: 2024-12-02T00:35:43.588Z
+date: 2024-12-06T17:37:24.661Z
+updated: 2024-12-09T16:37:30.181Z
 tags:
   - desktop
 categories:
@@ -16,7 +16,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
@@ -41,7 +41,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -67,16 +67,20 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-finding-the-best-free-subtitle-conversion-services/"><u>[Updated] In 2024, Finding the Best Free Subtitle Conversion Services</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-virtual-visualization-in-digital-streaming-platforms/"><u>[Updated] The Art of Virtual Visualization in Digital Streaming Platforms</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/a-comprehensive-review-of-watch-dogs-legions-unique-environment-and-storyline/"><u>A Comprehensive Review of Watch Dogs: Legion's Unique Environment and Storyline</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled-for-2024/"><u>Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/livestream-lifters-for-modern-audiences-for-2024/"><u>Livestream Lifters for Modern Audiences for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-best-video-translator-app-for-pc-cannot-miss/"><u>New In 2024, Best Video Translator App for PC Cannot Miss</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/rejuvenate-your-mf4770n-experience-for-win11-8-7/"><u>Rejuvenate Your MF4770n Experience for Win11, 8, 7</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/the-best-translator-to-translate-videos-online/"><u>The Best Translator to Translate Videos Online</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/translate-live-video-making-it-possible-with-the-best-tool/"><u>Translate Live Video Making It Possible With The Best Tool</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>Updated Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-oneplus-ace-2-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My OnePlus Ace 2 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-differentiate-yourself-with-these-critical-yt-shorts-hacks/"><u>[New] Differentiate Yourself with These Critical YT Shorts Hacks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facebooks-best-picture-enhancers-top-11-tools-ranked/"><u>[Updated] 2024 Approved Facebook's Best Picture Enhancers Top 11 Tools Ranked</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-prestigious-directory-free-visuals-hubs-galore-online/"><u>[Updated] 2024 Approved Prestigious Directory FREE Visuals Hubs Galore Online</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-avoiding-piracy-safe-techniques-for-youtube-to-mp4-for-2024/"><u>[Updated] Avoiding Piracy Safe Techniques for Youtube-to-MP4 for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-free-best-youtube-video-editor-apps-for-android/"><u>[Updated] In 2024, FREE Best YouTube Video Editor Apps for Android</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/a-brief-review-of-capcut-translate-with-alternative-for-2024/"><u>A Brief Review of CapCut Translate With Alternative for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-translate-instagram-videos-easily-a-step-by-step-guide/"><u>In 2024, Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/must-have-apps-for-real-time-video-translation-for-2024/"><u>Must-Have Apps for Real-Time Video Translation for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/netflix-subtitle-translation-methods-comprehensive-guide-for-2024/"><u>Netflix Subtitle Translation Methods Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-final-cut-pro-essentials-how-to-create-engaging-videos-with-the-ken-burns-effect/"><u>New In 2024, Final Cut Pro Essentials How to Create Engaging Videos with the Ken Burns Effect</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-online-video-editors-handbook-from-download-to-final-cut/"><u>New In 2024, Online Video Editors Handbook From Download to Final Cut</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/0-female-gamers-on-youtube-2024-updated/"><u>Top 10 Female Gamers on YouTube | 2024 Updated</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-5-best-apps-for-voice-translation-from-english-to-bangla/"><u>Updated 5 Best Apps for Voice Translation From English to Bangla</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-convert-video-voice-to-text-online-for-free-fast-and-easy-ways/"><u>Updated Convert Video Voice to Text Online for Free Fast and Easy Ways</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>Updated In 2024, Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhancing AI Infrastructure: How Microsoft Is Revolutionizing Data Center Connectivity with Its Own Network Gear - Tech Analysis"
-date: 2024-11-25T03:19:27.535Z
-updated: 2024-12-02T03:28:19.877Z
+date: 2024-12-08T18:13:43.563Z
+updated: 2024-12-09T17:28:38.146Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,16 +60,18 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-step-by-step-grab-facebook-videos-on-both-oses/"><u>[New] Step-by-Step Grab Facebook Videos on Both OSes</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-mastering-creativity-the-leading-chrome-drawing-apps/"><u>[Updated] 2024 Approved Mastering Creativity The Leading Chrome Drawing Apps</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/best-10-hindi-video-translators-with-step-by-step-guidance/"><u>Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/best-video-language-changers-to-make-your-videos-accessible-for-2024/"><u>Best Video Language Changers to Make Your Videos Accessible for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/create-lip-sync-tiktok-videos-without-installing-any-app/"><u>Create Lip Sync TikTok Videos Without Installing Any App</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhanced-drivers-windows-11-radeon-hd-5450/"><u>Enhanced Drivers: Windows 11, Radeon HD 5450</u></a></li>
-<li><a href="https://blog-min.techidaily.com/fortschrittliche-methode-zum-verlustfrei-kopieren-von-dvds-ohne-qualitatseinbussen/"><u>Fortschrittliche Methode Zum Verlustfrei Kopieren Von DVDs Ohne Qualitätseinbußen</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/rogging-into-digital-marketing-establishing-a-yt-channel-on-mobile/"><u>Leapfrogging Into Digital Marketing Establishing a YT Channel on Mobile</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/mastering-reddit-a-step-by-step-guide-for-effective-posts/"><u>Mastering Reddit A Step-By-Step Guide for Effective Posts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/selecting-superior-free-srt-translation-apps-today-for-2024/"><u>Selecting Superior Free SRT Translation Apps Today for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-how-to-translate-youtube-videos-without-cc/"><u>Updated 2024 Approved How to Translate YouTube Videos Without CC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-disabling-push-notifications-for-commercial-content-for-2024/"><u>[New] Disabling Push Notifications for Commercial Content for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-websites-aimed-at-enhancing-text-appearance/"><u>[New] Top Websites Aimed at Enhancing Text Appearance</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-be-bold-on-igtv-the-10-cutting-edge-video-concepts-for-your-brand/"><u>[Updated] 2024 Approved Be Bold on IGTV The 10 Cutting-Edge Video Concepts for Your Brand</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-high-performance-screen-recorders-for-windows-users/"><u>[Updated] High-Performance Screen Recorders for Windows Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-innovative-recording-solutions-for-igadgets/"><u>[Updated] Innovative Recording Solutions for iGadgets</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-investigating-changes-over-time-in-windows-movie-maker/"><u>[Updated] Investigating Changes Over Time in Windows Movie Maker</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-itel-a05s-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Itel A05s Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-perfect-edits-navigating-psxs-eraser-feature/"><u>In 2024, Perfect Edits Navigating PSX's Eraser Feature</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-youtube-videos-without-cc/"><u>New How to Translate YouTube Videos Without CC</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>New In 2024, A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/next-gen-airdot-charger-with-adjustable-volume-feature-desired/"><u>Next Gen AirDot Charger with Adjustable Volume Feature Desired</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-everything-you-want-to-know-about-kapwing-video-translation/"><u>Updated 2024 Approved Everything You Want To Know About Kapwing Video Translation</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-top-8-multi-subtitles-translators-you-can-use-for-2024/"><u>Updated Top 8 Multi-Subtitles Translators You Can Use for 2024</u></a></li>
 </ul></div>
 

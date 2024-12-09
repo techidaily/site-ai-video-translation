@@ -1,7 +1,7 @@
 ---
 title: "Strategic Maneuvering: Lenovo Deploys Loongson CPUs to Bolster Cloud Servers and Counteract U.S. Sanctions"
-date: 2024-11-27T16:40:31.593Z
-updated: 2024-12-01T22:05:37.377Z
+date: 2024-12-02T18:00:45.609Z
+updated: 2024-12-09T16:00:30.821Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,21 +60,24 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-max-360-vs-hero-11-the-decisive-battle-for-superior-gopro-action-footage-for-2024/"><u>[New] Max 360 vs Hero 11 - The Decisive Battle for Superior GoPro Action Footage for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-breaking-the-mold-unique-anime-creatives-dominating-tiktok/"><u>[Updated] 2024 Approved Breaking the Mold Unique Anime Creatives Dominating TikTok</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-immaculate-game-recordings-with-obs-studio-pro/"><u>[Updated] 2024 Approved Immaculate Game Recordings with OBS Studio Pro</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-school-based-videography-crafting-quality-content/"><u>[Updated] School-Based Videography Crafting Quality Content</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-best-5-udemy-subtitle-translator-auto-translation/"><u>2024 Approved Best 5 Udemy Subtitle Translator (Auto Translation)</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-best-toolbox-to-translate-youtube-videos-to-english-subtitles/"><u>2024 Approved Best Toolbox to Translate YouTube Videos to English Subtitles</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-accelerated-approaches-to-transferring-iphone-files-to-computer/"><u>In 2024, Accelerated Approaches to Transferring iPhone Files to Computer</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-apple-iphone-xs-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your Apple iPhone XS? How to Fix</u></a></li>
-<li><a href="https://win-top.techidaily.com/mtsmp4-6/"><u>MTSとMP4間で変換する時、画質を失わずに: 最適解6コツ</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-ghost-touch-glitches-on-iphones-discover-effective-10-step-solutions/"><u>Overcoming Ghost Touch Glitches on iPhones: Discover Effective 10-Step Solutions</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-must-have-apps-for-real-time-video-translation/"><u>Updated 2024 Approved Must-Have Apps for Real-Time Video Translation</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-complete-guide-of-top-video-language-translators-for-2024/"><u>Updated Complete Guide of Top Video Language Translators for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations/"><u>Updated In 2024, Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-must-have-apps-for-real-time-video-translation-for-2024/"><u>Updated Must-Have Apps for Real-Time Video Translation for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-foundations-in-creating-animated-imagery/"><u>[New] Foundations in Creating Animated Imagery</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-thorough-assessment-samsungs-hololens-like-spinning-lens/"><u>[New] In 2024, Thorough Assessment Samsung's Hololens-Like Spinning Lens</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-accelerating-attention-how-to-alter-video-speed-on-stories/"><u>[Updated] Accelerating Attention How to Alter Video Speed on Stories</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-5-elite-webcams-offering-clear-visuals-and-inbuilt-mics/"><u>[Updated] In 2024, 5 Elite Webcams Offering Clear Visuals & Inbuilt Mics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unhindered-vision-capture-tool-for-2024/"><u>[Updated] Unhindered Vision Capture Tool for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/8-best-multi-subtitles-translators-you-shouldnt-miss-for-2024/"><u>8 Best Multi-Subtitles Translators You Shouldnt Miss for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/9-tactics-to-troubleshoot-and-improve-chatgpt-performance/"><u>9 Tactics to Troubleshoot and Improve ChatGPT Performance</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/best-10-chinese-video-to-english-translators/"><u>Best 10 Chinese Video to English Translators</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/best-toolbox-to-translate-youtube-videos-to-english-subtitles/"><u>Best Toolbox to Translate YouTube Videos to English Subtitles</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/changing-video-frame-sizes-convert-from-169-43-53-and-32-to-optimize-for-streaming-platforms/"><u>Changing Video Frame Sizes - Convert From 16:9, 4:3, 5:3 & 3:2 to Optimize for Streaming Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/fast-track-your-media-files-speed-up-videos-and-audio-with-winxvideos-ai-gpu-tech/"><u>Fast-Track Your Media Files - Speed Up Videos and Audio with Winxvideo's AI GPU Tech</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-best-10-chinese-video-to-english-translator/"><u>New Best 10 Chinese Video to English Translator</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-how-to-translate-youtube-videos-to-english-subtitles/"><u>New In 2024, How to Translate YouTube Videos to English Subtitles</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-top-7-video-language-converter-online-free/"><u>New In 2024, Top 7 Video Language Converter Online Free</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-top-8-multi-subtitles-translators-you-can-use/"><u>New Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pixel-watch-vs-apple-watch-the-ultimate-showdown-between-googles-and-apples-latest-timepieces/"><u>Pixel Watch Vs. Apple Watch - The Ultimate Showdown Between Google's and Apple's Latest Timepieces</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-how-to-use-capcut-translate-to-transform-video-content/"><u>Updated 2024 Approved How To Use CapCut Translate to Transform Video Content</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-make-lip-sync-video-without-installing-any-app-for-2024/"><u>Updated How to Make Lip Sync Video Without Installing Any App for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726028916245-windowsmacdvd/"><u>WindowsとMacでのDVD動画データ抽出手順ガイド</u></a></li>
 </ul></div>
 

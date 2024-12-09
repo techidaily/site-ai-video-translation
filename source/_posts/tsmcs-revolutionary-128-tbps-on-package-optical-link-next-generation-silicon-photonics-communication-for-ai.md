@@ -1,7 +1,7 @@
 ---
 title: "TSMC's Revolutionary 12.8 Tbps On-Package Optical Link: Next-Generation Silicon Photonics Communication for AI"
-date: 2024-11-28T16:06:32.989Z
-updated: 2024-12-02T00:08:52.236Z
+date: 2024-12-03T16:49:22.596Z
+updated: 2024-12-09T16:30:45.849Z
 tags:
   - desktop
 categories:
@@ -16,7 +16,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
@@ -41,7 +41,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -67,18 +67,20 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-acoustic-mastery-secrets-for-exceptional-audio-capture/"><u>[New] In 2024, Acoustic Mastery Secrets for Exceptional Audio Capture</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-obs-not-recording-audio-solved/"><u>[Updated] In 2024, OBS Not Recording Audio [Solved]</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>2024 Approved Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/expert-netflix-tips-maximizing-screenshots-with-your-mac/"><u>Expert Netflix Tips Maximizing Screenshots with Your Mac</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-smart-home-gadgets-my-unexpected-adventure-with-a-robotic-window-washer-zdnets-innovation-spotlight/"><u>Exploring the World of Smart Home Gadgets: My Unexpected Adventure With a Robotic Window Washer | ZDNet's Innovation Spotlight</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-itel-p55t-lock-screen-password-by-drfone-android/"><u>How to Reset your Itel P55T Lock Screen Password</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-best-video-translator-app-for-pc-cannot-miss/"><u>In 2024, Best Video Translator App for PC Cannot Miss</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-a1x-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo A1x 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-translate-live-video-making-it-possible-with-the-best-tool/"><u>In 2024, Translate Live Video Making It Possible With The Best Tool</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-top-9-choices-for-video-auto-translate/"><u>New In 2024, Top 9 Choices for Video Auto Translate</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-razer-blackshark-v2-microphone-a-comprehhavisnce-on-troubleshooting-techniques/"><u>Reviving Your Razer Blackshark V2 Microphone: A Comprehhavisnce on Troubleshooting Techniques</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>Updated Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725290001474-winxvideo-ai/"><u>WinxVideo AI: 화면, 웹캠 및 오디오 녹음을 위한 안내되는 효율적인 기법</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-how-to-use-snap-camera-on-zoom/"><u>[New] In 2024, How to Use Snap Camera on Zoom?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-windows-11-gamers-ultimate-playbook-top-5-record-techniques/"><u>[Updated] In 2024, Windows 11 Gamers' Ultimate Playbook Top 5 Record Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-digital-marketing-triumphs/"><u>2024 Approved The Ultimate Guide to Digital Marketing Triumphs</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-easily-use-korean-to-english-video-translators/"><u>How To Easily Use Korean to English Video Translators</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-apple-iphone-xs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from Apple iPhone XS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-the-secrets-to-becoming-an-exceptional-interviewer/"><u>In 2024, Unlocking The Secrets To Becoming An Exceptional Interviewer</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-translate-video-from-english-to-arabic-with-ease/"><u>New In 2024, Translate Video From English to Arabic with Ease</u></a></li>
+<li><a href="https://extra-support.techidaily.com/revolutionizing-image-capture-with-ios-11-updates-for-2024/"><u>Revolutionizing Image Capture with iOS 11 Updates for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/trouble-with-computer-memory-discover-diagnostic-techniques-by-yl-software-professionals/"><u>Trouble with Computer Memory? Discover Diagnostic Techniques by YL Software Professionals</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unveiling-best-mac-methods-for-recording-roblox-games/"><u>Unveiling Best Mac Methods for Recording Roblox Games</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-elevate-your-content-with-the-best-free-video-translator-apps/"><u>Updated 2024 Approved Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-convert-video-voice-to-text-online-for-free-for-2024/"><u>Updated How To Convert Video Voice to Text Online for Free for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-best-video-translator-app-for-pc-cannot-miss/"><u>Updated In 2024, Best Video Translator App for PC Cannot Miss</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-must-have-apps-for-real-time-video-translation/"><u>Updated Must-Have Apps for Real-Time Video Translation</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations/"><u>Updated Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations</u></a></li>
 </ul></div>
 

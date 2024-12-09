@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Translate YouTube Videos Without CC
-date: 2024-12-01T04:03:59.380Z
-updated: 2024-12-01T22:56:06.617Z
+date: 2024-12-02T18:38:43.281Z
+updated: 2024-12-09T17:17:40.607Z
 tags: 
   - ai translate video
   - ai generate video
@@ -122,6 +122,10 @@ All said, Wondershare Virbo emerges as an indispensable solution for transcendin
      data-ad-slot="1223367746"></ins>
 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Translate Live Video: Making It Possible With The Best Tool
 
 Making videos means increasing the online presence of content. In contrast, translating videos means promoting your content and making it available to all. Remember that only 20% of the world's population speaks English, but 100 million people watch video content. Thus, content creators **translate live videos** to English to rank their content for wider accessibility.
@@ -135,10 +139,6 @@ Taking care of ethical boundaries means to maintain the integrity of the content
 ### 1\. Accuracy
 
 A translated video is useless when it's inaccurate, and the actual meaning is not delivered. The primary responsibility of a translating video is to ensure the accuracy of the content. Any mistake can lead to misunderstandings and misrepresentations of the message. Thus, it is crucial to convey the message with accurate context details of the material.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Confidentiality
 
@@ -196,7 +196,7 @@ Once you enter this new window, you will see different options for video content
 ![start video translate feature virbo](https://images.wondershare.com/virbo/article/2024/03/translate-live-video-with-best-tools-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3\. Upload Your Video and Manage Translation Settings**
@@ -210,10 +210,6 @@ Upon accessing this feature, upload the video you want to translate. Choose the 
 If you have enabled the proofreading option, a new screen will appear with translated subtitles. Here, you can make changes to the translated script to optimize video translation. After making all these changes, click on the “Translate Video” button to conclude this process.
 
 ![translate video virbo live successfully](https://images.wondershare.com/virbo/article/2024/03/translate-live-video-with-best-tools-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Translate Live Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
@@ -337,6 +333,10 @@ If you also want to make a video in another language from scratch, use Virbo. Th
 
 [Generate Voice Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Highlighting Features of Wondershare Virbo (PC version)
 
 Virbo generates a video that fulfills all the characteristics of a good video. Below are some excellent features of this tool for getting a matchless video.
@@ -377,6 +377,10 @@ Upon accessing this feature, upload the video you want to translate. Choose the 
 
 ![add video file and set parameters](https://images.wondershare.com/virbo/article/2024/03/translate-live-video-with-best-tools-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4\. Proofread Translated Subtitles and Complete Video Translation**
 
 If you have enabled the proofreading option, a new screen will appear with translated subtitles. Here, you can make changes to the translated script to optimize video translation. After making all these changes, click on the “Translate Video” button to conclude this process.
@@ -406,6 +410,10 @@ If you want to automatically **translate live video**, then Media.io can prove t
 Translate your videos with this AI-powered tool to grow your reach with a global audience. This online platform offers video translation in more than 70 languages. You can translate videos into Spanish, Chinese, Hindi, French, and German. It provides a cloud-based storage service that means your video will go wherever you go.
 
 ![kapwing translate live video](https://images.wondershare.com/virbo/article/translate-live-video-with-best-tool-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -467,11 +475,19 @@ VEED.io is an easy way to create videos, add subtitles, and translate them to gr
 
 ![veed io translate live video](https://images.wondershare.com/virbo/article/translate-live-video-with-best-tool-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Key Features
 
 * This tool offers a text-to-speech feature that can turn text of any language into voice. For this purpose, you must choose a language, voice, and speed before processing.
 * Users can import their subtitle files separately and add them to different videos. In this regard, you can upload SRT and VTT file formats.
 * Despite translation, it offers video editing features for creating appealing videos. You can find a template library and media elements available in this online software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Translate.Video
 
@@ -540,10 +556,6 @@ Technological advancements in the world of video translation have transformed ho
 ## **Part 1\. Yandex Browser Video Translation Overview**
 
 **Yandex browser video translation**is a useful tool for watching videos in your native language. The feature is designed to allow users across the globe to watch videos in their native language, regardless of the original language used. This unique feature automatically translates the audio track of a video, displaying the subtitles in a language of your choice.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Capabilities of Yandex Translate in Video Translation**
 
@@ -881,10 +893,6 @@ Click the “**Actions...**” button on the text editor and select “**Remove 
 
 ![descript more features](https://images.wondershare.com/virbo/article/2024/03/convert-video-voice-to-text-05.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 5:** Once you’re happy with the transcript, you can export it in various formats. Go to **File** in the top navigation pane and select **Export**.
 
 ![export text transcription](https://images.wondershare.com/virbo/article/2024/03/convert-video-voice-to-text-06.jpg)
@@ -975,14 +983,10 @@ Advanced Settings (Optional):
 ![translated text from video subtitle](https://images.wondershare.com/virbo/article/2024/03/convert-video-voice-to-text-16.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 5:** Click **Translate video** to add the translated text or subtitle to your original video. After processing is complete, Virbo will provide you with a preview of the translated video with subtitles (if enabled). If you’re satisfied with the results, click the **Download** icon to save the translated video with subtitles to your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4. Troubleshooting Issues When Converting Video Voice to Text
 
@@ -1172,10 +1176,6 @@ Consider the presence of an active community or support network associated with 
 
 Evaluate the cost and pricing model of the lip sync app to determine its affordability and value proposition. Some apps may offer free basic versions with limited features, while others may require a one-time purchase or subscription for access to premium features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### ● **Reviews and Ratings**
 
 Before finalizing your choice, take the time to research user reviews and ratings of the lip sync app. User feedback provides valuable insights into the app's performance, reliability, and overall user satisfaction. Pay attention to both positive and negative reviews to understand the app's strengths, weaknesses, and potential areas for improvement.
@@ -1245,6 +1245,10 @@ Virbo offers premium features. Check out the table provided below for more infor
 
 <table><tbody><tr><td><strong>Monthly Plan</strong></td><td><strong>Yearly Plan (Essential)</strong></td><td><strong>Yearly Plan (Pro)</strong></td><td><strong>For Team</strong></td><td><strong>For Business</strong></td></tr><tr><td>$9.9</td><td>$19.9</td><td>$199</td><td>Starts at $499</td><td>Custom Pricing</td></tr></tbody></table>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Synthesia AI
 
 [<u>Synthesia</u>](https://www.synthesia.io/) transforms personalized e-learning through custom avatars, rapid video creation, and an intuitive interface, including a powerful lip-sync feature. It removes skill and cost barriers associated with voice acting and videography for talking-head training videos.
@@ -1306,10 +1310,6 @@ FlexClip offers premium features. Check out the table provided below for more in
 
 ![lip sync app rask ai](https://images.wondershare.com/virbo/article/2024/03/lip-sync-app-for-video-creation-07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### <u>Key Features</u>
 
 - Supports translation into over 130 languages, facilitating global reach and audience engagement.
@@ -1331,6 +1331,10 @@ Rask AI is accessible via the web.
 Rask AI offers premium features. Check out the table provided below for more information
 
 <table><tbody><tr><td><strong>Basic</strong></td><td><strong>Pro</strong></td><td><strong>Business</strong></td><td><strong>Enterprise</strong></td></tr><tr><td>$60 per month</td><td>$140 per month</td><td>$560 per month</td><td>Custom Pricing</td></tr></tbody></table>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Powtoon
 
@@ -1387,10 +1391,6 @@ Synthesys offers premium features. Check out the table below for more informatio
 
 <table><tbody><tr><td><strong>Free</strong></td><td><strong>Creator</strong></td><td><strong>Business</strong></td></tr><tr><td>$0</td><td>$41 per month</td><td>$69 per month</td></tr></tbody></table>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Conclusion**
 
 Lip sync apps revolutionize video content creation and offer users dynamic tools to synchronize audio with visual elements seamlessly. These apps empower creators to produce engaging content with precise lip movements, enhancing viewer immersion and entertainment value. Nowadays, **lip sync apps** play a pivotal role in elevating video content quality and audience engagement.
@@ -1407,16 +1407,24 @@ Wondershare Virbo introduces its Video Translate feature, an innovative tool des
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-vr-innovation-showcase-latest-upgrades-for-2024/"><u>[New] VR Innovation Showcase - Latest Upgrades for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-elevate-your-content-with-the-best-free-video-translator-apps/"><u>2024 Approved Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-harmonizing-scores-with-cinematic-vision-in-film-trailers/"><u>2024 Approved Harmonizing Scores with Cinematic Vision in Film Trailers</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-the-best-ai-translator-to-translate-videos-online/"><u>2024 Approved The Best AI Translator to Translate Videos Online</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-sending-voice-notes-on-your-iphone-effortlessly/"><u>Guide: Sending Voice Notes on Your iPhone Effortlessly</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-elevating-your-youtube-profile-with-high-impact-artwork-guide/"><u>In 2024, Elevating Your YouTube Profile with High-Impact Artwork Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-14-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-top-9-choices-for-video-auto-translate-for-2024/"><u>New Top 9 Choices for Video Auto Translate for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/sticker-perfection-ranking-the-top-10-apps-for-ios-and-android-photos/"><u>Sticker Perfection Ranking the Top 10 Apps for iOS and Android Photos</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-step-by-step-guide-how-to-translate-twitter-video-easily-for-2024/"><u>Updated Step-by-Step Guide How to Translate Twitter Video Easily for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-mastering-story-remix-windows-10-photos-for-video-editing/"><u>[New] 2024 Approved Mastering Story Remix Windows 10 Photos for Video Editing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-your-way-the-insider-guide-to-youtube-video-management-hub-for-2024/"><u>[Updated] Find Your Way The Insider Guide to YouTube Video Management Hub for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-top-screen-capture-tools-explored-apowersoft-and-others-compared/"><u>[Updated] In 2024, Top Screen Capture Tools Explored - Apowersoft and Others Compared</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-essential-tips-for-incorporating-dynamic-cards-in-youtube-videos/"><u>2024 Approved Essential Tips for Incorporating Dynamic Cards in YouTube Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-cutting-edge-technology-tips-from-toms-hardware-guides/"><u>Discover Cutting-Edge Technology Tips From Tom's Hardware Guides</u></a></li>
+<li><a href="https://fox-links.techidaily.com/dji-drones-entry-plus-and-4k-visionaries/"><u>DJI Drones Entry, Plus, and 4K Visionaries</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/easy-steps-to-translate-video-on-twitter-for-2024/"><u>Easy Steps to Translate Video on Twitter for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/frugal-hardware-efficient-obs-arrangements-for-2024/"><u>Frugal Hardware Efficient OBS Arrangements for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>In 2024, Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-5-best-apps-for-voice-translation-from-english-to-bangla/"><u>New 2024 Approved 5 Best Apps for Voice Translation From English to Bangla</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-how-to-translate-youtube-videos-to-english-subtitles/"><u>New 2024 Approved How to Translate YouTube Videos to English Subtitles</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-maximizing-yandex-translate-in-video-translation-and-beyond/"><u>New In 2024, Maximizing Yandex Translate in Video Translation and Beyond</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-netflix-subtitle-translation-methods-comprehensive-guide-for-2024/"><u>New Netflix Subtitle Translation Methods Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/optimize-video-clarity-and-quality-using-winxvideo-ai-technology/"><u>Optimize Video Clarity and Quality Using Winxvideo AI Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-chatgpt-access-a-users-guide/"><u>Streamlining ChatGPT Access: A User's Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-guide-to-fast-and-simple-download-and-setup-of-epson-et-4550-printer-driver-on-your-pc/"><u>Ultimate Guide to Fast & Simple Download and Setup of Epson ET-4550 Printer Driver on Your PC</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-top-7-online-auto-subtitle-translators-for-content-creators/"><u>Updated 2024 Approved Top 7 Online Auto Subtitle Translators for Content Creators</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-the-best-ai-translator-to-translate-videos-online/"><u>Updated In 2024, The Best AI Translator to Translate Videos Online</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-top-9-choices-for-video-auto-translate/"><u>Updated Top 9 Choices for Video Auto Translate</u></a></li>
 </ul></div>
 

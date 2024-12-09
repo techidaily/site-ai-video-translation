@@ -1,7 +1,7 @@
 ---
 title: GeekOm Unveils New AX8 Mini PC Featuring Latest Intel 13Th Gen & AMD Ryzen 8000 Processor Compatibility
-date: 2024-12-01T00:20:04.018Z
-updated: 2024-12-01T19:07:40.662Z
+date: 2024-12-05T18:58:16.586Z
+updated: 2024-12-09T19:04:33.803Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,17 +89,19 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-proven-techniques-to-swarm-thousands-of-videos-from-tiktok/"><u>2024 Approved Proven Techniques to Swarm Thousands of Videos From TikTok</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-picks-the-superior-wi-fi-signal-enhancers-of-the-year-2024/"><u>Expert Picks: The Superior Wi-Fi Signal Enhancers of the Year 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/head-to-head-tech-analysis-google-pixel-tablet-vs-apple-ipad-detailed-specs-compared/"><u>Head-to-Head Tech Analysis: Google Pixel Tablet Vs. Apple iPad – Detailed Specs Compared</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/messenger-off-the-grid-how-to-enjoy-messaging-without-a-facebook-presence/"><u>Messenger Off the Grid: How to Enjoy Messaging without a Facebook Presence</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-complete-guide-of-top-video-language-translators/"><u>New 2024 Approved Complete Guide of Top Video Language Translators</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tailor-made-visuals-transforming-your-windows-11-experience-with-personalized-themes/"><u>Tailor-Made Visuals: Transforming Your Windows 11 Experience with Personalized Themes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-meizu-21-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Meizu 21 Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unmasking-auto-gpt-divergence-from-chatgpt-analysis/"><u>Unmasking Auto-GPT: Divergence From ChatGPT Analysis</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-best-toolbox-to-translate-youtube-videos-to-english-subtitles/"><u>Updated 2024 Approved Best Toolbox to Translate YouTube Videos to English Subtitles</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-translate-live-video-making-it-possible-with-the-best-tool/"><u>Updated 2024 Approved Translate Live Video Making It Possible With The Best Tool</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-best-10-chinese-video-to-english-translator-for-2024/"><u>Updated Best 10 Chinese Video to English Translator for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-top-7-online-auto-subtitle-translators-for-content-creators/"><u>Updated Top 7 Online Auto Subtitle Translators for Content Creators</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-15-funny-jokes-on-tiktok-for-giggles/"><u>[Updated] 15 Funny Jokes on TikTok for Giggles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-google-meet-easy-backdrop-swap-for-pc-and-phones-for-2024/"><u>[Updated] Mastering Google Meet Easy Backdrop Swap for PC & Phones for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-step-by-step-achieving-expert-colors-for-images-for-2024/"><u>[Updated] Step-by-Step Achieving Expert Colors for Images for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-best-android-photos-tactics/"><u>[Updated] Unveiling Best Android Photos Tactics</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/advanced-computer-solutions-decoded-by-experts-at-toms-hardware/"><u>Advanced Computer Solutions Decoded by Experts at Tom's Hardware</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/elevate-your-ai-projects-gigabytes-exclusive-software-suite-for-local-training-supports-powerful-motherboards-and-graphics-cards/"><u>Elevate Your AI Projects – Gigabyte's Exclusive Software Suite for Local Training Supports Powerful Motherboards & Graphics Cards</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/exploring-technology-with-toms-hardware-review-site/"><u>Exploring Technology with Tom's Hardware Review Site</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-apple-iphone-6-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your Apple iPhone 6 Plus Apple ID and Apple Pay</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/must-have-apple-savings-during-amazons-prime-event/"><u>Must-Have Apple Savings During Amazon's Prime Event</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974496240-secure-and-quick-download-of-hp-designjet-500-drivers-start-printing-today/"><u>Secure and Quick Download of HP DesignJet 500 Drivers - Start Printing Today!</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/the-cutting-edge-technology-showcase-by-toms-digital-realm/"><u>The Cutting-Edge Technology Showcase by Tom's Digital Realm</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/toms-tech-hub-exploring-latest-computer-hardware-trends/"><u>Tom's Tech Hub: Exploring Latest Computer Hardware Trends</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/two-methods-for-creating-a-local-backup-of-your-files-on-google-drive/"><u>Two Methods for Creating a Local Backup of Your Files on Google Drive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-potential-in-windows-via-alomware-features/"><u>Unlock Potential in Windows via AlomWare Features</u></a></li>
 </ul></div>
 
