@@ -1,7 +1,7 @@
 ---
 title: Discover the Power of NUC-Like AMD Ryzen Mini PC with a Stunning 4K Touchscreen, Impressive Ryzen 9 6900HX CPU, and Ultra Fast Storage
-date: 2024-12-07T17:19:25.810Z
-updated: 2024-12-09T16:38:35.963Z
+date: 2024-12-12T17:01:36.669Z
+updated: 2024-12-15T16:23:06.087Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,17 +89,20 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-5-ways-to-fix-obs-black-screen-game-capture-for-2024/"><u>[New] 5 Ways to Fix OBS Black Screen Game Capture for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exceptional-value-premium-asmr-microphones-at-low-costs/"><u>[New] Exceptional Value Premium ASMR Microphones at Low Costs</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-online-broadcast-battle-facebook-vs-youtube-and-twitspaces/"><u>[New] In 2024, Online Broadcast Battle FACEbook Vs. YOUTube & TWITSpaces</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-strategies-to-leverage-youtubes-cc-licensing/"><u>[New] Strategies to Leverage YouTube's CC Licensing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-getting-started-with-azures-speech-to-text-feature/"><u>2024 Approved Getting Started with Azure's Speech-to-Text Feature</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-online-photo-editing-tools-to-unblur-photos-effectively/"><u>2024 Approved Top 10 Online Photo Editing Tools to Unblur Photos Effectively</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-voice-translation-english-to-bangla-online-and-offline-apps/"><u>2024 Approved Voice Translation English to Bangla Online and Offline Apps</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-convert-video-voice-to-text-online-for-free-fast-and-easy-ways/"><u>In 2024, Convert Video Voice to Text Online for Free Fast and Easy Ways</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mobile-studio-kits-convenient-for-filmmakers/"><u>In 2024, Mobile Studio Kits Convenient for Filmmakers</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-best-video-translator-app-for-pc-you-cannot-miss/"><u>New 2024 Approved Best Video Translator App for PC You Cannot Miss</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/step-by-step-guide-how-to-translate-twitter-video-easily-for-2024/"><u>Step-by-Step Guide How to Translate Twitter Video Easily for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rowth-hacking-for-youtube-stars-maximizing-fans-for-2024/"><u>[New] Growth Hacking for YouTube Stars Maximizing Fans for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-effortlessly-track-beats-with-our-speedy-free-analysis-software/"><u>[Updated] In 2024, Effortlessly Track Beats with Our Speedy, Free Analysis Software</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-how-to-use-korean-to-english-video-translators-for-creators/"><u>2024 Approved How To Use Korean to English Video Translators for Creators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dialogic-tools-for-mythmaking-gpts-promise/"><u>Dialogic Tools for Mythmaking: GPT's Promise</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-overcoming-the-challenge-of-non-detectable-bluetooth-gadgets-on-windows-11/"><u>Expert Advice: Overcoming the Challenge of Non-Detectable Bluetooth Gadgets on Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oneplus-nord-ce-3-lite-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change OnePlus Nord CE 3 Lite 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-mini-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 mini To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leveraging-cookiebot-technology-for-better-analytics/"><u>Leveraging Cookiebot Technology for Better Analytics</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-how-to-easily-use-korean-to-english-video-translators-for-2024/"><u>New How To Easily Use Korean to English Video Translators for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/translate-any-hindi-video-into-english-with-ai/"><u>Translate Any Hindi Video Into English With AI</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-use-korean-to-english-video-translators-for-creators-for-2024/"><u>Updated How To Use Korean to English Video Translators for Creators for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-maximizing-yandex-translate-in-video-translation-and-beyond/"><u>Updated Maximizing Yandex Translate in Video Translation and Beyond</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-top-10-free-video-translators-to-mitigate-translation-risks/"><u>Updated Top 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
 </ul></div>
 

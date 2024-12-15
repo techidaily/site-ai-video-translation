@@ -1,7 +1,7 @@
 ---
 title: Asus Makes History with the First-Ever ROG NUC - Combines Cutting-Edge Core Ultra 9 and Stunning RTX 4070 Graphics at an Unbeatable Starting Price of $1,629
-date: 2024-12-04T17:40:26.623Z
-updated: 2024-12-09T18:51:31.011Z
+date: 2024-12-10T21:53:54.901Z
+updated: 2024-12-15T18:24:10.286Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ These are the specifications of the two Asus ROG NUC models:
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,16 +68,18 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-androidiphones-finest-top-10-cost-effective-image-enhancers-ranked/"><u>[Updated] Android/iPhone's Finest – Top 10 Cost-Effective Image Enhancers Ranked</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-master-the-art-complete-vsco-editor-breakdown/"><u>[Updated] Master the Art Complete VSCO Editor Breakdown</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/9-best-french-video-translators-online-and-download-options/"><u>9 Best French Video Translators Online and Download Options</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation/"><u>An Exhaustive List of Lip Sync Apps for Vibrant Video Creation</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/guida-rapida-alla-conversione-dei-file-video-da-m4v-a-mp4-e-piu-formati-con-movavi/"><u>Guida Rapida Alla Conversione Dei File Video: Da M4V a MP4 E Più Formati Con Movavi</u></a></li>
-<li><a href="https://extra-information.techidaily.com/loopers-toolkit/"><u>Looper's Toolkit</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/navigating-the-world-of-videomosaic-androids-8-freepaid-selection-for-2024/"><u>Navigating the World of Videomosaic Android's #8-Free/Paid Selection for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-maximizing-yandex-translate-in-video-translation-and-beyond-for-2024/"><u>New Maximizing Yandex Translate in Video Translation and Beyond for 2024</u></a></li>
-<li><a href="https://win-special.techidaily.com/preventative-measures-safeguarding-your-cpu-against-breakdown-insights-from-yl-computing-experts/"><u>Preventative Measures: Safeguarding Your CPU Against Breakdown - Insights From YL Computing Experts</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-translate-video-from-japanese-to-english-online-for-free/"><u>Updated Translate Video From Japanese to English Online for Free</u></a></li>
-<li><a href="https://fox-place.techidaily.com/web-based-translation-solutions-adding-captions-to-videos-for-universal-comprehension/"><u>Web-Based Translation Solutions: Adding Captions to Videos for Universal Comprehension</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-sea-of-thieves-crashing-issue/"><u>[Solved] Sea of Thieves Crashing Issue</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-fast-techniques-to-restructure-your-youtube-sequence-for-2024/"><u>[Updated] Fast Techniques to Restructure Your YouTube Sequence for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-premier-top-youtube-views-monitor-for-content-success/"><u>[Updated] Premier Top YouTube Views Monitor for Content Success</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-food-filmmakers-blueprint-techniques-and-tricks/"><u>2024 Approved The Food Filmmaker’s Blueprint Techniques and Tricks</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/all-about-kapwing-video-translation-for-2024/"><u>All About Kapwing Video Translation for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/convert-video-voice-to-text-online-for-free-fast-and-easy-ways-for-2024/"><u>Convert Video Voice to Text Online for Free Fast and Easy Ways for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/download-free-shawn-mendes-backgrounds-by-yl-computing-exclusive-wallpaper-collection/"><u>Download Free Shawn Mendes Backgrounds by YL Computing: Exclusive Wallpaper Collection</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-translate-video-from-english-to-arabic-with-ease/"><u>In 2024, Translate Video From English to Arabic with Ease</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reconnect-your-apple-device-a-guide-to-overcoming-iphone-and-ipad-wi-fi-problems-8-fixes/"><u>Reconnect Your Apple Device: A Guide to Overcoming iPhone and iPad Wi-Fi Problems (8 Fixes)</u></a></li>
+<li><a href="https://win11.techidaily.com/tomorrows-windows-embracing-ai-dominance/"><u>Tomorrow's Windows: Embracing AI Dominance</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa-in-2024/"><u>Updated How to Translate Audio/Video Content From Spanish to English and Vice Versa, In 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-translate-videos-with-subtitle-cat-your-essential-guide/"><u>Updated In 2024, Translate Videos with Subtitle Cat Your Essential Guide</u></a></li>
 </ul></div>
 

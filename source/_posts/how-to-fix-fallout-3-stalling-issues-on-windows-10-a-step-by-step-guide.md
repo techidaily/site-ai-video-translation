@@ -1,7 +1,7 @@
 ---
 title: How to Fix Fallout 3 Stalling Issues on Windows 10 - A Step-by-Step Guide
-date: 2024-12-08T16:26:51.094Z
-updated: 2024-12-09T18:20:21.298Z
+date: 2024-12-14T17:10:03.938Z
+updated: 2024-12-15T16:20:40.513Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
  Here are a few methods that can help you get rid of this freezing issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these methods
@@ -32,6 +32,10 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 4. **[Update your graphics card drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Fallout 3](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Play in Windowed mode
 
  Sometimes, game freezing issue can be easily solved by changing the game’s display options. Play the game in Windowed mode when you meet freezes. This method can let you play without freezes for hours.
@@ -41,21 +45,21 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option.jpg)
 3. Tick the **Windowed** box under Mode.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windowed.jpg)
 4. Relaunch the game and check whether it will freeze or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If using dual monitors, disable your second one from your**Windows display settings** .  
  Ensure that the resolution of the game matches that of your display monitors.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Edit your configuration file
 
@@ -69,21 +73,17 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/default.jpg)
 4. Change the**bUseThreadedAI=0** into**bUseThreadedAI=1** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1.jpg)
 5. Add**iNumHWThreads=2** beneath it, then Save the change.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/folder.gif)
 6. Relaunch the game and check whether it solves the problem.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Method 3: Change**compatibility** and run Fallout 3 as administrator
 
@@ -93,6 +93,10 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 2. In the LOCAL FILES tab, click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Right-click on Fallout 3.exe and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
@@ -139,10 +143,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -173,24 +173,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-laying-the-foundation-of-zoom-room-use/"><u>[New] Laying the Foundation of Zoom Room Use</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-unleashing-the-power-of-whiteboards-on-zoom-platforms-across-multiple-devices/"><u>[Updated] Unleashing the Power of Whiteboards on Zoom Platforms Across Multiple Devices</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-strategic-use-of-youtube-cards-and-markup/"><u>2024 Approved Strategic Use of YouTube Cards & Markup</u></a></li>
-<li><a href="https://win-able.techidaily.com/cyberpunk-2077-update-2024-bug-exposed-solutions-inside/"><u>Cyberpunk 2077 Update 2024 Bug Exposed - Solutions Inside</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/facebook-spotlight-todays-1-10-music-vids/"><u>Facebook Spotlight Today’s #1-#10 Music Vids</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-se-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone SE</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-youtube-videos-without-cc/"><u>How to Translate YouTube Videos Without CC</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-a-complete-guide-of-top-7-video-language-translators/"><u>In 2024, A Complete Guide of Top 7 Video Language Translators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-comprehensive-guide-for-free-video-translator-downloading/"><u>In 2024, Comprehensive Guide for Free Video Translator Downloading</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-uncomplicated-techniques-reverse-playback-in-vlc-media-player/"><u>In 2024, Uncomplicated Techniques Reverse Playback in VLC Media Player</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-use-korean-to-english-video-translators-for-creators/"><u>New How To Use Korean to English Video Translators for Creators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-must-have-apps-for-real-time-video-translation-for-2024/"><u>New Must-Have Apps for Real-Time Video Translation for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-combat-license-ends-soon-alert-on-windows-11/"><u>Strategies to Combat License Ends Soon Alert on Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/swiftpodcasts-guide-for-iphone-users-download-made-simple-for-2024/"><u>SwiftPodcasts Guide for iPhone Users - Download Made Simple for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-translate-video-from-english-to-arabic-with-ease/"><u>Updated 2024 Approved Translate Video From English to Arabic with Ease</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-all-about-kapwing-video-translation/"><u>Updated All About Kapwing Video Translation</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-easily-use-korean-to-english-video-translators/"><u>Updated How To Easily Use Korean to English Video Translators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-translate-instagram-videos-easily-a-step-by-step-guide/"><u>Updated In 2024, Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-repeat-and-replay-10-best-free-online-video-loopers/"><u>Updated Repeat and Replay 10 Best Free Online Video Loopers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-natures-canvas-your-ultimate-guide-to-free-screen-template-downloads/"><u>[New] 2024 Approved Nature's Canvas Your Ultimate Guide to Free Screen Template Downloads</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-unmentioned-free-speech-to-text-tools-for-mac-users/"><u>[New] Best Unmentioned Free Speech to Text Tools for Mac Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-essential-guide-mac-screen-recording-techniques/"><u>[New] In 2024, Essential Guide Mac Screen Recording Techniques</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/bring-your-vision-to-life-youtube-trailers-using-filmoras-magic-for-2024/"><u>Bring Your Vision to Life YouTube Trailers Using Filmora's Magic for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/comprehensive-hardware-guides-by-tom-find-your-perfect-match/"><u>Comprehensive Hardware Guides by Tom - Find Your Perfect Match</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/elevate-your-mini-pc-experience-with-asus-nuc-14-boasting-core-i9-and-rtx-graphics-for-enthusiasts/"><u>Elevate Your Mini-PC Experience with Asus NUC #14, Boasting Core I9 & RTX Graphics for Enthusiasts</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/introducing-the-all-in-one-tech-marvel-full-amd-ryzen-pc-and-convenient-foldable-keyboard-including-trackpad-simply-requires-a-monitor-for-completion/"><u>Introducing The All-In-One Tech Marvel: Full AMD Ryzen PC and Convenient Foldable Keyboard Including Trackpad, Simply Requires a Monitor for Completion</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/squadrons-the-next-chapter-of-star-wars-gaming-in-depth-combat-experience-breakdown-and-critique/"><u>Squadrons: The Next Chapter of Star Wars Gaming - In-Depth Combat Experience Breakdown & Critique</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/strategic-maneuvering-lenovo-deploys-loongson-cpus-to-bolster-cloud-servers-and-counteract-us-sanctions/"><u>Strategic Maneuvering: Lenovo Deploys Loongson CPUs to Bolster Cloud Servers and Counteract U.S. Sanctions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-your-graphic-design-workflow-using-canva-plus-chatgpt/"><u>Streamline Your Graphic Design Workflow Using Canva + ChatGPT</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-asus-rog-phone-7-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Asus ROG Phone 7 for Parents | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/top-reviews-for-your-next-adventure-delving-into-minecraft-campfire-tales-bundle/"><u>Top Reviews for Your Next Adventure - Delving Into Minecraft Campfire Tales Bundle</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transform-videos-for-free-with-movavi-convert-mkv-to-mov-in-just-one-click/"><u>Transform Videos for Free with Movavi: Convert MKV to MOV in Just One Click</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Chocolate Becomes Chocolates
-date: 2024-12-08T16:08:15.953Z
-updated: 2024-12-09T16:37:43.506Z
+date: 2024-12-10T21:35:08.049Z
+updated: 2024-12-15T20:40:05.976Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reboot your network
 
  When CS: GO lags, the first thing you should check is your network connection. If there’s something wrong with your network, CS: GO will definitely keep stuttering.
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
  1)**Unplug** your modem (and your wireless router, if it’s a separate device) from power for **60 seconds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap701.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _modem_
 
@@ -76,9 +84,17 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000027.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000028.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -98,6 +114,10 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap401.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) View Control Panel by **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap405.jpg)
@@ -116,9 +136,17 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap401-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) View Control Panel by **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap405-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Select your**AMD Radeon Settings** to open it.
 
@@ -126,15 +154,15 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap419.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### If you’re using Intel graphics card
 
  1) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap401-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) View the Control Panel by **Large icons** .
 
@@ -152,17 +180,9 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap423-1024x768.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6) Modify the settings the same way you see on the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap424.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Click**Apply** to save the settings.
 
@@ -182,17 +202,9 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000031.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) If CS: GO still lags, try playing the game in**windowed mode** and **lowering the resolution** of your **CS: GO** . And make sure you **DISABLED** **Laptop Power Savings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000032.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch CS: GO and check you fixed this issue. If this issue persists, try the next fix, below.
 
@@ -208,6 +220,10 @@ _wireless router_
 
  Run CS: GO again to see if you can play the game smoothly. It CS: GO still lags, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Change the power plan of your PC
 
  If the power plan of your PC is **Power saver**  or **Balanced** , you might run into games lag issue. Most PC are configured to **Balanced** , which may limits the operating capacity of your graphics card and CPU. To fix the game lag issue, try changing the power plan of your PC to **High performance** . Here is how to do it:
@@ -222,10 +238,6 @@ _wireless router_
 
  Run CS: GO to see if you resolve this issue . If not, try the next fix below to adjust your Windows system for the best performance.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Adjust your Windows system for the best performance
 
  If your PC fails to meet the recommended system requirements for CS: GO, try adjusting your Windows system for the best performance. Here is how to do it:
@@ -234,10 +246,6 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap931.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In Control panel, type**advanced** in the search bar on the upper-right corner. Then click **View advanced system settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap932.png)
@@ -245,10 +253,6 @@ _wireless router_
  3) In the pop-up window, click**Settings…**  in the **Performance**  section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap934.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Select**Adjust for best performance**  and click **OK** .
 
@@ -266,21 +270,17 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap413.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the pop-up window, navigate to the**Boot** tab and click **Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap414-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check the box in front of**Number of processors** and choose a **maximum** number of processors. Then click **OK** to save the settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap416.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) In the**System Configuration**  window, click **OK** .
 
@@ -310,22 +310,18 @@ Launch CS: GO to see if you resolved the game lag issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-step-by-step-creating-timelapse-videos-with-ipad/"><u>[New] 2024 Approved Step-by-Step Creating Timelapse Videos with iPad</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-8-best-wedding-videos-on-youtube-and-vimeo-for-2024/"><u>[New] 8 Best Wedding Videos on YouTube and Vimeo for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-mastering-srt-to-txt-translation-the-fastest-guide/"><u>[New] Mastering SRT to TXT Translation - The Fastest Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-elite-women-gaming-leaders-top-10-on-yt-for-2024/"><u>[Updated] Elite Women Gaming Leaders Top 10 On YT for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-ancient-roguelike-tactics-vs-innovative-approaches/"><u>2024 Approved Ancient Roguelike Tactics Vs. Innovative Approaches</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-step-by-step-guide-how-to-translate-tiktok-videos/"><u>2024 Approved Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/a-complete-guide-of-top-7-video-language-translators-for-2024/"><u>A Complete Guide of Top 7 Video Language Translators for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gaming-harmonies-archive-legal-free-to-access-for-2024/"><u>Gaming Harmonies Archive Legal, Free to Access for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-how-to-use-korean-to-english-video-translators-for-creators/"><u>In 2024, How To Use Korean to English Video Translators for Creators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-ultimate-guide-to-translating-youtube-videos-without-cc/"><u>New 2024 Approved Ultimate Guide to Translating YouTube Videos Without CC</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-everything-you-want-to-know-about-kapwing-video-translation/"><u>New Everything You Want To Know About Kapwing Video Translation</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-video-from-japanese-to-english-online-for-2024/"><u>New How To Translate Video From Japanese to English Online for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-step-by-step-guide-how-to-translate-twitter-video-easily/"><u>New In 2024, Step-by-Step Guide How to Translate Twitter Video Easily</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-microsoft-sculpt-keyboard-driver-installation-instructions/"><u>Seamless Microsoft Sculpt Keyboard Driver Installation Instructions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125254753-the-ultimate-guide-to-the-top-laptop-picks-for-college-students-perfect-for-work-creativity-entertainment-etc/"><u>The Ultimate Guide to the Top Laptop Picks for College Students: Perfect for Work, Creativity, Entertainment, Etc</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-best-10-free-video-translators-to-mitigate-translation-risks/"><u>Updated Best 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/yl-software-explores-who-was-chinas-ultimate-monarch-and-when-did-his-reign-end-understanding-the-collapse/"><u>YL Software Explores: Who Was China's Ultimate Monarch and When Did His Reign End? Understanding the Collapse</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-boosting-bank-balance-crafting-commercial-video-content/"><u>[New] 2024 Approved Boosting Bank Balance Crafting Commercial Video Content</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-mastering-quick-youtube-comment-removal-techniques/"><u>[New] 2024 Approved Mastering Quick YouTube Comment Removal Techniques</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-samsung-galaxy-s23-tactical-edition-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Samsung Galaxy S23 Tactical Edition Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fresh-aesthetics-prime-laptop-wallpapers-online/"><u>In 2024, Fresh Aesthetics Prime Laptop Wallpapers Online</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-photo-savvy-with-an-iphone-ideal-perspectives-uncovered/"><u>In 2024, Photo Savvy with an iPhone Ideal Perspectives Uncovered</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-shooting-for-greatness-iphones-10-vital-composition-guidelines/"><u>In 2024, Shooting for Greatness IPhone's 10 Vital Composition Guidelines</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-infinix-note-30-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Infinix Note 30 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-top-10-free-video-translators-to-mitigate-translation-risks/"><u>New 2024 Approved Top 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-voice-translation-english-to-bangla-online-and-offline-apps/"><u>New Voice Translation English to Bangla Online and Offline Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-ai-generated-content-who-holds-the-intellectual-property-rights/"><u>Understanding AI-Generated Content: Who Holds the Intellectual Property Rights?</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-must-have-apps-for-real-time-video-translation/"><u>Updated 2024 Approved Must-Have Apps for Real-Time Video Translation</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-must-have-apps-for-real-time-video-translation-for-2024/"><u>Updated Must-Have Apps for Real-Time Video Translation for 2024</u></a></li>
 </ul></div>
 
