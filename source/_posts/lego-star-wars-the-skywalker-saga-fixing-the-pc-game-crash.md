@@ -1,7 +1,7 @@
 ---
 title: "Lego Star Wars: The Skywalker Saga - Fixing the PC Game Crash"
-date: 2024-12-09T20:02:18.614Z
-updated: 2024-12-15T17:58:49.487Z
+date: 2024-12-21T18:33:34.531Z
+updated: 2024-12-24T17:52:46.813Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 Game crashing issues can be frustrating, especially when you’re immersed in an exciting gaming session. Though the reasons behind this may vary for different players, such as driver issues, software conflicts, outdated game versions, low RAM, etc., here are some fixes that may help you minimize or even eliminate game crashes on your PC.
 
  In this article, we will discuss seven methods to fix World of Tanks Blitz crashing issues…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -54,9 +50,17 @@ Game crashing issues can be frustrating, especially when you’re immersed in an
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_11-51-18-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_11-48-40.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
@@ -74,9 +78,17 @@ _WoT Blitz_ doesn’t have full access to game files and folders on your compute
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_11-59-37.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_11-59-45.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Relaunch Steam and_WoT Blitz_ to test your issue.
 
@@ -95,13 +107,13 @@ _WoT Blitz_ doesn’t have full access to game files and folders on your compute
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-03-21.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-03-25-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
@@ -118,7 +130,7 @@ _WoT Blitz_ doesn’t have full access to game files and folders on your compute
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-07-19.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
@@ -172,16 +184,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-12-49.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5:**Set your PC’s power plan to High performance**
 
@@ -194,6 +202,10 @@ OR
 **2)** Type **powercfg.cpl** into the box and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-16-35.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Select the **High performance** option.
 
@@ -234,16 +246,12 @@ If the problem persists, check the fix 7, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-25-26.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Under **View by** , select **Category** . Then, click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-26-57.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Right-click _World of Tanks Blitz_ , then click **Uninstall** .
@@ -260,10 +268,6 @@ You should be able to play the game now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-28-53.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click**WoT Blitz** and click **More > App settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-29-01.jpg)
@@ -273,16 +277,12 @@ You should be able to play the game now.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-29-05.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-29-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Relaunch_WoT Blitz_ after the process is complete.
 
@@ -309,21 +309,20 @@ You should be able to play the game now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-best-mac-mp4-cutter-apps-enhance-video-editing/"><u>[Updated] In 2024, Best Mac MP4 Cutter Apps Enhance Video Editing</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-evaluating-costs-for-youtube-ad-campaigns/"><u>[Updated] In 2024, Evaluating Costs for YouTube Ad Campaigns</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-ultimate-ears-everboom-assessment-exceptional-audio-quality-and-impressive-functionalities/"><u>Comprehensive Ultimate Ears Everboom Assessment: Exceptional Audio Quality and Impressive Functionalities</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortless-screen-captures-learn-how-to-use-your-logitech-keyboard-for-perfect-images/"><u>Effortless Screen Captures: Learn How to Use Your Logitech Keyboard for Perfect Images</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/exploring-hardware-universe-through-toms-eyes/"><u>Exploring Hardware Universe Through Tom's Eyes</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/exploring-technology-with-toms-hardware-review-site/"><u>Exploring Technology with Tom's Hardware Review Site</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-apple-iphone-xr-look-no-further-drfone-by-drfone-virtual-ios/"><u>In 2024, Looking For A Location Changer On Apple iPhone XR? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-itel-p55t-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Itel P55T</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-ultimate-ninja-techniques-for-instagram-reels/"><u>In 2024, The Ultimate Ninja Techniques for Instagram Reels</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-unlocking-global-audiences-top-video-language-converters/"><u>In 2024, Unlocking Global Audiences Top Video Language Converters</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/must-have-apple-savings-during-amazons-prime-event/"><u>Must-Have Apple Savings During Amazon's Prime Event</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/navigating-through-technology-insights-with-tom-a-hardware-exploration/"><u>Navigating Through Technology Insights with Tom - A Hardware Exploration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-start-codegpt-with-visual-studio-code/"><u>Quick Start: CodeGPT with Visual Studio Code</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/stumble-upon-these-hidden-meme-page-treasures/"><u>Stumble Upon These Hidden Meme Page Treasures</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/the-cutting-edge-technology-showcase-by-toms-digital-realm/"><u>The Cutting-Edge Technology Showcase by Tom's Digital Realm</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/toms-tech-hub-exploring-latest-computer-hardware-trends/"><u>Tom's Tech Hub: Exploring Latest Computer Hardware Trends</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/diting-workshop-portal-for-2024/"><u>[New] Editing Workshop Portal for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-ignite-your-audience-top-10-igtv-trends-brands-cant-miss-for-2024/"><u>[New] Ignite Your Audience Top 10 IGTV Trends Brands Can't Miss for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-download-youtube-beats-on-android-the-ultimate-6-app-guide/"><u>[New] In 2024, Download YouTube Beats on Android The Ultimate 6-App Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-earning-potential-for-creators-in-youtube-ads-in-2024/"><u>[Updated] Earning Potential for Creators in YouTube Ads, In 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-reactivate-windows-photo-viewer-with-ease-win-11/"><u>[Updated] Reactivate Windows Photo Viewer with Ease (Win 11)</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>2024 Approved How To Translate Videos in Tamil for a Wider Reach</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-unlocking-global-audiences-top-video-language-converters/"><u>2024 Approved Unlocking Global Audiences Top Video Language Converters</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/5-best-chrome-extensions-you-can-use-to-translate-videos-for-2024/"><u>5 Best Chrome Extensions You Can Use to Translate Videos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-unparalleled-value-and-performance-in-our-top-pick-under-150-mini-pc-featuring-rich-port-selection-full-review-zdnet/"><u>Discover Unparalleled Value & Performance in Our Top-Pick Under-$150 Mini PC Featuring Rich Port Selection – Full Review | ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-on-iphone-x-5-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover deleted pictures on iPhone X? 5 Best Solutions | Stellar</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-turn-your-android-smartphone-into-a-webcam-for-pcs-running-windows-11/"><u>How to Turn Your Android Smartphone Into a Webcam for PCs Running Windows 11</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-best-tool-to-translate-youtube-video-to-arabic-for-2024/"><u>New Best Tool to Translate YouTube Video to Arabic for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-instagram-videos-for-global-engagement-for-2024/"><u>New How to Translate Instagram Videos for Global Engagement for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-how-to-easily-use-korean-to-english-video-translators/"><u>Updated 2024 Approved How To Easily Use Korean to English Video Translators</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upgrade-your-tech-habits-proper-grip-for-iphone-and-airpods-revealed/"><u>Upgrade Your Tech Habits: Proper Grip for iPhone and AirPods Revealed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Fallout 3 Stalling Issues on Windows 10 - A Step-by-Step Guide
-date: 2024-12-14T17:10:03.938Z
-updated: 2024-12-15T16:20:40.513Z
+date: 2024-12-22T16:05:04.808Z
+updated: 2024-12-24T16:09:22.716Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 Fallout 3 is an old but classic game. Although Fallout 3 can be installed and played on Windows 10 (read[this article](https://tools.techidaily.com/drivereasy/download/) to learn how), you may meet the freezing problem now and then at any random moment.  
  Here are a few methods that can help you get rid of this freezing issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these methods
 
  There’re 5 fixes that have helped many gamers solve their freezing problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,10 +27,6 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 3. **[Change compatibility and run Fallout 3 as administrator](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your graphics card drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Fallout 3](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Play in Windowed mode
 
@@ -46,15 +38,11 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 3. Tick the **Windowed** box under Mode.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windowed.jpg)
 4. Relaunch the game and check whether it will freeze or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** : If using dual monitors, disable your second one from your**Windows display settings** .  
  Ensure that the resolution of the game matches that of your display monitors.
@@ -76,11 +64,15 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1.jpg)
 5. Add**iNumHWThreads=2** beneath it, then Save the change.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/folder.gif)
 6. Relaunch the game and check whether it solves the problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -95,16 +87,24 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 3. Right-click on Fallout 3.exe and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Open the dropdown menu and choose **Windows XP (Service Pack 3)** .
 6. Tick **Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe1.jpg)
 7. Click**Apply** \>**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Run Fallout 3 to check whether the game is running properly.
 
@@ -173,18 +173,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-natures-canvas-your-ultimate-guide-to-free-screen-template-downloads/"><u>[New] 2024 Approved Nature's Canvas Your Ultimate Guide to Free Screen Template Downloads</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-best-unmentioned-free-speech-to-text-tools-for-mac-users/"><u>[New] Best Unmentioned Free Speech to Text Tools for Mac Users</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-essential-guide-mac-screen-recording-techniques/"><u>[New] In 2024, Essential Guide Mac Screen Recording Techniques</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/bring-your-vision-to-life-youtube-trailers-using-filmoras-magic-for-2024/"><u>Bring Your Vision to Life YouTube Trailers Using Filmora's Magic for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/comprehensive-hardware-guides-by-tom-find-your-perfect-match/"><u>Comprehensive Hardware Guides by Tom - Find Your Perfect Match</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/elevate-your-mini-pc-experience-with-asus-nuc-14-boasting-core-i9-and-rtx-graphics-for-enthusiasts/"><u>Elevate Your Mini-PC Experience with Asus NUC #14, Boasting Core I9 & RTX Graphics for Enthusiasts</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/introducing-the-all-in-one-tech-marvel-full-amd-ryzen-pc-and-convenient-foldable-keyboard-including-trackpad-simply-requires-a-monitor-for-completion/"><u>Introducing The All-In-One Tech Marvel: Full AMD Ryzen PC and Convenient Foldable Keyboard Including Trackpad, Simply Requires a Monitor for Completion</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/squadrons-the-next-chapter-of-star-wars-gaming-in-depth-combat-experience-breakdown-and-critique/"><u>Squadrons: The Next Chapter of Star Wars Gaming - In-Depth Combat Experience Breakdown & Critique</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/strategic-maneuvering-lenovo-deploys-loongson-cpus-to-bolster-cloud-servers-and-counteract-us-sanctions/"><u>Strategic Maneuvering: Lenovo Deploys Loongson CPUs to Bolster Cloud Servers and Counteract U.S. Sanctions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamline-your-graphic-design-workflow-using-canva-plus-chatgpt/"><u>Streamline Your Graphic Design Workflow Using Canva + ChatGPT</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-asus-rog-phone-7-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Asus ROG Phone 7 for Parents | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/top-reviews-for-your-next-adventure-delving-into-minecraft-campfire-tales-bundle/"><u>Top Reviews for Your Next Adventure - Delving Into Minecraft Campfire Tales Bundle</u></a></li>
-<li><a href="https://win-forum.techidaily.com/transform-videos-for-free-with-movavi-convert-mkv-to-mov-in-just-one-click/"><u>Transform Videos for Free with Movavi: Convert MKV to MOV in Just One Click</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-ace-facebooks-social-calendar-with-2023s-no-cost-resources/"><u>[New] 2024 Approved Ace Facebook's Social Calendar with 2023'S No-Cost Resources</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-complete-playbook-for-instagram-revenue-generation/"><u>2024 Approved The Complete Playbook for Instagram Revenue Generation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-key-variances-between-googles-bert-and-microsofts-gpt-models/"><u>Decoding the Key Variances Between Google's BERT and Microsoft's GPT Models</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-enhanced-gaming-free-logitech-g-pro-driver-installer-for-windows-pcs/"><u>Experience Enhanced Gaming: Free Logitech G Pro Driver Installer for Windows PCs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-updated-intel-iris-plus-graphics-driver-for-optimal-performance-in-windows-11/"><u>How to Get Updated Intel Iris Plus Graphics Driver for Optimal Performance in Windows 11</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-best-video-language-changers-to-make-your-videos-accessible/"><u>In 2024, Best Video Language Changers to Make Your Videos Accessible</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-the-best-translator-to-translate-videos-online/"><u>New 2024 Approved The Best Translator to Translate Videos Online</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/the-best-ai-translator-to-translate-videos-online-for-2024/"><u>The Best AI Translator to Translate Videos Online for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-data-hunting-with-top-tier-perplexity-ai/"><u>Transform Your Data Hunting with Top-Tier Perplexity AI</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-pick-the-10-leading-video-upgrade-solutions-for-stunning-visuals/"><u>Ultimate Pick: The 10 Leading Video Upgrade Solutions for Stunning Visuals</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-top-10-ai-subtitle-translators-for-content-creators/"><u>Updated Top 10 AI Subtitle Translators for Content Creators</u></a></li>
 </ul></div>
 

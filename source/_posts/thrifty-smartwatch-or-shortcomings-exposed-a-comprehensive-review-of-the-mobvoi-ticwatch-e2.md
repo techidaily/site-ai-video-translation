@@ -1,7 +1,7 @@
 ---
 title: Thrifty Smartwatch or Shortcomings Exposed? A Comprehensive Review of the Mobvoi TicWatch E2
-date: 2024-12-09T19:55:23.548Z
-updated: 2024-12-15T18:10:30.590Z
+date: 2024-12-20T18:34:28.938Z
+updated: 2024-12-24T19:17:22.191Z
 categories:
   - BestProducts
 description: This Article Describes Thrifty Smartwatch or Shortcomings Exposed? A Comprehensive Review of the Mobvoi TicWatch E2
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/SOwSLoX8KnFe1-pYnuKfflhGBCs=/400x300/fi
 ## Razer Book 13
 
 ![Razer Book 13](https://www.lifewire.com/thmb/VaOshLbjt_41gksIyYfg24DF6KM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Razer_Book13_HeroSquare-80401fcfbef94a1b8444cd0832388aac.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -43,10 +47,6 @@ Lifewire / Andy Zahn
 
 ![Razer Book 13](https://www.lifewire.com/thmb/0i6VvZqT39MNfVUbDSY7z3l8-Tw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Razer_Book13_HeroSquare-80401fcfbef94a1b8444cd0832388aac.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Andy Zahn
 
 [View On Amazon](https://www.amazon.com/dp/B08LP734G3/?tag=lifewire-onsite-prod-20&ascsubtag=5176895%7Cnf0e7737a413045878ab8a2384bc1f06617%7CB08LP734G3) [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2F6442337.p) [View On Adorama.com](https://www.adorama.com/rz0903571em2.html)
@@ -73,6 +73,10 @@ Lifewire / Andy Zahn
 
  An[ultrabook](https://www.lifewire.com/best-laptops-to-buy-4043650) is typically a thing of compromises, and if you want a laptop that’s thin and light, power is often sacrificed. However, the Razer Book 13 challenges that stereotype and offers a sleek and attractive alternative to other high-end[ultra-portables](https://www.lifewire.com/best-lightweight-laptops-to-buy-4065134) . I tested it for 40 hours to find if it can live up both to its stunning ultrabook looks and Razer’s prowess in building high-powered gaming laptops.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Design: Beauty in minimalism
 
  Razer is known for their flashy gaming-focused laptops, mice, and keyboards that are clearly marketed towards gamers, but they have always also employed a certain degree of restraint over some more exuberant gaming products. With the Book 13, that restraint is pushed even further with only a few tasteful reminders of the laptop’s gaming heritage—the twisted snaky Razer logo on the top, and of course RGB backlighting for the keyboard.
@@ -93,10 +97,6 @@ Lifewire / Andy Zahn
 
  There’s not a lot to say about setting up the Razer Book 13\. It’s just a standard install of Windows 10 Home with no surprises along the way so you can be up and running in just a few minutes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Display: Positively stunning
 
  The Razer Book 13 configuration we tested comes with an absolutely gorgeous 13.5-inch UHD 60Hz display that is both very color accurate and provides stunning visuals. This is great for both creative tasks that require color accuracy, and for media consumption. The 16:10 aspect ratio is definitely tailored for productivity. The bezel is attractively thin, and the screen is made of Gorilla Glass 6, making it highly scratch resistant.
@@ -104,10 +104,14 @@ Lifewire / Andy Zahn
 ![Razer Book 13](https://www.lifewire.com/thmb/C308jEtLYxnwMp68uF5Sd-2hjyA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Razer_Book13_02-4da7b450ac1c4b879f1b0bebfa9815b5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Performance: Lean and mean
 
@@ -121,6 +125,10 @@ Lifewire / Andy Zahn
 
  The Book 13 is equipped with a 512GB SSD. This is good enough, but it would have been nice to have a full terabyte of storage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Software: No bloat
 
  I’m pleased to report that the Book 13 is pretty much free of bloat. Aside from the usual bits and bobs you get with Windows 10 Home, the laptop does come with Razer Synapse installed, which is absolutely essential as it allows you to control the customizable RGB backlighting in the keyboard, among a few other useful functions.
@@ -133,21 +141,17 @@ Lifewire / Andy Zahn
 
  With[Wi-Fi 6](https://www.lifewire.com/wi-fi-6-802-11-ax-4797345) , the Book 13 had no trouble taking full advantage of my home network. It provides a fast and reliable connection, and Bluetooth 5.0 is available as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Battery: Juice for the day
 
  Razer claims a battery life of up to 10 hours or even a bit more, and I found this to be accurate. The Book 13 should get you through a day at the office without needing to recharge, depending upon use, of course.
 
 ![Razer Book 13](https://www.lifewire.com/thmb/6yYQ1e8vR0Ldvs2GP61CrvFy3zg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Razer_Book13_05-1c8a8e1bdd78413fb72cc6307a07ea40.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Andy Zahn
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Audio: Big sound for a small laptop
 
@@ -158,10 +162,6 @@ Lifewire / Andy Zahn
 Lifewire / Andy Zahn
 
  It’s particularly good in the mids and highs, but as you’d expect, loses something in the bass range. However, it’s more than adequate for listening to music, gaming, or watching movies.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Camera: Competent webcam
 
@@ -175,6 +175,10 @@ Lifewire / Andy Zahn
 
  This is a premium, ultra-portable device designed more for professional work, and its ability to game is basically a nice bonus. Considering the competition from Dell and Apple, it’s not unreasonably priced.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Razer Book 13 vs. Dell XPS 13 7390 2-in-1
 
  There are a few big competitors that the Razer Book 13 is going up against, and perhaps the most significant is the excellent Dell XPS 13 7390 2-in-1\. Dell’s XPS laptops are great, and the 13 2-in-1 is no exception. Its main advantage over the Razer is its ability to transform into a tablet, but the Razer wins over in terms of raw power, and of course the Book 13 features that wonderful RGB backlighting.
@@ -186,10 +190,6 @@ Lifewire / Andy Zahn
  **A laptop with great looks, compact design, and remarkable power.**
 
  There’s a lot to love about the Razer Book 13, and not a lot of negative things to say about it. It’s not a graphical powerhouse, but the fact that it’s able to game at all is remarkable. Between its solid design, attractive aesthetics, and nice little touches that tie the whole package together, this is one awesome little ultrabook.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -229,19 +229,20 @@ Lifewire / Andy Zahn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-art-of-muting-background-sounds-in-skype/"><u>[New] 2024 Approved The Art of Muting Background Sounds in Skype</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-a-step-by-step-guide-to-engaging-video-blog-plots/"><u>[New] A Step-by-Step Guide to Engaging Video Blog Plots</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-aerial-shooting-essentials/"><u>[New] Aerial Shooting Essentials</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-vidas-interface-and-features-for-seamless-creation-experience-for-2024/"><u>[New] Vida’s Interface and Features for Seamless Creation Experience for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-beat-your-content-up-a-notch-music-addition-in-youtube-videos-for-2024/"><u>[Updated] Beat Your Content Up a Notch Music Addition in YouTube Videos for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-how-to-take-screenshots-of-pc-games-6-methods-for-2024/"><u>[Updated] How to Take Screenshots of PC Games [6 Methods] for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-10plus-must-use-free-youtube-intro-maker-sites/"><u>[Updated] In 2024, 10+ Must-Use Free YouTube Intro Maker Sites</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-ranking-8-effective-online-marketing-solutions/"><u>2024 Approved Ranking 8 Effective Online Marketing Solutions</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/discover-enhanced-interconnectivity-with-pci-sigs-new-copperlink-cabling-designed-for-superior-compatibility-in-pcie-generations-5-and-6-leading-to-future-g117/"><u>Discover Enhanced Interconnectivity with PCI-SIG's New CopperLink Cabling: Designed for Superior Compatibility in PCIe Generations 5 and 6, Leading to Future Gen7 Developments</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/mastering-technology-insights-via-tomer-hardware/"><u>Mastering Technology Insights via Tom'er Hardware</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/navigating-the-it-landspectrum-at-toms-hardware-central/"><u>Navigating the IT Landspectrum at Tom's Hardware Central</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/quick-guide-resurrecting-your-vms-fast-with-vmware-and-hyper-v/"><u>Quick Guide: Resurrecting Your VMs Fast with VMWare and Hyper-V</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/review-of-buyselladscom-for-blog-advertising/"><u>Review of BuySellAds.com for Blog Advertising</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/tech-review-mastery-discover-the-best-components-through-toms-computer-chronicles/"><u>Tech Review Mastery - Discover the Best Components Through Tom's Computer Chronicles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-chromebook-and-hp-beginners-guide-to-webcam-recordings/"><u>[New] 2024 Approved Chromebook & HP Beginner’s Guide to Webcam Recordings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cultivating-a-unique-vibe-in-your-own-mukbang-content/"><u>[New] In 2024, Cultivating a Unique Vibe in Your Own Mukbang Content</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-maximizing-memories-the-ultimate-guide-for-overwatch-players/"><u>[New] In 2024, Maximizing Memories The Ultimate Guide for Overwatch Players</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-professional-recorder-capture-studio-win10-edition-for-2024/"><u>[New] Professional Recorder Capture Studio Win10 Edition for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-a-complete-list-where-to-find-high-quality-music-files/"><u>[Updated] 2024 Approved A Complete List Where to Find High-Quality Music Files</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-implementing-youtubes-custom-markup-guide/"><u>[Updated] 2024 Approved Implementing YouTube's Custom Markup Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-top-sandbox-adventures-not-to-skip/"><u>2024 Approved Top Sandbox Adventures Not To Skip</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-mobility-with-the-lenovo-thinkpad-x1-fold-features-flaws-and-functionality/"><u>Mastering Mobility with the Lenovo ThinkPad X1 Fold: Features, Flaws, & Functionality</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps/"><u>New 2024 Approved Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>New 2024 Approved Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-kya-aap-video-call-kar-sakty-ho-translate-any-hindi-video-into-english/"><u>New 2024 Approved Kya Aap Video Call Kar Sakty Ho Translate Any Hindi Video Into English</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-video-from-japanese-to-english-online/"><u>New How To Translate Video From Japanese to English Online?</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations/"><u>New In 2024, Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>Updated 2024 Approved Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-5-best-chrome-extensions-you-can-use-to-translate-videos/"><u>Updated In 2024, 5 Best Chrome Extensions You Can Use to Translate Videos</u></a></li>
 </ul></div>
 

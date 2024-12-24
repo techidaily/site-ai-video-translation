@@ -1,7 +1,7 @@
 ---
 title: GeekOm Unveils New AX8 Mini PC Featuring Latest Intel 13Th Gen & AMD Ryzen 8000 Processor Compatibility
-date: 2024-12-13T17:24:08.224Z
-updated: 2024-12-15T16:38:46.622Z
+date: 2024-12-21T19:24:05.233Z
+updated: 2024-12-24T17:35:11.767Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,19 +89,22 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-uniting-brands-and-youtube-for-maximum-impact/"><u>[New] 2024 Approved Uniting Brands & YouTube for Maximum Impact</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-creative-and-cost-effective-with-a-stash-of-over-50-free-youtube-promo-artwork/"><u>[Updated] 2024 Approved Get Creative and Cost-Effective with a Stash of Over 50 Free YouTube Promo Artwork</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-comedy-cornucopia-twitters-best/"><u>2024 Approved Comedy Cornucopia Twitter's Best</u></a></li>
-<li><a href="https://games-able.techidaily.com/computex-showcase-next-gen-ai-prototypes/"><u>Computex Showcase: Next-Gen AI Prototypes</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-how-to-easily-use-korean-to-english-video-translators/"><u>In 2024, How To Easily Use Korean to English Video Translators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-top-7-online-auto-subtitle-translators-for-content-creators/"><u>In 2024, Top 7 Online Auto Subtitle Translators for Content Creators</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-circuitry-on-toms-digital-workbench/"><u>Mastering Gadgets and Circuitry on Tom's Digital Workbench</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-create-lip-sync-tiktok-videos-without-installing-any-app/"><u>New Create Lip Sync TikTok Videos Without Installing Any App</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-essential-audio-workstation-applications-on-chrome-os-for-aspiring-musicians/"><u>New Essential Audio Workstation Applications on Chrome OS for Aspiring Musicians</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-gbadvance-legends-on-your-idevice-with-leading-simulators/"><u>Unlocking GBAdvance Legends on Your iDevice with Leading Simulators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-top-7-video-language-converter-online-free/"><u>Updated 2024 Approved Top 7 Video Language Converter Online Free</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>Updated Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-top-10-solutions-for-movie-subtitle-translation-making-things-perfect-for-2024/"><u>Updated Top 10 Solutions for Movie Subtitle Translation Making Things Perfect for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/visualcapture-reviewer-tool/"><u>VisualCapture Reviewer Tool</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cutting-edge-notebooks-and-tools-to-elevate-your-editing-game/"><u>[New] 2024 Approved Cutting Edge Notebooks and Tools to Elevate Your Editing Game</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-enhance-your-browsing-experience-using-chrome-pip/"><u>[New] In 2024, Enhance Your Browsing Experience Using Chrome PIP</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-essential-tips-for-erasing-with-photoshop/"><u>[Updated] 2024 Approved Essential Tips for Erasing with Photoshop</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-5-best-chrome-extensions-you-can-use-to-translate-videos/"><u>2024 Approved 5 Best Chrome Extensions You Can Use to Translate Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-evolution-how-the-mac-mini-became-the-powerhouse-mac-studio-by-apple/"><u>Discover the Evolution: How the Mac Mini Became the Powerhouse Mac Studio by Apple</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-convert-video-voice-to-text-online-for-free-for-2024/"><u>How To Convert Video Voice to Text Online for Free for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-use-korean-to-english-video-translators-for-creators/"><u>How To Use Korean to English Video Translators for Creators</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-translate-video-from-japanese-to-english-online-for-free/"><u>In 2024, Translate Video From Japanese to English Online for Free</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leveraging-srt-for-improved-video-subtitles-online-presence-for-2024/"><u>Leveraging SRT for Improved Video Subtitles Online Presence for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mac-compatible-movavi-slideshow-creator-ultimate-presentation-tool/"><u>Mac-Compatible Movavi Slideshow Creator: Ultimate Presentation Tool</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-create-lip-sync-tiktok-videos-without-installing-any-app/"><u>New In 2024, Create Lip Sync TikTok Videos Without Installing Any App</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-kya-aap-video-call-kar-sakty-ho-translate-any-hindi-video-into-english-for-2024/"><u>New Kya Aap Video Call Kar Sakty Ho Translate Any Hindi Video Into English for 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/understanding-the-distinctive-features-of-crypto-vs-traditional-fiat-money-insights-from-yl-computing/"><u>Understanding the Distinctive Features of Crypto Vs. Traditional Fiat Money: Insights From YL Computing</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-a-comprehensive-guide-for-free-video-translator-downloading/"><u>Updated A Comprehensive Guide for Free Video Translator Downloading</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-ultimate-guide-to-translating-youtube-videos-without-cc/"><u>Updated In 2024, Ultimate Guide to Translating YouTube Videos Without CC</u></a></li>
 </ul></div>
 

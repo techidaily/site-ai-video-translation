@@ -1,7 +1,7 @@
 ---
 title: "Solving the Starfield High CPU Consumption Problem: Top Strategies of 2024"
-date: 2024-12-11T21:48:15.078Z
-updated: 2024-12-15T18:38:19.532Z
+date: 2024-12-21T17:56:41.865Z
+updated: 2024-12-24T19:25:32.457Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 
  Before you perform the troubleshooting steps below, please make sure your gaming rig satisfies the **[minimum requirements](https://www.ea.com/games/battlefield/battlefield-5/buy/pc-system-requirements?setLocale=en-us)**  to play Battlefield 5.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Run Battlefield 5 and Origin as administrator
 
  Running Battlefield 5 and the Origin client as an administrator will ensure they get the necessary permissions to launch properly. Here’s how:
@@ -38,21 +42,21 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/10-2.jpg)
 2. Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-10.jpg)
 3. Right-click your Origin client and select**Properties** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Navigate to the**Compatibility** tab. Then, check**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
 
  Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Switch to DirectX 11
 
@@ -67,17 +71,9 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-7.jpg)
 5. Select**Notepad** or other similar editing tools.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Press**Ctrl** and**F** on your keyboard to open the search box. Then, type**Dx12Enabled** and press**Enter** .
 7. Once you’ve located Dx12Enabled, change the value from**1** to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Is the game working normally now? Or is it still unplayable? If the latter, try the next fix below.
 
@@ -98,10 +94,6 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-7.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-8.jpg)
 
@@ -120,7 +112,7 @@ To update your graphics driver, here are two safe ways for you:
 3. Navigate to the**Origin In-Game** tab, and toggle off**Enable Origin In-Game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-3.jpg)
@@ -140,12 +132,16 @@ To update your graphics driver, here are two safe ways for you:
 4. On your keyboard, press the**Windows logo key** and**E** at the same time to invoke File Explorer. Then, select**Document** from the left pane.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Rename your**Battlefield V** folder to Battlefield V backup or anything else.
 
  Check whether you can get into Battlefield 5 or not. If this method is of no avail, restore the folder’s name and try the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Perform a reinstallation
 
@@ -157,6 +153,10 @@ To update your graphics driver, here are two safe ways for you:
 3. Right-click the**Battlefield 5** tile from the list, and click**Uninstall** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the process finishes, you can reinstall the game from Origin again, and it should be working the right way as expected.
 
@@ -183,22 +183,17 @@ To update your graphics driver, here are two safe ways for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-3d-modeling-software-to-use-for-animation/"><u>[Updated] 3D Modeling Software to Use for Animation</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-tailored-technology-for-video-capture-excellence/"><u>[Updated] Tailored Technology for Video Capture Excellence</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-going-viral-in-60-seconds-the-instagram-video-guidebook/"><u>2024 Approved Going Viral in 60 Seconds The Instagram Video Guidebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-creating-smooth-audio-cuts/"><u>2024 Approved The Art of Creating Smooth Audio Cuts</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/advanced-editing-shortcuts-learn-to-use-photoshops-history-for-effortless-artistry/"><u>Advanced Editing Shortcuts: Learn to Use Photoshop's History for Effortless Artistry</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/chocolate-becomes-chocolates/"><u>Chocolate Becomes Chocolates</u></a></li>
-<li><a href="https://solve-news.techidaily.com/convertissez-facilement-vos-fichiers-m2p-en-versions-en-ligne-avec-moveavi-gratuit-un-outil-de-telechargement-sans-frais/"><u>Convertissez Facilement Vos Fichiers M2P en Versions en Ligne Avec MoveaVi Gratuit: Un Outil De Téléchargement Sans Frais</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/1723013940509-get-lost-in-thrilling-motorcycle-chaos-with-days-gone-now-drops-on-steam-and-epic-games-store/"><u>Get Lost in Thrilling Motorcycle Chaos with Days Gone – Now Drops on Steam and Epic Games Store!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>How to Bypass iCloud Lock on Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-fix-communication-glitches-between-chatgpt-and-plugin-services/"><u>How To Fix Communication Glitches Between ChatGPT & Plugin Services</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oppo-a18-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Oppo A18 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/1723262425932-mega-savings-event-experience-the-best-of-gaming-with-the-aurora-r16-pc-and-stunning-alienware-oled-display-slash-price-by-a-whopping-700/"><u>Mega Savings Event: Experience the Best of Gaming with the Aurora R16 PC & Stunning Alienware OLED Display – Slash Price by a Whopping $700</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/quick-solution-how-to-stop-mordhau-from-unexpectedly-crashing/"><u>Quick Solution: How to Stop Mordhau From Unexpectedly Crashing</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/step-by-step-solutions-for-correcting-minecrafts-crossbow-glitches/"><u>Step-by-Step Solutions for Correcting Minecraft's Crossbow Glitches</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/the-8-key-concerns-to-consider-before-embracing-openais-chatgpt/"><u>The 8 Key Concerns to Consider Before Embracing OpenAI's ChatGPT</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/troubleshooting-fixing-issues-when-your-discord-voice-chat-freezes/"><u>Troubleshooting: Fixing Issues When Your Discord Voice Chat Freezes</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-ultimate-iphone-video-editing-roundup-top-5-apps/"><u>Updated 2024 Approved The Ultimate iPhone Video Editing Roundup Top 5 Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-expert-techniques-in-no-cost-windows-software-recording-for-2024/"><u>[New] Expert Techniques in No-Cost Windows Software Recording for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>2024 Approved Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-motorola-moto-g23-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola Moto G23 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/best-practices-fur-das-sichere-backup-von-mysql-datenbanken-mit-top-backupsoftware/"><u>Best Practices Für Das Sichere Backup Von MySQL Datenbanken Mit Top-Backupsoftware</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/comprehensive-guide-for-free-video-translator-downloading/"><u>Comprehensive Guide for Free Video Translator Downloading</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-the-drama-how-the-infamous-crowdstrike-vs-windows-showdown-of-2024-unfolded-an-insightful-retrospect-on-zdnet/"><u>Decoding the Drama: How the Infamous CrowdStrike Vs. Windows Showdown of 2024 Unfolded | An Insightful Retrospect on ZDNet</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-best-tool-to-translate-youtube-video-to-arabic/"><u>In 2024, Best Tool to Translate YouTube Video to Arabic</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-iphone-6-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix iPhone 6 Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/srt-subtitle-translation-tools-and-techniques/"><u>SRT Subtitle Translation Tools and Techniques</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-delete-your-digital-footprint-using-advanced-algorithms/"><u>Ultimate Guide: Delete Your Digital Footprint Using Advanced Algorithms</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-the-best-translator-to-translate-videos-online/"><u>Updated 2024 Approved The Best Translator to Translate Videos Online</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/wonderfox-video-converter-unleashed-compatible-with-lumia-xperia-z1s-and-beyond-for-stellar-results/"><u>WonderFox Video Converter Unleashed: Compatible with Lumia, Xperia Z1S, and Beyond for Stellar Results</u></a></li>
 </ul></div>
 

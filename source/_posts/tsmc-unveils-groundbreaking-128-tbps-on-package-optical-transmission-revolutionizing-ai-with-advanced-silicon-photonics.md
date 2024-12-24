@@ -1,7 +1,7 @@
 ---
 title: TSMC Unveils Groundbreaking 12.8 Tbps On-Package Optical Transmission - Revolutionizing AI with Advanced Silicon Photonics
-date: 2024-12-08T18:26:48.182Z
-updated: 2024-12-15T20:02:43.850Z
+date: 2024-12-21T16:50:14.103Z
+updated: 2024-12-24T16:03:09.841Z
 tags:
   - desktop
 categories:
@@ -16,7 +16,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
@@ -41,7 +41,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -67,15 +67,17 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/encompassed-understanding-google-podcast-app-elucidated-for-2024/"><u>Encompassed Understanding Google Podcast App Elucidated for 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/fixing-the-0x80cuh0003-error-in-windows-10-a-guide-to-5-proven-solutions/"><u>Fixing the 0X80cuh0003 Error in Windows 10: A Guide to 5 Proven Solutions</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-5-best-apps-for-voice-translation-from-english-to-bangla/"><u>In 2024, 5 Best Apps for Voice Translation From English to Bangla</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-gofundme-campaign-imagery-tips/"><u>In 2024, GoFundMe Campaign Imagery Tips</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-the-best-ai-translator-to-translate-videos-online/"><u>In 2024, The Best AI Translator to Translate Videos Online</u></a></li>
-<li><a href="https://win-unique.techidaily.com/tailor-your-pc-experience-with-easy-steps-to-adjust-system-settings-in-control-panel-insights-from-yl-computing/"><u>Tailor Your PC Experience with Easy Steps to Adjust System Settings in Control Panel – Insights From YL Computing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-struggle-to-cultivate-freshness-in-vr-realms/"><u>The Struggle to Cultivate Freshness in VR Realms</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-best-5-udemy-subtitle-translator-auto-translation/"><u>Updated 2024 Approved Best 5 Udemy Subtitle Translator (Auto Translation)</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-step-by-step-guide-how-to-translate-tiktok-videos/"><u>Updated In 2024, Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-innovate-or-stagnate-the-must-know-fb-ad-trends-for-24/"><u>[New] 2024 Approved Innovate or Stagnate – The Must-Know FB Ad Trends for '24</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-green-backdrops-available-at-zero-cost/"><u>[New] In 2024, Green Backdrops Available at Zero Cost</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-simplify-collaboration-with-mematics-cloud-notes/"><u>[New] Simplify Collaboration with Mematic’s Cloud Notes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hacky-yet-effective-face-blurring-on-piscart/"><u>[Updated] Hacky Yet Effective Face-Blurring on PiscArt</u></a></li>
+<li><a href="https://extra-information.techidaily.com/duel-for-motorsport-dominance-black-gopro-vs-ghost-s-drift/"><u>Duel for Motorsport Dominance Black GoPro Vs. Ghost-S Drift</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-elites-choice-highest-rated-keyboards-for-2-point-zero-four-four/"><u>Gaming Elite's Choice: Highest-Rated Keyboards for 2 Point Zero Four Four</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-x50iplus-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor X50i+ Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-a-complete-guide-of-top-7-video-language-translators/"><u>New In 2024, A Complete Guide of Top 7 Video Language Translators</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/turbocharge-your-youtube-videos-swift-render-and-transfer-strategies/"><u>Turbocharge Your YouTube Videos Swift Render & Transfer Strategies</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-a-complete-guide-of-top-7-video-language-translators/"><u>Updated A Complete Guide of Top 7 Video Language Translators</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation-for-2024/"><u>Updated An Exhaustive List of Lip Sync Apps for Vibrant Video Creation for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-top-8-multi-subtitles-translators-you-can-use/"><u>Updated In 2024, Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
 </ul></div>
 

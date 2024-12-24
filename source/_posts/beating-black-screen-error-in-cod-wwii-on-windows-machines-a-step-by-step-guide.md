@@ -1,7 +1,7 @@
 ---
 title: "Beating Black Screen Error in COD: WWII on Windows Machines – A Step-by-Step Guide"
-date: 2024-12-08T18:01:38.814Z
-updated: 2024-12-15T18:34:32.440Z
+date: 2024-12-23T17:21:20.973Z
+updated: 2024-12-24T18:59:52.077Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/e36d4a2a6c674cd6677ba6814b8c312dcb4a11aef
 ## Step-by-Step Solutions for PC Players Facing 'Grounded' Errors - Latest Tips
 
 New Grounded patch is live! However, many players reported that Grounded keeps crashing and it’s literally unplayble. If you run into the same problem, don’t worry. Here’re 6 simple methods to fix it right away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -51,13 +55,13 @@ Here are Grounded’s minimum specs:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Select the**Display** tab and check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your computer isn’t geared up for the game, then it’s time to upgrade your PC. If you have perfect PC specs but still see the crashing problem, then read on to find out more fixes below.
 
@@ -105,10 +109,6 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -136,37 +136,41 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Locate**Grounded** on the game list, right click it and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Click the**General** tab and click**Set launch options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Type**\-dxlevel 110** in the field and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-4-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)** Click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Relaunch Grounded to check if the issue is solved. If not, there’s another fix for you.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
 
@@ -177,7 +181,7 @@ If the problem persists, move towards the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right click**Grounded** on the game list, and click**Properties** .
@@ -188,13 +192,13 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for the process to complete. Then play Grounded to see whether the crashing problem goes away. If not, check out the fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Play single-player in the offline mode
 
@@ -208,10 +212,6 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/stem4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**Steam** and click**Go offline** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-3.jpg)
@@ -221,7 +221,7 @@ If the problem persists, move towards the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/steam2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Launch Steam. Then, play the game in single-player and see how it works.
@@ -251,24 +251,20 @@ Launch Steam. Then, play the game in single-player and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-best-shots-from-the-2022-snowboard-x-games-for-2024/"><u>[Updated] Best Shots From the 2022 Snowboard X Games for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expedite-your-artistic-expression-fast-collages-on-the-fly/"><u>Expedite Your Artistic Expression Fast Collages on the Fly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-unresponsive-google-chrome-issue-with-simple-relaunch-steps/"><u>Fix Unresponsive Google Chrome Issue with Simple Relaunch Steps</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/guide-how-to-install-additional-games-on-your-nes-classic-console/"><u>Guide: How to Install Additional Games on Your NES Classic Console</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-a-comprehensive-guide-for-free-video-translator-downloading/"><u>In 2024, A Comprehensive Guide for Free Video Translator Downloading</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-11x-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme 11X 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-photography-made-easier-with-these-4-blur-techniques/"><u>In 2024, IPhone Photography Made Easier with These 4 Blur Techniques</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-best-10-free-video-translators-to-mitigate-translation-risks-for-2024/"><u>New Best 10 Free Video Translators to Mitigate Translation Risks for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-complete-guide-of-top-video-language-translators-for-2024/"><u>New Complete Guide of Top Video Language Translators for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>New Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-top-10-solutions-for-movie-subtitle-translation-making-things-perfect-for-2024/"><u>New Top 10 Solutions for Movie Subtitle Translation Making Things Perfect for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/riconverti-file-webm-in-mpg-senza-costi-tramite-il-servizio-di-movavi-guida-facile-allonline-conversion/"><u>Riconverti File WEBM in MPG Senza Costi Tramite Il Servizio Di Movavi - Guida Facile All'online Conversion</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-tutorial-on-adjusting-scanner-preferences-in-yl-systems-powered-by-yl-technology/"><u>Step-by-Step Tutorial on Adjusting Scanner Preferences in YL Systems - Powered by YL Technology</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Ultimate guide to get the meltan box pokemon go For Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-a-brief-review-of-capcut-translate-with-alternative/"><u>Updated A Brief Review of CapCut Translate With Alternative</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-tiktok-videos-top-5-auto-translate-tools-for-2024/"><u>Updated How to Translate TikTok Videos Top 5 Auto Translate Tools for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-tiktok-videos-all-you-want-to-know/"><u>Updated How to Translate TikTok Videos? All You Want to Know</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-kya-aap-video-call-kar-sakty-ho-translate-any-hindi-video-into-english/"><u>Updated In 2024, Kya Aap Video Call Kar Sakty Ho Translate Any Hindi Video Into English</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-methods-to-resuscitate-windows-photo-viewer-on-latest-os/"><u>[Updated] In 2024, Methods to Resuscitate Windows Photo Viewer on Latest OS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-path-to-wealthy-creatorland-for-ajey-nagar/"><u>[Updated] The Path to Wealthy Creatorland for Ajey Nagar</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-tier-windows-10-screen-capture-programs-unveiled/"><u>[Updated] Top-Tier Windows 10 Screen Capture Programs Unveiled</u></a></li>
+<li><a href="https://win-dash.techidaily.com/90p-082r-plus-p-197/"><u>90P = 0.82R + P 1.97</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/all-about-kapwing-video-translation-for-2024/"><u>All About Kapwing Video Translation for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/experience-the-future-of-mixing-with-dex-316-rc-new-virtual-song-library-now-available-for-djs/"><u>Experience the Future of Mixing with DEX 3.16 RC - New Virtual Song Library Now Available for DJs!</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-translate-video-from-english-to-arabic-with-ease/"><u>In 2024, Translate Video From English to Arabic with Ease</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/standard-setup-stellar-file-eraser-pro-5-on-windows-automate-your-clean-up-tasks/"><u>Standard Setup: Stellar File Eraser Pro 5 on Windows - Automate Your Clean-Up Tasks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-jaco-smartpro-digital-tire-inflator-a-study-in-efficiency-and-strength/"><u>The Ultimate Guide to the Jaco SmartPro Digital Tire Inflator – A Study in Efficiency and Strength</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/translate-any-hindi-video-into-english-with-ai/"><u>Translate Any Hindi Video Into English With AI</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa-in-2024/"><u>Updated How to Translate Audio/Video Content From Spanish to English and Vice Versa, In 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-translate-videos-with-subtitle-cat-your-essential-guide/"><u>Updated In 2024, Translate Videos with Subtitle Cat Your Essential Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-maximizing-yandex-translate-in-video-translation-and-beyond/"><u>Updated Maximizing Yandex Translate in Video Translation and Beyond</u></a></li>
+<li><a href="https://win-blog.techidaily.com/utorrent-freezing-issues-discover-7-reliable-solutions/"><u>Utorrent Freezing Issues: Discover 7 Reliable Solutions</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/yl-softwares-premium-hd-scarlet-witch-wallpaper-gallery-vibrant-visuals-for-every-screen/"><u>YL Software's Premium HD Scarlet Witch Wallpaper Gallery: Vibrant Visuals for Every Screen</u></a></li>
 </ul></div>
 

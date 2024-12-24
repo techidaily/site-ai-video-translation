@@ -1,7 +1,7 @@
 ---
 title: Asus Makes History with the First-Ever ROG NUC - Combines Cutting-Edge Core Ultra 9 and Stunning RTX 4070 Graphics at an Unbeatable Starting Price of $1,629
-date: 2024-12-10T21:53:54.901Z
-updated: 2024-12-15T18:24:10.286Z
+date: 2024-12-20T18:56:24.939Z
+updated: 2024-12-24T18:22:44.695Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ These are the specifications of the two Asus ROG NUC models:
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,18 +68,22 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-blog.techidaily.com/solved-sea-of-thieves-crashing-issue/"><u>[Solved] Sea of Thieves Crashing Issue</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-fast-techniques-to-restructure-your-youtube-sequence-for-2024/"><u>[Updated] Fast Techniques to Restructure Your YouTube Sequence for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-premier-top-youtube-views-monitor-for-content-success/"><u>[Updated] Premier Top YouTube Views Monitor for Content Success</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-food-filmmakers-blueprint-techniques-and-tricks/"><u>2024 Approved The Food Filmmaker’s Blueprint Techniques and Tricks</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/all-about-kapwing-video-translation-for-2024/"><u>All About Kapwing Video Translation for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/convert-video-voice-to-text-online-for-free-fast-and-easy-ways-for-2024/"><u>Convert Video Voice to Text Online for Free Fast and Easy Ways for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/download-free-shawn-mendes-backgrounds-by-yl-computing-exclusive-wallpaper-collection/"><u>Download Free Shawn Mendes Backgrounds by YL Computing: Exclusive Wallpaper Collection</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-translate-video-from-english-to-arabic-with-ease/"><u>In 2024, Translate Video From English to Arabic with Ease</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reconnect-your-apple-device-a-guide-to-overcoming-iphone-and-ipad-wi-fi-problems-8-fixes/"><u>Reconnect Your Apple Device: A Guide to Overcoming iPhone and iPad Wi-Fi Problems (8 Fixes)</u></a></li>
-<li><a href="https://win11.techidaily.com/tomorrows-windows-embracing-ai-dominance/"><u>Tomorrow's Windows: Embracing AI Dominance</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa-in-2024/"><u>Updated How to Translate Audio/Video Content From Spanish to English and Vice Versa, In 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-translate-videos-with-subtitle-cat-your-essential-guide/"><u>Updated In 2024, Translate Videos with Subtitle Cat Your Essential Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-comprehensive-manual-on-motion-detection-systems/"><u>[Updated] A Comprehensive Manual on Motion Detection Systems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-tv-demystified-your-complete-reference/"><u>[Updated] YouTube TV Demystified Your Complete Reference</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-paving-pathways-in-pixels-the-leading-vr-treadmills-reviewed/"><u>2024 Approved Paving Pathways in Pixels The Leading VR Treadmills Reviewed</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-understanding-the-transformations-in-vegaspro-19/"><u>2024 Approved Understanding the Transformations in VegasPro '19</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-samsung-galaxy-a14-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Samsung Galaxy A14 5G Device SIM</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-youtube-videos-to-english-subtitles/"><u>How to Translate YouTube Videos to English Subtitles</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-network-drivers-and-wireless-card-software-in-windows-1110/"><u>How to Update Network Drivers and Wireless Card Software in Windows 11/10</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-how-to-use-korean-to-english-video-translators-for-creators-for-2024/"><u>New How To Use Korean to English Video Translators for Creators for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-must-have-apps-for-real-time-video-translation/"><u>New Must-Have Apps for Real-Time Video Translation</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-reaching-a-wider-audience-using-video-translation-in-tamil/"><u>New Reaching a Wider Audience Using Video Translation in Tamil</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-top-10-solutions-for-movie-subtitle-translation-making-things-perfect/"><u>New Top 10 Solutions for Movie Subtitle Translation Making Things Perfect</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-accessing-and-displaying-heic-images-on-your-windows-10-or-11-computer/"><u>Step-by-Step Guide: Accessing and Displaying HEIC Images on Your Windows 10 or 11 Computer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-newbie-camera-choices-the-2024-list/"><u>Top Newbie Camera Choices The 2024 List</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-auto-translate-youtube-videos-into-different-languages/"><u>Updated 2024 Approved Auto Translate YouTube Videos Into Different Languages</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-best-10-chinese-video-to-english-translator/"><u>Updated 2024 Approved Best 10 Chinese Video to English Translator</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-auto-translate-youtube-videos-into-different-languages/"><u>Updated How To Auto Translate YouTube Videos Into Different Languages</u></a></li>
 </ul></div>
 

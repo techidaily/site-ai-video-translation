@@ -1,7 +1,7 @@
 ---
 title: "TSMC's Revolutionary 12.8 Tbps On-Package Optical Link: Next-Generation Silicon Photonics Communication for AI"
-date: 2024-12-10T21:55:39.385Z
-updated: 2024-12-15T16:55:28.606Z
+date: 2024-12-21T17:45:11.312Z
+updated: 2024-12-24T16:31:46.352Z
 tags:
   - desktop
 categories:
@@ -16,7 +16,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
@@ -41,7 +41,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -67,14 +67,22 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-steps-for-chromakey-magic/"><u>[Updated] 2024 Approved Essential Steps for Chromakey Magic</u></a></li>
-<li><a href="https://discover-help.techidaily.com/best-high-definition-multimedia-interface-hdmi-supported-video-players-for-windows-experience-flawless-4k-uhd-content/"><u>Best High-Definition Multimedia Interface (HDMI) Supported Video Players for Windows: Experience Flawless 4K UHD Content</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-erroneous-windows-update-messages-0xc1900101/"><u>Correcting Erroneous Windows Update Messages (0xC1900101)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-the-mac-app-store-safe-for-chatgpt-unveiling-potential-pitfalls-to-watch-out-for/"><u>Is the Mac App Store Safe for ChatGPT? Unveiling Potential Pitfalls to Watch Out For</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>New 2024 Approved Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-video-from-japanese-to-english-online/"><u>New How To Translate Video From Japanese to English Online?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-10-windows-compatible-weather-apps/"><u>Top 10 Windows-Compatible Weather Apps</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>Updated 2024 Approved Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-5-best-chrome-extensions-you-can-use-to-translate-videos/"><u>Updated In 2024, 5 Best Chrome Extensions You Can Use to Translate Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-download-and-save-youtube-thumbnails-with-simplicity-and-speed/"><u>[New] In 2024, Download and Save YouTube Thumbnails with Simplicity & Speed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-ultimate-list-innovative-youtube-channel-names-for-modern-vloggers-maximum-length-156-characters/"><u>[Updated] 2024 Approved Ultimate List Innovative Youtube Channel Names For Modern Vloggers (Maximum Length 156 Characters)</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-best-video-translator-app-for-pc-cannot-miss/"><u>2024 Approved Best Video Translator App for PC Cannot Miss</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-structuring-engaging-online-vignettes/"><u>2024 Approved Structuring Engaging Online Vignettes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5yuv55s75yaf5a6544gr5zci44kp44gb44gf6ieq55sx44gq5yih44kk5yplusw44kk5pa55rov/"><u>動画内容に合わせた自由な切り取り方法</u></a></li>
+<li><a href="https://win-updates.techidaily.com/come-risolvere-i-problemi-delle-risposte-automatiche-in-microsoft-outlook-e-office-365-guida-completa-a-5-passaggi/"><u>Come Risolvere I Problemi Delle Risposte Automatiche in Microsoft Outlook E Office 365: Guida Completa a 5 Passaggi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disable-driver-signature-enforcement-and-install-unsigned-drivers-on-windows/"><u>How to Disable Driver Signature Enforcement and Install Unsigned Drivers on Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-realme-c51-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Realme C51 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-maximizing-yandex-translate-in-video-translation-and-beyond/"><u>In 2024, Maximizing Yandex Translate in Video Translation and Beyond</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-artistic-zoomers-handbook-a-filters-journey/"><u>In 2024, The Artistic Zoomer's Handbook A Filters Journey</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>New 2024 Approved A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-auto-translate-youtube-videos-into-different-languages-for-2024/"><u>New Auto Translate YouTube Videos Into Different Languages for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>New In 2024, Translate Audio/Video Content From Spanish to English and Vice Versa</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138592694-9781475914252-turning-black-and-white-into-gray/"><u>Turning Black and White into Gray | Free Book</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-ultimate-guide-to-translating-youtube-videos-without-cc/"><u>Updated 2024 Approved Ultimate Guide to Translating YouTube Videos Without CC</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-best-10-chinese-video-to-english-translator/"><u>Updated Best 10 Chinese Video to English Translator</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-8-best-multi-subtitles-translators-you-shouldnt-miss/"><u>Updated In 2024, 8 Best Multi-Subtitles Translators You Shouldnt Miss</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Correcting Minecraft's Crossbow Glitches
-date: 2024-12-14T19:41:31.398Z
-updated: 2024-12-15T21:44:02.197Z
+date: 2024-12-18T17:14:00.516Z
+updated: 2024-12-24T19:27:40.536Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ Some players are reporting that they can’t get past the Mojang screen. It look
 5. **[End the runtime broker](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Minecraft Launcher in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean reinstall](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Uninstall your antivirus software
 
@@ -72,10 +68,6 @@ There are mainly two ways to update your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
@@ -83,10 +75,6 @@ There are mainly two ways to update your device drivers:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once the driver is updated, you’d better restart your computer and try launching your Minecraft again to check if it can load normally. If unfortunately not, you can try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Remove the adware
 
@@ -98,6 +86,10 @@ There are mainly two ways to update your device drivers:
 4. Restart the computer and see if Minecraft launches then.
 
  Note: If you’re looking for advanced malware protection and don’t want it to mess with your Minecraft, you can check **[Malwarebyte](https://tools.techidaily.com/drivereasy/download/)** [**s**](https://tools.techidaily.com/drivereasy/download/) . (It offers the Free and Premium version, and the free version includes a 14-day trial of the premium.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: End the runtime broker
 
@@ -113,10 +105,6 @@ There are mainly two ways to update your device drivers:
 1. Right-click the**Start** menu (the Windows logo) and select**Windows PowerShell (Admin).**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/admin.jpg)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you are on Windows 11, it will be**Terminal (Amin)** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
@@ -125,6 +113,10 @@ There are mainly two ways to update your device drivers:
 3. Restart your PC to see if Minecraft can load normally.
 
 If this method doesn’t work for you, then try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Run Minecraft Launcher in compatibility mode
 
@@ -137,10 +129,14 @@ If this method doesn’t work for you, then try the next fix, below.
 4. Click**Apply** \>**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you can launch your Minecraft again to see if this issue has been resolved by now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean reinstall
 
@@ -149,6 +145,10 @@ If this method doesn’t work for you, then try the next fix, below.
 1. On your keyboard, press the Windows key and R at the same time to open the Run box. Type**appwiz.cpl** and press**Enter** .  
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 2. Right-click Minecraft, and select**Uninstall** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Once complete, type**%appdata%** in the Windows Search bar, and select the**%appdata%** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/appdata.jpg)
@@ -180,17 +180,16 @@ If this method doesn’t work for you, then try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-bandicam-for-professionals-unveiling-the-latest-2023-advances/"><u>[New] 2024 Approved Bandicam for Professionals Unveiling the Latest 2023 Advances</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-illuminate-your-images-adding-life-with-illustrator-motion/"><u>[New] Illuminate Your Images Adding Life with Illustrator Motion</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-the-unboxing-game-crafting-winning-strategies/"><u>[New] In 2024, The Unboxing Game Crafting Winning Strategies</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-comprequad-video-captioning-techniques-for-youtube/"><u>[Updated] 2024 Approved The Comprequad Video Captioning Techniques for YouTube</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/best-video-translator-app-for-pc-you-cannot-miss/"><u>Best Video Translator App for PC You Cannot Miss</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/complete-overview-harnessing-the-power-of-googles-text-conversion/"><u>Complete Overview Harnessing the Power of Google's Text Conversion</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/direct-link-method-for-photos-and-videos/"><u>Direct Link Method for Photos & Videos</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-wps-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wps file Online with DigiSigner</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-semaphore-fix-overcome-timer-expiry-on-windows/"><u>Mastering Semaphore Fix: Overcome Timer Expiry on Windows</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-maximize-yandex-translate-in-video-translation-and-beyond/"><u>Updated 2024 Approved Maximize Yandex Translate in Video Translation and Beyond</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-top-10-ai-subtitle-translators-for-content-creators/"><u>Updated 2024 Approved Top 10 AI Subtitle Translators for Content Creators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-step-by-step-guide-how-to-translate-twitter-video-easily/"><u>Updated Step-by-Step Guide How to Translate Twitter Video Easily</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/deactivating-latest-os-restoring-to-mac-os-1010/"><u>Deactivating Latest OS Restoring to Mac OS 10.10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-12-mini-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 mini to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-mfc42ddll-not-found-or-missing-errors/"><u>How to Fix Mfc42d.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-translate-videos-and-subtitles-with-veedio/"><u>In 2024, Translate Videos and Subtitles with Veed.io</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-the-best-ai-translator-to-translate-videos-online/"><u>New In 2024, The Best AI Translator to Translate Videos Online</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-top-8-multi-subtitles-translators-you-can-use-for-2024/"><u>New Top 8 Multi-Subtitles Translators You Can Use for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-translate-video-from-english-to-arabic-with-ease-for-2024/"><u>New Translate Video From English to Arabic with Ease for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/premium-console-emulation-choosing-the-top-5-for-windows-for-2024/"><u>Premium Console Emulation Choosing the Top 5 for Windows for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-when-lost-ark-wont-open-on-your-pc-or-console/"><u>Step-by-Step Fixes for When Lost Ark Won't Open on Your PC or Console</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-benefits-of-tubebuddy-manage-your-youtube-channel-for-2024/"><u>The Benefits of TubeBuddy | Manage Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-top-7-online-auto-subtitle-translators-for-content-creators-for-2024/"><u>Updated Top 7 Online Auto Subtitle Translators for Content Creators for 2024</u></a></li>
 </ul></div>
 

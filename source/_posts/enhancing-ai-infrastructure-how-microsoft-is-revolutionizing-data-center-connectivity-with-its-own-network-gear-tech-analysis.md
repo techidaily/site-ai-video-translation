@@ -1,7 +1,7 @@
 ---
 title: "Enhancing AI Infrastructure: How Microsoft Is Revolutionizing Data Center Connectivity with Its Own Network Gear - Tech Analysis"
-date: 2024-12-13T19:07:41.919Z
-updated: 2024-12-15T17:22:54.201Z
+date: 2024-12-21T16:06:34.432Z
+updated: 2024-12-24T16:11:47.198Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,19 +60,24 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-from-interest-to-action-formulating-video-topics-with-google-trends/"><u>[Updated] In 2024, From Interest to Action Formulating Video Topics with Google Trends</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-art-of-background-elimination-in-graphic-designs/"><u>[Updated] In 2024, The Art of Background Elimination in Graphic Designs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/budget-friendly-handheld-gaming-with-the-nintendo-switch-lite-a-detailed-review-and-analysis/"><u>Budget-Friendly Handheld Gaming with the Nintendo Switch Lite: A Detailed Review and Analysis</u></a></li>
-<li><a href="https://discover-community.techidaily.com/free-online-conversion-changing-avi-files-into-m2ts-with-moveave-quick-and-easy/"><u>Free Online Conversion: Changing AVI Files Into M2TS with Moveave - Quick and Easy!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-complete-guide-of-top-video-language-translators/"><u>New 2024 Approved Complete Guide of Top Video Language Translators</u></a></li>
-<li><a href="https://article-helps.techidaily.com/top-10-hexacopter-drone-breakthroughs/"><u>Top 10 Hexacopter Drone Breakthroughs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-the-non-functional-microphone-on-your-steelseries-arctis-1/"><u>Troubleshooting: Fixing the Non-Functional Microphone on Your SteelSeries Arctis 1</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-best-toolbox-to-translate-youtube-videos-to-english-subtitles/"><u>Updated 2024 Approved Best Toolbox to Translate YouTube Videos to English Subtitles</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-translate-live-video-making-it-possible-with-the-best-tool/"><u>Updated 2024 Approved Translate Live Video Making It Possible With The Best Tool</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-best-10-chinese-video-to-english-translator-for-2024/"><u>Updated Best 10 Chinese Video to English Translator for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-top-7-online-auto-subtitle-translators-for-content-creators/"><u>Updated Top 7 Online Auto Subtitle Translators for Content Creators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-top-8-multi-subtitles-translators-you-can-use/"><u>Updated Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-realme-11-proplus-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Realme 11 Pro+ Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-excellence-professional-editing-techniques-revealed-for-2024/"><u>[New] Instagram Excellence Professional Editing Techniques Revealed for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pros-and-cons-reviewing-nikon-d7500/"><u>[New] Pros & Cons Reviewing Nikon D7500</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-diving-deep-into-viva-video-functionality-for-2024/"><u>[Updated] Diving Deep Into Viva Video Functionality for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-how-to-translate-instagram-videos-for-global-engagement/"><u>2024 Approved How to Translate Instagram Videos for Global Engagement</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/a-complete-guide-of-top-7-video-language-translators/"><u>A Complete Guide of Top 7 Video Language Translators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-blank-spaces-on-your-screen-icons-revival-guide/"><u>Avoid Blank Spaces on Your Screen: Icons Revival Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ring-advanced-techniques-in-video-thumbnail-creation-for-2024/"><u>Exploring Advanced Techniques in Video Thumbnail Creation for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v27-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo V27 Phone without Any Data Loss</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-realme-narzo-60x-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Realme Narzo 60x 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/maximize-yandex-translate-in-video-translation-and-beyond-for-2024/"><u>Maximize Yandex Translate in Video Translation and Beyond for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>New 2024 Approved Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-5-best-apps-for-voice-translation-from-english-to-bangla/"><u>New In 2024, 5 Best Apps for Voice Translation From English to Bangla</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-best-in-class-top-phones-for-producing-quality-content/"><u>The Best in Class Top Phones for Producing Quality Content</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/top-9-choices-for-video-auto-translate/"><u>Top 9 Choices for Video Auto Translate</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-in-this-article-we-will-introduce-some-cool-video-effects-that-you-can-use-in-filmora-as-well-as-the-step-by-step-guide-about-how-to-a/"><u>Updated 2024 Approved In This Article, We Will Introduce some Cool Video Effects that You Can Use in Filmora as Well as the Step-by-Step Guide About How to Add Cool Effects to Videos for Making a Cool Edit with This Cool V</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-mastering-lip-sync-explore-top-apps-for-dynamic-videos/"><u>Updated 2024 Approved Mastering Lip Sync Explore Top Apps for Dynamic Videos</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-easy-steps-to-translate-video-on-twitter/"><u>Updated Easy Steps to Translate Video on Twitter</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/voice-translation-english-to-bangla-online-and-offline-apps-for-2024/"><u>Voice Translation English to Bangla Online and Offline Apps for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1728463559192-windows-10/"><u>Windows 10の起動設定ファイルを探す方法</u></a></li>
 </ul></div>
 

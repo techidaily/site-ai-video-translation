@@ -1,7 +1,7 @@
 ---
 title: Chocolate Becomes Chocolates
-date: 2024-12-10T21:35:08.049Z
-updated: 2024-12-15T20:40:05.976Z
+date: 2024-12-17T16:02:07.925Z
+updated: 2024-12-24T17:23:55.319Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Reboot your network
@@ -47,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
  1)**Unplug** your modem (and your wireless router, if it’s a separate device) from power for **60 seconds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap701.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _modem_
 
@@ -84,17 +80,9 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000027.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000028.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -114,10 +102,6 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap401.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) View Control Panel by **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap405.jpg)
@@ -125,6 +109,10 @@ _wireless router_
  3) Select**NVIDIA Control Panel**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap403-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .
 
@@ -137,7 +125,7 @@ _wireless router_
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap401-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) View Control Panel by **Large icons** .
@@ -145,7 +133,7 @@ _wireless router_
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap405-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select your**AMD Radeon Settings** to open it.
@@ -155,7 +143,7 @@ _wireless router_
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap419.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### If you’re using Intel graphics card
@@ -164,6 +152,10 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap401-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) View the Control Panel by **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap405-1.jpg)
@@ -171,6 +163,10 @@ _wireless router_
  3) Select**Intel Graphics Settings**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap420.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**3D** to open the 3D settings.
 
@@ -187,6 +183,10 @@ _wireless router_
  7) Click**Apply** to save the settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap424-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run the game again to see if this issue is resolved. If not, try the next fix, below.
 
@@ -219,10 +219,6 @@ _wireless router_
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap52.jpg)
 
  Run CS: GO again to see if you can play the game smoothly. It CS: GO still lags, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Change the power plan of your PC
 
@@ -260,6 +256,10 @@ _wireless router_
 
  Launch CS: GO to see if it still lags. If this issue persists, try the next fix to disable CPU Core Parking.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 8: Disable CPU Core Parking
 
  As a Windows kernel power manager, Core Parking helps improve the energy efficiency of your system, because it can dynamically scale the number of logical processors that are in use based on the workload.
@@ -274,10 +274,6 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap414-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check the box in front of**Number of processors** and choose a **maximum** number of processors. Then click **OK** to save the settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap416.jpg)
@@ -285,6 +281,10 @@ _wireless router_
  4) In the**System Configuration**  window, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap417.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click**Restart**  to restart your PC.  
 
@@ -310,18 +310,15 @@ Launch CS: GO to see if you resolved the game lag issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-boosting-bank-balance-crafting-commercial-video-content/"><u>[New] 2024 Approved Boosting Bank Balance Crafting Commercial Video Content</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-mastering-quick-youtube-comment-removal-techniques/"><u>[New] 2024 Approved Mastering Quick YouTube Comment Removal Techniques</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-samsung-galaxy-s23-tactical-edition-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Samsung Galaxy S23 Tactical Edition Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fresh-aesthetics-prime-laptop-wallpapers-online/"><u>In 2024, Fresh Aesthetics Prime Laptop Wallpapers Online</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-photo-savvy-with-an-iphone-ideal-perspectives-uncovered/"><u>In 2024, Photo Savvy with an iPhone Ideal Perspectives Uncovered</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-shooting-for-greatness-iphones-10-vital-composition-guidelines/"><u>In 2024, Shooting for Greatness IPhone's 10 Vital Composition Guidelines</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-infinix-note-30-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Infinix Note 30 5G Phone Pattern Lock</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-top-10-free-video-translators-to-mitigate-translation-risks/"><u>New 2024 Approved Top 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-voice-translation-english-to-bangla-online-and-offline-apps/"><u>New Voice Translation English to Bangla Online and Offline Apps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-ai-generated-content-who-holds-the-intellectual-property-rights/"><u>Understanding AI-Generated Content: Who Holds the Intellectual Property Rights?</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-must-have-apps-for-real-time-video-translation/"><u>Updated 2024 Approved Must-Have Apps for Real-Time Video Translation</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-must-have-apps-for-real-time-video-translation-for-2024/"><u>Updated Must-Have Apps for Real-Time Video Translation for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-a-step-by-step-guide-to-using-youtubes-creative-commons-license/"><u>[Updated] A Step-by-Step Guide to Using YouTube's Creative Commons License</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-easy-steps-to-translate-video-on-twitter/"><u>2024 Approved Easy Steps to Translate Video on Twitter</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-step-by-step-guide-how-to-translate-twitter-video-easily/"><u>2024 Approved Step-by-Step Guide How to Translate Twitter Video Easily</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-tecno-spark-20c-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Tecno Spark 20C</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-unplugged-nvidia-outputs-top-tips-for-troubleshooting-and-repairing-your-system/"><u>Dealing with Unplugged Nvidia Outputs: Top Tips for Troubleshooting and Repairing Your System</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-honor-90-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Honor 90 Face Lock?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/high-performance-nvidia-3090-driver/"><u>High-Performance NVIDIA 3090 Driver</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-elevate-your-content-with-the-best-free-video-translator-apps/"><u>New In 2024, Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/switching-windows-11-logon-from-pin-to-password-a-step-by-step-guide/"><u>Switching Windows 11 Logon From PIN to Password: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/top-10-solutions-for-movie-subtitle-translation-making-things-perfect-for-2024/"><u>Top 10 Solutions for Movie Subtitle Translation Making Things Perfect for 2024</u></a></li>
 </ul></div>
 

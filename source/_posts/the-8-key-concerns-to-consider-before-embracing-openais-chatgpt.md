@@ -1,7 +1,7 @@
 ---
 title: The 8 Key Concerns to Consider Before Embracing OpenAI's ChatGPT
-date: 2024-12-13T17:31:11.944Z
-updated: 2024-12-15T20:06:37.671Z
+date: 2024-12-21T18:11:21.081Z
+updated: 2024-12-24T18:47:07.886Z
 tags:
   - chatgpt
   - open-ai
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
  Instead of spamming your channel with generic, AI-produced videos, focus on creating content that resonates with your audience. Ask what viewers want from you. YouTube has nearly a billion videos—viewers won’t bother with recycled ideas.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Academic Essay Writing
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 **Tip:** You don’t have to ditch ChatGPT altogether.[Writers can use AI responsibly](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) for topic research, idea generation, and simple coding.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Caption Writing
@@ -71,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 
  To grab the reader’s attention, write captions yourself. See what format suits your brand. Some users like writing long-form captions that tell stories, while others prefer a minimalistic approach. We suggest trying out different styles.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Selling Diet and Fitness Programs
 
 [ChatGPT carries several health-focused functions](https://www.makeuseof.com/can-chatgpt-provide-reliable-health-information/) . Users can generate recipe ideas, study workout routines, and ask general wellness questions. Although helpful, shady fitness gurus also abuse this feature. They ask ChatGPT to spit out a bunch of workout routines, compile them into PDFs, and then sell them to their followers.
@@ -80,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
  You can share your personal preferences. But don’t sell e-books of workout regimens, diets, and supplement recommendations unless you have the necessary certifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Coding Websites
@@ -91,15 +95,15 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 
  If you need to launch a website but don’t have any experience, use[no-code site builders](https://www.makeuseof.com/best-code-free-website-creators/) . They use drag-and-drop editors. Instead of manually typing source code, you can drag around page elements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Email Marketing
 
  Fake gurus claim that ChatGPT handles all their copywriting needs. Precise, detailed prompts supposedly make custom sales emails that match your tone and branding. The below image shows a sample AI-generated sales email.
 
 ![Sales Email for Cars on Gmail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gmail-email-sales.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  While ChatGPT can quickly write multiple sales emails, don’t expect positive results. Generic, sales-y templates yield low conversion rates.[Radicati](https://www.radicati.com/wp/wp-content/uploads/2015/02/Email-Statistics-Report-2015-2019-Executive-Summary.pdf) reports that consumers send and receive 120+ emails daily—they’ll automatically ignore low-effort promotions. Some might even flag your account as spam.
 
@@ -115,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 
 ![ChatGPT Explains the Meaning of AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-ai-explanation.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Meanwhile, the below image demonstrates how additional instructions change ChatGPT’s output.
 
 ![ChatGPT Explains AI Like Talking to a Five Year Old](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-simple-ai-explanation.jpg)
@@ -128,7 +128,7 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 ![Requesting ChatGPT to Bypass Restrictions and Make Predictions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt_as_dan_prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Although ChatGPT supposedly can’t make predictions, the DAN prompt allowed it to bypass restrictions and state unverified claims, as you can see below.
@@ -138,7 +138,7 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
  Since most people are new to AI chatbots, few can craft precise instructions. Users need skilled prompt engineers. They’ll pay for working, up-to-date prompts, which you can sell on[GitHub](https://github.com/) repositories, Reddit threads, and social media sites.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Explore Responsible Ways to Make Money With AI
@@ -162,20 +162,22 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-techniques-for-writing-eye-catching-podcast-summaries/"><u>[New] 2024 Approved Techniques for Writing Eye-Catching Podcast Summaries</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-endless-memories-free-saving-on-instagram-stories-for-2024/"><u>[New] Endless Memories FREE Saving on Instagram Stories for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/battle-through-errors-stabilizing-thunder-tier-one-performance-on-desktop-computers/"><u>Battle Through Errors: Stabilizing Thunder Tier One Performance on Desktop Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-solution-resolve-the-missing-bluetooth-feature-in-windows-11/"><u>Easy Solution: Resolve the Missing Bluetooth Feature in Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-itel-a70-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Itel A70? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-fix-fallout-3-stalling-issues-on-windows-10-a-step-by-step-guide/"><u>How to Fix Fallout 3 Stalling Issues on Windows 10 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-get-your-multiple-audio-systems-up-and-running-again/"><u>How to Get Your Multiple Audio Systems Up and Running Again</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-seamlessly-correct-javascript-errors-in-discord-applications/"><u>How to Seamlessly Correct JavaScript Errors in Discord Applications</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-android-and-ios-wedding-timer-apps-top-10-selection-revealed/"><u>In 2024, Android & iOS Wedding Timer Apps Top 10 Selection Revealed</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/key-features-and-attributes-in-driver-selection/"><u>Key Features and Attributes in Driver Selection</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/perfect-your-hd-vids-on-android-with-these-10-players/"><u>Perfect Your HD Vids on Android With These 10 Players</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/pop-sync-streamlining-song-placement-on-instagram-stories/"><u>Pop Sync Streamlining Song Placement on Instagram Stories</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/thrifty-smartwatch-or-shortcomings-exposed-a-comprehensive-review-of-the-mobvoi-ticwatch-e2/"><u>Thrifty Smartwatch or Shortcomings Exposed? A Comprehensive Review of the Mobvoi TicWatch E2</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/troubleshooting-how-to-speed-up-your-steam-game-performance/"><u>Troubleshooting: How to Speed Up Your Steam Game Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/uphere-m2n1-nvme-cooler-assessment-high-efficiency-low-cost-5-ssd-temperature-control/"><u>UpHere M2n1 NVMe Cooler Assessment: High-Efficiency, Low-Cost ($5) SSD Temperature Control</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-15-best-tools-to-capture-classroom-learning-moments-for-2024/"><u>[New] 15 Best Tools to Capture Classroom Learning Moments for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-unlock-professional-subtitle-transformation-at-zero-price/"><u>[New] In 2024, Unlock Professional Subtitle Transformation at Zero Price</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-vivid-storytelling-through-these-top-7-graders-strategies/"><u>[New] In 2024, Vivid Storytelling Through These Top 7 Graders' Strategies</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-boosting-vimeo-videos-accelerating-playback-for-2024/"><u>[Updated] Boosting Vimeo Videos Accelerating Playback for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-comprehensive-guide-to-platform-choice-and-management/"><u>2024 Approved Comprehensive Guide to Platform Choice and Management</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/1723085824198-ergonomic-and-convenient-moko-bluetooth-keyboard-ideal-for-all-devices/"><u>Ergonomic & Convenient MoKo Bluetooth Keyboard – Ideal for All Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-essential-handbook-to-professional-screen-recordings/"><u>In 2024, The Essential Handbook to Professional Screen Recordings</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/kya-aap-video-call-kar-sakty-ho-translate-any-hindi-video-into-english/"><u>Kya Aap Video Call Kar Sakty Ho Translate Any Hindi Video Into English</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximizing-your-email-capacity-tips-and-tricks-for-uploading-big-attachments-in-gmail/"><u>Maximizing Your Email Capacity: Tips and Tricks for Uploading Big Attachments in Gmail</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722957397805-mitigation-strategies-include-adjusting-ground-clamp-position-turning-off-interfering-components-and-modifying-welding-technique/"><u>Mitigation Strategies Include Adjusting Ground Clamp Position, Turning Off Interfering Components, and Modifying Welding Technique.</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-7-best-real-time-video-translation-apps/"><u>New 2024 Approved 7 Best Real Time Video Translation Apps</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-unlocking-global-audiences-top-video-language-converters/"><u>New In 2024, Unlocking Global Audiences Top Video Language Converters</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-srt-subtitle-translation-tools-and-techniques-for-2024/"><u>New SRT Subtitle Translation Tools and Techniques for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-the-best-ai-translator-to-translate-videos-online-for-2024/"><u>New The Best AI Translator to Translate Videos Online for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/top-8-multi-subtitles-translators-you-can-use/"><u>Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>Updated 2024 Approved A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-all-about-kapwing-video-translation/"><u>Updated 2024 Approved All About Kapwing Video Translation</u></a></li>
 </ul></div>
 
