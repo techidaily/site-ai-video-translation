@@ -1,7 +1,7 @@
 ---
 title: "Battle Through Errors: Stabilizing Thunder Tier One Performance on Desktop Computers"
-date: 2024-12-19T16:15:29.982Z
-updated: 2024-12-24T16:05:30.856Z
+date: 2024-12-30T21:10:14.438Z
+updated: 2025-01-01T19:25:13.633Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/d560ca9c3c8262a76b0a5ec32a0dcb8921bf59ea8
 If your Avatar: Frontiers of Pandora is stuttering and having low FPS issues, don’t worry, you’re not alone: many gamers are having this problem as well. We have here some fixes that have proven to be effective for other players. So if you’re still bothered by the low FPS and stuttering problem with your Avatar: Frontiers of Pandora, look no further, we have the fixes right here.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-52.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes for the low FPS and stuttering problem in Avatar: Frontiers of Pandora
 
@@ -44,7 +48,7 @@ To change the power mode:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
@@ -66,10 +70,14 @@ To make sure that you have the latest available updates installed:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then try your Avatar: Frontiers of Pandora again to see if it still stutters and its FPS still drops. If the problem remains, please move on to the next fix.
@@ -106,7 +114,7 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -128,10 +136,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-25.png)
 2. Select **Virus & threat protection** from the left side pane, then select **Manage settings** under Virus & threat protection settings.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-26.png)
 3. Scroll down a bit to select **Add or remove exclusions** under the**Exclusions** section.  
 
@@ -140,10 +144,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-29.png)
 5. There, you’ve successfully added**Avatar: Frontiers of Pandora** to the Windows Security exclusion list.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Restart Avatar: Frontiers of Pandora and see if its FPS still drops and stutters. If so, please move on.
 
@@ -157,7 +157,7 @@ To do so:
 * **[Ubisoft Connect](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5.1**Epic Games Launcher**
@@ -173,6 +173,10 @@ To verify the game’s files on Epic Games Launcher:
 
 4. When the validation is done, run your Avatar: Frontiers of Pandora again to see if the problems are fixed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5.2 Ubisoft Connect
 
 To verify the game’s files on Ubisoft Connect:
@@ -181,8 +185,16 @@ To verify the game’s files on Ubisoft Connect:
 2. Select**Properties** , then**Verify files** under Local files.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-30.png)
 3. If prompted, select**Repair** . Ubisoft Connect will then download and restore any missing or corrupted files.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-32.png)
 4. Then launch Avatar: Frontiers of Pandora again to see if the problems are sorted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this still doesn’t help, please move on.
 
@@ -202,15 +214,11 @@ If this still doesn’t help, please move on.
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-48.png)
 4. Change the value to**0** , then click**OK** to save.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-49.png)
 5. Then go to`**Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\ApplicationManagement\AllowGameDVR**` , and double-click**value** on the right-side panel.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-50.png)
@@ -233,15 +241,7 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-48.png)
 2. Select each resource-hogging application and click **End Task** to close them one by one.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then run Avatar: Frontiers of Pandora again and see if the low FPS and stuttering issues are fixed. If the problem still remains, please move on to the next fix below.
 
@@ -266,19 +266,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-unexpected-sideway-effects-in-ig-videos/"><u>[New] Exploring the Unexpected Sideway Effects in IG Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-imaginarium-collagecraft-cutting-edge-assembler/"><u>[New] In 2024, Imaginarium CollageCraft Cutting-Edge Assembler</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-optimize-your-storage-without-spending-a-penny-best-30-clouds-with-1tb-included/"><u>[New] Optimize Your Storage Without Spending a Penny Best 30 Clouds with 1TB Included</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-pioneering-approaches-to-logging-lol-rallies/"><u>[New] Pioneering Approaches to Logging LOL Rallies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-complete-windows-10-hacks-playbook/"><u>[Updated] In 2024, The Complete Windows 10 Hacks Playbook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-spectacular-results-with-hdr-portraits/"><u>[Updated] Unveiling Spectacular Results with HDR Portraits</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-sony-xperia-10-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa-in-2024/"><u>How to Translate Audio/Video Content From Spanish to English and Vice Versa, In 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/minecrafts-dark-screen-trouble-expert-advice-and-fixes/"><u>Minecraft's Dark Screen Trouble: Expert Advice and Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/number-of-females-surveyed-nfemale-756/"><u>Number of Females Surveyed (N_female) = 756</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>Updated 2024 Approved The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>Updated 2024 Approved Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-top-10-ai-subtitle-translators-for-content-creators-for-2024/"><u>Updated Top 10 AI Subtitle Translators for Content Creators for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>Updated Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-navigating-your-way-through-youtube-tvs-unique-offerings/"><u>[New] 2024 Approved Navigating Your Way Through YouTube TV's Unique Offerings</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-sky-perspectives-in-stunning-hd-a-mi-drone-reality/"><u>[New] 2024 Approved Sky Perspectives in Stunning HD A Mi Drone Reality</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-audience-enchantment-setting-tips-for-streams/"><u>[Updated] Audience Enchantment Setting Tips for Streams</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-clear-up-your-zoom-audio-flawlessly/"><u>2024 Approved Clear Up Your Zoom Audio Flawlessly</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-the-art-of-downloading-instagram-media/"><u>2024 Approved Mastering the Art of Downloading Instagram Media</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-gaming-experience-with-newly-released-steelseries-arctis-5-drivers-download-here/"><u>Enhance Your Gaming Experience with Newly Released SteelSeries Arctis 5 Drivers – Download Here!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-windows-cominterface-issue-with-precision/"><u>Fixing Windows COMInterface Issue with Precision</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-a-complete-guide-to-translate-video-with-google/"><u>In 2024, A Complete Guide To Translate Video With Google</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-translate-videos-with-subtitle-cat-your-essential-guide/"><u>New 2024 Approved Translate Videos with Subtitle Cat Your Essential Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-best-tool-to-translate-youtube-video-to-arabic/"><u>New Best Tool to Translate YouTube Video to Arabic</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-convert-video-voice-to-text-online-for-free-fast-and-easy-ways-for-2024/"><u>New Convert Video Voice to Text Online for Free Fast and Easy Ways for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-best-10-chinese-video-to-english-translator/"><u>New In 2024, Best 10 Chinese Video to English Translator</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-ultimate-guide-to-translating-youtube-videos-without-cc/"><u>New Ultimate Guide to Translating YouTube Videos Without CC</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/step-by-step-guide-how-to-translate-twitter-video-easily/"><u>Step-by-Step Guide How to Translate Twitter Video Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-snowblower-selection-guide-expert-tips-and-reviews-for-preparing-your-home-this-winter-techinsights/"><u>The Complete Snowblower Selection Guide: Expert Tips & Reviews for Preparing Your Home This Winter | TechInsights</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-elevate-your-content-with-the-best-free-video-translator-apps-for-2024/"><u>Updated Elevate Your Content with the Best Free Video Translator Apps for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Asus Makes History with the First-Ever ROG NUC - Combines Cutting-Edge Core Ultra 9 and Stunning RTX 4070 Graphics at an Unbeatable Starting Price of $1,629
-date: 2024-12-20T18:56:24.939Z
-updated: 2024-12-24T18:22:44.695Z
+date: 2024-12-29T20:19:10.749Z
+updated: 2025-01-02T04:11:30.421Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ These are the specifications of the two Asus ROG NUC models:
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,22 +68,19 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-comprehensive-manual-on-motion-detection-systems/"><u>[Updated] A Comprehensive Manual on Motion Detection Systems</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-tv-demystified-your-complete-reference/"><u>[Updated] YouTube TV Demystified Your Complete Reference</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-paving-pathways-in-pixels-the-leading-vr-treadmills-reviewed/"><u>2024 Approved Paving Pathways in Pixels The Leading VR Treadmills Reviewed</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-understanding-the-transformations-in-vegaspro-19/"><u>2024 Approved Understanding the Transformations in VegasPro '19</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-samsung-galaxy-a14-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Samsung Galaxy A14 5G Device SIM</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-youtube-videos-to-english-subtitles/"><u>How to Translate YouTube Videos to English Subtitles</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-network-drivers-and-wireless-card-software-in-windows-1110/"><u>How to Update Network Drivers and Wireless Card Software in Windows 11/10</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-use-korean-to-english-video-translators-for-creators-for-2024/"><u>New How To Use Korean to English Video Translators for Creators for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-must-have-apps-for-real-time-video-translation/"><u>New Must-Have Apps for Real-Time Video Translation</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-reaching-a-wider-audience-using-video-translation-in-tamil/"><u>New Reaching a Wider Audience Using Video Translation in Tamil</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-top-10-solutions-for-movie-subtitle-translation-making-things-perfect/"><u>New Top 10 Solutions for Movie Subtitle Translation Making Things Perfect</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-accessing-and-displaying-heic-images-on-your-windows-10-or-11-computer/"><u>Step-by-Step Guide: Accessing and Displaying HEIC Images on Your Windows 10 or 11 Computer</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-newbie-camera-choices-the-2024-list/"><u>Top Newbie Camera Choices The 2024 List</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-auto-translate-youtube-videos-into-different-languages/"><u>Updated 2024 Approved Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-best-10-chinese-video-to-english-translator/"><u>Updated 2024 Approved Best 10 Chinese Video to English Translator</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-auto-translate-youtube-videos-into-different-languages/"><u>Updated How To Auto Translate YouTube Videos Into Different Languages</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-cheapest-way-designing-successful-youtube-ad-campaigns/"><u>[New] The Cheapest Way Designing Successful YouTube Ad Campaigns</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-ultimate-web-compendium-alarm-rhythms-guidebook-for-2024/"><u>[New] Ultimate Web Compendium Alarm Rhythms Guidebook for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-joyful-account-access-instructions/"><u>[Updated] In 2024, Joyful Account Access Instructions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-simplifying-slide-sharing-using-your-webcam-effectively-for-2024/"><u>[Updated] Simplifying Slide Sharing Using Your Webcam Effectively for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-easy-ways-to-translate-tiktok-videos/"><u>2024 Approved Easy Ways to Translate TikTok Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-thwart-bots-surge-in-authentic-youtube-interest/"><u>2024 Approved Thwart Bots, Surge in Authentic YouTube Interest</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-fixes-for-audio-errors-overcome-playback-failure-with-ease/"><u>Effortless Fixes for Audio Errors - Overcome ‘Playback Failure’ with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-legal-trials-understanding-the-judicial-process/"><u>Exploring Legal Trials: Understanding the Judicial Process</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-best-video-translator-app-for-pc-you-cannot-miss/"><u>In 2024, Best Video Translator App for PC You Cannot Miss</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-everything-you-want-to-know-about-kapwing-video-translation-for-2024/"><u>New Everything You Want To Know About Kapwing Video Translation for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-9-best-french-video-translators-online-and-download-options/"><u>New In 2024, 9 Best French Video Translators Online and Download Options</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-cloud-services-on-android-the-ultimate-2024-compilation/"><u>Premium Cloud Services on Android The Ultimate 2024 Compilation</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-netflix-subtitle-translation-methods-comprehensive-guide/"><u>Updated Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-srt-subtitle-translation-tools-and-techniques/"><u>Updated SRT Subtitle Translation Tools and Techniques</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover the Power of NUC-Like AMD Ryzen Mini PC with a Stunning 4K Touchscreen, Impressive Ryzen 9 6900HX CPU, and Ultra Fast Storage
-date: 2024-12-23T19:16:59.559Z
-updated: 2024-12-24T17:38:27.007Z
+date: 2024-12-31T21:50:49.046Z
+updated: 2025-01-02T01:47:48.659Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,18 +89,24 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-achieving-professional-results-video-recordingediting-on-adobe-connect/"><u>[New] Achieving Professional Results Video Recording/Editing on Adobe Connect</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-expanding-viewable-area-of-youtube-recordings/"><u>[New] In 2024, Expanding Viewable Area of YouTube Recordings</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-techniques-to-achieve-crystal-clear-youtube-soundtracks/"><u>[Updated] Techniques to Achieve Crystal-Clear YouTube Soundtracks</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-a54-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy A54 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-unseen-social-media-hits-top-10-meme-pages/"><u>In 2024, Unseen Social Media Hits – Top 10 Meme Pages</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-5-best-chrome-extensions-you-can-use-to-translate-videos/"><u>New 5 Best Chrome Extensions You Can Use to Translate Videos</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-easy-steps-to-translate-video-on-twitter/"><u>New Easy Steps to Translate Video on Twitter</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-the-best-translator-to-translate-videos-online-for-2024/"><u>New The Best Translator to Translate Videos Online for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/nextgen-video-havens-step-away-from-youtube/"><u>NextGen Video Havens - Step Away From YouTube</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-essential-playbook-for-dodging-online-charlatans/"><u>The Essential Playbook for Dodging Online Charlatans</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps/"><u>Updated 2024 Approved Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-use-capcut-translate-to-transform-video-content/"><u>Updated How To Use CapCut Translate to Transform Video Content</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-how-to-use-capcut-translate-to-transform-video-content/"><u>Updated In 2024, How To Use CapCut Translate to Transform Video Content</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-simplified-screen-switching-utilizing-pip-mode-on-netflix-for-smooth-viewing/"><u>[New] Simplified Screen Switching Utilizing PIP Mode on Netflix for Smooth Viewing</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-cutting-edge-capture-selecting-top-smartphone-cameras-in-high-res-video/"><u>[Updated] 2024 Approved Cutting Edge Capture Selecting Top Smartphone Cameras in High-Res Video</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-expertly-elevating-images-premier-frame-apps-in-2e-24-for-2024/"><u>[Updated] Expertly Elevating Images Premier Frame Apps in 2E '24 for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-translate-any-hindi-video-into-english-with-ai/"><u>2024 Approved Translate Any Hindi Video Into English With AI</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cant-get-your-blue-yeti-to-work-here-are-some-quick-fixes/"><u>Can't Get Your Blue Yeti to Work? Here Are Some Quick Fixes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/demystifying-the-language-of-virtuality/"><u>Demystifying the Language of Virtuality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-error-messages-with-binkw32dll-the-essential-steps/"><u>Fixing Error Messages with binkw32.dll – The Essential Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-seamlessly-move-chrome-bookmarks-step-by-step-tutorial/"><u>Guide to Seamlessly Move Chrome Bookmarks – Step by Step Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-speaker-distortion-on-windows-117-a-step-by-step-guide/"><u>How to Fix Speaker Distortion on Windows 11/7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-best-10-free-video-translators-to-mitigate-translation-risks/"><u>In 2024, Best 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-strategies-for-engaging-elite-videography-talent/"><u>In 2024, Strategies for Engaging Elite Videography Talent</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>In 2024, Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/microsoft-teams-misuse-sparks-managerial-meltdown-the-unfortunate-outcome/"><u>Microsoft Teams Misuse Sparks Managerial Meltdown – The Unfortunate Outcome</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-best-toolbox-to-translate-youtube-videos-to-english-subtitles/"><u>New 2024 Approved Best Toolbox to Translate YouTube Videos to English Subtitles</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-all-about-kapwing-video-translation-for-2024/"><u>New All About Kapwing Video Translation for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-8-best-multi-subtitles-translators-you-shouldnt-miss/"><u>New In 2024, 8 Best Multi-Subtitles Translators You Shouldnt Miss</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-best-video-translator-app-for-pc-you-cannot-miss/"><u>New In 2024, Best Video Translator App for PC You Cannot Miss</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/step-by-step-guide-how-to-translate-tiktok-videos-for-2024/"><u>Step-by-Step Guide How to Translate TikTok Videos for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-netflix-subtitle-translation-methods-comprehensive-guide-for-2024/"><u>Updated Netflix Subtitle Translation Methods Comprehensive Guide for 2024</u></a></li>
 </ul></div>
 

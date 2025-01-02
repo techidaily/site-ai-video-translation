@@ -1,7 +1,7 @@
 ---
 title: How to Fix Fallout 3 Stalling Issues on Windows 10 - A Step-by-Step Guide
-date: 2024-12-22T16:05:04.808Z
-updated: 2024-12-24T16:09:22.716Z
+date: 2025-01-01T00:28:19.184Z
+updated: 2025-01-01T22:48:50.652Z
 tags:
   - win11
   - win10
@@ -38,7 +38,7 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 3. Tick the **Windowed** box under Mode.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windowed.jpg)
@@ -61,21 +61,25 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/default.jpg)
 4. Change the**bUseThreadedAI=0** into**bUseThreadedAI=1** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1.jpg)
 5. Add**iNumHWThreads=2** beneath it, then Save the change.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/folder.gif)
 6. Relaunch the game and check whether it solves the problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Change**compatibility** and run Fallout 3 as administrator
 
@@ -86,29 +90,21 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Right-click on Fallout 3.exe and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Open the dropdown menu and choose **Windows XP (Service Pack 3)** .
 6. Tick **Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe1.jpg)
 7. Click**Apply** \>**OK** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Run Fallout 3 to check whether the game is running properly.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Update your graphics card drivers
 
@@ -148,6 +144,10 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 5:**Reinstall**  Fallout 3
 
  If none of the fixes above works, it’s time to uninstall Fallout 3 and reinstall it. The broken system file may the reason for the freezes. Do a clean uninstall, then download the game and follow the[guide](https://tools.techidaily.com/drivereasy/download/) to set up the game.
@@ -173,16 +173,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-ace-facebooks-social-calendar-with-2023s-no-cost-resources/"><u>[New] 2024 Approved Ace Facebook's Social Calendar with 2023'S No-Cost Resources</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-complete-playbook-for-instagram-revenue-generation/"><u>2024 Approved The Complete Playbook for Instagram Revenue Generation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-the-key-variances-between-googles-bert-and-microsofts-gpt-models/"><u>Decoding the Key Variances Between Google's BERT and Microsoft's GPT Models</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experience-enhanced-gaming-free-logitech-g-pro-driver-installer-for-windows-pcs/"><u>Experience Enhanced Gaming: Free Logitech G Pro Driver Installer for Windows PCs</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-updated-intel-iris-plus-graphics-driver-for-optimal-performance-in-windows-11/"><u>How to Get Updated Intel Iris Plus Graphics Driver for Optimal Performance in Windows 11</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-best-video-language-changers-to-make-your-videos-accessible/"><u>In 2024, Best Video Language Changers to Make Your Videos Accessible</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-the-best-translator-to-translate-videos-online/"><u>New 2024 Approved The Best Translator to Translate Videos Online</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/the-best-ai-translator-to-translate-videos-online-for-2024/"><u>The Best AI Translator to Translate Videos Online for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-data-hunting-with-top-tier-perplexity-ai/"><u>Transform Your Data Hunting with Top-Tier Perplexity AI</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-pick-the-10-leading-video-upgrade-solutions-for-stunning-visuals/"><u>Ultimate Pick: The 10 Leading Video Upgrade Solutions for Stunning Visuals</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-top-10-ai-subtitle-translators-for-content-creators/"><u>Updated Top 10 AI Subtitle Translators for Content Creators</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-innovative-approaches-to-record-and-archive-roblox-gameplay-on-apple-systems/"><u>[New] In 2024, Innovative Approaches to Record & Archive Roblox Gameplay on Apple Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-chromatic-enhancement/"><u>[New] The Art of Chromatic Enhancement</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-youtube-channels-for-filmmakers-to-learn-filmmaking-tips-and-tutorials/"><u>[Updated] 2024 Approved YouTube Channels for Filmmakers to Learn Filmmaking Tips and Tutorials</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/4k-4/"><u>「4K解像度映像のダウンサイジング手順: 効果的な方法4選」</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-auto-translate-youtube-videos-into-different-languages/"><u>2024 Approved Auto Translate YouTube Videos Into Different Languages</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/guide-to-capturing-google-voice-chats-for-2024/"><u>Guide to Capturing Google Voice Chats for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-convert-video-voice-to-text-online-for-free/"><u>How To Convert Video Voice to Text Online for Free?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-bring-your-imaginations-to-life-time-lapse-photography-with-gopro-studio/"><u>In 2024, Bring Your Imaginations to Life Time-Lapse Photography with GoPro Studio</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-xiaomi-redmi-a2plus-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Xiaomi Redmi A2+ to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-maximize-yandex-translate-in-video-translation-and-beyond/"><u>In 2024, Maximize Yandex Translate in Video Translation and Beyond</u></a></li>
+<li><a href="https://win-able.techidaily.com/mlb-the-show-21-connection-error-fixed-update-now/"><u>MLB The Show 21 Connection Error Fixed - Update Now!</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/navigating-through-system-crashes-identifying-key-triggers-for-blue-screen-glitches-with-yls-guidance/"><u>Navigating Through System Crashes: Identifying Key Triggers for Blue Screen Glitches with YL's Guidance</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>New How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-how-to-convert-video-voice-to-text-online-for-free/"><u>New In 2024, How To Convert Video Voice to Text Online for Free?</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-must-have-apps-for-real-time-video-translation/"><u>New In 2024, Must-Have Apps for Real-Time Video Translation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-common-issues-with-outlooks-spelling-correction-feature/"><u>Solving Common Issues with Outlook's Spelling Correction Feature</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/top-10-ai-subtitle-translators-for-content-creators/"><u>Top 10 AI Subtitle Translators for Content Creators</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-top-9-choices-for-video-auto-translate/"><u>Updated In 2024, Top 9 Choices for Video Auto Translate</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>Updated Translate Audio/Video Content From Spanish to English and Vice Versa</u></a></li>
 </ul></div>
 

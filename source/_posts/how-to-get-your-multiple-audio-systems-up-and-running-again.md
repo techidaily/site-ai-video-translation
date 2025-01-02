@@ -1,7 +1,7 @@
 ---
 title: How to Get Your Multiple Audio Systems Up and Running Again
-date: 2024-12-22T17:03:47.042Z
-updated: 2024-12-24T17:33:18.338Z
+date: 2025-01-01T05:20:07.679Z
+updated: 2025-01-02T02:43:46.272Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 
  Are you looking for solid solutions for your Oculus Rift S mic not working issue? If yes, you’ve come to the right place. We’ve put together a full list of fixes that have helped other users solve the problem. Read and check it out!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; simply work your way down the list until you find the one that does the trick.
@@ -34,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 5. **[Change the power management settings](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Do some basic troubleshooting
@@ -47,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
  If you go through the steps above but the problem persists, move on to the more complicated fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Update your device drivers
@@ -82,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-1-1.jpg)
 3. Select**Microphone** on the left pane. Then, click the**Change** button and**toggle on** Microphone access for this device.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Scroll down and make sure the switch is**on** under Allow apps to access your microphone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/privacy-settings-1.jpg)
 4. Scroll to the Allow desktop apps to access your microphone section and **toggle on**  the button below.  
@@ -99,15 +99,11 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 2. Select**Small icons** next to View by, and then click**Sound** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-2.jpg)
 3. On the**Recording** tab, make sure your Oculus Rift S Microphone is**enabled** . Then right-click it and select**Set as Default Device** . If you don’t see your microphone listed, tick**Show Disabled Devices** first.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/rift-settings-1.jpg)
 4. Click your Oculus Rift S microphone and click**Properties** .  
@@ -116,14 +112,10 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 5. Navigate to the**Levels** tab. Make sure**the microphone is not muted** and**turn up the volume to the max** . Then click**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Are you able to use the Oculus Rift S mic now? If not, there is the last fix to try.
 
@@ -138,19 +130,27 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-2.jpg)
 3. Navigate to the**Power Management** tab and**untick the box** next to Allow the computer to turn off this device to save power. Then click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-3.jpg)
 4. If you have more than one USB root hubs, repeat the steps above to disable the power management for them all.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Go back to the Device Manager window, double-click**Oculus VR Devices** to expand the category.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-4.jpg)
 6. Righ-click**Rift Sensor** and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-5.jpg)
 7. Select the**Power Management** tab and **untick Allow the computer to turn off this device to save power** . Then, click**OK** to apply the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-6.jpg)
 8. Repeat the steps to disable the power-saving option of all the Rift sensors.
@@ -180,22 +180,16 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-convert-video-voice-to-text-online-for-free-fast-and-easy-ways/"><u>2024 Approved Convert Video Voice to Text Online for Free Fast and Easy Ways</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-how-to-auto-translate-youtube-videos-into-different-languages/"><u>2024 Approved How To Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-permission-restrictions-on-windows/"><u>Deciphering Permission Restrictions on Windows</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/economical-enhancement-tweets-to-animated-gifs-guide/"><u>Economical Enhancement Tweets to Animated GIFs Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-6-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 6 You Should Try Out</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-immersion-guide-uncovering-the-top-10-pc-headsets-for-virtual-video/"><u>In 2024, The Ultimate Immersion Guide Uncovering the Top 10 PC Headsets for Virtual Video</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-game-crash-errors-in-chinese-classic-legends-chapter-seven-for-a-seamless-experience/"><u>Overcoming Game Crash Errors in Chinese Classic Legends Chapter Seven for a Seamless Experience</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reviving-broken-mp4mov-video-files-solutions-with-vlc-player/"><u>Reviving Broken MP4/MOV Video Files - Solutions with VLC Player</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-boot-and-medd-on-windows/"><u>Secure Boot & MEDD on Windows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sky-magnificence-in-focus-leading-websites-uncovered-for-2024/"><u>Sky Magnificence in Focus Leading Websites Uncovered for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/top-8-multi-subtitles-translators-you-can-use-for-2024/"><u>Top 8 Multi-Subtitles Translators You Can Use for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-android-file-managers-in-depth-reviews-and-comparisons/"><u>Top Rated Android File Managers: In-Depth Reviews and Comparisons</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-translate-videos-with-subtitle-cat-your-essential-guide/"><u>Updated 2024 Approved Translate Videos with Subtitle Cat Your Essential Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-how-to-make-lip-sync-video-without-installing-any-app/"><u>Updated In 2024, How to Make Lip Sync Video Without Installing Any App</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-translate-any-hindi-video-into-english-with-ai/"><u>Updated In 2024, Translate Any Hindi Video Into English With AI</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-unlocking-global-audiences-top-video-language-converters/"><u>Updated In 2024, Unlocking Global Audiences Top Video Language Converters</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-leading-video-call-options-safe-small-enterprises-guide/"><u>[Updated] 2024 Approved Leading Video Call Options Safe Small Enterprises Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-webcam-applications-in-windows-our-choices/"><u>[Updated] Essential Webcam Applications in Windows Our Choices</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-olympic-thrills-amidst-snowy-bliss-in-beijing-2022/"><u>2024 Approved Olympic Thrills Amidst Snowy Bliss in Beijing 2022</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721429031447-cyber-savvy-needed-recognize-authenticity-in-tech-titles/"><u>Cyber Savvy Needed: Recognize Authenticity in Tech Titles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easily-monitor-hard-drive-capacity-on-windows-10-a-comprehensive-tutorial/"><u>Easily Monitor Hard Drive Capacity on Windows 10 - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-iphone-14-pro-max-for-free-by-drfone-ios/"><u>How To Unlock Cricket iPhone 14 Pro Max for Free</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-complete-guide-of-top-video-language-translators/"><u>New Complete Guide of Top Video Language Translators</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled-for-2024/"><u>New Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-best-5-udemy-subtitle-translator-auto-translation/"><u>Updated In 2024, Best 5 Udemy Subtitle Translator (Auto Translation)</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-easy-steps-to-translate-video-on-twitter/"><u>Updated In 2024, Easy Steps to Translate Video on Twitter</u></a></li>
 </ul></div>
 

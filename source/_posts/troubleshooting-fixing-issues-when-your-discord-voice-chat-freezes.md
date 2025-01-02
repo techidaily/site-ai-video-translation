@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Fixing Issues When Your Discord Voice Chat Freezes"
-date: 2024-12-22T18:41:30.374Z
-updated: 2024-12-24T16:15:16.269Z
+date: 2024-12-27T03:01:14.197Z
+updated: 2025-01-02T00:14:57.522Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 ## Troubleshooting: Speaking Up in Fortnite When Your Mic Fails
 
 **Voice chat not working in Fortnite?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -57,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Fortnite patch
@@ -84,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Make sure your microphone is on for Fortnite
 
  If you downloaded Fortnite from**the Microsoft Store** , check if it has permission to use your microphone. Here’s how to do it:
@@ -101,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap428.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
@@ -120,26 +120,18 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap431-1024x576.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 iii. Exit Fortnite.
 
  2\. On your desktop,**right-click** **the speaker icon** at the bottom-right corner, and then select**Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Click the **Playback** tab, select the speakers/headphones you’re using and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4\. Click the **Recording** tab, select the microphone you’re using and click **Set Default** .
@@ -150,6 +142,10 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6\. Click **OK** .
 
  7\. Run Fortnite again to**turn Voice Chat on.**
@@ -157,7 +153,7 @@ iii. Exit Fortnite.
  Join a squad to check ifchat is now working . If not, try the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Fortnite
@@ -169,12 +165,16 @@ iii. Exit Fortnite.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap940.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2\. Click**Uninstall** to uninstall Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap950.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. Restart your PC.
 
@@ -205,21 +205,16 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-vr-todays-technical-overview/"><u>[New] 2024 Approved VR Today's Technical Overview</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-future-sighted-the-foremost-cameras-excellence/"><u>[Updated] 2024 Approved Future Sighted The Foremost Cameras Excellence</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-top-10-steps-to-youtube-to-mpeg-conversion/"><u>[Updated] 2024 Approved Top 10 Steps to YouTube-to-MPEG Conversion</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-audience-favourite-debate-which-is-better-black-gopro-or-sony-fdr-x1000v-in-2024/"><u>[Updated] Audience Favourite Debate Which Is Better, Black GoPro or Sony FDR-X1000V, In 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/best-tool-to-translate-youtube-video-to-arabic/"><u>Best Tool to Translate YouTube Video to Arabic</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/editcanvas-solutions-for-2024/"><u>EditCanvas Solutions for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-apple-iphone-6s-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix Apple iPhone 6s Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-how-to-downloadsave-instagram-reels-video-in-2-ways/"><u>In 2024, How to Download/Save Instagram Reels Video in 2 Ways</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-how-to-translate-instagram-videos-for-global-engagement/"><u>In 2024, How to Translate Instagram Videos for Global Engagement</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-streamlined-collaborations-amplifying-your-video-impact/"><u>In 2024, Streamlined Collaborations Amplifying Your Video Impact</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-maximizing-yandex-translate-in-video-translation-and-beyond/"><u>New 2024 Approved Maximizing Yandex Translate in Video Translation and Beyond</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-a-complete-guide-to-translate-video-with-google-for-2024/"><u>New A Complete Guide To Translate Video With Google for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209636320-9781612834375-the-little-book-of-angel-healing/"><u>The Little Book of Angel Healing | Free Book</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-best-10-hindi-video-translators-with-step-by-step-guidance-for-2024/"><u>Updated Best 10 Hindi Video Translators with Step-by-Step Guidance for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa-for-2024/"><u>Updated How to Translate Audio/Video Content From Spanish to English and Vice Versa for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-best-tool-to-translate-youtube-video-to-arabic/"><u>Updated In 2024, Best Tool to Translate YouTube Video to Arabic</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-harnessing-the-power-of-hdr-an-advanced-guide-to-ps/"><u>[New] 2024 Approved Harnessing the Power of HDR An Advanced Guide to PS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-tailoring-audio-diminution-process/"><u>[New] 2024 Approved Tailoring Audio Diminution Process</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-best-9-french-video-translators-online-and-download-options/"><u>2024 Approved Best 9 French Video Translators Online and Download Options</u></a></li>
+<li><a href="https://article-files.techidaily.com/how-to-properly-terminate-and-delete-your-linkedin-account/"><u>How to Properly Terminate and Delete Your LinkedIn Account</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-instagram-videos-for-global-engagement-for-2024/"><u>How to Translate Instagram Videos for Global Engagement for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-understanding-the-criteria-for-youtube-comment-spotlighting/"><u>In 2024, Understanding the Criteria for YouTube Comment Spotlighting</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-best-video-language-changers-to-make-your-videos-accessible/"><u>New Best Video Language Changers to Make Your Videos Accessible</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-netflix-subtitle-translation-methods-comprehensive-guide/"><u>New In 2024, Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-11-logins-a-step-by-step-guide/"><u>Troubleshooting Windows 11 Logins: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-htc-u23-by-fonelab-android-recover-video/"><u>Undeleted lost videos from HTC U23</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-comprehensive-guide-for-free-video-translator-downloading/"><u>Updated In 2024, Comprehensive Guide for Free Video Translator Downloading</u></a></li>
 </ul></div>
 
