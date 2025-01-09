@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Correcting Minecraft's Crossbow Glitches
-date: 2024-12-25T16:53:10.239Z
-updated: 2025-01-02T03:26:03.692Z
+date: 2025-01-03T16:07:46.767Z
+updated: 2025-01-09T18:58:41.142Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 
 Some players are reporting that they can’t get past the Mojang screen. It looks like it’s hard to fix, and this problem can persist for months. If you’re one of them, don’t worry. In this post, you’ll find all the possible fixes with detailed troubleshooting steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just walk your way down until you find the one that works.
@@ -28,6 +32,10 @@ Some players are reporting that they can’t get past the Mojang screen. It look
 5. **[End the runtime broker](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Minecraft Launcher in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean reinstall](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Uninstall your antivirus software
 
@@ -69,15 +77,11 @@ There are mainly two ways to update your device drivers:
 3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -85,7 +89,7 @@ There are mainly two ways to update your device drivers:
  Once the driver is updated, you’d better restart your computer and try launching your Minecraft again to check if it can load normally. If unfortunately not, you can try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Remove the adware
@@ -112,10 +116,6 @@ There are mainly two ways to update your device drivers:
 
 1. Right-click the**Start** menu (the Windows logo) and select**Windows PowerShell (Admin).**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/admin.jpg)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you are on Windows 11, it will be**Terminal (Amin)** .  
 
@@ -147,7 +147,7 @@ If this method doesn’t work for you, then try the next fix, below.
 2. Right-click Minecraft, and select**Uninstall** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Once complete, type**%appdata%** in the Windows Search bar, and select the**%appdata%** folder.  
@@ -180,24 +180,24 @@ If this method doesn’t work for you, then try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-complete-audio-solution-for-incomplete-youtube-and-fb-sounds/"><u>[New] Complete Audio Solution for Incomplete YouTube and FB Sounds</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-counter-flow-strategy-reversing-your-youtube-video-sequence/"><u>[Updated] The Counter-Flow Strategy Reversing Your YouTube Video Sequence</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-7-best-real-time-video-translation-apps/"><u>2024 Approved 7 Best Real Time Video Translation Apps</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>2024 Approved Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-guide-resolving-iphone-mtp-external-hard-drive-drivers-for-seamless-file-transfers/"><u>Expert Guide: Resolving iPhone MTP External Hard Drive Drivers for Seamless File Transfers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-erasing-the-windows-restore-partition-on-your-computer/"><u>Guide: Erasing the Windows Restore Partition on Your Computer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harness-the-power-of-mematic-for-notes-for-2024/"><u>Harness the Power of Mematic for Notes for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-11-pro-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, iPhone 11 Pro Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-xiaomi-redmi-a2-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Xiaomi Redmi A2 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-netflix-subtitle-translation-methods-comprehensive-guide/"><u>New 2024 Approved Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-7-best-real-time-video-translation-apps-for-2024/"><u>New 7 Best Real Time Video Translation Apps for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-a-comprehensive-guide-for-free-video-translator-downloading-for-2024/"><u>New A Comprehensive Guide for Free Video Translator Downloading for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-tiktok-videos-top-5-auto-translate-tools/"><u>New How to Translate TikTok Videos Top 5 Auto Translate Tools</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-top-8-multi-subtitles-translators-you-can-use/"><u>New In 2024, Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
-<li><a href="https://win11.techidaily.com/regaining-windows-ethernet-connection-access/"><u>Regaining Windows Ethernet Connection Access</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oppo-find-x7-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Oppo Find X7 Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/top-10-hindi-video-translators-with-step-by-step-guidance/"><u>Top 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-se-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone SE Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-translate-live-video-making-it-possible-with-the-best-tool-for-2024/"><u>Updated Translate Live Video Making It Possible With The Best Tool for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/remier-cutting-suites-on-linux-systems-for-2024/"><u>[New] Premier Cutting Suites on Linux Systems for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-beyond-basiccams-prospects-of-elevated-performance-for-2024/"><u>[Updated] Beyond BasicCams Prospects of Elevated Performance for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-secrets-unlocked-starting-your-own-hit-gaming-stream-for-2024/"><u>[Updated] Secrets Unlocked Starting Your Own Hit Gaming Stream for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unusual-message-content-finding-myself-online/"><u>[Updated] Unusual Message Content Finding Myself Online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-tecno-spark-20-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Tecno Spark 20 Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/1723262374022-epic-gaming-deal-alert-cyberpower-desktop-only-999-nvidia-rtx-and-intel-core-inside/"><u>Epic Gaming Deal Alert - CyberPower Desktop, Only $999. Nvidia RTX & Intel Core Inside</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/experience-a-blend-of-vintage-and-cutting-edge-ayaneos-amd-am01-classic-inspired-desktop-goes-on-sale-now/"><u>Experience a Blend of Vintage and Cutting Edge: Ayaneo's AMD AM01 Classic Inspired Desktop Goes On Sale Now</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/fifa-championship-review-leading-the-charge-in-digital-athleticism/"><u>FIFA ⚽️ Championship Review: Leading the Charge in Digital Athleticism</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-vivo-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Vivo .</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-poco-c65-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Poco C65 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-zooming-practices-in-microsoft-teams/"><u>In 2024, Advanced Zooming Practices in Microsoft Teams</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-apple-iphone-6-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and Apple iPhone 6 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/key-considerations-to-keep-in-mind-prior-to-investing-in-restored-portable-pcs/"><u>Key Considerations to Keep in Mind Prior to Investing in Restored Portable PCs</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/navigating-the-world-of-hardware-with-toms-analysis/"><u>Navigating the World of Hardware with Tom's Analysis</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/revolutionary-msi-mini-pc-equipped-with-intel-raptor-lake-processor-and-unparalleled-four-ethernet-ports-for-ultra-performance/"><u>Revolutionary MSI Mini-PC Equipped with Intel Raptor Lake Processor and Unparalleled Four Ethernet Ports for Ultra Performance</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/samsung-galaxy-tab-s7-review-a-mid-tier-tablet-for-android-fans/"><u>Samsung Galaxy Tab S7 Review: A Mid-Tier Tablet for Android Fans</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/the-tech-virtuoso-tom-decoding-todays-hardware-innovations/"><u>The Tech Virtuoso, Tom: Decoding Today’s Hardware Innovations</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/toms-digital-discovery-zone-deciphering-the-world-of-computer-components/"><u>Tom's Digital Discovery Zone - Deciphering the World of Computer Components</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/unleashing-creativity-and-power-comprehensive-corsair-one-pro-gaming-pc-review/"><u>Unleashing Creativity & Power: Comprehensive Corsair One Pro Gaming PC Review</u></a></li>
 </ul></div>
 

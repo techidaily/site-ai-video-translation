@@ -1,7 +1,7 @@
 ---
 title: TSMC Unveils Groundbreaking 12.8 Tbps On-Package Optical Transmission - Revolutionizing AI with Advanced Silicon Photonics
-date: 2024-12-27T18:23:27.409Z
-updated: 2025-01-01T16:07:50.827Z
+date: 2025-01-08T17:13:06.928Z
+updated: 2025-01-09T17:06:20.168Z
 tags:
   - desktop
 categories:
@@ -16,7 +16,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
@@ -41,7 +41,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -67,16 +67,20 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-innovative-techniques-for-ppts-and-webcams-2023-edition/"><u>[New] In 2024, Innovative Techniques for PPTs and Webcams, 2023 Edition</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-conquer-youtube-vimeo-editing-5-advanced-trimming-strategies-for-2024/"><u>[Updated] Conquer YouTube-Vimeo Editing 5 Advanced Trimming Strategies for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-y27-4g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo Y27 4G Activity | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-guide-to-share-youtube-video-on-facebook/"><u>2024 Approved Guide to Share YouTube Video on Facebook</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-smooth-process-incorporating-igtv-in-stories/"><u>2024 Approved Smooth Process Incorporating IGTV in Stories</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/effective-ways-to-fix-a-disk-read-error-in-windows-tips-for-windows-1078xp-users/"><u>Effective Ways to Fix a Disk Read Error in Windows: Tips for Windows 10/7/8/XP Users</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-auto-translate-youtube-videos-into-different-languages/"><u>In 2024, Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-a-complete-guide-to-translate-video-with-google/"><u>New 2024 Approved A Complete Guide To Translate Video With Google</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-translate-videos-and-subtitles-with-veedio-for-2024/"><u>New Translate Videos and Subtitles with Veed.io for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-best-video-translator-app-for-pc-cannot-miss/"><u>Updated Best Video Translator App for PC Cannot Miss</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-top-10-hindi-video-translators-with-step-by-step-guidance-for-2024/"><u>Updated Top 10 Hindi Video Translators with Step-by-Step Guidance for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-maximizing-video-impact-zooming-strategies-for-snapchat/"><u>[New] 2024 Approved Maximizing Video Impact Zooming Strategies for Snapchat</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/echniques-for-discarding-backlogged-youtube-videos-for-2024/"><u>[New] Techniques for Discarding Backlogged YouTube Videos for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-winning-windows-sound-engineers/"><u>[Updated] In 2024, Winning Windows Sound Engineers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-ringtone-recommendations-for-your-chromium-phone-for-2024/"><u>[Updated] Ringtone Recommendations for Your Chromium Phone for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/beating-black-screen-error-in-cod-wwii-on-windows-machines-a-step-by-step-guide/"><u>Beating Black Screen Error in COD: WWII on Windows Machines – A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/beginners-guide-to-all-things-vector-images-overview-types-and-software-choices/"><u>Beginner’s Guide to All Things Vector Images- Overview, Types, and Software Choices</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/dota-2-wont-start-troubleshooting-fixes-for-persistent-loading-issues/"><u>Dota 2 Won't Start? Troubleshooting Fixes for Persistent Loading Issues</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-depth-evaluation-of-the-samsung-cf591-for-avid-gamers/"><u>In-Depth Evaluation of the Samsung CF591 for Avid Gamers</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/lego-star-wars-the-skywalker-saga-fixing-the-pc-game-crash/"><u>Lego Star Wars: The Skywalker Saga - Fixing the PC Game Crash</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/mastering-resilience-the-unbreakable-loop-of-african-american-continuity/"><u>Mastering Resilience: The Unbreakable Loop of African American Continuity</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-vivo-x100-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo X100 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-huion-pen-5-rapid-fixes-for-a-smooth-drawing-experience/"><u>Reviving Your Huion Pen: 5 Rapid Fixes for a Smooth Drawing Experience</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/troubleshooting-logitech-g-pro-x-mic-solutions-for-non-functional-audio/"><u>Troubleshooting Logitech G Pro X Mic: Solutions for Non-Functional Audio</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/troubleshooting-steps-when-your-astro-a50-headset-is-unresponsive-with-the-command-center/"><u>Troubleshooting Steps When Your Astro A50 Headset Is Unresponsive with the Command Center</u></a></li>
 </ul></div>
 

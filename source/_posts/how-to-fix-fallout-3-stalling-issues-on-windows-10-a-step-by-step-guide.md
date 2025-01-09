@@ -1,7 +1,7 @@
 ---
 title: How to Fix Fallout 3 Stalling Issues on Windows 10 - A Step-by-Step Guide
-date: 2025-01-01T00:28:19.184Z
-updated: 2025-01-01T22:48:50.652Z
+date: 2025-01-05T19:11:21.315Z
+updated: 2025-01-09T18:50:17.596Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 Fallout 3 is an old but classic game. Although Fallout 3 can be installed and played on Windows 10 (read[this article](https://tools.techidaily.com/drivereasy/download/) to learn how), you may meet the freezing problem now and then at any random moment.  
  Here are a few methods that can help you get rid of this freezing issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these methods
 
  There’re 5 fixes that have helped many gamers solve their freezing problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -28,6 +32,10 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 4. **[Update your graphics card drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Fallout 3](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Play in Windowed mode
 
  Sometimes, game freezing issue can be easily solved by changing the game’s display options. Play the game in Windowed mode when you meet freezes. This method can let you play without freezes for hours.
@@ -37,12 +45,12 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option.jpg)
 3. Tick the **Windowed** box under Mode.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windowed.jpg)
 4. Relaunch the game and check whether it will freeze or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If using dual monitors, disable your second one from your**Windows display settings** .  
  Ensure that the resolution of the game matches that of your display monitors.
@@ -61,25 +69,17 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/default.jpg)
 4. Change the**bUseThreadedAI=0** into**bUseThreadedAI=1** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1.jpg)
 5. Add**iNumHWThreads=2** beneath it, then Save the change.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/folder.gif)
 6. Relaunch the game and check whether it solves the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Change**compatibility** and run Fallout 3 as administrator
 
@@ -90,8 +90,16 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Right-click on Fallout 3.exe and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Open the dropdown menu and choose **Windows XP (Service Pack 3)** .
 6. Tick **Run this program as an administrator** .  
@@ -101,10 +109,6 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 8. Run Fallout 3 to check whether the game is running properly.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Update your graphics card drivers
 
@@ -144,10 +148,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 5:**Reinstall**  Fallout 3
 
  If none of the fixes above works, it’s time to uninstall Fallout 3 and reinstall it. The broken system file may the reason for the freezes. Do a clean uninstall, then download the game and follow the[guide](https://tools.techidaily.com/drivereasy/download/) to set up the game.
@@ -173,24 +173,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-innovative-approaches-to-record-and-archive-roblox-gameplay-on-apple-systems/"><u>[New] In 2024, Innovative Approaches to Record & Archive Roblox Gameplay on Apple Systems</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-art-of-chromatic-enhancement/"><u>[New] The Art of Chromatic Enhancement</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-youtube-channels-for-filmmakers-to-learn-filmmaking-tips-and-tutorials/"><u>[Updated] 2024 Approved YouTube Channels for Filmmakers to Learn Filmmaking Tips and Tutorials</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/4k-4/"><u>「4K解像度映像のダウンサイジング手順: 効果的な方法4選」</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-auto-translate-youtube-videos-into-different-languages/"><u>2024 Approved Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/guide-to-capturing-google-voice-chats-for-2024/"><u>Guide to Capturing Google Voice Chats for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-convert-video-voice-to-text-online-for-free/"><u>How To Convert Video Voice to Text Online for Free?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-bring-your-imaginations-to-life-time-lapse-photography-with-gopro-studio/"><u>In 2024, Bring Your Imaginations to Life Time-Lapse Photography with GoPro Studio</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-xiaomi-redmi-a2plus-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Xiaomi Redmi A2+ to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-maximize-yandex-translate-in-video-translation-and-beyond/"><u>In 2024, Maximize Yandex Translate in Video Translation and Beyond</u></a></li>
-<li><a href="https://win-able.techidaily.com/mlb-the-show-21-connection-error-fixed-update-now/"><u>MLB The Show 21 Connection Error Fixed - Update Now!</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/navigating-through-system-crashes-identifying-key-triggers-for-blue-screen-glitches-with-yls-guidance/"><u>Navigating Through System Crashes: Identifying Key Triggers for Blue Screen Glitches with YL's Guidance</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>New How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-how-to-convert-video-voice-to-text-online-for-free/"><u>New In 2024, How To Convert Video Voice to Text Online for Free?</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-must-have-apps-for-real-time-video-translation/"><u>New In 2024, Must-Have Apps for Real-Time Video Translation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-common-issues-with-outlooks-spelling-correction-feature/"><u>Solving Common Issues with Outlook's Spelling Correction Feature</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/top-10-ai-subtitle-translators-for-content-creators/"><u>Top 10 AI Subtitle Translators for Content Creators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-top-9-choices-for-video-auto-translate/"><u>Updated In 2024, Top 9 Choices for Video Auto Translate</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>Updated Translate Audio/Video Content From Spanish to English and Vice Versa</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-elevate-your-live-streaming-expert-camrecorder-guidance-for-2024/"><u>[New] Elevate Your Live Streaming Expert CamRecorder Guidance for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-from-screens-to-social-shares-your-guide-to-popular-metaverse-memes/"><u>[New] In 2024, From Screens to Social Shares Your Guide to Popular Metaverse Memes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-innovative-approaches-to-capturing-skype-calls-on-obs/"><u>[Updated] 2024 Approved Innovative Approaches to Capturing Skype Calls on OBS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-safe-mp4-extraction-from-youtube-videos/"><u>[Updated] 2024 Approved Safe MP4 Extraction From YouTube Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-leading-360-degree-pro-cams-2023-edition-review/"><u>2024 Approved Leading 360-Degree Pro Cams 2023 Edition Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/auditory-ambiance-music-in-instagrams-visual-narratives/"><u>Auditory Ambiance Music in Instagram's Visual Narratives</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/best-10-hindi-video-translators-with-step-by-step-guidance/"><u>Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/best-video-language-changers-to-make-your-videos-accessible-for-2024/"><u>Best Video Language Changers to Make Your Videos Accessible for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/create-lip-sync-tiktok-videos-without-installing-any-app/"><u>Create Lip Sync TikTok Videos Without Installing Any App</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-chatgpt-written-world-top-6-game-journeys/"><u>Dive Into ChatGPT' Written World: Top 6 Game Journeys</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/masterclass-8-selecting-top-live-stream-cameras-for-2024/"><u>Masterclass 8 Selecting Top Live Stream Cameras for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-teamwork-in-the-cloud-effective-strategies-for-working-together-on-apple-pages-using-icloud-zdnet/"><u>Mastering Teamwork in the Cloud: Effective Strategies for Working Together on Apple Pages Using iCloud (ZDNet)</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-reaching-a-wider-audience-using-video-translation-in-tamil/"><u>New In 2024, Reaching a Wider Audience Using Video Translation in Tamil</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-how-to-translate-youtube-videos-to-english-subtitles/"><u>Updated 2024 Approved How to Translate YouTube Videos to English Subtitles</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-how-to-translate-youtube-videos-without-cc/"><u>Updated 2024 Approved How to Translate YouTube Videos Without CC</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-translate-video-from-english-to-arabic-with-ease/"><u>Updated In 2024, Translate Video From English to Arabic with Ease</u></a></li>
 </ul></div>
 

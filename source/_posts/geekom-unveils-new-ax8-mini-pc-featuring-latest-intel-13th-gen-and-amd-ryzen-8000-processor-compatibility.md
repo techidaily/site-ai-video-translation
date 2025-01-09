@@ -1,7 +1,7 @@
 ---
 title: GeekOm Unveils New AX8 Mini PC Featuring Latest Intel 13Th Gen & AMD Ryzen 8000 Processor Compatibility
-date: 2024-12-31T05:03:30.833Z
-updated: 2025-01-01T21:47:16.131Z
+date: 2025-01-07T19:36:49.345Z
+updated: 2025-01-09T17:29:25.983Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,24 +89,21 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/rafting-revenue-in-20-second-chunks-youtube-shorts-magic-for-2024/"><u>[New] Crafting Revenue in 20-Second Chunks YouTube Shorts Magic for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/1-la-technique-optimale-pour-reduire-la-taille-des-videos-avant-leur-partage-sur-facebook/"><u>1. La Technique Optimale Pour Réduire La Taille Des Vídeos Avant Leur Partage Sur Facebook</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-best-tool-to-translate-youtube-video-to-arabic/"><u>2024 Approved Best Tool to Translate YouTube Video to Arabic</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-translate-videos-with-subtitle-cat-your-essential-guide/"><u>2024 Approved Translate Videos with Subtitle Cat Your Essential Guide</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/1728498810722-windows-111087/"><u>回復策略諮詢：改進您 Windows 11/10/8/7 系統文件恢復效果</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/google-translate-video-a-complete-guide-to-translate-video-with-google-for-2024/"><u>Google Translate Video A Complete Guide To Translate Video With Google for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-tiktok-videos-top-5-auto-translate-tools/"><u>How to Translate TikTok Videos Top 5 Auto Translate Tools</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-custom-screensavers/"><u>Mastering Windows 11 Custom Screensavers</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-best-5-udemy-subtitle-translator-auto-translation-for-2024/"><u>New Best 5 Udemy Subtitle Translator (Auto Translation) for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-all-about-kapwing-video-translation/"><u>New In 2024, All About Kapwing Video Translation</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-comprehensive-guide-for-free-video-translator-downloading/"><u>New In 2024, Comprehensive Guide for Free Video Translator Downloading</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-top-10-solutions-for-movie-subtitle-translation-making-things-perfect/"><u>New In 2024, Top 10 Solutions for Movie Subtitle Translation Making Things Perfect</u></a></li>
-<li><a href="https://extra-information.techidaily.com/prime-locations-for-youtube-content-exposure/"><u>Prime Locations for YouTube Content Exposure</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-translate-live-video-making-it-possible-with-the-best-tool/"><u>Updated In 2024, Translate Live Video Making It Possible With The Best Tool</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-realme-v30-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Realme V30 Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/zero-cost-solution-effizienter-automatischer-import-von-fotos-und-videos-in-onedrive/"><u>Zero Cost Solution: Effizienter Automatischer Import Von Fotos Und Videos in OneDrive</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-elevate-your-video-storytelling-with-effective-markers/"><u>[New] In 2024, Elevate Your Video Storytelling with Effective Markers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-interconnecting-your-music-collection-across-services/"><u>[New] Interconnecting Your Music Collection Across Services</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-detailed-walkthrough-to-flawless-youtube-videos-using-imovie-software/"><u>[Updated] In 2024, Detailed Walkthrough to Flawless YouTube Videos Using iMovie Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-premium-free-fb-imagemotion-graphics-builder-for-2024/"><u>[Updated] Premium Free FB Image/Motion Graphics Builder for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-5-best-apps-for-voice-translation-from-english-to-bangla/"><u>2024 Approved 5 Best Apps for Voice Translation From English to Bangla</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-honor-magic5-ultimate-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guide-converting-and-downloading-docmeded-tutorials-in-multiple-formats-mp4-mp3-mov-avi/"><u>Guide: Converting and Downloading DocmedEd Tutorials in Multiple Formats (MP4, MP3, MOV, AVI)</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-use-capcut-translate-to-transform-video-content/"><u>How To Use CapCut Translate to Transform Video Content</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-s18-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo S18 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-how-to-use-capcut-translate-to-transform-video-content/"><u>In 2024, How To Use CapCut Translate to Transform Video Content</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-srt-revelation-transforming-computer-performance/"><u>In 2024, SRT Revelation Transforming Computer Performance</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-voice-translation-english-to-bangla-online-and-offline-apps/"><u>In 2024, Voice Translation English to Bangla Online and Offline Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-fixes-for-creative-block-photoshop-stuck-in-windows-1011/"><u>Key Fixes for Creative Block: Photoshop Stuck in Windows 10/11</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-comprehensive-guide-for-free-video-translator-downloading/"><u>New Comprehensive Guide for Free Video Translator Downloading</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-all-about-kapwing-video-translation-for-2024/"><u>Updated All About Kapwing Video Translation for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-convert-video-voice-to-text-online-for-free/"><u>Updated How To Convert Video Voice to Text Online for Free?</u></a></li>
 </ul></div>
 

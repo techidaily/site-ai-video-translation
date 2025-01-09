@@ -1,7 +1,7 @@
 ---
 title: Asus Makes History with the First-Ever ROG NUC - Combines Cutting-Edge Core Ultra 9 and Stunning RTX 4070 Graphics at an Unbeatable Starting Price of $1,629
-date: 2024-12-29T20:19:10.749Z
-updated: 2025-01-02T04:11:30.421Z
+date: 2025-01-05T16:00:08.378Z
+updated: 2025-01-09T16:09:27.854Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ These are the specifications of the two Asus ROG NUC models:
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,19 +68,14 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-cheapest-way-designing-successful-youtube-ad-campaigns/"><u>[New] The Cheapest Way Designing Successful YouTube Ad Campaigns</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-ultimate-web-compendium-alarm-rhythms-guidebook-for-2024/"><u>[New] Ultimate Web Compendium Alarm Rhythms Guidebook for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-joyful-account-access-instructions/"><u>[Updated] In 2024, Joyful Account Access Instructions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-simplifying-slide-sharing-using-your-webcam-effectively-for-2024/"><u>[Updated] Simplifying Slide Sharing Using Your Webcam Effectively for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-easy-ways-to-translate-tiktok-videos/"><u>2024 Approved Easy Ways to Translate TikTok Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-thwart-bots-surge-in-authentic-youtube-interest/"><u>2024 Approved Thwart Bots, Surge in Authentic YouTube Interest</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-fixes-for-audio-errors-overcome-playback-failure-with-ease/"><u>Effortless Fixes for Audio Errors - Overcome ‘Playback Failure’ with Ease</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-legal-trials-understanding-the-judicial-process/"><u>Exploring Legal Trials: Understanding the Judicial Process</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-best-video-translator-app-for-pc-you-cannot-miss/"><u>In 2024, Best Video Translator App for PC You Cannot Miss</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-everything-you-want-to-know-about-kapwing-video-translation-for-2024/"><u>New Everything You Want To Know About Kapwing Video Translation for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-9-best-french-video-translators-online-and-download-options/"><u>New In 2024, 9 Best French Video Translators Online and Download Options</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premium-cloud-services-on-android-the-ultimate-2024-compilation/"><u>Premium Cloud Services on Android The Ultimate 2024 Compilation</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-netflix-subtitle-translation-methods-comprehensive-guide/"><u>Updated Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-srt-subtitle-translation-tools-and-techniques/"><u>Updated SRT Subtitle Translation Tools and Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-primary-movie-document-review-and-backup-titles/"><u>[New] 2024 Approved Primary Movie Document Review and Backup Titles</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-unleashing-youtube-talent-the-best-themes-for-channel-growth/"><u>[Updated] 2024 Approved Unleashing YouTube Talent The Best Themes for Channel Growth</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/4-effective-methods-fake-gps-location-on-apple-iphone-8ipad-drfone-by-drfone-virtual-ios/"><u>4 Effective Methods Fake GPS Location on Apple iPhone 8/iPad | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-fix-fallout-3-stalling-issues-on-windows-10-a-step-by-step-guide/"><u>How to Fix Fallout 3 Stalling Issues on Windows 10 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-seamlessly-correct-javascript-errors-in-discord-applications/"><u>How to Seamlessly Correct JavaScript Errors in Discord Applications</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/thrifty-smartwatch-or-shortcomings-exposed-a-comprehensive-review-of-the-mobvoi-ticwatch-e2/"><u>Thrifty Smartwatch or Shortcomings Exposed? A Comprehensive Review of the Mobvoi TicWatch E2</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-tecno-camon-30-pro-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Tecno Camon 30 Pro 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/troubleshooting-how-to-speed-up-your-steam-game-performance/"><u>Troubleshooting: How to Speed Up Your Steam Game Performance</u></a></li>
 </ul></div>
 

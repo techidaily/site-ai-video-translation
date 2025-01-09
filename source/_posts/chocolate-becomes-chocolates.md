@@ -1,7 +1,7 @@
 ---
 title: Chocolate Becomes Chocolates
-date: 2024-12-29T03:14:13.499Z
-updated: 2025-01-02T05:19:58.387Z
+date: 2025-01-06T16:10:30.182Z
+updated: 2025-01-09T17:36:28.772Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000022.png)
 
 **Want to reduce your CS: GO lag?** You’ve come to the right place! Although it is very frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -45,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap701.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _modem_
@@ -80,21 +84,17 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000027.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000028.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Modify your graphics card settings
 
@@ -110,10 +110,6 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap401.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) View Control Panel by **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap405.jpg)
@@ -121,10 +117,6 @@ _wireless router_
  3) Select**NVIDIA Control Panel**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap403-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click**3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .
 
@@ -140,21 +132,25 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap405-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select your**AMD Radeon Settings** to open it.
 
  4) Go to**Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap419.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### If you’re using Intel graphics card
 
  1) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap401-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) View the Control Panel by **Large icons** .
 
@@ -168,10 +164,6 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap422-1024x768.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click**Scan** to add your **CS: Go** to the application list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap423-1024x768.jpg)
@@ -184,11 +176,11 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap424-1.jpg)
 
- Run the game again to see if this issue is resolved. If not, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Run the game again to see if this issue is resolved. If not, try the next fix, below.
 
 ### Fix 4: Lower in-game settings
 
@@ -202,11 +194,19 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000031.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) If CS: GO still lags, try playing the game in**windowed mode** and **lowering the resolution** of your **CS: GO** . And make sure you **DISABLED** **Laptop Power Savings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000032.png)
 
  Launch CS: GO and check you fixed this issue. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Restrict applications and downloads in the background
 
@@ -219,6 +219,10 @@ _wireless router_
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap52.jpg)
 
  Run CS: GO again to see if you can play the game smoothly. It CS: GO still lags, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Change the power plan of your PC
 
@@ -246,10 +250,6 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap932.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the pop-up window, click**Settings…**  in the **Performance**  section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap934.png)
@@ -257,6 +257,10 @@ _wireless router_
  4) Select**Adjust for best performance**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap935.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch CS: GO to see if it still lags. If this issue persists, try the next fix to disable CPU Core Parking.
 
@@ -273,10 +277,6 @@ _wireless router_
  2) In the pop-up window, navigate to the**Boot** tab and click **Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap414-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check the box in front of**Number of processors** and choose a **maximum** number of processors. Then click **OK** to save the settings.
 
@@ -310,21 +310,24 @@ Launch CS: GO to see if you resolved the game lag issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-becoming-an-instagram-video-conversation-guru-your-ultimate-guide/"><u>[New] Becoming an Instagram Video Conversation Guru Your Ultimate Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-perfect-your-strategy-top-rated-techniques-for-video-marketing/"><u>[New] Perfect Your Strategy Top-Rated Techniques for Video Marketing</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-insight-into-why-certain-youtube-comments-are-showcased/"><u>[Updated] Insight Into Why Certain YouTube Comments Are Showcased</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-top-10-free-video-translators-to-mitigate-translation-risks/"><u>2024 Approved Top 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/best-5-udemy-subtitle-translator-auto-translation-for-2024/"><u>Best 5 Udemy Subtitle Translator (Auto Translation) for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-most-popular-ios-apps-based-on-apples-rankings-explore-with-zdnet/"><u>Discover the Most Popular iOS Apps Based on Apple's Rankings - Explore with ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-civi-3-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Civi 3 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-starfields-cut-out-sounds-the-ultimate-fix-guide-for-gamers/"><u>Overcoming Starfield's Cut-Out Sounds: The Ultimate Fix Guide for Gamers</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/srt-subtitle-translation-tools-and-techniques-for-2024/"><u>SRT Subtitle Translation Tools and Techniques for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-art-of-description-crafting-compelling-podcast-hooks-for-2024/"><u>The Art of Description Crafting Compelling Podcast Hooks for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/unlocking-global-audiences-top-video-language-converters-for-2024/"><u>Unlocking Global Audiences Top Video Language Converters for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-create-lip-sync-tiktok-videos-without-installing-any-app-for-2024/"><u>Updated Create Lip Sync TikTok Videos Without Installing Any App for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-kya-aap-video-call-kar-sakty-ho-translate-any-hindi-video-into-english/"><u>Updated Kya Aap Video Call Kar Sakty Ho Translate Any Hindi Video Into English</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide-for-2024/"><u>Updated Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-art-of-captivating-your-online-audience/"><u>[New] In 2024, The Art of Captivating Your Online Audience</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-navigate-the-vlogiverse-6-curated-questionnaires-for-discerning-viewers/"><u>[New] Navigate the Vlogiverse 6 Curated Questionnaires for Discerning Viewers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-impact-of-weather-on-syma-x8c-performance/"><u>[Updated] The Impact of Weather on Syma X8C Performance</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/1629-asus-rog-nuc-a-competitive-entry-level-sku-packed-with-core-ultra-7-155h-and-rtx-4060/"><u>$1,629 Asus ROG NUC - A Competitive Entry-Level SKU Packed With Core Ultra 7 155H & RTX 4060</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-nurturing-nature-on-android-animals-in-a-virtual-world/"><u>2024 Approved Nurturing Nature on Android Animals in a Virtual World</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/elevate-your-mini-pc-experience-with-asus-nuc-14-boasting-core-i9-and-rtx-graphics-for-enthusiasts/"><u>Elevate Your Mini-PC Experience with Asus NUC #14, Boasting Core I9 & RTX Graphics for Enthusiasts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-motorola-moto-e13-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Motorola Moto E13</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-a2plusfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi A2+FRP Lock</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/intels-cutting-edge-leap-in-high-speed-connectivity-introducing-the-optical-interconnect-for-gpus-and-cpus-with-4tbps-bandwidth-capabilities/"><u>Intel's Cutting-Edge Leap in High-Speed Connectivity: Introducing the Optical Interconnect for GPUs and CPUs with 4TBPS Bandwidth Capabilities</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/introducing-the-all-in-one-tech-marvel-full-amd-ryzen-pc-and-convenient-foldable-keyboard-including-trackpad-simply-requires-a-monitor-for-completion/"><u>Introducing The All-In-One Tech Marvel: Full AMD Ryzen PC and Convenient Foldable Keyboard Including Trackpad, Simply Requires a Monitor for Completion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-image-stabilization-action-recorders/"><u>Premier Image Stabilization Action Recorders</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/squadrons-the-next-chapter-of-star-wars-gaming-in-depth-combat-experience-breakdown-and-critique/"><u>Squadrons: The Next Chapter of Star Wars Gaming - In-Depth Combat Experience Breakdown & Critique</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/strategic-maneuvering-lenovo-deploys-loongson-cpus-to-bolster-cloud-servers-and-counteract-us-sanctions/"><u>Strategic Maneuvering: Lenovo Deploys Loongson CPUs to Bolster Cloud Servers and Counteract U.S. Sanctions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-finest-11-streaming-sound-recorders-for-2024/"><u>The Finest 11 Streaming Sound Recorders for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/the-sibolan-szbox-s6nce-an-affordable-mini-pc-in-classic-colors-powered-by-legacy-ryzen-chips/"><u>The Sibolan SZBox S6nce: An Affordable Mini PC in Classic Colors, Powered by Legacy Ryzen Chips</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/top-reviews-for-your-next-adventure-delving-into-minecraft-campfire-tales-bundle/"><u>Top Reviews for Your Next Adventure - Delving Into Minecraft Campfire Tales Bundle</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-guide-resolving-issues-with-the-non-functioning-facebook-messenger-application/"><u>Troubleshooting Guide: Resolving Issues with the Non-Functioning Facebook Messenger Application</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/unveiling-the-latest-in-electronics-with-toms-hardware-analysis/"><u>Unveiling the Latest in Electronics with Tom’s Hardware Analysis</u></a></li>
 </ul></div>
 

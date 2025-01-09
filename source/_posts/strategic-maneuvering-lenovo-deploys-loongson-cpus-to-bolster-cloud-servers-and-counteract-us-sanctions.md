@@ -1,7 +1,7 @@
 ---
 title: "Strategic Maneuvering: Lenovo Deploys Loongson CPUs to Bolster Cloud Servers and Counteract U.S. Sanctions"
-date: 2024-12-30T01:54:19.336Z
-updated: 2025-01-02T01:21:43.681Z
+date: 2025-01-05T18:12:40.044Z
+updated: 2025-01-09T17:10:15.917Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,15 +60,15 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-facebook-launching-your-first-phenomenal-giving-post/"><u>[New] Facebook Launching Your First Phenomenal Giving Post</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-uncover-exquisite-vr-trails-for-bikers/"><u>[New] Uncover Exquisite VR Trails for Bikers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-genius-behind-effective-podcast-visual-identity/"><u>[Updated] 2024 Approved The Genius Behind Effective Podcast Visual Identity</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-translate-live-video-making-it-possible-with-the-best-tool/"><u>2024 Approved Translate Live Video Making It Possible With The Best Tool</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ace-your-archiving-leading-document-and-photograph-converters-reviewed/"><u>Ace Your Archiving: Leading Document and Photograph Converters Reviewed</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Google Pixel 8? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-the-ipvanish-vpn-landscape-an-in-depth-review-by-zdnet-reveals-rich-functionality-options/"><u>Navigating the IPVanish VPN Landscape: An In-Depth Review by ZDNet Reveals Rich Functionality Options</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>Updated 2024 Approved Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps/"><u>Updated In 2024, Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-top-7-video-language-converter-online-free-for-2024/"><u>Updated Top 7 Video Language Converter Online Free for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-top-cloud-storages-essential-choices-for-you/"><u>[Updated] Top Cloud Storages Essential Choices for You</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/airdrop-nicht-finden-problemlose-tipps-fur-nutzer-von-iphone-14131211-und-x-perfektioniere-ihre-bluetoothfreundlichkeit/"><u>AirDrop Nicht Finden? Problemlöse-Tipps Für Nutzer Von iPhone 14/13/12/11 Und X – Perfektioniere Ihre Bluetoothfreundlichkeit!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/make-waves-in-the-social-ocean-integrate-tiktok-into-your-insta-reels-for-2024/"><u>Make Waves in the Social Ocean Integrate TikTok Into Your Insta Reels for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-5-best-chrome-extensions-you-can-use-to-translate-videos/"><u>New 5 Best Chrome Extensions You Can Use to Translate Videos</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-easy-steps-to-translate-video-on-twitter/"><u>New Easy Steps to Translate Video on Twitter</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps/"><u>Updated 2024 Approved Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-use-capcut-translate-to-transform-video-content/"><u>Updated How To Use CapCut Translate to Transform Video Content</u></a></li>
 </ul></div>
 
