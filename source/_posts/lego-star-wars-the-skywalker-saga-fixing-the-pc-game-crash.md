@@ -1,7 +1,7 @@
 ---
 title: "Lego Star Wars: The Skywalker Saga - Fixing the PC Game Crash"
-date: 2025-01-08T06:48:25.212Z
-updated: 2025-01-15T12:56:59.303Z
+date: 2025-01-15T18:43:39.159Z
+updated: 2025-01-21T16:49:18.638Z
 tags:
   - win11
   - win10
@@ -51,16 +51,12 @@ Game crashing issues can be frustrating, especially when you’re immersed in an
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_11-51-18-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_11-48-40.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
@@ -77,6 +73,10 @@ _WoT Blitz_ doesn’t have full access to game files and folders on your compute
 **2)**  Right-click the **Steam icon** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_11-59-37.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
@@ -103,11 +103,19 @@ _WoT Blitz_ doesn’t have full access to game files and folders on your compute
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-03-25-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-03-36-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Relaunch_WoT Blitz_ to see if this has resolved your issue. If your issue persists, try **[Fix 4](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -161,10 +169,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-12-36.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -183,23 +187,19 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_11-48-25-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Type **powercfg.cpl** into the box and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-16-35.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Select the **High performance** option.
 
  This can speed up your computer, but it will cause your computer to generate more heat.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-16-42.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Restart your computer and your game to test your issue.
 
@@ -213,10 +213,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-15-32.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-15-36.jpg)
@@ -224,10 +220,6 @@ OR
 **3)**  Restart your computer and your game after the update is complete.
 
 If the problem persists, check the fix 7, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7:**Reinstall your game**
 
@@ -242,6 +234,10 @@ If the problem persists, check the fix 7, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-25-26.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Under **View by** , select **Category** . Then, click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-26-57.jpg)
@@ -249,10 +245,6 @@ If the problem persists, check the fix 7, below.
 **3)** Right-click _World of Tanks Blitz_ , then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-24-32.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Download and install_WoT Blitz_ again.
 
@@ -265,24 +257,32 @@ You should be able to play the game now.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-28-53.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click**WoT Blitz** and click **More > App settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-29-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-29-05.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-29-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Relaunch_WoT Blitz_ after the process is complete.
 
@@ -309,22 +309,15 @@ You should be able to play the game now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-must-have-apps-for-real-time-video-translation/"><u>2024 Approved Must-Have Apps for Real-Time Video Translation</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-gt-3-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme GT 3 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/best-5-udemy-subtitle-translator-auto-translation-for-2024/"><u>Best 5 Udemy Subtitle Translator (Auto Translation) for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-credit-card-readers-ranked-expert-insights-from-zdnet/"><u>Discover the Ultimate Credit Card Readers Ranked - Expert Insights From ZDNet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-htc-u23-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-honor-magic-6-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor Magic 6 Pro Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-explore-how-you-can-do-speech-to-text-in-powerpoint/"><u>In 2024, Explore How You Can Do Speech-To-Text in Powerpoint</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Vivo V27 Pro? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-how-to-translate-tiktok-videos-top-5-auto-translate-tools/"><u>New 2024 Approved How to Translate TikTok Videos Top 5 Auto Translate Tools</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-top-10-ai-subtitle-translators-for-content-creators/"><u>New 2024 Approved Top 10 AI Subtitle Translators for Content Creators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/simple-steps-to-remove-users-on-your-windows-11-machine-using-revouninstaller/"><u>Simple Steps to Remove Users on Your Windows 11 Machine Using RevoUninstaller</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-step-by-step-guide-how-to-translate-tiktok-videos/"><u>Updated 2024 Approved Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-how-to-auto-translate-youtube-videos-into-different-languages/"><u>Updated In 2024, How To Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-kya-aap-video-call-kar-sakty-ho-translate-any-hindi-video-into-english/"><u>Updated Kya Aap Video Call Kar Sakty Ho Translate Any Hindi Video Into English</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/upgrade-your-iphones-productivity-quickscanandocr-for-seamless-pdf-and-jpg-transformation-into-editable-text/"><u>Upgrade Your iPhone's Productivity: QuickScan&OCR for Seamless PDF and JPG Transformation Into Editable Text.</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-quick-fix-for-background-removal-in-figma-projects/"><u>[New] Quick Fix for Background Removal in Figma Projects</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-free-screen-recorder-for-mac/"><u>[Updated] In 2024, Free Screen Recorder for Mac</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-streamlining-tiktok-posts-for-facebook-exposure/"><u>[Updated] In 2024, Streamlining TikTok Posts for Facebook Exposure</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-14-ultra-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi 14 Ultra</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-amd-vega-drivers-optimize-your-gameplay-with-simple-installation/"><u>Get the Latest AMD Vega Drivers - Optimize Your Gameplay with Simple Installation!</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-tiktok-videos-top-5-auto-translate-tools-for-2024/"><u>How to Translate TikTok Videos Top 5 Auto Translate Tools for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-srt-subtitle-translation-tools-and-techniques/"><u>New In 2024, SRT Subtitle Translation Tools and Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-game-tech-that-really-counts/"><u>Unveiling Game Tech That Really Counts</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-best-10-chinese-video-to-english-translator/"><u>Updated In 2024, Best 10 Chinese Video to English Translator</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-how-to-use-capcut-translate-to-transform-video-content/"><u>Updated In 2024, How To Use CapCut Translate to Transform Video Content</u></a></li>
 </ul></div>
 

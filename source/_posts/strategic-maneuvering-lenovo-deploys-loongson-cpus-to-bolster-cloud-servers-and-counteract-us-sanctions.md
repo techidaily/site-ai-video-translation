@@ -1,7 +1,7 @@
 ---
 title: "Strategic Maneuvering: Lenovo Deploys Loongson CPUs to Bolster Cloud Servers and Counteract U.S. Sanctions"
-date: 2025-01-11T14:19:45.050Z
-updated: 2025-01-15T08:04:26.873Z
+date: 2025-01-20T17:00:55.138Z
+updated: 2025-01-21T17:56:01.925Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,24 +60,20 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-info.techidaily.com/escort-passport-reveals-innovative-long-range-traffic-monitors-that-are-good-for-your-wallet-and-safety/"><u>'Escort Passport Reveals': Innovative, Long Range Traffic Monitors that Are Good For Your Wallet and Safety</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-best-iphone-camera-apps-for-pro-shots-and-free-use/"><u>[Updated] In 2024, Best iPhone Camera Apps for Pro Shots and Free Use</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-photo-perfection-best-practices-for-integrating-frames-online/"><u>[Updated] Photo Perfection Best Practices for Integrating Frames Online</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-visuals-in-ae-selecting-excellent-plugin-choices-for-2024/"><u>Crafting Visuals in AE Selecting Excellent Plugin Choices for 2024</u></a></li>
-<li><a href="https://win-latest.techidaily.com/extract-nponl-videos-in-multiple-formats-get-mp4-wmv-mov-avi-flv-on-windows-and-macos/"><u>Extract npo.nl Videos in Multiple Formats: Get MP4, WMV, MOV, AVI, FLV on Windows and MacOS</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-easily-use-korean-to-english-video-translators/"><u>How To Easily Use Korean to English Video Translators</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x-flip-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo X Flip Phone without Any Data Loss</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/iphone-flash-optimization-tips-for-2024/"><u>IPhone Flash Optimization Tips for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-a-brief-review-of-capcut-translate-with-alternative/"><u>New In 2024, A Brief Review of CapCut Translate With Alternative</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-translate-video-from-english-to-arabic-with-ease/"><u>New In 2024, Translate Video From English to Arabic with Ease</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/sculpting-stories-with-specialty-fonts-in-after-effects/"><u>Sculpting Stories with Specialty Fonts in After Effects</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-the-potential-of-chatgpt-for-personal-stress-management-solutions/"><u>Unlocking the Potential of ChatGPT for Personal Stress Management Solutions</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-elevate-your-content-with-the-best-free-video-translator-apps/"><u>Updated 2024 Approved Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-convert-video-voice-to-text-online-for-free-for-2024/"><u>Updated How To Convert Video Voice to Text Online for Free for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-best-video-translator-app-for-pc-cannot-miss/"><u>Updated In 2024, Best Video Translator App for PC Cannot Miss</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-must-have-apps-for-real-time-video-translation/"><u>Updated Must-Have Apps for Real-Time Video Translation</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations/"><u>Updated Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/voice-translation-english-to-bangla-online-and-offline-apps/"><u>Voice Translation English to Bangla Online and Offline Apps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-emojis-explained-more-than-meets-the-eye-for-2024/"><u>[New] Snapchat Emojis Explained More Than Meets the Eye for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-archive-all-your-images-flawlessly-infinite-no-charge-and-elite-paid-storage-for-2024/"><u>[Updated] Archive All Your Images Flawlessly Infinite, No-Charge & Elite Paid Storage for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-steadicams-for-superior-quality-shoots-with-dslr-cameras/"><u>[Updated] Ideal Steadicams for Superior Quality Shoots with DSLR Cameras</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-in-depth-analysis-of-fb-chat-recording-techniques/"><u>[Updated] In 2024, In-Depth Analysis of FB Chat Recording Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/20plus-creative-photo-collage-ideas-to-light-up-your-life-for-2024/"><u>20+ Creative Photo Collage Ideas to Light Up Your Life for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/a-complete-guide-to-translate-video-with-google/"><u>A Complete Guide To Translate Video With Google</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/defeating-lynels-in-zeldas-breath-of-the-wild-tips-and-tricks-for-success/"><u>Defeating Lynels in Zelda's Breath of the Wild - Tips and Tricks for Success</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>In 2024, The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-lenovo-thinkpad-x1-titanium-yoga-the-ultimate-2-in-1-solution-for-diehard-thinkpad-devotees/"><u>In-Depth Look at the Lenovo ThinkPad X1 Titanium Yoga: The Ultimate 2-in-1 Solution for Diehard ThinkPad Devotees</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-all-about-kapwing-video-translation/"><u>New All About Kapwing Video Translation</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-top-10-solutions-for-movie-subtitle-translation-making-things-perfect/"><u>Updated 2024 Approved Top 10 Solutions for Movie Subtitle Translation Making Things Perfect</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-chrome-video-translators-top-5-video-translation-chrome-extensions/"><u>Updated Chrome Video Translators Top 5 Video Translation Chrome Extensions</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-use-korean-to-english-video-translators-for-creators/"><u>Updated How To Use Korean to English Video Translators for Creators</u></a></li>
+<li><a href="https://fox-making.techidaily.com/oinalina-asama-rasayakal-bna-ka-hatakara-safitavayara-para-nakasana-tha-aapaka-fail-dhadha/"><u>ऑनलाइन-असिम रीसायकल बिन को हटाकर, सॉफ़्टवेयर पर नुकसान दें: आपकी फाइलें ढूंढें!</u></a></li>
 </ul></div>
 

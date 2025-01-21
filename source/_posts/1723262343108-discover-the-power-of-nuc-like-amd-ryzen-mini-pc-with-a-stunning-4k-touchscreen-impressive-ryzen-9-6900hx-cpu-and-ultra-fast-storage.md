@@ -1,7 +1,7 @@
 ---
 title: Discover the Power of NUC-Like AMD Ryzen Mini PC with a Stunning 4K Touchscreen, Impressive Ryzen 9 6900HX CPU, and Ultra Fast Storage
-date: 2025-01-10T00:44:11.653Z
-updated: 2025-01-14T18:57:47.585Z
+date: 2025-01-20T18:13:28.153Z
+updated: 2025-01-21T16:37:40.943Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,18 +89,24 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-humor-harmony-optimal-websites-for-fun-ringtones/"><u>[New] Humor Harmony Optimal Websites for Fun Ringtones</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-elevate-your-videos-advanced-recording-in-adobe-presenter/"><u>[Updated] In 2024, Elevate Your Videos Advanced Recording in Adobe Presenter</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-soundscapes-free-from-restrictions/"><u>2024 Approved Soundscapes Free From Restrictions</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations/"><u>2024 Approved Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-capturing-seconds-at-a-time-the-art-of-phantom-slow-motion/"><u>In 2024, Capturing Seconds at a Time The Art of Phantom Slow Motion</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/aging-seo-for-youtube-popularity-a-budget-guide/"><u>Leveraging SEO for YouTube Popularity A Budget Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/mastering-lip-sync-explore-top-apps-for-dynamic-videos-for-2024/"><u>Mastering Lip Sync Explore Top Apps for Dynamic Videos for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-a-comprehensive-guide-for-free-video-translator-downloading/"><u>New In 2024, A Comprehensive Guide for Free Video Translator Downloading</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-translate-videos-and-subtitles-with-veedio/"><u>New Translate Videos and Subtitles with Veed.io</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-fixing-adobes-error-message-application-failed-to-launch-correctly/"><u>Step-by-Step Guide to Fixing Adobe's Error Message 'Application Failed to Launch Correctly'</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/translate-live-videos-with-the-best-video-translator/"><u>Translate Live Videos With The Best Video Translator</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>Updated 2024 Approved How To Translate Videos in Tamil for a Wider Reach</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/mart-money-making-on-youtube-shorts-for-2024/"><u>[New] Smart Money-Making on Youtube Shorts for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-timeless-triumphs-screen-captures-of-samsungs/"><u>[Updated] In 2024, Timeless Triumphs Screen Captures of Samsungs</u></a></li>
+<li><a href="https://facebook.techidaily.com/cultivating-community-conduct-tapping-into-the-latest-tools-for-group-oversight-on-facebook/"><u>Cultivating Community Conduct: Tapping Into the Latest Tools for Group Oversight on Facebook</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-depth-earnings-analysis-adsense-payout-for-every-1000-viewers-on-youtube-for-2024/"><u>In-Depth Earnings Analysis AdSense Payout for Every 1,000 Viewers on YouTube for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-top-10-free-video-translators-to-mitigate-translation-risks/"><u>New In 2024, Top 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-filmmakers-roadmap-creating-youtube-trailers-using-filmora/"><u>The Filmmaker's Roadmap Creating YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-professional-perils-of-leveraging-chatgpt-during-office-hours-a-closer-look/"><u>The Professional Perils of Leveraging ChatGPT During Office Hours: A Closer Look</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-quintessential-toptiktok-tweets-in-popularity/"><u>The Quintessential #TopTikTok Tweets in Popularity</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/top-7-online-auto-subtitle-translators-for-content-creators-for-2024/"><u>Top 7 Online Auto Subtitle Translators for Content Creators for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-6s-plus-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 6s Plus Making It Possible</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/trouble-burning-a-dvd-in-windows-10-solutions-for-your-dvd-writing-issues/"><u>Trouble Burning a DVD in Windows 10? Solutions for Your DVD Writing Issues</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-chrome-video-translators-top-5-video-translation-chrome-extensions/"><u>Updated 2024 Approved Chrome Video Translators Top 5 Video Translation Chrome Extensions</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-top-7-video-language-converter-online-free/"><u>Updated 2024 Approved Top 7 Video Language Converter Online Free</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-translate-instagram-videos-easily-a-step-by-step-guide/"><u>Updated 2024 Approved Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>Updated Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps-for-2024/"><u>Updated Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-kya-aap-video-call-kar-sakty-ho-translate-any-hindi-video-into-english-for-2024/"><u>Updated Kya Aap Video Call Kar Sakty Ho Translate Any Hindi Video Into English for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-top-10-solutions-for-movie-subtitle-translation-making-things-perfect-for-2024/"><u>Updated Top 10 Solutions for Movie Subtitle Translation Making Things Perfect for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-honor-play-7t-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Honor Play 7T? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

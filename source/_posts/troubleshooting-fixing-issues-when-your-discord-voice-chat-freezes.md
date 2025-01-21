@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Fixing Issues When Your Discord Voice Chat Freezes"
-date: 2025-01-11T13:59:24.991Z
-updated: 2025-01-15T08:33:27.241Z
+date: 2025-01-20T17:21:46.905Z
+updated: 2025-01-21T16:59:06.730Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
 **Voice chat not working in Fortnite?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Fortnite players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -34,19 +30,11 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Sign out Fortnite, then sign back in
 
  This is the quickest and easiest fix to try when chat’s not working in Fortnite. Just sign out of the game, then sign back in.
 
  Now run the game again and test to see whether chat is working. If it’s not, move on to Fix 2, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your sound card driver
 
@@ -62,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Update-all-drivers.jpg)
@@ -69,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Fortnite patch
@@ -84,13 +76,13 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap911.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3.**Turn on** the toggle next to **Auto update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap912.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4\. Restart the Epic Games Launcher.
 
@@ -99,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap898.png)
 
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Make sure your microphone is on for Fortnite
 
@@ -128,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap431-1024x576.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 iii. Exit Fortnite.
 
  2\. On your desktop,**right-click** **the speaker icon** at the bottom-right corner, and then select**Sounds** .
@@ -138,6 +138,10 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Click the **Recording** tab, select the microphone you’re using and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
@@ -146,19 +150,11 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6\. Click **OK** .
 
  7\. Run Fortnite again to**turn Voice Chat on.**
 
  Join a squad to check ifchat is now working . If not, try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Fortnite
 
@@ -168,12 +164,16 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap940.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. Click**Uninstall** to uninstall Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap950.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3\. Restart your PC.
@@ -205,18 +205,22 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/outube-copyright-concerns-for-recording-screens/"><u>[New] YouTube Copyright Concerns for Recording Screens</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-bridging-communication-gaps-utilizing-zoom-with-gmail-mail/"><u>[Updated] 2024 Approved Bridging Communication Gaps Utilizing Zoom with Gmail Mail</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-tecno-camon-30-pro-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Tecno Camon 30 Pro 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-15-pro-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 15 Pro Lock Screen</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-decoding-advanced-image-editing-the-role-of-luts-in-cs6/"><u>In 2024, Decoding Advanced Image Editing The Role of LUTs in CS6</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-the-epson-wf-3540-drivers-on-windows-a-step-by-step-guide/"><u>Install the Epson WF-3540 Drivers on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/macx-dvd-and-hd-video-converter-pro-for-wineblish-macx/"><u>MacX DVD & HD Video Converter Pro for Winについeblish推奨: MacX品質を保ちながら最安値オプション</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-a-complete-guide-to-translate-video-with-google/"><u>New 2024 Approved A Complete Guide To Translate Video With Google</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-9-best-french-video-translators-online-and-download-options/"><u>New In 2024, 9 Best French Video Translators Online and Download Options</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-translate-videos-and-subtitles-with-veedio-for-2024/"><u>New Translate Videos and Subtitles with Veed.io for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-failed-intel-realsense-services-on-microsofts-latest-os/"><u>Troubleshooting Failed Intel Realsense Services on Microsoft's Latest OS</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-best-video-translator-app-for-pc-cannot-miss/"><u>Updated Best Video Translator App for PC Cannot Miss</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-top-10-hindi-video-translators-with-step-by-step-guidance-for-2024/"><u>Updated Top 10 Hindi Video Translators with Step-by-Step Guidance for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-cross-device-the-ultimate-tutorial-for-scraping-gifs-from-fb/"><u>[New] In 2024, Cross-Device The Ultimate Tutorial for Scraping GIFs From FB</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-4-pcmac-full-screen-recorders-ultimate-guide/"><u>[Updated] Top 4 PC/Mac Full-Screen Recorders Ultimate Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-vlc-media-player-64-bit-free-download-version-highlights-and-known-issues/"><u>1. VLC Media Player (64-Bit) - Free Download, Version Highlights & Known Issues</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/7-best-real-time-video-translation-apps-for-2024/"><u>7 Best Real Time Video Translation Apps for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-the-future-of-sound-integrating-gpt-into-daws/"><u>Crafting the Future of Sound: Integrating GPT Into DAWs</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-vivo-x-flip-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo X Flip Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-a-complete-guide-to-translate-video-with-google/"><u>New A Complete Guide To Translate Video With Google</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-best-10-free-video-translators-to-mitigate-translation-risks/"><u>New In 2024, Best 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>New Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled-for-2024/"><u>The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-importance-of-microsofts-family-safety-in-todays-world/"><u>The Importance of Microsoft's Family Safety in Today’s World</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-tricks-to-achieve-high-performance-gaming-in-windows-11/"><u>Top Tricks to Achieve High-Performance Gaming in Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-converting-vob-files-into-wmv-format-using-windows/"><u>Ultimate Guide: Converting VOB Files Into WMV Format Using Windows</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-7-best-real-time-video-translation-apps/"><u>Updated In 2024, 7 Best Real Time Video Translation Apps</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-mastering-lip-sync-explore-top-apps-for-dynamic-videos/"><u>Updated In 2024, Mastering Lip Sync Explore Top Apps for Dynamic Videos</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-translate-any-hindi-video-into-english-with-ai/"><u>Updated Translate Any Hindi Video Into English With AI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-esc-issues-quick-solutions-to-restore-functionality/"><u>Windows Esc Issues: Quick Solutions to Restore Functionality</u></a></li>
 </ul></div>
 
