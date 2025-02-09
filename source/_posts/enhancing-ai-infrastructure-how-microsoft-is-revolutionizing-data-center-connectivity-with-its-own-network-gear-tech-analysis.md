@@ -1,7 +1,7 @@
 ---
 title: "Enhancing AI Infrastructure: How Microsoft Is Revolutionizing Data Center Connectivity with Its Own Network Gear - Tech Analysis"
-date: 2025-01-16T18:28:37.627Z
-updated: 2025-01-21T16:36:30.145Z
+date: 2025-01-24T01:50:26.352Z
+updated: 2025-01-27T18:01:49.607Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,16 +60,22 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-musical-mentorship-series-top-15-youtube-wisdom-from-pros/"><u>[New] 2024 Approved Musical Mentorship Series - Top 15 YouTube Wisdom From Pros</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-logitechs-4k-webcam-masterclass-a-complete-review-for-2024/"><u>[New] Logitech’s 4K Webcam Masterclass - A Complete Review for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-pro-timer-swiftest-time-lapse-device-for-2024/"><u>[New] Pro Timer Swiftest Time-Lapse Device for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-complete-blueprint-for-extracting-fb-graphics-to-your-device/"><u>[Updated] In 2024, The Complete Blueprint for Extracting FB Graphics to Your Device</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-iphones-audio-upgrade-discover-best-software-for-youtube-to-mp3/"><u>2024 Approved IPhone's Audio Upgrade Discover Best Software for YouTube-to-MP3</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-srt-subtitle-translation-tools-and-techniques/"><u>2024 Approved SRT Subtitle Translation Tools and Techniques</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-translate-instagram-videos-easily-a-step-by-step-guide/"><u>2024 Approved Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-safety-of-buying-gifts-on-tiktok-stores-a-surprisingly-pleasant-transaction-revealed-zdnet-insights/"><u>Exploring the Safety of Buying Gifts on TikTok Stores - A Surprisingly Pleasant Transaction Revealed | ZDNET Insights</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-best-10-chinese-video-to-english-translators/"><u>New Best 10 Chinese Video to English Translators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa-for-2024/"><u>New How to Translate Audio/Video Content From Spanish to English and Vice Versa for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-7-best-real-time-video-translation-apps/"><u>New In 2024, 7 Best Real Time Video Translation Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-edible-imagery-stepwise-food-film-making/"><u>[New] 2024 Approved Edible Imagery Stepwise Food Film Making</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-fast-and-free-fb-video-conversion-tools-for-mp3-files/"><u>[New] 2024 Approved Fast and Free FB Video Conversion Tools for MP3 Files</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-hit-top-rank-firstrow-pursuits-outside-sports/"><u>[Updated] Hit Top Rank Firstrow Pursuits Outside Sports</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-harmonizing-youtube-tracks-to-video-works/"><u>[Updated] In 2024, Harmonizing YouTube Tracks to Video Works</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/2023s-most-trusted-bitcoin-safes-a-comprehensive-guide-to-hardware-wallet-security/"><u>2023'S Most Trusted Bitcoin Safes: A Comprehensive Guide to Hardware Wallet Security</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-maximize-yandex-translate-in-video-translation-and-beyond/"><u>2024 Approved Maximize Yandex Translate in Video Translation and Beyond</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/best-9-french-video-translators-online-and-download-options/"><u>Best 9 French Video Translators Online and Download Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-samsung-unpacked-from-home-a-step-by-step-guide/"><u>Experience Samsung Unpacked From Home: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experts-weigh-in-the-unparalleled-excellence-of-apples-2018-11-inch-ipad-pro-a-must-have-device/"><u>Experts Weigh In: The Unparalleled Excellence of Apple's 2018 (11-Inch) iPad Pro - A Must-Have Device</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-video-from-japanese-to-english-online/"><u>How To Translate Video From Japanese to English Online?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-13-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 13 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-unlocking-global-audiences-top-video-language-converters/"><u>New 2024 Approved Unlocking Global Audiences Top Video Language Converters</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>New In 2024, Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-step-by-step-guide-how-to-translate-tiktok-videos-for-2024/"><u>New Step-by-Step Guide How to Translate TikTok Videos for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations/"><u>New Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-ranking-qled-televisions-a-comprehensive-guide/"><u>Top-Ranking QLED Televisions : A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-make-lip-sync-video-without-installing-any-app/"><u>Updated How to Make Lip Sync Video Without Installing Any App</u></a></li>
 </ul></div>
 

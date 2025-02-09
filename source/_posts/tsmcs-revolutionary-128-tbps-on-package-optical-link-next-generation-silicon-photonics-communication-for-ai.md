@@ -1,7 +1,7 @@
 ---
 title: "TSMC's Revolutionary 12.8 Tbps On-Package Optical Link: Next-Generation Silicon Photonics Communication for AI"
-date: 2025-01-18T18:23:54.302Z
-updated: 2025-01-21T16:47:07.286Z
+date: 2025-01-26T21:20:26.911Z
+updated: 2025-01-28T01:24:29.676Z
 tags:
   - desktop
 categories:
@@ -16,7 +16,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
@@ -41,7 +41,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -67,22 +67,14 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-enhancing-your-iphones-screen-recording-skills/"><u>[New] Enhancing Your Iphone's Screen Recording Skills</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-android-freedom-selecting-prime-video-editing-tools/"><u>[Updated] In 2024, Android Freedom Selecting Prime Video Editing Tools</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-conquering-commercials-dodge-fb-vids/"><u>[Updated] In 2024, Conquering Commercials Dodge FB Vids</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-rival-tools-that-outclass-sharex-for-2024/"><u>[Updated] Rival Tools that Outclass ShareX for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-budget-friendly-microphones-for-online-broadcasters/"><u>2024 Approved Budget-Friendly Microphones for Online Broadcasters</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-sound-communication-on-whatsapp/"><u>2024 Approved Mastering Sound Communication on WhatsApp</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps-for-2024/"><u>Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-honor-90-gt-device-sim-by-drfone-android/"><u>Easily Unlock Your Honor 90 GT Device SIM</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-best-ios-photo-editors-to-eliminate-objects-effectively/"><u>In 2024, Best iOS Photo Editors to Eliminate Objects Effectively</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-everything-you-want-to-know-about-kapwing-video-translation/"><u>In 2024, Everything You Want To Know About Kapwing Video Translation</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-translate-videos-with-subtitle-cat-your-essential-guide/"><u>In 2024, Translate Videos with Subtitle Cat Your Essential Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-how-to-auto-translate-youtube-videos-into-different-languages/"><u>New In 2024, How To Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-translate-instagram-videos-easily-a-step-by-step-guide-for-2024/"><u>New Translate Instagram Videos Easily A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-iphone-videos-shorten-and-resize-with-ease-for-2024/"><u>Transform Your iPhone Videos Shorten & Resize with Ease for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-how-to-auto-translate-youtube-videos-into-different-languages/"><u>Updated 2024 Approved How To Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-easily-use-korean-to-english-video-translators-for-2024/"><u>Updated How To Easily Use Korean to English Video Translators for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-auto-translate-youtube-videos-into-different-languages/"><u>Updated In 2024, Auto Translate YouTube Videos Into Different Languages</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-creating-impactful-youtube-conclusion/"><u>[New] 2024 Approved Creating Impactful YouTube Conclusion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flawless-frames-the-10-best-websites-for-wallpapers-on-your-pc/"><u>2024 Approved Flawless Frames The 10 Best Websites for Wallpapers on Your PC</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations/"><u>2024 Approved Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-highlighted-10-faceshaping-tech-on-phones/"><u>In 2024, Highlighted 10 Faceshaping Tech on Phones</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/mastering-lip-sync-explore-top-apps-for-dynamic-videos-for-2024/"><u>Mastering Lip Sync Explore Top Apps for Dynamic Videos for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mpeg-video-repair-wizard-how-to-salvage-corrupted-video-clips-quickly/"><u>MPEG Video Repair Wizard: How to Salvage Corrupted Video Clips Quickly</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ating-earnings-skyward-youtube-analytics-and-advertising-guide/"><u>Navigating Earnings Skyward YouTube Analytics & Advertising Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-a-comprehensive-guide-for-free-video-translator-downloading/"><u>New In 2024, A Comprehensive Guide for Free Video Translator Downloading</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>New In 2024, Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
 </ul></div>
 
