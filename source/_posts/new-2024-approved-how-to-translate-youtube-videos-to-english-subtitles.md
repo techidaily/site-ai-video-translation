@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Translate YouTube Videos to English Subtitles
-date: 2025-01-20T22:55:55.876Z
-updated: 2025-01-27T17:23:29.373Z
+date: 2025-02-05T18:24:47.290Z
+updated: 2025-02-09T16:18:58.604Z
 tags: 
   - ai translate video
   - ai generate video
@@ -30,6 +30,10 @@ Have you ever wondered why you need a translator to translate the videos? People
 Here, we add a plus point that Virbo offers you to upload your video to its interface and select its original and desired language to translate the video. As we know, English is the only language spoken by many people. Virbo also allows you to **translate YouTube videos into English subtitles** or in other languages.
 
 ![upload your videos to Virbo](https://images.wondershare.com/virbo/article/translate-youtube-video-to-english-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Virbo
 
@@ -146,10 +150,6 @@ Virbo is an AI video generator that provides high-quality videos in specific lan
      data-ad-slot="1223367746"></ins>
 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best 10 Free Video Translators to Mitigate Translation Risks
 
 Translating videos using AI can be a valuable asset to a company. With so many **free video translators** on the market, there are many tools to choose from. However, these free tools can often cause many problems, drastically increasing the risk.
@@ -224,6 +224,10 @@ Looking at all these features, it’s no wonder that brands like Facebook, P&G, 
 - Highest accuracy in any video translation tool
 - Over 125+ languages supported
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. HappyScribe
 
 ![HappyScribe](https://images.wondershare.com/virbo/article/best-10-free-video-translators-to-mitigate-translation-risks-4.jpg)
@@ -293,6 +297,10 @@ With Maestra, you can get your videos translated easily and effectively. That is
 - Get instant subtitles
 - Accurate transcriptions
 - Automatic AI Voiceovers
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Kapwing
 
@@ -423,6 +431,10 @@ Capture the attention of Tamil audiences on social media platforms. Translate an
 
 Expand your reach and drive conversions by translating marketing videos and advertisements. Translate your promotional content into Tamil to tap into a new market segment.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pricing
 
 Virbo offers flexible pricing options for users interested in video translation in Tamil. While there’s a free version available, the paid plan offers features suited for your Tamil content (as of March 6, 2024):
@@ -504,13 +516,13 @@ Wondershare Virbo isn't limited to an AI video translation feature; it is a comp
 
 [Translate Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2. Step-by-Step Guide: Auto-Translating YouTube Videos Without Closed Captions
 
 Below is a simple step-by-step guide to translate Youtube video to English without cc. You can also use the same steps to translate your video into other languages like Chinese, German, Hindi, etc.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step1Download Virbo and launch its video translator
 
@@ -523,10 +535,6 @@ Go to the official Virbo link and download its latest version (or you can direct
 Upload a video, set its original language and the language you want it translated into. Now select the rest of the settings as per your requirements. Finally, Click the Translate this video button to begin translation.
 
 ![Set your preferences and start translating videos](https://images.wondershare.com/virbo/article/translate-youtube-video-to-english-without-cc-03.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step3Preview the translated video, make changes, and download
 
@@ -541,7 +549,7 @@ When the auto translation completes, preview the translated content. Check for a
 AI tools are just as good as people using them. If you’re not vigilant and don’t review the output, chances are you will get inaccurate or bad translations. Below are our tips to effectively **translate YouTube video without cc** that can help you get the most out of any AI translation tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 01Understand the Context
@@ -560,10 +568,6 @@ Every two cultures are different. This is particularly true if the two are from 
 
 Always use reputable names for your transactions. There’s a good reason why some tools are more popular than others. Take Wondershare Virbo as an example. Virbo provides accurate and better translations for YouTube Videos than most other tools in the market.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 05Don’t Be Afraid To Customize
 
 Sometimes, the translation doesn’t need to be accurate word for word. You can customize the translation to convey the message in a better way. Some AI tools allow customization. You can adjust settings or provide additional context to improve the accuracy of a translation.
@@ -575,10 +579,6 @@ AI tools don’t translate idiomatic expressions in a good way. They translate i
 ### 07Hire A Human Editor
 
 If possible, have a human editor take a look and review the translation. The human eye can catch certain nuances that AI might miss. With a human editor, you have the confidence that they will be updated about translations and how to improve the message being conveyed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -635,10 +635,6 @@ Cons
 
 ![videodubber english voice to bangla translator](https://images.wondershare.com/virbo/article/2024/03/voice-translation-english-to-bangla-03.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 YouTubers and presenters, listen up. Want to reach a wider audience? VideoDubber takes voice translation from English to Bangla (and many other languages!) to the next level. Simply upload your video, and VideoDubber will do the rest with its audio translation feature.
 
 Even better, you can review and edit the generated transcript to ensure everything sounds perfect. Finally, choose your voice or a custom voice to deliver your message in Bangla, keeping your video's original charm. Let VideoDubber take your content global.
@@ -656,6 +652,10 @@ Cons
 #### Gglot: Best English to Bengali Voice Translation Online for Meetings
 
 ![gglot translate english to bengali generator](https://images.wondershare.com/virbo/article/2024/03/voice-translation-english-to-bangla-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Need to translate English to Bengali voice recordings but worried about various speakers? Gglot's multiple speaker recognition feature makes it possible, saving you hours of work. Unlike many tools, it can transcribe up to 10 speakers at once.
 
@@ -761,10 +761,6 @@ When you need to translate English to Bengali using voice for something crucial 
 You're familiar with the best **voice translation apps from English to Bangla**. But you might also need to translate videos when you're in a foreign place. These could be local news, announcements, or business practices. While regular translation apps are great for spoken words, video translation needs a different approach, especially if you want to do it faster.
 
 That's where AI video translation comes in. Please keep reading to learn how it can improve your video translation experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus: AI-Powered Bangla to English Video Translation With Wondershare Virbo
 
@@ -939,7 +935,7 @@ Ever dreamed of your videos talking in different languages? Well, [Wondershare V
 ![translate videos to other languages](https://images.wondershare.com/virbo/images2023/feature-video-translation/translator-img3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
@@ -1033,10 +1029,6 @@ Finally, copy and paste the subtitles on Google Translate and get your desired t
 
 That’s all. That’s how you successfully **Googel Transalte a video**![Translate Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Best Alternatives To Google Translate
 
 Below are some alternatives you can use if Google Translate is unavailable. These options are just as good, if not better.
@@ -1131,6 +1123,10 @@ We previously mentioned [Virbo](https://virbo.wondershare.com/app/video-translat
 
 [SubtitleBee](https://subtitlebee.com/) is also a great service to quickly translate and add subtitles to online videos. With a reported accuracy rate of 95%, this service is among some of the most accurate in the market. Moreover, it allows you to customize subtitles, edit and add cool font styles, colors, background details and orientation to create your unique projects. Another great feature is that with SubtitleBee you can add subtitles anywhere on screen. Even on top, if you so want. It also has a supertitles feature as a bonus, which enables you to add head titles on videos.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: FAQs about Google Translate Video Audio
 
 **1\. Can I translate a full video with Google Translate?**
@@ -1160,6 +1156,10 @@ Instagram has over one billion active users. With that, Instagram has become a p
 By **translating Instagram videos**, you can engage with users from different cultures. In this article, we'll discuss the process of translating Instagram videos. Whether you're a brand owner or an influencer looking to connect with followers worldwide, translating Instagram videos will ensure your content resonates with global audiences. Let's jump right in!
 
 ![translate-instagram-1.jpg](https://images.wondershare.com/virbo/article/2024/03/translate-instagram-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. The Power of Video Content on Instagram
 
@@ -1261,19 +1261,22 @@ Virbo helps you connect with more people, breaking down language barriers and ga
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-elevate-your-online-presence-choosing-the-right-webcam/"><u>[New] 2024 Approved Elevate Your Online Presence Choosing the Right Webcam</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-shipping-secrets-to-surprises-unveiling-new-strategies/"><u>2024 Approved From Shipping Secrets to Surprises Unveiling New Strategies</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-how-to-auto-translate-youtube-videos-into-different-languages/"><u>2024 Approved How To Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-ranked-mobile-melody-design-experts/"><u>2024 Approved Top-Ranked Mobile Melody Design Experts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dall-e-3-upgraded-with-editing-tools-still-a-work-in-progress/"><u>DALL-E 3 Upgraded With Editing Tools – Still a Work in Progress</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-canon-mf8500c-printer-drivers-for-pcs-running-on-windows-7-81-or-10/"><u>Get Canon MF8500C Printer Drivers for PCs Running on Windows 7, 8.1 or 10</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-bdo-crashes-on-your-windows-machine-with-these-proven-steps/"><u>Overcoming BDO Crashes on Your Windows Machine with These Proven Steps</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>Updated 2024 Approved Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-how-to-make-lip-sync-video-without-installing-any-app/"><u>Updated In 2024, How to Make Lip Sync Video Without Installing Any App</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-translate-any-hindi-video-into-english-with-ai/"><u>Updated In 2024, Translate Any Hindi Video Into English With AI</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-unlocking-global-audiences-top-video-language-converters/"><u>Updated In 2024, Unlocking Global Audiences Top Video Language Converters</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-deciphering-the-must-haves-for-an-enhanced-youtube-experience/"><u>[Updated] Deciphering the Must-Haves for an Enhanced YouTube Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-guide-to-launching-an-inclusive-and-engaging-fb-donation-drive/"><u>[Updated] Guide to Launching an Inclusive and Engaging FB Donation Drive</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-become-an-expert-at-capturing-every-detail-on-xiaomi-mi-11/"><u>[Updated] In 2024, Become an Expert at Capturing Every Detail on Xiaomi Mi 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-full-spectrum-alliance-an-mcn-decision-blueprint/"><u>[Updated] In 2024, The Full Spectrum Alliance An MCN Decision Blueprint</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-mastery-windows-11-media-import-simplified/"><u>[Updated] Step-by-Step Mastery Windows 11 Media Import Simplified</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unmatched-hd-capture-selecting-the-best-recorder-brands/"><u>2024 Approved Unmatched HD Capture Selecting the Best Recorder Brands</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-radeon-graphics-driver-download-for-windows-systems/"><u>AMD Radeon Graphics Driver Download for Windows Systems</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/auto-translate-youtube-videos-into-different-languages/"><u>Auto Translate YouTube Videos Into Different Languages</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-tactics-to-optimize-your-daily-routine-and-save-time/"><u>ChatGPT Tactics to Optimize Your Daily Routine and Save Time</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-video-from-japanese-to-english-online-in-2024/"><u>New How To Translate Video From Japanese to English Online, In 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>New In 2024, Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-how-to-make-lip-sync-video-without-installing-any-app/"><u>New In 2024, How to Make Lip Sync Video Without Installing Any App</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-top-7-online-auto-subtitle-translators-for-content-creators-for-2024/"><u>New Top 7 Online Auto Subtitle Translators for Content Creators for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-telegram-spy-tools-on-apple-iphone-8-plus-for-parents-drfone-by-drfone-virtual-ios/"><u>Top 10 Telegram Spy Tools On Apple iPhone 8 Plus for Parents | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-best-10-chinese-video-to-english-translators/"><u>Updated In 2024, Best 10 Chinese Video to English Translators</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-reaching-a-wider-audience-using-video-translation-in-tamil/"><u>Updated In 2024, Reaching a Wider Audience Using Video Translation in Tamil</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-maximize-yandex-translate-in-video-translation-and-beyond/"><u>Updated Maximize Yandex Translate in Video Translation and Beyond</u></a></li>
 </ul></div>
 
