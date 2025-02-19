@@ -1,7 +1,7 @@
 ---
 title: "Lego Star Wars: The Skywalker Saga - Fixing the PC Game Crash"
-date: 2025-02-08T16:48:43.129Z
-updated: 2025-02-09T18:01:18.898Z
+date: 2025-02-18T19:21:11.810Z
+updated: 2025-02-19T19:13:44.795Z
 tags:
   - win11
   - win10
@@ -59,7 +59,7 @@ Game crashing issues can be frustrating, especially when you’re immersed in an
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_11-48-52.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your system falls short of the game’s requirements, consider upgrading your hardware or adjusting the game settings to lower graphics options.
@@ -75,20 +75,20 @@ _WoT Blitz_ doesn’t have full access to game files and folders on your compute
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_11-59-37.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_11-59-45.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Relaunch Steam and_WoT Blitz_ to test your issue.
 
  You can hopefully run the game without crashing now. If the problem still exists, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3:**End unnecessary programs**
 
@@ -106,10 +106,6 @@ _WoT Blitz_ doesn’t have full access to game files and folders on your compute
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-03-25-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
@@ -129,22 +125,22 @@ _WoT Blitz_ doesn’t have full access to game files and folders on your compute
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-07-23.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click the resource-consuming process and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-07-28.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Try launching WoT Blitz again to see if it works properly now.
 
 If your issue continues to occur, then go ahead with the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4:**Update your graphics driver**
@@ -177,19 +173,23 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-12-36.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-12-49.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5:**Set your PC’s power plan to High performance**
 
@@ -202,10 +202,6 @@ OR
 **2)** Type **powercfg.cpl** into the box and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-16-35.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Select the **High performance** option.
 
@@ -233,6 +229,10 @@ OR
 
 If the problem persists, check the fix 7, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7:**Reinstall your game**
 
  If all else fails and you are still experiencing game crashing issues, reinstalling_WoT Blitz_ can often resolve underlying problems. Here’s how to do it:
@@ -250,10 +250,6 @@ If the problem persists, check the fix 7, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-26-57.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Right-click _World of Tanks Blitz_ , then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-24-32.jpg)
@@ -268,6 +264,10 @@ You should be able to play the game now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-28-53.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click**WoT Blitz** and click **More > App settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-29-01.jpg)
@@ -276,13 +276,13 @@ You should be able to play the game now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-29-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-29-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Relaunch_WoT Blitz_ after the process is complete.
 
@@ -309,22 +309,19 @@ You should be able to play the game now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-facetime-simplified-a-compreited-guide-for-android-users/"><u>[New] 2024 Approved FaceTime Simplified A Compreited Guide for Android Users</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-best-color-grading-plugins-top-15-luts-for-action-cams/"><u>2024 Approved Best Color Grading Plugins Top 15 LUTs For Action Cams</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-easy-steps-to-translate-video-on-twitter/"><u>2024 Approved Easy Steps to Translate Video on Twitter</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-step-by-step-guide-how-to-translate-twitter-video-easily/"><u>2024 Approved Step-by-Step Guide How to Translate Twitter Video Easily</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/abbreviated-action-sequences-script/"><u>Abbreviated Action Sequences Script</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/create-lip-sync-tiktok-videos-without-installing-any-app-for-2024/"><u>Create Lip Sync TikTok Videos Without Installing Any App for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211158318-eradicate-unwanted-on-screen-flashing-ultimate-fixes-for-a-steady-point/"><u>Eradicate Unwanted On-Screen Flashing: Ultimate Fixes for a Steady Point</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-zero-to-hero-installing-gpt-on-ubuntu/"><u>From Zero to Hero: Installing GPT on Ubuntu</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-mobile-communication-activate-bings-ai-conversations-on-your-android-device/"><u>Mastering Mobile Communication: Activate Bing's AI Conversations on Your Android Device</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-best-9-french-video-translators-online-and-download-options/"><u>New Best 9 French Video Translators Online and Download Options</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-elevate-your-content-with-the-best-free-video-translator-apps/"><u>New In 2024, Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-the-best-ai-translator-to-translate-videos-online/"><u>New In 2024, The Best AI Translator to Translate Videos Online</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-top-8-multi-subtitles-translators-you-can-use-for-2024/"><u>New Top 8 Multi-Subtitles Translators You Can Use for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/selectionner-le-meilleur-logiciel-de-copie-selective-pour-vos-fichiers-solutions-gratuites-et-performantes/"><u>Sélectionner Le Meilleur Logiciel De Copie Sélective Pour Vos Fichiers : Solutions Gratuites Et Performantes</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/top-10-solutions-for-movie-subtitle-translation-making-things-perfect-for-2024/"><u>Top 10 Solutions for Movie Subtitle Translation Making Things Perfect for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/understanding-subdomains-and-boosting-your-seo-ranking-with-essential-strategies/"><u>Understanding Subdomains and Boosting Your SEO Ranking with Essential Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximizing-potential-in-google-photos-features/"><u>[New] Maximizing Potential in Google Photos Features</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-yt-bidirectional-navigating-the-queue-from-the-conclusion-backwards/"><u>[Updated] YT Bidirectional Navigating the Queue From the Conclusion Backwards</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-disabling-push-notifications-for-commercial-content/"><u>2024 Approved Disabling Push Notifications for Commercial Content</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-apple-iphone-14-pro-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Methods to Turn off Life 360 On Apple iPhone 14 Pro without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-top-6-ios-slide-show-tools-for-latest-iphones/"><u>In 2024, Top 6 iOS Slide Show Tools for Latest iPhones</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-best-video-language-changers-to-make-your-videos-accessible/"><u>New 2024 Approved Best Video Language Changers to Make Your Videos Accessible</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-best-10-chinese-video-to-english-translator-for-2024/"><u>New Best 10 Chinese Video to English Translator for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-maximize-yandex-translate-in-video-translation-and-beyond-for-2024/"><u>New Maximize Yandex Translate in Video Translation and Beyond for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/speech-logger-must-haves-for-mac-devices-our-picks-of-the-best-five-for-2024/"><u>Speech Logger Must-Haves for Mac Devices Our Picks of the Best Five for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-potential-risks-using-chatgpt-for-malware-programming-explained/"><u>The Potential Risks: Using ChatGPT for Malware Programming Explained</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/top-10-ai-subtitle-translators-for-content-creators-for-2024/"><u>Top 10 AI Subtitle Translators for Content Creators for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unraveling-the-enigma-of-in-folder-symbols/"><u>Unraveling the Enigma of '?' In Folder Symbols</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-best-video-language-changers-to-make-your-videos-accessible/"><u>Updated Best Video Language Changers to Make Your Videos Accessible</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-best-10-free-video-translators-to-mitigate-translation-risks/"><u>Updated In 2024, Best 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
 </ul></div>
 

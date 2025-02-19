@@ -1,7 +1,7 @@
 ---
 title: "Strategic Maneuvering: Lenovo Deploys Loongson CPUs to Bolster Cloud Servers and Counteract U.S. Sanctions"
-date: 2025-02-03T17:19:52.815Z
-updated: 2025-02-09T17:26:58.140Z
+date: 2025-02-12T17:00:02.364Z
+updated: 2025-02-19T19:21:30.901Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,22 +60,20 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-master-the-art-of-instagram-live-chats-a-comprehensive-guide/"><u>[New] 2024 Approved Master the Art of Instagram Live Chats A Comprehensive Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-scripters-toolbox/"><u>[New] 2024 Approved Scripter's Toolbox</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-full-insight-guide-to-efficiently-use-google-docs-speech-to-text/"><u>[New] Full Insight Guide to Efficiently Use Google Docs Speech-to-Text</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-how-to-binge-worthy-music-reaction-videos-on-youtube/"><u>[Updated] In 2024, How to Binge-Worthy Music Reaction Videos on YouTube</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>2024 Approved Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-complete-guide-of-top-video-language-translators/"><u>2024 Approved Complete Guide of Top Video Language Translators</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-reaching-a-wider-audience-using-video-translation-in-tamil/"><u>2024 Approved Reaching a Wider Audience Using Video Translation in Tamil</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-infinix-smart-8-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Infinix Smart 8 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-zte-nubia-flip-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From ZTE Nubia Flip 5G to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>How To Translate Videos in Tamil for a Wider Reach</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-a-brief-review-of-capcut-translate-with-alternative/"><u>In 2024, A Brief Review of CapCut Translate With Alternative</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-best-5-udemy-subtitle-translator-auto-translation/"><u>In 2024, Best 5 Udemy Subtitle Translator (Auto Translation)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Oppo Reno 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-logitech-4k-pro-webcam-complete-review/"><u>In 2024, Logitech 4K Pro Webcam Complete Review</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-5-best-chrome-extensions-you-can-use-to-translate-videos/"><u>New 2024 Approved 5 Best Chrome Extensions You Can Use to Translate Videos</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-translate-any-hindi-video-into-english-with-ai/"><u>Updated 2024 Approved Translate Any Hindi Video Into English With AI</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-grappling-glory-selecting-the-ultimate-fight-simulator/"><u>[Updated] In 2024, Grappling Glory Selecting the Ultimate Fight Simulator</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1300-for-a-montblanc-smartwatch-with-googles-wear-os-is-it-truly-as-clever-as-it-costs/"><u>$1,300 for a Montblanc Smartwatch with Google's Wear OS - Is It Truly as Clever as It Costs?</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-a-brief-review-of-capcut-translate-with-alternative/"><u>2024 Approved A Brief Review of CapCut Translate With Alternative</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-expanding-visual-presence-tiktoks-head-dilation-methods/"><u>2024 Approved Expanding Visual Presence TikTok's Head Dilation Methods</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-top-5-resources-for-innovative-text-designs/"><u>2024 Approved Explore the Top 5 Resources for Innovative Text Designs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/asus-unveils-cost-details-the-all-new-nuc-lineup-with-nuc-14-pro-beginning-at-just-394-and-nuc-14-proplus-starting-from-869/"><u>Asus Unveils Cost Details: The All-New NUC Lineup with NUC 14 Pro Beginning at Just $394 & NUC 14 Pro+ Starting From $869</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/enhanced-by-cookiebot-solutions/"><u>Enhanced by Cookiebot Solutions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/quick-steps-to-validate-your-youtube-login-for-2024/"><u>Quick Steps to Validate Your YouTube Login for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/translate-live-videos-with-the-best-video-translator-for-2024/"><u>Translate Live Videos With The Best Video Translator for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-top-8-multi-subtitles-translators-you-can-use/"><u>Updated 2024 Approved Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-8-best-multi-subtitles-translators-you-shouldnt-miss-for-2024/"><u>Updated 8 Best Multi-Subtitles Translators You Shouldnt Miss for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-best-video-translator-app-for-pc-cannot-miss-for-2024/"><u>Updated Best Video Translator App for PC Cannot Miss for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-maximize-yandex-translate-in-video-translation-and-beyond/"><u>Updated In 2024, Maximize Yandex Translate in Video Translation and Beyond</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-top-10-solutions-for-movie-subtitle-translation-making-things-perfect/"><u>Updated Top 10 Solutions for Movie Subtitle Translation Making Things Perfect</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unleash-your-creativity-gopro-video-editing-on-mac-for-beginners/"><u>Updated Unleash Your Creativity GoPro Video Editing on Mac for Beginners</u></a></li>
 </ul></div>
 

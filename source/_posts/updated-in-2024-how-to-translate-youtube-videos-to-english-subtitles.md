@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Translate YouTube Videos to English Subtitles
-date: 2025-02-05T16:50:55.204Z
-updated: 2025-02-09T18:03:59.424Z
+date: 2025-02-18T18:31:46.538Z
+updated: 2025-02-19T17:34:10.817Z
 tags: 
   - ai translate video
   - ai generate video
@@ -30,10 +30,6 @@ Have you ever wondered why you need a translator to translate the videos? People
 Here, we add a plus point that Virbo offers you to upload your video to its interface and select its original and desired language to translate the video. As we know, English is the only language spoken by many people. Virbo also allows you to **translate YouTube videos into English subtitles** or in other languages.
 
 ![upload your videos to Virbo](https://images.wondershare.com/virbo/article/translate-youtube-video-to-english-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Virbo
 
@@ -133,6 +129,10 @@ _**Translated Languages:** English, Spanish, German, Portuguese, Italian, Indone
 
 More features and languages for translations will be updated in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Whether you are watching YouTube videos or creating them, sometimes you may need to translate your videos into a specific language to remove the communication barrier. YouTube allows users to enjoy the original video with subtitles and captions. Sometimes, it produces the wrong subtitles of the videos because of the distortions. The best way to avoid this problem is to choose the best tool that allows you to translate the video into your desired language.
@@ -158,6 +158,10 @@ When you play your favorite video, go to the right bottom of the video. You will
 If CC(closed-caption) does not generate the captions in English language, then go to the settings in the bottom right corner.
 
 ![enable the subtitles of YouTube videos](https://images.wondershare.com/virbo/article/translate-youtube-video-to-english-4.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###### Step 3: Change the language of your subtitles
 
@@ -251,10 +255,6 @@ Subtitles and translation go hand in hand. Below is our criteria for evaluating 
 - **Support for Multiple File Formats:** The compatibility of an automatic subtitling tool with various file formats is essential, depending on the systems and devices involved. Different platforms and software may necessitate subtitles in specific file formats. Therefore, you should confirm whether the chosen subtitle translator online tool supports the required file formats. This will ensure adaptability and versatility, preventing any potential challenges leading to a waste of time and effort.
 - **Languages Supported for Translation:** Lastly, these online tools often differ in the extent of their language support, so you should review the languages supported for translation. Some tools offer comprehensive translation support for a wide array of languages, while others may have limitations.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Top Picks: Our Top 7 Online Auto Subtitle Translators
 
 #### 1\. Wondershare Virbo
@@ -272,10 +272,6 @@ While initially launched as an AI Avatar video generator, [Virbo](https://virbo.
 
 ![Youtube Online Subtitles Translator](https://images.wondershare.com/virbo/article/auto-translate-subtitles-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 World’s top video-sharing platform, [YouTube](https://youtube.com/) extends its prowess to automatic subtitle translation. With the ability to translate subtitles across almost all languages of the world, YouTube auto-translate provides a very convenient platform for creators. While simplicity and ease of use are its biggest draws, some users may seek additional customization features that cater to diverse content needs.
 
 - **Why Choose Youtube Auto Translate**: Support for almost every major language of the world
@@ -284,6 +280,10 @@ World’s top video-sharing platform, [YouTube](https://youtube.com/) extends it
 #### 3\. SubtitlesTranslator
 
 ![SubtitlesTranslator Online Tool](https://images.wondershare.com/virbo/article/auto-translate-subtitles-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, this is a very interesting subtitle converter. [SubtitlesTranslator](https://subtitlestranslator.com/en/) accepts your subtitle files (in SRT format only) and translates them into any language of the world. It’s incredibly straightforward to use: Just upload your SRT, select a language, and start translation. If the original file is not in English, this tool uses Google Translate to understand the language. Thanks to a minimalist interface and simplest functionality, this free subtitle translator takes the much-deserved third spot on our list.
 
@@ -326,6 +326,10 @@ Flixier is another video editing platform with an excellent [auto translate subt
 - **Why Choose Translate Subtitles**: Allows online subtitle editing
 - **Why Avoid Translate Subtitles**: Takes more time to translate than any other service on this list
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How To Use The Best Auto Subtitle Translator to Translate Videos
 
 For this tutorial, we will be using the Virbo Online Translation tool to **convert subtitle language**.
@@ -347,6 +351,10 @@ For this tutorial, we will be using the Virbo Online Translation tool to **conv
 Select the original video language, Target language, and advanced settings like Subtitles, proofread, etc. Finally, click on the orange **Translate this video** button to begin translation. That’s all. That’s how you **convert subtitle language** with Virbo.
 
 [Translate Subtitle Online](https://virbo.wondershare.com/app/video-translate/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -455,7 +463,7 @@ Online translating tools are beneficial for efficient and affordable solutions. 
 The internet is full of online software for **AI translate subtitle** generation. Selecting a secure and reliable tool is still a concern to get high-quality outputs. Thus, we have enlisted some of the best online AI video translating tools to ease your selection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. VEED.io
@@ -529,10 +537,6 @@ In search of the best translation tool, you can rely on Wondershare Virbo. This 
 ## Breaking Language Barriers: Elevate Your Content with the Best Free Video Translator Apps
 
 Welcome to the world of content creation, where language should never be a barrier to connecting with your audience. In a world that thrives on diversity, the key to expanding your reach lies in breaking down linguistic barriers. This journey begins with harnessing the capabilities of the best free video translator apps. In this article, we delve into free **video language translator apps** catering to various needs, and pave the way for a more inclusive and globally connected audience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: How Do Video Translator Apps Work?
 
@@ -684,6 +688,10 @@ Venturing into the realm of voice translation, SayHi captures attention with its
 - It may face challenges in accurately capturing the nuanced complexities of certain languages and dialects.
 - Some advanced features may depend on an internet connection, limiting functionality in offline scenarios.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. iTranslate Converse
 
 iTranslate Converse takes real-time translation to a new level with its intuitive design resembling a messaging app. This innovative approach allows users to engage in natural conversations that are instantly translated. Supporting a plethora of languages, it is a dynamic tool for spontaneous communication, making it a go-to for those seeking seamless interaction. Available on iOS and the Google App Store, it's the go-to choice for seamless, spontaneous communication.
@@ -712,6 +720,10 @@ iTranslate Converse takes real-time translation to a new level with its intuitiv
 Hailing from South Korea, Papago is an acclaimed translation app known for its accuracy and efficiency. Available on the Google App Store, it provides real-time text and voice translation, breaking down language barriers in everyday and business settings. Papago's commitment to precision makes it a reliable companion for seamless global communication.
 
 ![papago online video translator](https://images.wondershare.com/virbo/article/online-video-translator-app-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features:**
 
@@ -814,10 +826,6 @@ Follow this step-by-step guide on how to translate Instagram videos using [Virbo
 
 ![translate-instagram-video-4.jpeg](https://images.wondershare.com/virbo/article/2024/03/translate-instagram-video-4.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * **Step 3.** Open Video Translate
 
 ![translate-instagram-video-5.jpeg](https://images.wondershare.com/virbo/article/2024/03/translate-instagram-video-5.jpeg)
@@ -895,6 +903,10 @@ To translate video captions, you can follow the steps:
 ![translate-instagram-2.jpeg](https://images.wondershare.com/virbo/article/2024/03/translate-instagram-2.jpeg)
 
 If you want to translate the video's audio, you must use third-party software. There are several applications and online tools that specialize in translating video, such as Wondershare Virbo – Video Translator tool. Using this tool, you can translate Instagram videos and enjoy them hassle-free.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. How to Translate Instagram Video to English with an AI Video Translator
 
@@ -994,10 +1006,6 @@ How to do it? Professional workflows often use timecode, which gives each video 
 
 ![editing a video using a software](https://images.wondershare.com/virbo/article/2024/03/translate-video-japanese-to-english-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Here are several ways to add the translated Japanese text to your video:
 
 * **Subtitles**
@@ -1070,10 +1078,6 @@ Using Virbo AI video translator can help you be more productive. Here’s how to
 
 * **Step 8:** After completion, you can preview the translated video before downloading the final English version.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part IV. How To Achieve the Best Video Translation Results?
 
 You can’t always **translate a video from Japanese to English** without a few difficulties. Here are some ways to make the process easier for you:
@@ -1117,10 +1121,6 @@ For streaming platforms, turning Japanese content into English is a ticket to re
 Seeing this growing need, it’s clear you need effective video translation solutions. So, we’ve created a guide to help you choose the best method for each step, including using AI. Finding the right way to translate videos is important, so keep reading!
 
 ![listening to a video while writing](https://images.wondershare.com/virbo/article/2024/03/translate-video-japanese-to-english-01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part I. Completed Process To Translate Videos From Japanese to English
 
@@ -1213,10 +1213,6 @@ Using Virbo AI video translator can help you be more productive. Here’s how to
 
 ![ai translate video japanese to english](https://images.wondershare.com/virbo/article/2024/03/translate-video-japanese-to-english-05.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * **Step 5:** Click **Translate this video** to start the translation process once everything is set.
 * **Step 6:** Wait a few moments while Virbo performs video transcription. Review the text and edit if needed.
 
@@ -1256,6 +1252,10 @@ Ensure your chosen translation service or tool supports the format of your video
 
 ![video file format illustration](https://images.wondershare.com/virbo/article/2024/03/translate-video-japanese-to-english-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 So you’ve seen how easy it can be to translate a video from Japanese to English. It’s up to you whether you will ask for the help of human translators, video editors, or AI video translators.
@@ -1274,19 +1274,16 @@ But remember, even the best AI translation can benefit from a human touch. Don�
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/nalyzing-tseries-income-via-subscriber-engagement-on-youtube-for-2024/"><u>[New] Analyzing TSeries’ Income via Subscriber Engagement on YouTube for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-decoding-off-facebook-activities-review-and-security-implications/"><u>[New] Decoding Off-Facebook Activities Review and Security Implications</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-creative-edge-pushing-boundaries-in-photography/"><u>[New] In 2024, The Creative Edge Pushing Boundaries in Photography</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-podcast-post-production-in-garageband/"><u>[New] The Ultimate Guide to Podcast Post-Production in GarageBand</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-photography-toolkit-a-comprehensive-app-analysis/"><u>[Updated] Photography Toolkit A Comprehensive App Analysis</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-youtube-videos-to-english-subtitles-for-2024/"><u>New How to Translate YouTube Videos to English Subtitles for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-5-best-chrome-extensions-you-can-use-to-translate-videos/"><u>New In 2024, 5 Best Chrome Extensions You Can Use to Translate Videos</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-step-by-step-guide-how-to-translate-twitter-video-easily-for-2024/"><u>New Step-by-Step Guide How to Translate Twitter Video Easily for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/newly-launched-full-featured-1password-app-for-linux-enthusiasts-a-closer-look-tech-news/"><u>Newly Launched Full-Featured 1Password App for Linux Enthusiasts: A Closer Look - Tech News</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-tips-to-create-dynamic-gifs-using-youtube-media-for-2024/"><u>Quick Tips to Create Dynamic GIFs Using YouTube Media for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-pathway-to-stellar-visual-results-through-color-tuning/"><u>The Pathway to Stellar Visual Results Through Color Tuning</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/ultimate-mac-screen-capturing-tips-unveiling-5-efficient-techniques/"><u>Ultimate Mac Screen Capturing Tips Unveiling 5 Efficient Techniques</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-best-tool-to-translate-youtube-video-to-arabic-for-2024/"><u>Updated Best Tool to Translate YouTube Video to Arabic for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-create-lip-sync-tiktok-videos-without-installing-any-app/"><u>Updated In 2024, Create Lip Sync TikTok Videos Without Installing Any App</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-iphoneandroid-integrating-playlists-into-your-fb-music/"><u>[New] 2024 Approved IPhone/Android Integrating Playlists Into Your FB Music</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-elevate-your-photo-grids-on-ig-with-these-premium-tools-for-2024/"><u>[New] Elevate Your Photo Grids on IG with These Premium Tools for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-quintet-of-top-10-royale-battles-for-2024/"><u>[New] Quintet of Top 10 Royale Battles for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>2024 Approved Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discover-5-premier-mac-livestream-tools/"><u>Discover 5 Premier Mac Livestream Tools</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/easy-ways-to-translate-tiktok-videos-for-2024/"><u>Easy Ways to Translate TikTok Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-practices-for-converting-youtube-hosted-tweets-into-mp3s/"><u>In 2024, Best Practices for Converting YouTube-Hosted Tweets Into MP3s</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-best-video-translator-app-for-pc-cannot-miss/"><u>In 2024, Best Video Translator App for PC Cannot Miss</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-personalize-save-location-for-captured-mac-screen/"><u>In 2024, Personalize Save Location for Captured Mac Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/spot-the-scam-trustworthy-chatgpt-uses/"><u>Spot the Scam: Trustworthy ChatGPT Uses</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>Updated Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
 </ul></div>
 

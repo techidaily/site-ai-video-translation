@@ -1,7 +1,7 @@
 ---
 title: "Enhancing AI Infrastructure: How Microsoft Is Revolutionizing Data Center Connectivity with Its Own Network Gear - Tech Analysis"
-date: 2025-02-05T17:29:25.474Z
-updated: 2025-02-09T17:29:37.795Z
+date: 2025-02-12T19:27:30.898Z
+updated: 2025-02-19T18:58:54.954Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,24 +60,16 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-how-to-record-gameplay-on-windows-11/"><u>[New] In 2024, How to Record Gameplay on Windows 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-narrative-skies-and-landscapes-in-a-snapshot/"><u>[Updated] Narrative Skies and Landscapes in a Snapshot</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-zoom-for-impactful-youtube-livestream-presentations/"><u>2024 Approved Harnessing Zoom for Impactful YouTube Livestream Presentations</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-probing-into-prominent-user-speeches/"><u>2024 Approved Probing Into Prominent User Speeches</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-the-smart-way-to-shop-for-drones-must-know-information/"><u>2024 Approved The Smart Way to Shop for Drones Must-Know Information</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/captivate-your-circle-the-art-of-sending-gifs-on-snapchat/"><u>Captivate Your Circle The Art of Sending Gifs on Snapchat</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/easy-steps-to-translate-video-on-twitter-for-2024/"><u>Easy Steps to Translate Video on Twitter for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/tional-power-leveraging-youtube-in-academic-settings/"><u>Educational Power Leveraging YouTube in Academic Settings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-your-hands-on-the-latest-from-apples-wwdc-top-3-products-for-immediate-purchase-find-out-where-to-preorder/"><u>Get Your Hands On the Latest From Apple's WWDC: Top 3 Products for Immediate Purchase - Find Out Where to Preorder</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>In 2024, Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-infinix-smart-8-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Infinix Smart 8 Pro FRP Locks</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-translate-videos-with-subtitle-cat-your-essential-guide/"><u>In 2024, Translate Videos with Subtitle Cat Your Essential Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-best-9-french-video-translators-online-and-download-options/"><u>New 2024 Approved Best 9 French Video Translators Online and Download Options</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-maximizing-yandex-translate-in-video-translation-and-beyond/"><u>New In 2024, Maximizing Yandex Translate in Video Translation and Beyond</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-srt-subtitle-translation-tools-and-techniques/"><u>New SRT Subtitle Translation Tools and Techniques</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-translate-instagram-videos-easily-a-step-by-step-guide-for-2024/"><u>New Translate Instagram Videos Easily A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-easily-use-korean-to-english-video-translators-for-2024/"><u>Updated How To Easily Use Korean to English Video Translators for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-the-best-ai-translator-to-translate-videos-online/"><u>Updated In 2024, The Best AI Translator to Translate Videos Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-guide-to-aspect-ratios-for-effective-youtube-engagement-for-2024/"><u>[Updated] Essential Guide to Aspect Ratios for Effective YouTube Engagement for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-compiling-the-top-10-affordable-video-conferencing-for-phones/"><u>[Updated] In 2024, Compiling the Top 10 Affordable Video Conferencing for Phones</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-the-best-ai-translator-to-translate-videos-online/"><u>2024 Approved The Best AI Translator to Translate Videos Online</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-the-best-translator-to-translate-videos-online/"><u>2024 Approved The Best Translator to Translate Videos Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-wasted-space-in-windows-with-temp-file-fixes/"><u>Eliminate Wasted Space in Windows with Temp File Fixes</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-itel-p55t-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-how-to-convert-video-voice-to-text-online-for-free/"><u>In 2024, How To Convert Video Voice to Text Online for Free?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-apple-iphone-13-pro-max-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 13 Pro Max in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-must-have-apps-for-real-time-video-translation/"><u>New 2024 Approved Must-Have Apps for Real-Time Video Translation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-securing-email-entries-in-whitelists/"><u>Step-by-Step Tutorial on Securing Email Entries in Whitelists</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-remote-play-via-steam-deck/"><u>The Ultimate Guide to Remote Play via Steam Deck</u></a></li>
 </ul></div>
 

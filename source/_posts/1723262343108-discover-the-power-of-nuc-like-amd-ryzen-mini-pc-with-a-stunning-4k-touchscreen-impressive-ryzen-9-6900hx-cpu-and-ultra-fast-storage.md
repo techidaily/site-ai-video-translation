@@ -1,7 +1,7 @@
 ---
 title: Discover the Power of NUC-Like AMD Ryzen Mini PC with a Stunning 4K Touchscreen, Impressive Ryzen 9 6900HX CPU, and Ultra Fast Storage
-date: 2025-02-02T17:01:24.269Z
-updated: 2025-02-09T18:13:04.871Z
+date: 2025-02-17T19:22:12.230Z
+updated: 2025-02-19T17:09:44.014Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,19 +89,19 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-dissecting-deceptive-accounts-in-your-ad-audience/"><u>[New] 2024 Approved Dissecting Deceptive Accounts in Your Ad Audience</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-getting-started-with-adobe-presenter-video-recordings/"><u>[New] 2024 Approved Getting Started with Adobe Presenter Video Recordings</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/accelerate-your-windows-11-experience-top-10-tips-excluding-third-party-acceleration-programs/"><u>Accelerate Your Windows 11 Experience: Top 10 Tips Excluding Third-Party Acceleration Programs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bright-future-in-hd-a-fit-or-overstepping-for-hdr/"><u>Bright Future in HD A Fit or Overstepping for HDR?</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/elevate-your-content-with-the-best-free-video-translator-apps/"><u>Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-13-pro-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 13 Pro Data From iTunes? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-video-from-japanese-to-english-online-in-2024/"><u>How To Translate Video From Japanese to English Online, In 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps/"><u>In 2024, Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-windows-11-error-code-geforce-x0001/"><u>Mending Windows 11 Error Code: GeForce X0001</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-roadmap-to-poetic-mastery-via-chatgpt-guidance/"><u>The Roadmap to Poetic Mastery via ChatGPT Guidance</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/translate-instagram-videos-easily-a-step-by-step-guide/"><u>Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>Updated 2024 Approved Translate Audio/Video Content From Spanish to English and Vice Versa</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled-for-2024/"><u>Updated The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-unveiling-image-quality-a-newbies-comprehensible-guide/"><u>[New] Unveiling Image Quality A Newbie's Comprehensible Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-structuring-vimeo-footage-chapter-creation-tips/"><u>[Updated] 2024 Approved Structuring Vimeo Footage Chapter Creation Tips</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps/"><u>2024 Approved Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-mastering-lip-sync-explore-top-apps-for-dynamic-videos/"><u>2024 Approved Mastering Lip Sync Explore Top Apps for Dynamic Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-kinemaster-greenscreen-techniques/"><u>2024 Approved Step-by-Step KineMaster Greenscreen Techniques</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v29e-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo V29e Phone without Google Account?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-exceptional-sounds-spotlight-on-the-best-mixers-for-podcasters/"><u>In 2024, Crafting Exceptional Sounds Spotlight on the Best Mixers for Podcasters</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-xiaomi-redmi-k70-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Xiaomi Redmi K70 for Free? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-how-to-translate-tiktok-videos-top-5-auto-translate-tools/"><u>In 2024, How to Translate TikTok Videos Top 5 Auto Translate Tools</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/netflix-subtitle-translation-methods-comprehensive-guide/"><u>Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-how-to-translate-tiktok-videos-top-5-auto-translate-tools/"><u>New In 2024, How to Translate TikTok Videos Top 5 Auto Translate Tools</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-translate-videos-and-subtitles-with-veedio/"><u>New In 2024, Translate Videos and Subtitles with Veed.io</u></a></li>
+<li><a href="https://win-online.techidaily.com/quick-save-your-system-easy-steps-to-protect-windows-111087-with-a-compact-external-usb-flash-drive/"><u>Quick Save Your System: Easy Steps to Protect Windows 11/10/8/7 with a Compact External USB Flash Drive</u></a></li>
+<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Honor X9b | Dr.fone</u></a></li>
 </ul></div>
 
